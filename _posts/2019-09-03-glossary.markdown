@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Glossary"
+date:   2019-09-03 22:40:08 -0700
+categories: blog post
+---
+### Main dinosaur groups
+**Sauropods** (meaning “lizard foot”) are the long-necked dinosaurs.  They come in two main flavors: the gigantic vertical-necked Titanosaurs (including Brachiosaurus, Patagotitan, and Alamosaurus) and the horizontal-necked, whip-tailed Diplodocoids (including Diplodocus, Brontosaurus, and Amargasaurus).  Sauropods and their basal relatives, sauropodomorphs, have been around since the late Triassic.
+
+**Theropods** (meaning “beast foot”) are the bipedal, carnivorous dinosaurs.  These include such fan favorites as Tyrannosaurus, Allosaurus, Spinosaurus, Carnotaurus, Velociraptor, and all modern birds.  Theropods have been around since the late Triassic.
+
+**Ceratopsians** (meaning “horned face”) are the horned, frilled dinosaurs.  (Exactly what it says on the tin for once!)  These include Triceratops, Protoceratops, Psittacosaurus, and others.  Ceratopsians didn’t arise until the late Jurassic, and only hit their stride in the late Cretaceous.
+
+**Ornithopods** (meaning “bird foot”) are the duck-billed dinosaurs.  These include Iguanodon, Edmontosaurus, Parasaurolophus, Maiasaura, and others.  Ornithopods, like Ceratopsians, didn’t arise until the late Jurassic and didn’t hit their stride until the late Cretaceous.
+
+**Thyreophorans** (meaning “shield bearer”) are the armored dinosaurs.  They come in two main flavors: the plate-backed Stegosaurs (including Stegosaurus, Kentrosaurus, and Gigantspinosaurus) and the heavily-armored Ankylosaurs (including Ankylosaurus, Nodosaurus, and Euoplocephalus).
+
+### Aquatic tail types
+**Hypocercal** tails have a larger bottom lobe and smaller top lobe.  The only living creatures with this are flying fish, but in the past metriorhynchids and mosasaurs both sported this type of tail.
+
+**Heterocercal** tails have a larger top lobe and smaller bottom lobe.  Modern sharks and certain ray-finned fish like sturgeon have this type of tail, as well as placoderms like Dunkleosteus in the past.
+
+**Homocercal** tails have top and bottom lobes that are about the same size.  Most ray-finned fish have this type of tail, as well as ichthyosaurs in the past.
+
+### Swimming styles
+**Anguilliform** swimming is what eels do, where the entire body moves back and forth and large fins aren’t necessary.
+
+**Carangiform** swimming is what most fish do, where the tail is mostly responsible for propulsion and the rest of the body is held more stiffly.  It’s an intermediate style between anguilliform and thunniform.
+
+**Thunniform** swimming is what the fastest fish do, like tuna, sailfish, and sharks.  The body is very stiff and the tail is very powerful.
+
+### Specialized behaviors
+**Fossorial** creatures are optimized for digging and burrowing, such as moles, clams, bees, and Oryctodromeus.
+
+**Arboreal** creatures are optimized for life in trees, such as monkeys, geckos, tree snakes, squirrels, and Suminia.
+
+**Cursorial** creatures are optimized for running long distances, such as horses, ostriches, wolves, certain spiders, and Moros.
+
+### Phylogeny terms
+A **monophyletic group**, or a **clade**, is a group of organisms defined as an ancestor and all its descendants.
+
+A **paraphyletic group** is a group that contains all the descendants of a common ancestor minus one or two.  For example, “reptiles” is commonly used to mean lizards, snakes, and crocodiles but not birds, which is a paraphyletic group.  This is sometimes a useful concept in taxonomy (see “stem-group” below) but isn’t a valid phylogenetic clade.
+
+A **polyphyletic** group is when you’re confused and doing it wrong and group organisms by something other than ancestry.  For example, a theoretical “Haemothermia” group, including all warm-blooded animals (most mammals and all birds), would be a polyphyletic group.
+
+A **crown-group** is a monophyletic group of living organisms connected by a common ancestor, and this ancestor, and all its other descendants.
+
+A **stem-group** is a paraphyletic group of all the extinct organisms that are more closely related to a certain crown-group than to other crown-groups.  For example, all dinosaurs can be called stem-birds; all synapsids can be called stem-mammals; metatherians can be called stem-marsupials, etc.
+
+A **genus** (plural: genera) is the taxonomic ranking below “family” and above species, and is the most common ranking paleontologists work with, even though it's not super well-defined.  The scientific name of an organism’s genus is called its **generic name**, and is the first word in the **binomial nomenclature** system.  For example, in Tyrannosaurus rex, "Tyrannosaurus" is the generic name.
+
+A **species** is the taxonomic ranking below genus, and is defined as the largest group in which any two individuals of the appropriate sexes can produce fertile offspring.  The scientific name of an organism's species is called its **specific name**, and is the second word in the binomial nomenclature system.  In Tyrannosaurus rex, "rex" is the specific name.
+
+An **ancestral trait** is a trait that evolved early on in a lineage.  For example, mammals are ancestrally furry--each furry group of mammals descended from an ancestor that was furry, rather than evolving fur independently many times.
+
+A **derived trait** is a trait that evolved later on in a lineage.  For example, bipedalism is a derived trait in hominids.
+
+A **secondarily acquired trait** is when a group loses an ancestral trait, and then gains it back again as a derived trait later on.  For example, whales are secondarily aquatic--they evolved from aquatic fishlike tetrapodomorph ancestors way back in the Devonian, those tetrapodomorphs came up on land and became terrestrial, and then proto-whales went back into the ocean in the Paleocene.
+
+An **autopomorphy** is a derived trait that is unique to one group.
+
+### Miscellaneous
+**“Splitters”** are paleontologists who habitually like to create more taxonomic groups.  **“Lumpers”** are paleontologists who like to group other groups together and have less groups.
+
+The **Bone Wars** were a period in the late 1800s (the “Gilded Age” of America) when rival paleontologists Edward Drinker Cope and Othniel Charles Marsh competed to see who could describe the most dinosaurs and reap the most dinosaur-related fame.  They used ruthless tactics like hiring hit men to destroy the other’s fossil sites and slandering each other in the newspaper, and often rushed publication, generating confusion when later scientists tried to make sense of their findings.  However, they described over a hundred new species of dinosaur, brought dinosaurs into the public awareness, and inspired a lot more excavation in the western United States and elsewhere the following decades.  There was no winner of the Bone Wars--both men were financially and socially ruined by the end.
+
+A **niche** is a general role that an ecosystem makes available for organisms to live within.  If two organisms occupy the same niche, they will compete, resulting either in the local extinction of one, or the partitioning of the niche into two niches through increased specialization.  For example, in the Mesozoic, ornithopods filled the niche of medium-sized grazer; in the Cenozoic, this niche is filled by cows and other ruminants.
+
+**Heterodont dentition** is when an animal has many types of differently-shaped teeth for different purposes.  It's more common in mammals, but is also found in some reptiles.  For example, we humans have molars, premolars, incisors, and canines, while sharks just have a whole bunch of the same type of flat, serrated tooth.
+
+A **junior synonym** happens when a new genus is described based on a new fossil (eg Stygimoloch) but later found to belong to an existing genus (eg Pachycephalosaurus).  This can happen when the new fossil is a juvenile that looks different from the adult form, an elderly individual that looks different from the norm, or when the new fossil is re-analyzed later and is found to be just not different enough to merit its own genus.  The “junior” part of the term comes from the practice that the name that’s published first (the senior synonym) takes precedence.  In 2010, a study tried to lump Torosaurus as fully mature Triceratops; in that case, even though Torosaurus are older individuals than Triceratops, the name “Triceratops” was published first, so it would be the senior synonym while Torosaurus would be the junior synonym.  However, other studies have since refuted this claim.
