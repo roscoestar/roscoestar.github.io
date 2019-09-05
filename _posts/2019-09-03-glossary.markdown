@@ -57,7 +57,33 @@ A **derived trait** is a trait that evolved later on in a lineage.  For example,
 
 A **secondarily acquired trait** is when a group loses an ancestral trait, and then gains it back again as a derived trait later on.  For example, whales are secondarily aquatic--they evolved from aquatic fishlike tetrapodomorph ancestors way back in the Devonian, those tetrapodomorphs came up on land and became terrestrial, and then proto-whales went back into the ocean in the Paleocene.
 
-An **autopomorphy** is a derived trait that is unique to one group.
+An **autapomorphy** is a derived trait that is unique to one group.
+
+### Other important clades
+**Amniotes** are the clade of tetrapods that lay amniotic eggs, including mammals and reptiles.  The eggshells of amniotic eggs aren’t permeable to water, which means the eggs can be laid on land without having to worry about them drying out.  This was a huge deal during the Carboniferous Rainforest Collapse when the climate all over the planet got a lot drier, and allowed mammals’ and reptiles’ ancestors to get a competitive edge over the amphibians.
+
+**Synapsids** (meaning “together face”) are the clade of animals including mammals and their ancestors, all the way back to when they diverged from the ancestors of reptiles.  They can be distinguished by the single **temporal fenestra** (hole) on either side of the skull behind the eye socket.  They are a subgroup of Amniotes.
+
+**Sauropsids** (meaning “lizard face”) are the clade of animals including reptiles and their ancestors, all the way back to when they diverged from the ancestors of mammals.  They have either two temporal fenestrae behind each eye (**diapsids**), or none (**anapsids**).  They are a subgroup of Amniotes.
+
+**Archosaurs** (meaning “leader lizard”) are the clade of reptiles including crocodylians, birds, dinosaurs, pterosaurs, and phytosaurs.  It is the sister group to Lepidosaurs, and a subgroup of Sauropsids.  Yes, crocodiles and birds are more closely related to each other than either one is to lizards.
+
+**Lepidosaurs** (meaning “scale lizard”) are the clade of reptiles including lizards, snakes, and tuatara.  It is the sister group to Archosaurs, and a subgroup of Sauropsids.
+
+**Pterosaurs** (meaning "wing lizard") are a group of flying archosaurs closely related to dinosaurs, but are not dinosaurs.  They come in two main flavors: "Rhamphorhynchids" and Pterodactyloids.  "Rhamphorhynchids" (meaning "beak snout") are a paraphyletic group of more basal pterosaurs, which usually had long tails and toothy jaws.  Pterodactyloids (meaning winged finger-ish) are a monophyletic group of more advanced pterosaurs, which usually had reduced tails, keratinous beaks, and extreme headgear.  A notable subgroup of Pterodactyloids are the Azhdarchids, the late Cretaceous giant pterosaurs that were the largest creatures ever to fly.
+
+**Pelycosaurs** (meaning “basin lizard”) are a paraphyletic group of very basal synapsids that lived from the late Carboniferous to the middle Permian.  They included the apex predators of their time, such as the famous Dimetrodon, as well as large herbivores such as Edaphosaurus.  Many had huge sails on their backs for some still-unknown reason.
+
+**Temnospondyls** are large extinct stem-amphibians that first arose in the Carboniferous, which were among the first vertebrates adapted for life on land.  Many early temnospondyls had way more fingers and toes than we’re used to--Acanthostega had eight on each foot!  And it’s just chance that those with five per foot happened to survive the end-Devonian extinction and give rise to the rest of the vertebrates.  The last known temnospondyl, Koolasuchus, survived until the early Cretaceous.  Special shout-out to Prionosuchus, a giant temnospondyl pretending to be a crocodile.
+
+**Phytosaurs** are large extinct crurotarsan archosaurs that lived during the Triassic that looked a lot like crocodiles but were not crocodylians.
+
+### Integument types
+Integument is the “covering” of an organism.  In animals, it refers to the skin, scales, fur, feathers, or other features on the outside of an animal.  In plants, it refers to the rind, husk, shell, etc.
+
+Pycnofibres are fuzzy hair-like structures found on most pterosaurs.  We now believe that archosaurs may have been ancestrally fluffy, so pycnofibres may be derived from the same trait that feathers are derived from.  Functionally, pycnofibres look a lot like fur.
+
+Osteoderms (meaning “bone skin”) are bones that grow in the skin, unattached to the rest of the skeleton, usually used for armor.  They evolved independently in many groups, such as lizards, amphibians, crocodylians, dinosaurs, phytosaurs (extinct non-crocodylian croc-lookalikes), and armadillos.
 
 ### Miscellaneous
 **“Splitters”** are paleontologists who habitually like to create more taxonomic groups.  **“Lumpers”** are paleontologists who like to group other groups together and have less groups.
