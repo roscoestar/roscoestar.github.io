@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "I Am A Fish (And So Are You)"
+date:   2019-09-06 01:45:08 -0700
+categories: blog post
+---
+If you’re like me, you learned that King Philip Came Over For Grape Soda in high school (or, Kids Playing Chess On Freeways Get Squished, if you were part of the edgy crowd) as a mnemonic for remembering Linnean cladistic levels.  Kingdom, Animalia.  Phylum, Chordata.  Class, Mammalia.  Order, Primates.  Family, Hominids.  Genus, Homo.  Species, Sapiens.  Very clean and organized.  You may have also had to memorize the five Kingdoms (Animalia, Plantae, Protista, Eubacteria, Archaebacteria) and the five classes of vertebrates (fish, amphibians, reptiles, mammals, birds).
+
+Unfortunately, real life is not that clear-cut.  Life often defies classification, and a seven-tiered cladistic system is hugely inadequate for fully defining the tree of life.  Furthermore, a lot of that stuff you had to memorize in school is just straight-up wrong (for example, birds are a subset of reptiles, and all of them are subsets of fish, but in school they’re represented as separate classes).
+
+Before we jump into the big mess that is the phylogenetic tree of life, let’s go over how cladistics works with a small-scale example.  Let’s say we have two species of alien who live on an island: the Greebs and the Cloobs.  Greebs and Cloobs look pretty similar to each other, except Greebs are green, and Cloobs are red, and they are incapable of breeding with each other.
+
+![fig-1](/assets/i-am-a-fish-1.1.png)
+
+Figure 1. A Cloob (left) and a Greeb (right).
+One day, a child is born to Cloob parents who is much greener than usual.  In fact, this baby Cloob is greener than many Greebs!  Would you call this unusual green Cloob, a Greeb?  No.  It’s still a Cloob, because its parents are Cloobs, and their parents are also Cloobs.  The fact that it looks sort of like a Greeb is irrelevant.
+
+![fig-2](/assets/i-am-a-fish-1.2.png)
+
+Figure 2. Two Cloob parents and their mutant green-Cloob child.
+
+At some point, a group of Greebs moves to a different island.  Over time, they become more and more orange.  They start calling themselves Graps.  Are the Graps no longer Greebs?  From a phylogenetic standpoint, no--they are just a subset of Greebs, because their ancestors at one point were Greebs.
+
+![fig-3](/assets/i-am-a-fish-1.3.png)
+
+Figure 3. A Greeb (left), a Grap (right), and a transitionary form (Greep?) (center).
+
+A human scientist lands on this planet, and observes the Graps and Greebs and Cloobs.  He sees that Graps and Cloobs are pretty close in color, so he creates a phylogenetic clade called Grap-Cloobs that includes Graps and Cloobs, but not Greebs.  Is this a valid classification?  No!  Any group that includes Graps and Cloobs must also include Greebs!  Why? See the tree below:
+
+![fig-4](/assets/i-am-a-fish-1.4.png)
+
+Figure 4. A phylogenetic tree showing the lineage of Cloobs, Graps, and Greebs.  The magenta circle indicates the proposed “Grap-Cloob” clade.
+
+What the scientist is proposing is known as a **polyphyletic** group.  That’s just a fancy word that means you’ve decided to include and exclude groups more or less at random, instead of including all members of a certain branch of the tree.  The only **monophyletic** clades you could make out of this tree are the clade including Graps and Greebs but excluding Cloobs, and the clade including all three groups.
+
+Now we’re ready to figure out why I am a fish.  Handily, we can use the exact same picture:
+
+![fig-5](/assets/i-am-a-fish-1.5.png)
+
+Figure 5. A phylogenetic tree showing the lineage of goldfish, coelacanths, and humans.  The magenta circle indicates the polyphyletic group commonly known as “fish”.
+
+Most people agree that goldfish are an example of fish, and coelacanths are also an example of fish.  But we humans (in fact all tetrapods--amphibians, reptiles, and mammals) shared a common ancestor with coelacanths more recently than either us or coelacanths shared a common ancestor with goldfish!  That makes a group including goldfish and coelacanths but not us polyphyletic, and the way to remedy that is to either decide that we are fish (which is a little weird) or that coelacanths aren’t fish (which is weirder!).
+
+Note 1: The leftmost group, including just the goldfish, is called Actinopterygii (“ACT-in-OP-ter-EE-jee-ai”), or ray-finned fish.  The branch including humans and coelacanths is called Sarcopterygii (“sar-COP-ter-EE-jee-ai”), or lobe-finned fish.  Even above this is another level of creatures people commonly call fish--the sharks and rays, or Chondrichthyes (“cond-RIK-theez”), cartilaginous fish.  Goldfish are more closely related to us than they are to sharks.
+
+Note 2: Other polyphyletic groups!
+	- “Pachyderms” (meaning thick skin) was a term that basically meant “large gray hairless animals from Africa,” and included rhinos, hippos, and elephants until we realized that elephants are Afrotherians (a clade including dugongs and manatees, aardvarks, hyraxes, tenrecs, elephant shrews, and other small, non-gray animals), hippos are Artiodactyls (a clade including deer, sheep, pigs, whales, and others), and rhinos are Perissodactyls (a clade including horses and tapirs).  A clade including rhinos, hippos, and elephants would necessarily have to include all the animals mentioned here, PLUS rodents and primates, which are between hippos/rhinos and elephants on the mammal family tree.  So, instead of insisting that we are all pachyderms, scientists decided the term was basically useless and stopped using it.
+	- “Reptiles” used to include lizards, snakes, tuatara, and crocodiles, but exclude birds.  But birds and crocodiles are more closely related to each other (they’re both archosaurs) than either is to lizards, snakes, and tuatara (lepidosaurs), so birds must be a subset of reptiles.
+	- “Dinosaurs” used to include Triceratops and Tyrannosaurus and Brontosaurus, but not modern birds.  Tyrannosaurus is (much) more closely related to modern birds than it is to Triceratops, so birds must be a subset of dinosaurs.  (If I was a bird writing this blog post, the title might be “I Am A Dinosaur (And So Are You)”.)
+	- “Tree,” believe it or not, is also a polyphyletic group.  An apple tree is more closely related to grass (they’re both angiosperms) than is is to a pine tree (a gymnosperm).  However, “tree” is too widespread and useful an English word for taxonomists to successfully co-opt into a monophyletic group.

@@ -79,11 +79,11 @@ An **autapomorphy** is a derived trait that is unique to one group.
 **Phytosaurs** are large extinct crurotarsan archosaurs that lived during the Triassic that looked a lot like crocodiles but were not crocodylians.
 
 ### Integument types
-Integument is the “covering” of an organism.  In animals, it refers to the skin, scales, fur, feathers, or other features on the outside of an animal.  In plants, it refers to the rind, husk, shell, etc.
+**Integument** is the “covering” of an organism.  In animals, it refers to the skin, scales, fur, feathers, or other features on the outside of an animal.  In plants, it refers to the rind, husk, shell, etc.
 
-Pycnofibres are fuzzy hair-like structures found on most pterosaurs.  We now believe that archosaurs may have been ancestrally fluffy, so pycnofibres may be derived from the same trait that feathers are derived from.  Functionally, pycnofibres look a lot like fur.
+**Pycnofibres** are fuzzy hair-like structures found on most pterosaurs.  We now believe that archosaurs may have been ancestrally fluffy, so pycnofibres may be derived from the same trait that feathers are derived from.  Functionally, pycnofibres look a lot like fur.
 
-Osteoderms (meaning “bone skin”) are bones that grow in the skin, unattached to the rest of the skeleton, usually used for armor.  They evolved independently in many groups, such as lizards, amphibians, crocodylians, dinosaurs, phytosaurs (extinct non-crocodylian croc-lookalikes), and armadillos.
+**Osteoderms** (meaning “bone skin”) are bones that grow in the skin, unattached to the rest of the skeleton, usually used for armor.  They evolved independently in many groups, such as lizards, amphibians, crocodylians, dinosaurs, phytosaurs (extinct non-crocodylian croc-lookalikes), and armadillos.
 
 ### Miscellaneous
 **“Splitters”** are paleontologists who habitually like to create more taxonomic groups.  **“Lumpers”** are paleontologists who like to group other groups together and have less groups.
