@@ -207,6 +207,8 @@ Mammals and reptiles continued to become more mammalian and reptilian, respectiv
 
 ![procynosuchus](/assets/procynosuchus.jpg)
 
+Procynosuchus means "before dog crocodile."
+
 ## The Mesozoic Era: Age of Reptiles (251.9-66 MYA)
 The next three geologic periods fall within the Mesozoic Era, which saw the rise and fall of the dinosaurs, the first true birds, and the first angiosperms (flowering plants).  Dinosaurs didn’t look like the front-runners in the Triassic, but the extinction that ended that period pushed them into the spotlight.  The Mesozoic ended with the famous K-Pg (Cretaceous-Paleogene) asteroid impact that killed all the non-avian dinosaurs.
 ### The Triassic Period: More weirdness and experimentation - herbivorous crocodiles? (251.9-201.3 MYA)
@@ -352,6 +354,8 @@ In the early Paleogene, our ancestors looked like Eosimias (meaning “dawn monk
 
 ![eosimias](/assets/eosimias.jpg)
 
+Eosimias was an early monkey small enough to fit in your hand!
+
 ### The Neogene Period: First hominins (23-2.58 MYA)
 During the Neogene, pretty much all the animal groups we’re currently familiar with evolved to their modern forms.  South America, which had been an island for a long time, collided with North America, forming the Isthmus of Panama and setting off the **Great American Biotic Interchange** (known to its friends as GABI), where animals crossed from North to South America and vice versa and many of the South American groups went extinct.  The formation of Panama also prevented water from flowing between the Atlantic and Pacific oceans, which contributed to overall global cooling and helped to trigger the Ice Ages.
 
@@ -380,10 +384,14 @@ Our last common ancestor with chimpanzees resembled Sahelanthropus, a Miocene-ep
 
 ![australopithecus](/assets/australopithecus.jpg)
 
+A sculpture of "Lucy," the famous Australopithecus afarensis, in the Smithsonian Museum of Natural History.
+
 ### The Quaternary Period: Ice Age and Beyond (2.58 MYA - present)
 The first epoch of the Quaternary period, the Pleistocene, is also known as the Ice Age because it spans a time of repeated, planet-scale glaciations.  Modern humans arose at the end of the Pleistocene and lived alongside other types of humans such as Neanderthals, Denisovans, and Homo erectus.  At the end of the Pleistocene, global warming caused most of the **megafauna** (large animals) to go extinct, leaving the world looking basically as it does today.
 
 ![quaternary](/assets/quaternary.jpg)
+
+Pictured: Woolly mammoths, woolly rhino, cave lions, and an unfortunate Irish elk.
 
 #### Notable creatures
 - Mammals
