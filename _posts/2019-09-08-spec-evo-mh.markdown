@@ -137,7 +137,11 @@ Onward! Here are the Ornithischian dinosaurs and the more basal Pterosaurs:
 
 First, let’s look at Ornithischia.  The easy ones to place are Apceros, which is clearly an ankylosaur; Aptonoth, which is clearly an ornithopod; and Rhenoplos and Slagtoth, which are clearly ceratopsians.  Then we’ve got Uragaan.  This guy is extremely enigmatic and could plausibly go in many places on the tree.  Here I have it listed as a giant Heterodontosaur because of its teeth--specialized molars and tusk-like canines, which aren’t found among Saurischians.  How did it come to eat rocks?  I would speculate that its ancestors were herbivorous and consumed **gastroliths** to help it better digest tough vegetation, and then a mutation arose that allowed them to get nutrients from the gastroliths themselves.  It’s also a bit unclear how, with its large brow-horns and gigantic chin, Uragaan is able to reach anything with its mouth--I’m pretty sure in-game its chin just no-clips through whatever is nearby when performing the eating animation.
 
-Now for the basal pterosaurs.  The “pterosaurs” in the Monster Hunter universe are quite different than the ones in the real world.  For one thing, their wings are constructed quite differently--real pterosaurs incorporated their elongated wrist into the upper wing, having three joints before the wing fold, while MH pterosaurs have only two, more like a bat.  For another, real pterosaurs were plantigrade walkers and didn’t have opposable toes, making them incapable of carrying anything in their claws; MH pterosaurs are digitigrade and have opposable clawed feet like birds.  A case could be made that all these Flying Wyverns should be classified as theropods alongside Yian Kut-Ku and kin.  But I’ve chosen to put them in “Pterosauria” because ???
+Now for the basal pterosaurs.  The “pterosaurs” in the Monster Hunter universe are quite different than the ones in the real world.  For one thing, their wings are constructed quite differently--real pterosaurs incorporated their elongated wrist into the upper wing, having three joints before the wing fold, while MH pterosaurs have only two, more like a bat.  For another, real pterosaurs were plantigrade walkers and didn’t have opposable toes, making them incapable of carrying anything in their claws; MH pterosaurs are digitigrade and have opposable clawed feet like birds.  A case could be made that all these Flying Wyverns should be classified as theropods alongside Yian Kut-Ku and kin.  But I’ve chosen to put them in “Pterosauria” because pterosaurs in real life were a super diverse group containing members that many of the flying wyverns resemble a lot more than they do any real-life theropod.
+
+![dimorphodon](/assets/Dimorphodon.jpg)
+
+Dimorphodon, a Jurassic “Rhamphorhynchid” pterosaur.  Doesn’t it look a lot like Rathian?
 
 The Monster List claims Tigrex is a basal Flying Wyvern and that Akantor and Ukanlos are secondarily flightless members of this same tree.  This seems plausible enough, so I’ve accepted this Word of God as is.  Note that this group has wings that have three fingers free and support the wing with an elongated and fused fourth and fifth finger.
 
@@ -187,5 +191,6 @@ Image credits:
 [Aigialosaurus](https://enacademic.com/dic.nsf/enwiki/11859004)
 [Najash](https://lostbeasts.tumblr.com/image/39024845565)
 [Draco](https://www.newscientist.com/article/2114847-dragon-lizards-fly-by-grabbing-their-fold-up-wings-with-hands/)
+[Dimorphodon](https://www.deviantart.com/fnafnir/art/Jurassic-World-Dimorphodon-572342331)
 [Panda Thumb](http://namastenewblog.blogspot.com/2015/06/homologyanalogy.html)
 [Yi Qi](https://johnconway.co/yi-qi)

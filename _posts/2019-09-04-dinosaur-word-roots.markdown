@@ -21,6 +21,10 @@ You’ve probably noticed that a lot of dinosaur names end in the suffix -saurus
 
 **-pteryx**: Greek for “feather”.  Usually used for paravian dinosaurs (non-birds closely related to birds).  If it has this suffix, it’s probably bipedal, feathered, and can maybe fly a little bit.  Examples: Archaeopteryx (ancient feather), Scansoriopteryx (climbing feather), Epidexipteryx (display feather).  Counterexamples: Sinosauropteryx (Chinese lizard feather) is a flightless compsognathid theropod; Sharovipteryx (Sharov’s feather) is a reptile with leg-wings (!) from the Middle Triassic.
 
+**-venator**: Latin for “hunter”.  Usually used for carnivorous theropods of various kinds.  If it has this suffix, it’s probably bipedal, carnivorous, and fast-moving.  Examples: Neovenator (new hunter), Ichthyovenator (fish hunter), Skorpiovenator (scorpion hunter), Australovenator (southern hunter), Latenivenatrix (hiding huntress).
+
+**-long**: Mandarin for “dragon”.  Usually used as a general-purpose ending for dinosaurs discovered in China.  Examples: Yinlong (hidden dragon), Guanlong (crown dragon), Beibeilong (baby dragon).
+
 ### Mammals
 **-therium**: Greek for “beast”.  Usually used for large mammals.  If it has this suffix, it’s probably large, quadrupedal, and herbivorous.  Examples: Paraceratherium (near hornless beast), Megatherium (large beast), Arctotherium (bear beast), Chalicotherium (gravel beast).
 
