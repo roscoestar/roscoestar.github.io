@@ -95,11 +95,21 @@ So, if saber teeth have happened so many times independently throughout history,
 
 #### Ichthyosaurs and Dolphins
 ![ichthyosaurs](/assets/convergent-evolution-1.13.jpg)
+
+Above: Ichthyosaurs, aquatic reptiles.  These evolved from a terrestrial reptile ancestor, so they're **secondarily** aquatic.
+
 ![dolphins](/assets/convergent-evolution-1.14.jpg)
+
+Above: Dolphins, aquatic mammals.  These evolved from a terrestrial mammal ancestor, but converged on almost the same body style as Ichthyosaurs.
 
 #### Ornithomimids and Ratites
 ![struthiomimus](/assets/convergent-evolution-1.15.png)
+
+Above: The skeleton of Struthiomimus, a non-avian dinosaur.  It had a long neck with a tiny head, a toothless beak, reduced arms, and powerful legs for running.
+
 ![ostrich](/assets/convergent-evolution-1.16.jpg)
+
+Above: The skeleton of an ostrich.  It evolved from a small, flighted bird ancestor (so it's **secondarily** flightless) and converged on the same body plan as Struthiomimus.
 
 Image Credits:
 [Dakosaurus](https://www.wikiwand.com/en/Dakosaurus)

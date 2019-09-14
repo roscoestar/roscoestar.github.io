@@ -127,7 +127,7 @@ Things were getting really exciting in the ocean, with the advent of giant preda
 
 ![devonian](/assets/devonian.jpg)
 
-The king of the Devonian.  Pictured: Dunkleosteus.
+The king of the Devonian, Dunkleosteus.
 
 #### Notable creatures
 - In the water:

@@ -49,17 +49,18 @@ In the Jurassic and Cretaceous, theropods and sauropods each split into further,
 ### Sauropoda
 
 In the Jurassic, sauropods really hit their stride and became hugely diverse and successful.  There are two main flavors of true sauropod: the gigantic vertical-necked Titanosaurs and the horizontal-necked, whip-tailed Diplodocoids.  Titanosaurs were the largest terrestrial creatures ever, and were able to grow to such great sizes due to a few key adaptations.
-1. **Air sacs.**  Like modern birds, sauropods had hollow bones with air sacs inside, as well as air sacs interspersed all over the place within their body.  These made it so that they were way lighter than they would be otherwise.
+
+1) **Air sacs.**  Like modern birds, sauropods had hollow bones with air sacs inside, as well as air sacs interspersed all over the place within their body.  These made it so that they were way lighter than they would be otherwise.
 
 ![fig-2.4](/assets/family-overview-2.4.jpg)
 
-2. **Flow-through lungs.**  Also like modern birds, sauropods had a super-efficient way of breathing that utilized all those air sacs.  Rather than the air coming in, hitting a dead end, and then going back the way it came, which is how we breathe, the air went in a loop, so sauropods could exchange oxygen and carbon dioxide much more efficiently, and their huge bodies could get the massive amounts of oxygen they required.
+2) **Flow-through lungs.**  Also like modern birds, sauropods had a super-efficient way of breathing that utilized all those air sacs.  Rather than the air coming in, hitting a dead end, and then going back the way it came, which is how we breathe, the air went in a loop, so sauropods could exchange oxygen and carbon dioxide much more efficiently, and their huge bodies could get the massive amounts of oxygen they required.
 
 ![fig-2.5](/assets/family-overview-2.5.jpg)
 
 Above: A bird lung.  Sauropods and theropods also had this style of ridiculously complicated lung.
 
-**Columnar legs.**  Sauropods had crazy-specialized **graviportal** front legs for bearing all that weight.  They had no visible toes, instead walking on a hard horseshoe of bone.  Without this, there’s a limit to how big you can get even if you have air sacs and flow-through lungs (look up Ledumahadi and Shantungosaurus, the largest dinosaurs that didn’t have columnar legs)--about 16 tons.  With this adaptation, the largest Titanosaurs reached up to 76 tons!
+3) **Columnar legs.**  Sauropods had crazy-specialized **graviportal** front legs for bearing all that weight.  They had no visible toes, instead walking on a hard horseshoe of bone.  Without this, there’s a limit to how big you can get even if you have air sacs and flow-through lungs (Ledumahadi and Shantungosaurus, the largest dinosaurs that didn’t have columnar legs, could get to about 16 tons).  With this adaptation, the largest Titanosaurs reached up to 76 tons!
 
 #### Diplodocoidea
 
@@ -270,7 +271,7 @@ Psittacosaurus, a basal ceratopsian from Early Cretaceous Asia, with a minimal f
 
 Thanks for bearing with me through all these groups!  I hope you feel like you have a better understanding of the main groups of dinosaurs.
 
-Image credits
+Image credits:
 [Hip Comparison](https://www.worldbook.com/behind-the-headlines/Shaking-the-Dino-Family-Tree)
 [Buriolestes](https://www.deviantart.com/stygimolochspinifer/art/31-Day-Palette-Challenge-Buriolestes-788922799)
 [Coelophysis](https://www.deviantart.com/apsaravis/art/Coelophysis-bauri-405981470)

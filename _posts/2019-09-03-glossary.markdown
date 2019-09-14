@@ -78,12 +78,57 @@ An **autapomorphy** is a derived trait that is unique to one group.
 
 **Phytosaurs** are large extinct crurotarsan archosaurs that lived during the Triassic that looked a lot like crocodiles but were not crocodylians.
 
-### Integument types
+**Anamniotes** are the paraphyletic clade of anything that’s not an amniote (reptile or mammal).  This includes non-tetrapod fish and amphibians.
+
+**Prototherians** (meaning “first beast”) are the group of egg-laying mammals that today only includes the **monotremes** (echidnas and platypuses).  They’re not very closely related to other living mammals, their lineage having split off in the Late Triassic.
+
+**Metatherians** (meaning “changed beast”) are the group of mammals including marsupials and their ancestral cousins.  They tend to hail from Australia or South America and tend to be less intelligent than comparable placental mammals.
+
+**Eutherians** (meaning “true beast”) are the group of mammals including placental mammals and their ancestral cousins.  All living mammals that aren’t marsupials or monotremes are placentals.
+
+**Placoderms** (meaning “plate skin”) were a group of armored fish that lived from the Silurian period to the Devonian period.  They had both an internal skeleton AND an exoskeleton, so we have a very good idea of what they looked like from fossils.  The largest one known, Dunkleosteus, was twenty feet long and weighed about a ton, and was the apex predator of its time.  Placoderms didn’t have teeth, instead using the edges of their exoskeletal plates to bite.
+
+**Chondrichthyes** (meaning “cartilage fish”) are the group of fish containing sharks, rays, and chimeras.  Their skeletons are made of cartilage rather than bone.  They are not very closely related to other fish, their lineage having split off way back in the Silurian period.
+
+**Osteichthyes** (meaning “bone fish”) are the group of fish containing ray-finned fish and lobe-finned fish (which includes tetrapods, which includes humans).  Their skeletons are made of bone, and they don’t have an exoskeleton.
+
+**Actinopterygii**, also known as ray-finned fish, is the subgroup of Osteichthyes (bony fish) that includes most modern fish.
+
+**Sarcopterygii**, also known as lobe-finned fish, is the subgroup of Osteichthyes (bony fish) that includes coelacanths, lungfish, and all tetrapods (including humans).
+
+**Tetrapods** are the group of vertebrates with four limbs, including amphibians, mammals, and reptiles (which includes birds).
+
+**Eurypterids** (meaning “broad wing”) are a group of very small to very large carnivorous aquatic arthropods that were very successful throughout most of the Paleozoic Era (from the Ordovician to the Permian).  Some were predators and some were filter-feeders.  The largest known eurypterid, Jaekelopterus, is the largest known arthropod ever.  Since eurypterids were so common and were made entirely of hard parts, they fossilized very well and thus their biology is well-understood.
+
+**Pseudosuchians** (meaning “false crocodile”) are the group containing crocodiles and their ancestral cousins.  They used to be incredibly diverse, especially in the Triassic--there were sail-backed, herbivorous crocs; hoofed crocs; “cat” crocs and “cheetah” crocs; fully-aquatic crocs with fins and flippers; tank-like armored, spiky crocs; and many more.
+
+**Pan-aves** (meaning “all birds”) are the group containing pterosaurs and dinosaurs (which contains birds).
+
+### Integument
 **Integument** is the “covering” of an organism.  In animals, it refers to the skin, scales, fur, feathers, or other features on the outside of an animal.  In plants, it refers to the rind, husk, shell, etc.
 
 **Pycnofibres** are fuzzy hair-like structures found on most pterosaurs.  We now believe that archosaurs may have been ancestrally fluffy, so pycnofibres may be derived from the same trait that feathers are derived from.  Functionally, pycnofibres look a lot like fur.
 
 **Osteoderms** (meaning “bone skin”) are bones that grow in the skin, unattached to the rest of the skeleton, usually used for armor.  They evolved independently in many groups, such as lizards, amphibians, crocodylians, dinosaurs, phytosaurs (extinct non-crocodylian croc-lookalikes), and armadillos.
+
+**Keratin** is a tough protein found in horns, hair, hooves, feathers, claws, and beaks.
+
+**Pinnae** are external ear-flaps that are ancestral to mammals.  They also may have independently appeared in some advanced notosuchian crocodyliformes in the Mesozoic.  (Isn't that cool to imagine--crocs with expressive, dog-like ears?)
+
+**Osteological correlates** are textures left on bone by overlying tissues.  For example, when skin lies almost directly on the bone, as on a crocodile’s face, the bone underneath is more **rugose**, or rough and pitted.  Concentrated lines or circles of rugosity imply large soft-tissue structures rooted there, like horns or crests.  Smooth bone implies soft overlying tissue.  Muscle and tendon attachment sites also leave distinctive marks on bone.
+
+**Melanosomes** are pigmented organelles in certain animal cells that are responsible for what color the animal appears.  Thankfully for paleontologists, the shape and arrangement of melanosomes also correlate with color, so we can use those properties to figure out what color things were even when the original colors have been lost.
+
+### Dactyly (toe arrangements)
+**Zygodactyly** is when two toes point forward and two backward, like a parrot.
+
+**Anisodactyly** is when three toes point forward and one backward, like a majority of birds.
+
+**Tridactyly** is when three toes point forward and zero backward, like a rhinoceros or Tyrannosaurus.
+
+**Didactyly** is when two toes point forward and zero backward, like a deer or ostrich.
+
+**Monodactyly** is when one toe points forward and zero backward, like a horse or Vespersaurus.
 
 ### Miscellaneous
 **“Splitters”** are paleontologists who habitually like to create more taxonomic groups.  **“Lumpers”** are paleontologists who like to group other groups together and have less groups.
@@ -95,3 +140,15 @@ A **niche** is a general role that an ecosystem makes available for organisms to
 **Heterodont dentition** is when an animal has many types of differently-shaped teeth for different purposes.  It's more common in mammals, but is also found in some reptiles.  For example, we humans have molars, premolars, incisors, and canines, while sharks just have a whole bunch of the same type of flat, serrated tooth.
 
 A **junior synonym** happens when a new genus is described based on a new fossil (eg Stygimoloch) but later found to belong to an existing genus (eg Pachycephalosaurus).  This can happen when the new fossil is a juvenile that looks different from the adult form, an elderly individual that looks different from the norm, or when the new fossil is re-analyzed later and is found to be just not different enough to merit its own genus.  The “junior” part of the term comes from the practice that the name that’s published first (the senior synonym) takes precedence.  In 2010, a study tried to lump Torosaurus as fully mature Triceratops; in that case, even though Torosaurus are older individuals than Triceratops, the name “Triceratops” was published first, so it would be the senior synonym while Torosaurus would be the junior synonym.  However, other studies have since refuted this claim.
+
+**Gastroliths**, also known as gizzard stones, are rocks ingested on purpose by an animal that help grind up food in their stomach, or help decrease buoyancy in aquatic or semiaquatic animals.  Groups known to use gastroliths are herbivorous birds, crocodylians, pinnipeds (seals and sea lions), some amphibians, sauropods, certain theropods, and plesiosaurs.
+
+**Radiation** is when a lineage of organisms diversifies and many new species arise in order to fill open niches.  Radiation events often occur after extinction events, since many niches are left open by the organisms that didn’t make it, and other organisms rush to fill the space.
+
+**The Great American Biotic Interchange** (GABI) was an event that began around 2.7 million years ago in the Pliocene when South America, which had been an island since the Cretaceous, collided with North America, forming the Isthmus of Panama.  This allowed animals to travel from one continent to the other.  Though animals did move both ways, the North American fauna tended to outcompete the South American.  One South American animal to successfully emigrate to North America was Titanis, the last of the terror birds, which ended up as far north as Tennessee.
+
+**Megafauna** is a not-very-well-defined term that usually refers to any animals human-sized or larger.
+
+**Ontogeny** is the way an organism grows and changes as it gets older.  Most creatures don’t retain the same proportions when old as they had when young--for example, human babies have gigantic heads in proportion to their bodies compared to adults.  An **ontogenetic sequence** is a picture showing various life stages of an organism.
+
+**Neoteny** is the retention of juvenile traits into adulthood, and is one method by which evolution can take a giant leap forward.  For example, our closest invertebrate relatives, the sea squirts, are sessile as adults, but have a larval form that is free-swimming and has a primitive backbone.  A long time ago, one of these larvae refused to grow up, and became a free-swimming, backboned adult.  This was such a successful strategy that that one critter was able to become the ancestor of all vertebrates.
