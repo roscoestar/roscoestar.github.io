@@ -6,11 +6,11 @@ categories: blog post
 ---
 “If truth were a crayon and it were up to me to put a wrapper on it and name its color, I know just what I would call it--dinosaur skin.”  So begins the novel _So B. It_ (Sarah Weeks, 2007) whose central message is that there are some things you just can’t know, and it’s better to just enjoy what you have instead of being dissatisfied with what you don’t.
 
-However, as of the very next year after that book was published, dinosaur skin is not one of those things.  Thanks to amazing new fossil finds that preserve soft tissue and integument, as well as new techniques for analyzing existing fossils, under certain rare conditions, we actually can know what color dinosaurs were.  Here, I’ll go over a few accurately-colored dinosaurs and how we know what we know.
+However, as of the very next year after that book was published, dinosaur skin is not one of those things.  Thanks to amazing new fossil finds that preserve soft tissue and integument, as well as new techniques for analyzing existing fossils, under certain rare conditions, we actually can know what color dinosaurs were.  Here, I’ll go over a few accurately-colored dinosaurs and how we know what we know.  Keep in mind that this is by no means a comprehensive list of known dinosaur colors; I've just chosen examples that are particularly exciting or historically important.
 
 ### Melanosomes
 
-**Melanosomes** are **organelles** (remember organelles from school?  Other examples of organelles are mitochondria and chloroplasts) found within certain skin cells of animals, and are responsible for coloration.  There are two main types: eumelanosomes, responsible for black and gray hues, and phaeomelanosomes, which produce yellow, red, and brown (white is produced by lack of melanosomes).  Thankfully, even though the actual colors are lost during the fossilization process, eumelanosomes tend to be rod-shaped while phaeomelanosomes are rounded, allowing paleontologists with microscopes to identify them in particularly well-preserved fossils.  Their arrangement and size also affect what color is produced.  By comparing fossilized melanosomes to those found in living animals through a technique pioneered by Jakob Vinther in 2008, scientists have been able to splash a little color on the prehistoric world.
+**Melanosomes** are organelles (remember organelles from school?  Other examples of organelles are mitochondria and chloroplasts) found within certain skin cells of animals, and are responsible for coloration.  There are two main types: eumelanosomes, responsible for black and gray hues, and phaeomelanosomes, which produce yellow, red, and brown (white is produced by lack of melanosomes).  Thankfully, even though the actual colors are lost during the fossilization process, eumelanosomes tend to be rod-shaped while phaeomelanosomes are rounded, allowing paleontologists with microscopes to identify them in particularly well-preserved fossils.  Their arrangement and size also affect what color is produced.  By comparing fossilized melanosomes to those found in living animals through a technique pioneered by Jakob Vinther in 2008, scientists have been able to splash a little color on the prehistoric world.
 
 ### Sinosauropteryx
 
@@ -18,9 +18,9 @@ However, as of the very next year after that book was published, dinosaur skin i
 
 After the discovery of fossilized melanosomes in 2008, the race was on to paint the first dinosaur.  A team rival to Vinther’s led by Fucheng Zhang in 2010 examined the melanosomes in a little compsognathid from Early Cretaceous China called Sinosauropteryx, which was historically important as the first non-bird dinosaur to be discovered with preserved feathers back in 1996.  Happily, Sinosauropteryx’s coloration ended up being pretty exciting--it was a red panda-mimic dinosaur, with a bandit mask and a long ring tail!
 
-The red back / white stomach coloration is an example of **countershading**, a common technique for hiding from predators.  When the sun hits your darker back and your lighter stomach is shaded, your shape is somewhat obscured.  Many, many modern prey animals exhibit countershading, so it makes sense that dinosaurs would also have used this technique.
+The red back / white stomach coloration is an example of **countershading**, a common technique for hiding from predators.  When the sun hits your darker back and your lighter stomach is in the shade, it creates an optical illusion of flatness that helps to obscure your shape.  Many, many modern prey animals exhibit countershading, so it makes sense that dinosaurs would also have used this technique.
 
-Note: Why are ring tails so popular in nature?  It might have to do with math: https://www.youtube.com/watch?v=alH3yc6tX98
+Note: Why are ring tails so popular in nature?  It might have to do with [math](https://www.youtube.com/watch?v=alH3yc6tX98).
 
 ### Anchiornis
 

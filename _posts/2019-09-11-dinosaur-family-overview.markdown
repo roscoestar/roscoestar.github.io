@@ -5,7 +5,7 @@ date:   2019-09-11 01:40:08 -0700
 categories: blog post
 ---
 
-Are you intimidated by the overly-detailed phylogenetic trees and endless jargon you find on Wikipedia when you’re trying to learn about a specific dinosaur?  Are you overwhelmed by the sheer number of genera and do you struggle to figure out which groups are actually important?  Never fear!  Here I will go over the major groups within Dinosauria and how they’re related to one another.
+Are you intimidated by the overly-detailed phylogenetic trees and endless jargon you find on Wikipedia when you’re trying to learn about a specific dinosaur?  Are you overwhelmed by the sheer number of genera and do you struggle to figure out which groups are actually important?  Or do you just want to get familiar with dinosaurs without much overhead?  Then this is the post for you!  Here I will go over the major groups within Dinosauria and how they’re related to one another.
 
 # Dinosauria
 This clade is usually defined nowadays as the last common ancestor between Triceratops and modern birds, and all its descendants.  It was historically defined as the last common ancestor of Megalosaurus and Iguanodon and all its descendants, which is just a different way of describing the same group.  This group includes sauropods (the long-necked dinosaurs like Apatosaurus), theropods (the bipedal carnivorous dinosaurs like Tyrannosaurus and also birds), thyreophorans (the armored dinosaurs), ornithopods (the duck-billed dinosaurs), ceratopsians (the horned dinosaurs), and some other, less well-known groups.  Pterosaurs (Mesozoic flying reptiles) are closely related to dinosaurs but are not dinosaurs.
@@ -106,7 +106,7 @@ Theropods are one of the most diverse groups of dinosaurs, including animals of 
 
 ![fig-1.7](/assets/family-overview-7.png)
 
-The first large family of theropods to branch off the bird line were the Ceratosaurs, meaning “horn lizard”.  These were large-ish carnivores that often had **keratinous** horns on their heads and faces.  Famous members include Ceratosaurus and the more derived Abelisaurs, including Carnotaurus and Majungasaurus.
+The first large family of theropods to branch off the bird line were the Ceratosaurs, meaning “horn lizard”.  These were large-ish carnivores that often had keratinous horns on their heads and faces.  Famous members include Ceratosaurus and the more derived Abelisaurs, including Carnotaurus and Majungasaurus.
 
 ![fig-3.2](/assets/family-overview-3.2.jpg)
 

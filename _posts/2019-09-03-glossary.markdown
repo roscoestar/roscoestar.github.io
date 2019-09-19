@@ -15,50 +15,6 @@ categories: blog post
 
 **Thyreophorans** (meaning “shield bearer”) are the armored dinosaurs.  They come in two main flavors: the plate-backed Stegosaurs (including Stegosaurus, Kentrosaurus, and Gigantspinosaurus) and the heavily-armored Ankylosaurs (including Ankylosaurus, Nodosaurus, and Euoplocephalus).
 
-### Aquatic tail types
-**Hypocercal** tails have a larger bottom lobe and smaller top lobe.  The only living creatures with this are flying fish, but in the past metriorhynchids and mosasaurs both sported this type of tail.
-
-**Heterocercal** tails have a larger top lobe and smaller bottom lobe.  Modern sharks and certain ray-finned fish like sturgeon have this type of tail, as well as placoderms like Dunkleosteus in the past.
-
-**Homocercal** tails have top and bottom lobes that are about the same size.  Most ray-finned fish have this type of tail, as well as ichthyosaurs in the past.
-
-### Swimming styles
-**Anguilliform** swimming is what eels do, where the entire body moves back and forth and large fins aren’t necessary.
-
-**Carangiform** swimming is what most fish do, where the tail is mostly responsible for propulsion and the rest of the body is held more stiffly.  It’s an intermediate style between anguilliform and thunniform.
-
-**Thunniform** swimming is what the fastest fish do, like tuna, sailfish, and sharks.  The body is very stiff and the tail is very powerful.
-
-### Specialized behaviors
-**Fossorial** creatures are optimized for digging and burrowing, such as moles, clams, bees, and Oryctodromeus.
-
-**Arboreal** creatures are optimized for life in trees, such as monkeys, geckos, tree snakes, squirrels, and Suminia.
-
-**Cursorial** creatures are optimized for running long distances, such as horses, ostriches, wolves, certain spiders, and Moros.
-
-### Phylogeny terms
-A **monophyletic group**, or a **clade**, is a group of organisms defined as an ancestor and all its descendants.
-
-A **paraphyletic group** is a group that contains all the descendants of a common ancestor minus one or two.  For example, “reptiles” is commonly used to mean lizards, snakes, and crocodiles but not birds, which is a paraphyletic group.  This is sometimes a useful concept in taxonomy (see “stem-group” below) but isn’t a valid phylogenetic clade.
-
-A **polyphyletic** group is when you’re confused and doing it wrong and group organisms by something other than ancestry.  For example, a theoretical “Haemothermia” group, including all warm-blooded animals (most mammals and all birds), would be a polyphyletic group.
-
-A **crown-group** is a monophyletic group of living organisms connected by a common ancestor, and this ancestor, and all its other descendants.
-
-A **stem-group** is a paraphyletic group of all the extinct organisms that are more closely related to a certain crown-group than to other crown-groups.  For example, all dinosaurs can be called stem-birds; all synapsids can be called stem-mammals; metatherians can be called stem-marsupials, etc.
-
-A **genus** (plural: genera) is the taxonomic ranking below “family” and above species, and is the most common ranking paleontologists work with, even though it's not super well-defined.  The scientific name of an organism’s genus is called its **generic name**, and is the first word in the **binomial nomenclature** system.  For example, in Tyrannosaurus rex, "Tyrannosaurus" is the generic name.
-
-A **species** is the taxonomic ranking below genus, and is defined as the largest group in which any two individuals of the appropriate sexes can produce fertile offspring.  The scientific name of an organism's species is called its **specific name**, and is the second word in the binomial nomenclature system.  In Tyrannosaurus rex, "rex" is the specific name.
-
-An **ancestral trait** is a trait that evolved early on in a lineage.  For example, mammals are ancestrally furry--each furry group of mammals descended from an ancestor that was furry, rather than evolving fur independently many times.
-
-A **derived trait** is a trait that evolved later on in a lineage.  For example, bipedalism is a derived trait in hominids.
-
-A **secondarily acquired trait** is when a group loses an ancestral trait, and then gains it back again as a derived trait later on.  For example, whales are secondarily aquatic--they evolved from aquatic fishlike tetrapodomorph ancestors way back in the Devonian, those tetrapodomorphs came up on land and became terrestrial, and then proto-whales went back into the ocean in the Paleocene.
-
-An **autapomorphy** is a derived trait that is unique to one group.
-
 ### Other important clades
 **Amniotes** are the clade of tetrapods that lay amniotic eggs, including mammals and reptiles.  The eggshells of amniotic eggs aren’t permeable to water, which means the eggs can be laid on land without having to worry about them drying out.  This was a huge deal during the Carboniferous Rainforest Collapse when the climate all over the planet got a lot drier, and allowed mammals’ and reptiles’ ancestors to get a competitive edge over the amphibians.
 
@@ -104,6 +60,60 @@ An **autapomorphy** is a derived trait that is unique to one group.
 
 **Pan-aves** (meaning “all birds”) are the group containing pterosaurs and dinosaurs (which contains birds).
 
+### Phylogeny terms
+A **monophyletic group**, or a **clade**, is a group of organisms defined as an ancestor and all its descendants.
+
+A **paraphyletic group** is a group that contains all the descendants of a common ancestor minus one or two.  For example, “reptiles” is commonly used to mean lizards, snakes, and crocodiles but not birds, which is a paraphyletic group.  This is sometimes a useful concept in taxonomy (see “stem-group” below) but isn’t a valid phylogenetic clade.
+
+A **polyphyletic** group is when you’re confused and doing it wrong and group organisms by something other than ancestry.  For example, a theoretical “Haemothermia” group, including all warm-blooded animals (most mammals and all birds), would be a polyphyletic group.
+
+A **crown-group** is a monophyletic group of living organisms connected by a common ancestor, and this ancestor, and all its other descendants.
+
+A **stem-group** is a paraphyletic group of all the extinct organisms that are more closely related to a certain crown-group than to other crown-groups.  For example, all dinosaurs can be called stem-birds; all synapsids can be called stem-mammals; metatherians can be called stem-marsupials, etc.
+
+A **genus** (plural: genera) is the taxonomic ranking below “family” and above species, and is the most common ranking paleontologists work with, even though it's not super well-defined.  The scientific name of an organism’s genus is called its **generic name**, and is the first word in the **binomial nomenclature** system.  For example, in Tyrannosaurus rex, "Tyrannosaurus" is the generic name.
+
+A **species** is the taxonomic ranking below genus, and is defined as the largest group in which any two individuals of the appropriate sexes can produce fertile offspring.  The scientific name of an organism's species is called its **specific name**, and is the second word in the binomial nomenclature system.  In Tyrannosaurus rex, "rex" is the specific name.
+
+An **ancestral trait** is a trait that evolved early on in a lineage.  For example, mammals are ancestrally furry--each furry group of mammals descended from an ancestor that was furry, rather than evolving fur independently many times.
+
+A **derived trait** is a trait that evolved later on in a lineage.  For example, bipedalism is a derived trait in hominids.
+
+A **secondarily acquired trait** is when a group loses an ancestral trait, and then gains it back again as a derived trait later on.  For example, whales are secondarily aquatic--they evolved from aquatic fishlike tetrapodomorph ancestors way back in the Devonian, those tetrapodomorphs came up on land and became terrestrial, and then proto-whales went back into the ocean in the Paleocene.
+
+An **autapomorphy** is a derived trait that is unique to one group.
+
+A **sister clade** is the other side of the fork, whenever a phylogenetic tree forks.  For example, Amniota is the group including synapsids (mammals and stem-mammals) and sauropsids (reptiles and stem-reptiles).  So synapsida is the sister clade to sauropsida.
+
+### Leg Anatomy
+
+**Plantigrady** is when an animal’s toe and foot bones (phalanges and metatarsals) are in contact with the ground while walking or running.  Examples of plantigrade animals include humans, bears, and rodents.
+
+**Digitigrady** is when an animal’s toe bones (phalanges) are in contact with the ground while walking or running, but the foot bones (metatarsals) are raised off the ground.  Examples of digitigrade animals include dogs, cats, birds, and humans on tiptoe.
+
+**Unguligrady** is when an animal walks and runs on the tips of its toes or on its nails, and the entire foot is raised off the ground.  Examples of unguligrade animals include horses, deer, and ballerinas on pointe.
+
+### Aquatic tail types
+**Hypocercal** tails have a larger bottom lobe and smaller top lobe.  The only living creatures with this are flying fish, but in the past metriorhynchids and mosasaurs both sported this type of tail.
+
+**Heterocercal** tails have a larger top lobe and smaller bottom lobe.  Modern sharks and certain ray-finned fish like sturgeon have this type of tail, as well as placoderms like Dunkleosteus in the past.
+
+**Homocercal** tails have top and bottom lobes that are about the same size.  Most ray-finned fish have this type of tail, as well as ichthyosaurs in the past.
+
+### Swimming styles
+**Anguilliform** swimming is what eels do, where the entire body moves back and forth and large fins aren’t necessary.
+
+**Carangiform** swimming is what most fish do, where the tail is mostly responsible for propulsion and the rest of the body is held more stiffly.  It’s an intermediate style between anguilliform and thunniform.
+
+**Thunniform** swimming is what the fastest fish do, like tuna, sailfish, and sharks.  The body is very stiff and the tail is very powerful.
+
+### Specialized behaviors
+**Fossorial** creatures are optimized for digging and burrowing, such as moles, clams, bees, and Oryctodromeus.
+
+**Arboreal** creatures are optimized for life in trees, such as monkeys, geckos, tree snakes, squirrels, and Suminia.
+
+**Cursorial** creatures are optimized for running long distances, such as horses, ostriches, wolves, certain spiders, and Moros.
+
 ### Integument
 **Integument** is the “covering” of an organism.  In animals, it refers to the skin, scales, fur, feathers, or other features on the outside of an animal.  In plants, it refers to the rind, husk, shell, etc.
 
@@ -118,6 +128,8 @@ An **autapomorphy** is a derived trait that is unique to one group.
 **Osteological correlates** are textures left on bone by overlying tissues.  For example, when skin lies almost directly on the bone, as on a crocodile’s face, the bone underneath is more **rugose**, or rough and pitted.  Concentrated lines or circles of rugosity imply large soft-tissue structures rooted there, like horns or crests.  Smooth bone implies soft overlying tissue.  Muscle and tendon attachment sites also leave distinctive marks on bone.
 
 **Melanosomes** are pigmented organelles in certain animal cells that are responsible for what color the animal appears.  Thankfully for paleontologists, the shape and arrangement of melanosomes also correlate with color, so we can use those properties to figure out what color things were even when the original colors have been lost.
+
+**Countershading** is a form of camouflage in which an animal’s belly is a lighter color than its back.  It’s extremely common in marine animals because it’s very effective: when viewed from above, the dark back blends in with the darker deep water, and when viewed from below, the light belly blends in with the bright sky.  However, it’s also common in terrestrial animals, because when the sun hits the darker back and the lighter belly is in the shade, it creates an optical illusion that makes the animal’s 3D shape harder to figure out.
 
 ### Dactyly (toe arrangements)
 **Zygodactyly** is when two toes point forward and two backward, like a parrot.
