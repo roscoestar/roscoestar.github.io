@@ -13,7 +13,7 @@ The earliest visible fossils come from the Ediacaran Period (pronounced ee-dee-A
 
 ![ediacaran](/assets/ediacaran.jpg)
 
-The Ediacaran Biota.  Pictured: Dickcinsonia (front and center), Charnia (the bluish quill pens), Spriggina (the small yellow guys), Kimberella (the green blob behind Dickinsonia), Tribrachidium (bottom right corner), Fractofusus (red quill pens), and some others.
+The Ediacaran Biota.  Pictured: Dickcinsonia (front and center), Charnia (the bluish quill pens), Spriggina (the small yellow guys), Kimberella (the green blob behind Dickinsonia), Tribrachidium (bottom right corner), Swartpuntia (red quill pens), and some others.  Note that all these depictions are highly speculative; here, Spriggina is depicted as crawling along the seafloor, but it may have been a free-swimming creature, or it may even have actually been a frond-like creature, rooted to the ground by the "head" end.  Here, Tribrachidium is depicted as an echinoderm-like creature stuck to a rock, but in reality it may have been a holdfast for a frond as well.  There is a lot we don't know about these strange creatures.
 
 #### Notable creatures:
 - Microbial mats covered much of the seafloor

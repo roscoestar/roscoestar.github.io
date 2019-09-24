@@ -81,9 +81,13 @@ A **derived trait** is a trait that evolved later on in a lineage.  For example,
 
 A **secondarily acquired trait** is when a group loses an ancestral trait, and then gains it back again as a derived trait later on.  For example, whales are secondarily aquatic--they evolved from aquatic fishlike tetrapodomorph ancestors way back in the Devonian, those tetrapodomorphs came up on land and became terrestrial, and then proto-whales went back into the ocean in the Paleocene.
 
-An **autapomorphy** is a derived trait that is unique to one group.
-
 A **sister clade** is the other side of the fork, whenever a phylogenetic tree forks.  For example, Amniota is the group including synapsids (mammals and stem-mammals) and sauropsids (reptiles and stem-reptiles).  So synapsida is the sister clade to sauropsida.
+
+An **autapomorphy** is a derived trait that’s unique to one group.  For example, all archosaurs have a fourth trochanter, a ridge on the inside of the thighbone that serves as a muscle attachment point, and no other animals have this.
+
+A **synapomorphy** is a trait that’s ancestrally unique to one group, but later members of the group may have secondarily lost it.  For example, archosaurs may be ancestrally feathered, but many derived archosaurs such as crocodylians and many dinosaurs were secondarily scaly.
+
+**Homoplasy** is when a trait is gained or lost independently in unrelated groups, often due to convergent evolution.  For example, electric eels and elephantfish both separately came up with a way to produce electricity.
 
 ### Leg Anatomy
 
@@ -142,6 +146,17 @@ A **sister clade** is the other side of the fork, whenever a phylogenetic tree f
 
 **Monodactyly** is when one toe points forward and zero backward, like a horse or Vespersaurus.
 
+### Fauna Sizes
+**Microfauna** are tiny creatures usually smaller than 100 microns across (less than the width of a hair) that can only be seen with a microscope.  Examples include tardigrades (water bears), dust mites, copepods (small crustaceans), small nematodes, and rotifers.
+
+**Meiofauna** are tiny creatures between 45 and 1000 microns across (0.045-1mm).  This term usually refers to benthic creatures, which live in the seafloor.  Examples include seed shrimp, certain tiny wasps and beetles, pinworms, hairybacks, and many foraminifera.
+
+**Mesofauna** are tiny creatures between 100 and 2000 microns across (0.1-2mm).  This term usually refers to creatures that live in terrestrial soils.  They aren’t large enough to move soil particles around, so they live in the spaces between them rather than actually burrowing.  Examples include springtails, coneheads, tiny spiders, tiny scorpions, potworms, and many other types of tiny arthropods.
+
+**Macrofauna** are tiny creatures larger than 500 microns across (>0.5mm), which are definitely visible to the naked eye.  This term refers to creatures that live in both marine and terrestrial soil environments.  Terrestrial examples include earthworms, pillbugs, snails, and ants; marine examples include crustaceans, sea stars, bristle worms, bivalves, and sponges.
+
+**Megafauna** is a not-very-well-defined term that usually refers to any animals human-sized or larger.
+
 ### Miscellaneous
 **“Splitters”** are paleontologists who habitually like to create more taxonomic groups.  **“Lumpers”** are paleontologists who like to group other groups together and have less groups.
 
@@ -158,8 +173,6 @@ A **junior synonym** happens when a new genus is described based on a new fossil
 **Radiation** is when a lineage of organisms diversifies and many new species arise in order to fill open niches.  Radiation events often occur after extinction events, since many niches are left open by the organisms that didn’t make it, and other organisms rush to fill the space.
 
 **The Great American Biotic Interchange** (GABI) was an event that began around 2.7 million years ago in the Pliocene when South America, which had been an island since the Cretaceous, collided with North America, forming the Isthmus of Panama.  This allowed animals to travel from one continent to the other.  Though animals did move both ways, the North American fauna tended to outcompete the South American.  One South American animal to successfully emigrate to North America was Titanis, the last of the terror birds, which ended up as far north as Tennessee.
-
-**Megafauna** is a not-very-well-defined term that usually refers to any animals human-sized or larger.
 
 **Ontogeny** is the way an organism grows and changes as it gets older.  Most creatures don’t retain the same proportions when old as they had when young--for example, human babies have gigantic heads in proportion to their bodies compared to adults.  An **ontogenetic sequence** is a picture showing various life stages of an organism.
 
