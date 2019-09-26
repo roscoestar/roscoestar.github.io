@@ -97,6 +97,22 @@ A **synapomorphy** is a trait that’s ancestrally unique to one group, but late
 
 **Unguligrady** is when an animal walks and runs on the tips of its toes or on its nails, and the entire foot is raised off the ground.  Examples of unguligrade animals include horses, deer, and ballerinas on pointe.
 
+### Wing Anatomy
+
+A **patagium** (plural: patagia) is a membrane that an animal uses to fly or glide.  Prefixes can be added to this word to indicate where on the body the membrane is located.
+
+A **brachiopatagium** (“brachio” means “arm”) is a membrane between the arm and the body.  In pterosaurs, it’s the main large wing membrane.
+
+A **propatagium** (“pro” means “before”) is a membrane between the wrist and the shoulder or neck, on the top part of the wing.  It occurs in both bats and pterosaurs.
+
+An **uropatagium** (“uro” means “tail”) is a membrane between the hind leg and the body that includes the tail.  Bats have this.
+
+A **cruropatagium** (“cruro” means “shin”) is a membrane between the hind leg and the body that does not include the tail.  Pterosaurs have this.
+
+A **dactylopatagium** (“dactylo” means “finger”) is a membrane between two fingers, as in bats.
+
+A **plagiopatagium** (“plagio” means “flat”) is a membrane between a finger and the body, as in bats.
+
 ### Aquatic tail types
 **Hypocercal** tails have a larger bottom lobe and smaller top lobe.  The only living creatures with this are flying fish, but in the past metriorhynchids and mosasaurs both sported this type of tail.
 

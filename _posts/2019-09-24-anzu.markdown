@@ -16,27 +16,33 @@ Above: Anzu, the "Chicken from Hell".
 
 Above: Anzu and chicks are startled by a nasty Acheroraptor.
 
+![anzu-3](/assets/anzu-3.jpg)
+
 Anzu was a large **oviraptorosaur** with a toothless beak and an impressive head crest.  It was North America’s largest oviraptorosaur (and by far the most well-known to science), and the second-largest in the world (Gigantoraptor, from a bit earlier in Mongolia, is a lot larger).  It was probably omnivorous and not picky, and was a good runner.  The crest was probably used for sexual display, leading some to speculate that Anzu may have exhibited **sexual dimorphism**, with major visual differences between males and females. Caenagnathidae (pronounced SEEN-a-NATH-id-ay) means “recently jawless” and is the **sister clade** to Oviraptoridae (which includes Oviraptor).  Weird holes in Caenagnathids' lower jaws initially made scientists think they were extinct ratite birds, like ostriches, before they realized they were actually non-avian dinosaurs.
 
 Anzu was part of the famous Hell Creek biota alongside such fan favorites as Tyrannosaurus, Triceratops, and Pachycephalosaurus.  66 million years ago, it was among the unfortunate direct victims of the Very Bad Day.
 
 Anzu is named after a Sumerian mythological demon whom it somewhat resembles (center, below).
 
-![anzu-3](/assets/anzu-3.jpg)
+![anzu-4](/assets/anzu-4.jpg)
 
 #### Note 1: What’s that eye bone thing?
 It’s called a **sclerotic ring**, a special bone that supports the eyeball, especially if it’s particularly large or not spherical.  It’s common among all groups of vertebrates except modern mammals and crocodiles.  Read more about it [here (less technical)](https://www.quora.com/Why-did-dinosaurs-have-rings-of-bones-in-their-eye-sockets) and [here (more technical)](https://bryangee.weebly.com/blog/i-spy-with-my-not-so-little-eye).
 
-![anzu-4](/assets/anzu-4.jpg)
+![anzu-5](/assets/anzu-5.jpg)
 
 Above: A bald eagle skeleton with sclerotic ring visible.
 
-![anzu-5](/assets/anzu-5.jpg)
+![anzu-6](/assets/anzu-6.jpg)
 
 Above: A gecko skeleton with sclerotic rings visible.
 
 #### Note 2: How many times have beaks evolved independently?
-A lot: Birds, oviraptorosaurs like Anzu, cephalopods (octopuses and squids), turtles, pterosaurs, monotremes (platypuses and echidnas), parrotfish, certain ornithischians, dicynodonts (a type of stem-mammal), certain pseudosuchians like Lotosaurus and Effigia (crocodile relatives), therizinosaurs, ornithomimids, and even some ceratosaurs like Limusaurus all had **keratinous** beaks.  And that’s not even a comprehensive list.  Beaks are both very useful and very easy to make, evolutionarily--they are a very **homoplastic** trait.  This is another example of [convergent evolution](blog/post/2019/09/06/convergent-evolution.html).
+A lot: Birds, oviraptorosaurs like Anzu, cephalopods (octopuses and squids), turtles, pterosaurs, monotremes (platypuses and echidnas), parrotfish, certain ornithischians, dicynodonts (a type of stem-mammal), certain pseudosuchians like Lotosaurus and Effigia (crocodile relatives), rhynchosaurs (early reptiles), therizinosaurs, ornithomimids, and even some ceratosaurs like Limusaurus all had **keratinous** beaks.  And that’s not even a comprehensive list.  Beaks are both very useful and very easy to make, evolutionarily--they are a very **homoplastic** trait.  This is another example of [convergent evolution](blog/post/2019/09/06/convergent-evolution.html).
+
+![beaks](/assets/beaks.jpg)
+
+Above: Five of the many times beaks have developed among unrelated groups.  Clockwise from top left: a dicynodont, a rhynchosaur, a ceratopsian, a shuvosaurid pseudosuchian, and a turtle (center).
 
 Image credits:
 [Anzu 1](https://www.deviantart.com/0coffeeblack0/art/Anzu-wyliei-798605471)
@@ -45,3 +51,4 @@ Image credits:
 [Anzu Demon](http://www.ancientpages.com/2016/12/10/babylonian-story-of-bird-god-anzu-the-wise-one-and-his-underworld-realm/)
 [Eagle](https://boneclones.com/product/articulated-bald-eagle-skeleton-SC-068-A)
 [Gecko](https://i.pinimg.com/originals/e9/c2/4c/e9c24ce042bb5800dbb0a898ea2fbb3a.jpg)
+[Beaks](https://twitter.com/SerpenIllus)

@@ -36,7 +36,7 @@ Above: Diplodocus, a classic well-known diplodocoid sauropod.
 
 Here are some key features to note about sauropods:
 1. _No toes!_ As sauropods got bigger, they had to develop special adaptations in their front legs to support their huge bulk.  They lost basically all the digits in their front feet and walked on horseshoe-shaped “stumps” of bone.  No toes would’ve been visible on the front feet at all, except the thumbclaw in diplodocoids, and even that one claw was lost in later titanosaurs.
-2. _Consistent differences between titanosaurs and diplodocoids_.  You can read more about the two flavors of sauropods in my previous post on the [dinosaur family](blog/post/2019/09/11/dinosaur-family-overview.html), but I’ll quickly go over some of the main differences here.  If it has a horizontal posture where the front legs are shorter or equal in length to the hind legs, it’s a diplodocoid, and should have a long, horselike face and a looooong whiplike tail.  If it has a vertical posture where the front legs are significantly longer than the hind legs, it’s a titanosaur, and it should have a taller, deeper skull with a lot of soft tissue in the nasal / sinus area.
+2. _Consistent differences between titanosaurs and diplodocoids_.  You can read more about the two flavors of sauropods in my previous post on the [dinosaur family](http://obscuredinosaurfacts.com/blog/post/2019/09/11/dinosaur-family-overview.html), but I’ll quickly go over some of the main differences here.  If it has a horizontal posture where the front legs are shorter or equal in length to the hind legs, it’s a diplodocoid, and should have a long, horselike face and a looooong whiplike tail.  If it has a vertical posture where the front legs are significantly longer than the hind legs, it’s a titanosaur, and it should have a taller, deeper skull with a lot of soft tissue in the nasal / sinus area.
 3. _Three visible toes in back_.  Straightforward, but for some reason media depictions often give them four or five.  Why?
 
 ### Pterosaurs
@@ -73,7 +73,9 @@ Above: Stegosaurus, the well-known Jurassic plate-backed dinosaur.
 
 A couple key features to note about stegosaurs:
 1. _Alternating plates_.  The plates on their backs weren’t paired like a mirror image, but were alternating like footprints.
-2. _A particularly ancient dinosaur_.  Stegosaurus is one of the few Jurassic dinosaurs that’s really famous (most of the famous ones are from the Cretaceous, tens millions of years later).  Tyrannosaurus was closer in time to an iPhone than it was to Stegosaurus, so depictions showing the two side-by-side are very wrong.  Stegosaurus lived alongside Allosaurus, Apatosaurus, Brachiosaurus, and possibly Liopleurodon and Pterodactylus.  Tyrannosaurus lived alongside Triceratops, Pachycephalosaurus, Ankylosaurus, Edmontosaurus, Quetzalcoatlus, and Mosasaurus.  These two groups of animals lived about 89 million years apart from each other.
+2. _A particularly ancient dinosaur_.  Stegosaurus is one of the few Jurassic dinosaurs that’s really famous (most of the famous ones are from the Cretaceous, tens of millions of years later).  Tyrannosaurus was closer in time to an iPhone than it was to Stegosaurus, so depictions showing the two side-by-side are very wrong.  Stegosaurus lived alongside Allosaurus, Apatosaurus, Brachiosaurus, and possibly Liopleurodon and Pterodactylus.  Tyrannosaurus lived alongside Triceratops, Pachycephalosaurus, Ankylosaurus, Edmontosaurus, Quetzalcoatlus, and Mosasaurus.  These two groups of animals lived about 89 million years apart from each other.
+
+I hope this post helps give you an idea of some basic things to look for in a media portrayal of dinosaurs and friends.  Now you’re a licensed nitpicker.  Congratulations!
 
 Image credits:
 [Tyrannosaurus](https://sauriangame.squarespace.com/blog/2018/9/20/tyrannosaurus-redesign-2018)
@@ -87,5 +89,3 @@ Image credits:
 
 Further reading:
 [Stegosaurus sexual dimorphism](http://www.bris.ac.uk/news/2015/april/sexing-stegosaurus.html)
-
-I hope this post helps give you an idea of some basic things to look for in a media portrayal of dinosaurs and friends.  Now you’re a licensed nitpicker.  Congratulations!
