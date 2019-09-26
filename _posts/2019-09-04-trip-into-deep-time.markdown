@@ -35,7 +35,7 @@ Haootia.  Looks a little indecent, doesn't it?
 ## The Paleozoic Era (541-251.9 MYA)
 The next six geologic periods fall within the Paleozoic Era.  A ton of stuff happened during this era; at the beginning, small, primitive jawless fish and arthropods killed each other on the seafloor, and at the end, large, advanced, saber-toothed stem-mammals killed each other on land.  In between, giant sea scorpions, giant armored fish, and giant terrestrial bugs each enjoyed a heyday before giving way to the next wave of extinction and subsequent innovation.
 ### The Cambrian Period: The Cambrian Explosion (541-485.4 MYA)
-At the end of the Ediacaran period, the thick microbial mats that covered the seafloor vanished, causing the creatures that depended on them to go extinct.  What soon replaced them was a huge variety of creatures with exotic body plans no longer seen today, in a **radiation** event known as the Cambrian Explosion.  One factor that may have helped cause the Cambrian Explosion was the first eyes, which enabled animals to hunt each other and avoid each other, putting natural selection pressure on overdrive.  During this period, chordates (animals with a primitive backbone) first arose, such as the eel-like Pikaia and the fish-like Haikouichthys.
+At the end of the Ediacaran period, animals developed mouths and guts that gave them the ability to eat and hunt rather than just sitting atop the microbial mats and passively absorbing nutrients.  To avoid being hunted, creatures began to burrow into the sediment, disturbing the ocean chemistry and destroying the thick microbial mats that covered the seafloor, causing the creatures that depended on them to go extinct.  What soon replaced them was a huge variety of creatures with exotic body plans no longer seen today, in a **radiation** event known as the Cambrian Explosion.  One factor that may have helped accelerate the Cambrian Explosion was the first eyes, which enabled animals to hunt each other and avoid each other, putting natural selection pressure on overdrive.  During this period, chordates (animals with a primitive backbone) first arose, such as the eel-like Pikaia and the fish-like Haikouichthys.
 
 ![cambrian](/assets/cambrian.jpg)
 
@@ -172,7 +172,7 @@ The Carboniferous biota.  Pictured: Meganeura, Arthropleura, Lepidodendrales, an
 	- Meganeura, a dragonfly the size of a crow
 	- Arthropleura, a millipede the size of an alligator
 	- Pulmonoscorpius, a scorpion the size of a cat
-	- Tully Monster, a mysterious creature whose affinity is still uncertain
+- Tully Monster, a mysterious creature whose affinity is still uncertain
 - Lepidodendrales, the tree that took over the world (and now forms a significant fraction of our fossil fuel deposits)
 
 #### What did our ancestors look like?
@@ -208,6 +208,10 @@ Mammals and reptiles continued to become more mammalian and reptilian, respectiv
 ![procynosuchus](/assets/procynosuchus.jpg)
 
 Procynosuchus means "before dog crocodile."
+
+![protorosaurus](/assets/protorosaurus.jpg)
+
+Protorosaurus means "first lizard".
 
 ## The Mesozoic Era: Age of Reptiles (251.9-66 MYA)
 The next three geologic periods fall within the Mesozoic Era, which saw the rise and fall of the dinosaurs, the first true birds, and the first angiosperms (flowering plants).  Dinosaurs didn’t look like the front-runners in the Triassic, but the extinction that ended that period pushed them into the spotlight.  The Mesozoic ended with the famous K-Pg (Cretaceous-Paleogene) asteroid impact that killed all the non-avian dinosaurs.

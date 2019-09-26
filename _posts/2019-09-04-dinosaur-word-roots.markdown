@@ -35,7 +35,7 @@ You’ve probably noticed that a lot of dinosaur names end in the suffix -saurus
 **-cetus**: Greek for “whale”.  Usually used for stem-whales.  If it has this suffix, it’s probably semiaquatic or fully aquatic, carnivorous, and maybe kind of scary-looking.  Examples: Ambulocetus (walking whale), Pakicetus (Pakistan whale), Maiacetus (mother whale).
 
 ### Others
-**-erpeton**: Greek for “creeper”.  Usually used for temnospondyl amphibians.  If it has this suffix, it’s slimy, usually quadrupedal, aquatic or semiaquatic, and large for an amphibian.  Examples: Dendrerpeton (tree creeper), Tulerpton (creeper from Tula), Ophiderpeton (snake creeper).  Counterexample: Lagerpeton (rabbit creeper) is actually a dinosauromorph.
+**-erpeton**: Greek for “creeper”.  Usually used for temnospondyl amphibians.  If it has this suffix, it’s slimy, usually quadrupedal, aquatic or semiaquatic, and large for an amphibian.  Examples: Dendrerpeton (tree creeper), Tulerpeton (creeper from Tula), Ophiderpeton (snake creeper).  Counterexample: Lagerpeton (rabbit creeper) is actually a dinosauromorph.
 
 **-suchus**: Greek for “crocodile”.  Usually used for pseudosuchians (crocodiles and their ancestral cousins).  If it has this suffix, it’s probably scaly, quadrupedal, usually carnivorous, and has osteoderms or armor in its skin.  Examples: Pakasuchus (cat crocodile), Postosuchus (crocodile from Post), Gracilisuchus (slender crocodile).  Counterexamples: Procynosuchus (before dog crocodile) is actually a stem-mammal; Koolasuchus (Kool’s crocodile) is actually a temnospondyl amphibian.
 
