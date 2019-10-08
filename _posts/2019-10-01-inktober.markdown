@@ -84,8 +84,38 @@ An interesting thing to note is the huge number of dinosaurs in these litters--1
 
 Day 6: Husky - Olorotitan.  Drawn in about 4 hours.  All those ovals...
 
-Olorotitan (meaning “swan titan”) was a lambeosaurine “duck-billed” dinosaur from Late Cretaceous Russia.  Lambeosaurinae are the crested subset of hadrosaurs (the non-crested group is called Saurolophinae), which were medium-sized grazers with advanced chewing abilities--essentially, they filled the same niche as cows do today.  Typically, these guys are pictured as pretty lithe, but in the book All Yesterdays, paleoartist John Conway suggested they may have been a bit more...husky.  This illustration is heavily inspired by his [depiction of Parasaurolophus](https://johnconway.co/ay_parasaurolophus) from that book.
+Olorotitan (meaning “swan titan”) was a lambeosaurine “duck-billed” dinosaur from Late Cretaceous Russia.  Lambeosaurinae are the bony-crested subset of hadrosaurs (the soft- or non-crested group is called Saurolophinae), which were medium-sized grazers with advanced chewing abilities--essentially, they filled the same niche as cows do today.  Typically, these guys are pictured as pretty lithe, but in the book All Yesterdays, paleoartist John Conway suggested they may have been a bit more...husky.  This illustration is heavily inspired by his [depiction of Parasaurolophus](https://johnconway.co/ay_parasaurolophus) from that book.
 
 What’s with the huge, dragonlike scales? A [fossil](https://www.nationalgeographic.com/science/phenomena/2013/12/12/surpise-well-studied-dinosaur-actually-had-a-cocks-comb/) of an Edmontosaurus’s neck and back of head (a related but soft-crested hadrosaur) was found with these huge oval scales preserved. I've seen reconstructions that incorporate the big scales on the neck but show the rest of the body with normal-sized scales, but I thought, why would they stop at the neck?  And so I got myself into a multi-hour circle-drawing predicament.  Here, a bull Olorotitan vegges out.  Look how into himself he is.
+
+### Day 7: Enchanted
+
+![inktober-7](/assets/inktober-7.jpg)
+
+Day 7: Enchanted - Carnotaurus.  Drawn in about 40 minutes.
+
+Carnotaurus (meaning “meat bull”--people often say it means “meat-eating bull,” but it doesn’t) was a Late Cretaceous South American abelisaur, a group of short-faced, medium-sized, leggy carnivores with head ornamentation and comically tiny arms.  They hunted sort of like big cats, biting once and then holding on until the prey was subdued, rather than going for raw bite force--that’s why their skulls are shorter than, say, Tyrannosaurus: Carnotaurus’s jaws were stronger in torsion but worse in compression.  They also weren’t nearly as big; Carnotaurus maxed out at 2.5ish tons, while Tyrannosaurus was about 6 times heavier.
+
+Carnotaurus is known from a single, nearly complete specimen, so while we understand its anatomy well, we don’t know much about its ontogeny or if it exhibited sexual dimorphism.  I went with very little sexual dimorphism in this piece because none is apparent in the closely related Majungasaurus, which is known from many specimens.  The only difference between Mr. and Ms. in this picture is that the lady has skinnier horns, but if they were in color, he would be brightly colored while she would be more plain.
+
+For “enchanted,” I wanted to draw a mating dance, and I picked Carnotaurus because of Trey the Explainer’s [video](https://www.youtube.com/watch?v=slcVvR7UMik&t=1401s) and the “pom pom arms” depiction in All Yesterdays.  Their head ornamentation was clearly for display and intra-specific competition (why ram prey if you have a bear trap for a mouth?).  Their tiny arms also had an unusually wide range of motion for a theropod, and could stick straight out, possibly making a striking profile when viewed from the front.  I based the mating dance pose on that of the sharp-tailed grouse, which seemed ideal for showing off the horns, arms, and tail.  Do you think the object of his affection is enchanted, or just humoring him?
+
+Pose references: [1](https://www.deviantart.com/fredthedinosaurman/art/Dinosaur-Sketches-731805206)
+[2](https://www.deviantart.com/thek560/art/Carnotaurus-808805892)
+
+[Inktober Prompts](https://twitter.com/inktober/status/1168394488181485568)
+
+### Day 8: Frail
+
+![inktober-8](/assets/inktober-8.jpg)
+
+Day 8: Frail - Scleromochlus.  Drawn in about 30 minutes.  Boing!
+
+Scleromochlus (meaning “hard fulcrum”) was a tiny, desert-dwelling ornithodiran from early Late Triassic Scotland (237-227 million years ago).  It is known from several specimens that tend to come in pairs, and is often cited as an ancestral cousin to pterosaurs.  Various features of its hips and legs indicate that it was a **saltatorial**, or hopping, creature, like a kangaroo or jerboa. Hopping seems to be particularly effective in the desert, since it’s evolved multiple times among desert-dwelling creatures.
+
+I picked Scleromochlus to be my “frail” because its long limbs just look like toothpicks, ready to snap at any provocation.  I considered doing an early leggy dinosauromorph like Lagerpeton or Ixalerpeton, but those are less well-understood and probably didn’t hop so adorably.
+
+[Further reading](http://markwitton-com.blogspot.com/2014/08/scleromochlus-taylori-more-than-just.html)
+[Hop cycle reference](https://www.youtube.com/watch?v=YXx_br6LqF8)
 
 [Inktober Prompts](https://twitter.com/inktober/status/1168394488181485568)

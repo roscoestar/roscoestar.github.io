@@ -134,6 +134,8 @@ A **plagiopatagium** (“plagio” means “flat”) is a membrane between a fin
 
 **Cursorial** creatures are optimized for running long distances, such as horses, ostriches, wolves, certain spiders, and Moros.
 
+**Saltatorial** creatures are optimized for hopping, such as kangaroos, jerboas, and Scleromochlus.  This is particularly common among desert-dwelling creatures.
+
 ### Integument
 **Integument** is the “covering” of an organism.  In animals, it refers to the skin, scales, fur, feathers, or other features on the outside of an animal.  In plants, it refers to the rind, husk, shell, etc.
 
