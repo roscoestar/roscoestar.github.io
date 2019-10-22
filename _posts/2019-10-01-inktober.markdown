@@ -226,7 +226,7 @@ I picked Araripesuchus to be my “wild” both in the wild-animal sense that it
  
 ## Halfway there!
  
-I’d like to say a couple things now that we’re halfway through Inktober and I’ve gotten into the swing of things.  First, you can find me over on Reddit at r/Paleoart and r/Dinosaurs, making these same posts and also responding to other Redditors’ comments and feedback.  It’s been really cool seeing what people like and what they notice, and how my opinion of a piece and the amount of effort I put into it correlates (or doesn’t correlate) with number of upvotes.  Redditors in general have been very supportive.  The most-upvoted post so far was “Build” (Protoceratops), closely followed by “Mindless” (Ctenochasma).  I think people liked “Build” because it’s so cute and wholesome, even though it was relatively low-effort, and I think they liked “Mindless” because the black and white composition is striking.  But the ones I put the most work into were that and “Husky” (Olorotitan), which got hardly any upvotes.  I think also the day of the week and time of day of posting matters, but it’s hard to tell from this dataset.  Oh, and I can’t forget to mention the one other paleo Inktober Redditor I’ve befriended through this, u/jupiter1390.  He/she has been super encouraging and awesome, and his/her skeletal art is really cool.
+I’d like to say a couple things now that we’re halfway through Inktober and I’ve gotten into the swing of things.  First, you can find me over on Reddit at r/Paleoart and r/Dinosaurs, making these same posts and also responding to other Redditors’ comments and feedback.  It’s been really cool seeing what people like and what they notice, and how my opinion of a piece and the amount of effort I put into it correlates (or doesn’t correlate) with number of upvotes.  Redditors in general have been very supportive.  The most-upvoted post so far was “Legend” (Tyrannosaurus), closely followed by “Build” (Protoceratops) and “Mindless” (Ctenochasma).  I think people liked “Legend” because it was a famous subject and the infographic format was educational; I think people liked “Build” because it’s so cute and wholesome, even though it was relatively low-effort; and I think they liked “Mindless” because the black and white composition is striking.  But the ones I put the most work into were “Mindless” and “Husky” (Olorotitan), which got hardly any upvotes.  I think also the day of the week and time of day of posting matters, but it’s hard to tell from this dataset.  Oh, and I can’t forget to mention the one other paleo Inktober Redditor I’ve befriended through this, u/jupiter1390.  He/she has been super encouraging and awesome, and his/her skeletal art is really cool.
  
 It’s been a couple years since I started getting super into dinosaurs and paleontology, but until now I haven’t really tried my hand seriously at paleoart, even though I’ve done other art (including animals, creature design, and video game fanart) for a long time.  I think this is because the barrier to entry to paleoart is pretty dang high, and only now, after researching and reading about dinosaurs sort of nonstop for two years, do I have enough background knowledge to make any meaningful contribution to paleoart.  When you draw a picture, you have to make assumptions about basically everything, since unlike text you can’t avoid mentioning a certain body part or feature or something, other than intentionally cropping it out.  Without detailed knowledge of a lot of different groups of prehistoric creatures, the assumptions I made when I attempted paleoart in the past were bad.  I could have done more research, but sometimes when you make assumptions, you don’t even realize you’re making them.  I’m really glad that I’m at a point now where I can bring ideas to the table--like giving Araripesuchus ears, or showing Ctenochasma in the act of fishing, or making Leaellynasaura the fluffiest thing ever--that haven’t really been done before, but are still founded in actual science.  It feels like I’m helping, in a tiny way, to advance the field.
  
@@ -245,5 +245,64 @@ Day 17: Ornament - Fabulous Fliers of the Romualdo Formation.  Drawn in about 3 
 Thalassodromeus, Tupuxuara, Tropeognathus, and Tapejara were four pterodactyloid pterosaurs from Early Cretaceous Brazil.  Tropeognathus is part of the Ornithocheiridae, which were some of the last pterosaurs to have teeth, and is on the same branch of the pterosaur family tree as Pteranodon.  The other three were azhdarchoids; Thalassodromeus and Tupuxuara were closely related neoazhdarchids in the group Thalassodrominae, while Tapejara was in its own group named after it, the Tapejaromorpha (and Tapejaridae, Tapejarinae, and Tapejarini, in order of increasing closeness to Tapejara itself).
  
 All these fabulous-crested pterosaurs were found in the Romualdo Formation, but it’s difficult to tell if they actually coexisted, since the formation spans about 3 million years.  Originally I was just going to do Thalassodromeus for this prompt because its crest is one of the most extreme, but in my research I learned about its similarly-ornamented alliterative contemporaries and wanted to draw them all.  Also...calligraphy?
+
+### Day 18: Misfit
+
+![inktober-18](/assets/inktober-18.jpg)
+
+Day 18: Misfit - Halszkaraptor.  Drawn in about 50 minutes.
+ 
+It’s a bird! It’s a plane!  No, it’s Halszkaraptor!  (That is to say, yes, it’s indeed not a bird.)  Halszkaraptor was a small dromaeosaur from Late Cretaceous Mongolia that was described just a couple years ago in 2017 and is notable for being one of the very few semiaquatic non-avian dinosaurs (the others are spinosaurids, Lurdusaurus, and Liaoningosaurus).  We know this because its bone structure and density are similar to that of existing aquatic birds and crocodylians.  Its teeth show that it ate fish, and it probably propelled itself through the water using its wings like a penguin.  There’s also evidence for croc-like or spinosaurid-like sensory neurons in its snout to detect vibrations in the water to better hunt fish.
+ 
+This prompt was a really good one for me because there are so many Mesozoic reptiles that could be considered misfits in various ways: creatures that fill ecological niches that nothing fills today, or ones that are “out of time,” doing something earlier or later than a majority of other animals, or black sheep that don’t fit the mold of the rest of their family.  The other candidates I considered were Deinocheirus, the camel-duck-panda ornithomimosaur; Siats, an allosauroid that out-lived most of its brethren by tens of millions of years; and Lotosaurus, a toothless-beaked Triassic pseudosuchian that didn’t get the memo that wearing a sail on one’s back was in bad taste after the Great Dying.
+ 
+Since the discovery of Halszkaraptor, I’m happily reminded of it whenever I see a cormorant.  It’s cool to see a modern animal filling its ancestral cousin’s shoes.
+ 
+My paleo blog: [obscuredinosaurfacts.com](http://obscuredinosaurfacts.com)
+ 
+### Day 19: Sling - Stenopterygius
+
+![inktober-19](/assets/inktober-19.jpg)
+
+Day 19: Sling - Stenopterygius.  Drawn in about 40 minutes.
+ 
+Stenopterygius (meaning “narrow wing”) was an ichthyosaur from Early Jurassic Europe known from over 100 specimens, some of which preserve skin, blubber, bits of internal organs, and fetuses.  We know a ton about this animal’s lifestyle--it was warm-blooded (since blubber isn’t useful otherwise), ate fish, was countershaded (light belly, dark back), and gave live birth tail-first similarly to cetaceans (to prevent the baby from drowning before it’s free of the mother).
+ 
+Since they’re so convergent with dolphins, and dolphins exhibit “infant-carrying behavior” in which the baby is pulled along in the mother’s wake, I thought drawing an ichthyosaur mother “slinging” her baby along would be fitting.  To be honest, this was probably the hardest prompt to relate to Mesozoic reptiles, so it’s a bit of a stretch.  I gave them yellow patches like a common dolphin because that splash of color is hawt af.
+ 
+[New Stenopterygius Fossil With Blubber](http://www.sci-news.com/paleontology/early-jurassic-ichthyosaur-warm-blooded-blubber-camouflage-06703.html)
+ 
+### Day 20: Tread - Vouivria and Plesiochelys
+
+![inktober-20](/assets/inktober-20.jpg)
+
+Day 20: Tread - Vouivria and Plesiochelys.  Drawn in about an hour.
+ 
+One day in Late Jurassic Switzerland, an unfortunate turtle was trodden upon by a sauropod.  Just last month, the fossil preserving this tragic accident was found--a smashed Plesiochelys carapace within a sauropod footprint.  We don’t know what sauropod was the culprit, so I picked Vouivria since it’s pretty new (described 2017) and roughly matches the time, place, and size of the incident.  Vouivria was a basal brachiosaur that weighed about 15 tons--small-to-medium for a sauropod (an elephant is around 7 tons; the largest titanosaurs got up to 76 tons!).
+ 
+Why does it appear to have a beak?  Well, in 2017 a fossil skull of its close-ish cousin, Camarasaurus, was found with soft tissue preserved, showing that it had extensive mouth-gear, possibly including a keratinous beak.  And at SVP 2019 on October 10, research was presented that examined more sauropod fossils and corroborated the theory further (good thing I put off doing an Inktober sauropod until Day 20!).  This doesn’t strike me as too far-fetched, given how many times beaks have arisen independently among amniotes (I can think of at least 12 off the top of my head, which I’m sure isn’t a comprehensive list).  Beaks are a very **homoplastic** trait.  Personally, I think Vouivria looks pretty good in a beak.
+ 
+Looking back at it now, I’m pretty sure Vouivria’s neck couldn’t actually bend the way it does in the last panel...whoops...
+ 
+[Footprint Find](https://www.nytimes.com/2019/09/05/science/dinosaur-crushed-sea-turtle.html)
+[Camarasaurus Beak](https://www.sciencemag.org/news/2019/10/giant-sauropod-dinosaurs-may-have-sported-turtlelike-beaks)
+ 
+### Day 21: Treasure - Oryctodromeus
+
+![inktober-21](/assets/inktober-21.jpg)
+
+Day 21: Treasure - Oryctodromeus.  Drawn in about an hour.
+ 
+Oryctodromeus (meaning “digging runner”) was a smallish parksosaurid ornithischian from early Late Cretaceous Montana.  Its fossils have been found in burrows, and it was the first known dinosaur to show direct evidence of **fossorial** behavior.  Here, an Oryctodromeus is hoarding nuts and doing its best impression of a rat (well, if rats weighed 50 to 70 pounds).  I gave it kiwi-bird-like whiskers to complete the image (kiwi birds are another example of dinosaurs convergent with rats.  I’d say Oryctodromeus is more convincing though).
+ 
+### Day 22: Ghost - Effigia
+
+![inktober-22](/assets/inktober-22.jpg)
+
+Day 22: Ghost - Effigia.  Drawn in about an hour.  Previously in my Inktober series, we saw a crocodilian pretending to be a wolf (Day 16); now, we have one pretending to be a dinosaur.  That crurotarsal ankle looks weirdly humanlike...
+ 
+Effigia was a very strange crocodilian from Latest Triassic New Mexico.  It was found by Edwin Colbert in 1947 in a Coelophysis bone bed at Ghost Ranch, and due to its extreme convergence with theropod dinosaurs, he just thought Effigia was another Coelophysis, packed it up in plaster, and forgot about it.  It wasn’t until 2006 that someone opened the jacket and noticed that it was a beaked, herbivorous crocodilian.  You can easily tell a crocodilian skeleton from a dinosaur skeleton based on the ankle--crocodilians (and, convergently, mammals) have **crurotarsal** ankles that hinge over two points and have a large heel for the calf muscle to attach to.  Dinosaurs (including birds) have **mesotarsal** ankles, which hinge over one point and have no heel.
+ 
+“Effigia” means “ghost” in Latin, referring both to its discovery at Ghost Ranch and its elusiveness, hiding amongst the Coelophysis.
 
 [Inktober Prompts](https://twitter.com/inktober/status/1168394488181485568)
