@@ -63,7 +63,17 @@ Gobul has similarly nondescript fins, while Nibelsnarf’s five short, unspecial
 
 To be honest, Piscine Wyverns are my least favorite monsters in the series.  They look the least believable to me.  (And the underwater maneuvering to dodge Plesioth’s waterjet attack was always unreliable--I’d always dodge frontward or backward instead of up out of the attack plane.  Irritating.  But maybe I’m just bad.)
 
-Moving on, we have the true amphibians, with Anura (frogs) on one side, including Tetsucabra and Zamtrios, and the Caudata (salamanders) on the other, including Khezu and Gigginox.  It’s a bit of a leap to call Khezu and Gigginox amphibians, especially due to their possible jawlessness (in the real world, there’s no such thing as a jawless tetrapod--fish developed jaws first, before developing limbs).  But when Khezu “smiles” in-game, its mouth does appear to close like it has a jaw.  So, here I’ve placed Khezu as more basal than Gigginox, which not only seems to have some sort of derived jaw adaptation optimized for clinging to ceilings (I’m thinking maybe an open-boned structure, kind of like a snake, that allows much greater flexibility), but also has gecko-like fingers for climbing and bioluminescence, both of which seem to be derived traits.
+Moving on, we have the true amphibians, with Anura (frogs) on one side, including Tetsucabra and Zamtrios, and the Caudata (salamanders) on the other, including Khezu and Gigginox.  At first, it seems like a bit of a leap to call Khezu and Gigginox amphibians, especially due to their possible jawlessness (in the real world, there’s no such thing as a jawless tetrapod--fish developed jaws first, before developing limbs).  But when Khezu “smiles” in-game, its mouth does appear to close like it has a jaw, and it bears a very strong resemblance to a giant caecilian (a real legless amphibian).
+
+![caecilian](/assets/caecilian.jpg)
+
+Above: a caecilian's horrifying maw.  I wouldn't be surprised if the designer of Khezu was directly inspired by these tiny terrors.
+
+Here I’ve placed Khezu as more basal than Gigginox, which not only seems to have some sort of derived jaw adaptation optimized for clinging to ceilings, but also has gecko-like fingers for climbing and bioluminescence, both of which seem to be derived traits.  I'm thinking Gigginox has a jaw similar to that of cookie-cutter sharks, which use their lips to suction onto large animals and their band-saw-like teeth to chop out a neat cylinder of flesh.
+
+![cookiecutter](/assets/cookiecutter.jpg)
+
+Above: A cookie-cutter shark's mouth, or how one repurposes a jaw for a jawless lifestyle.
 
 ### Mammals
 Now we’ve reached the more advanced tetrapods, the amniotes (reptiles and mammals).  Let’s explore the mammal side first.

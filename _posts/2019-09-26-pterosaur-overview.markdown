@@ -6,7 +6,7 @@ categories: blog post
 ---
 As a followup to my [Dinosaur Family Overview post](http://obscuredinosaurfacts.com/blog/post/2019/09/11/dinosaur-family-overview.html), here’s a similar pterosaur’s-eye view of the lineage of those awesome flying reptiles!  This should be a significantly shorter post; since pterosaurs weren’t nearly as diverse as dinosaurs, there are fewer groups to cover.
 
-#Pterosauria
+# Pterosauria
 
 Pterosaurs (meaning “wing lizard”) aren’t dinosaurs, but they’re the next closest thing--Pterosauria is the **sister clade** to Dinosauromorpha.  They’re the first group of vertebrates to unlock the achievement “Powered Flight” (insects did it first).  They’re exceedingly specialized for flight, with delicate skeletons that don’t fossilize easily, so we don’t know much about how they transitioned into the air.  As far as we’ve found, they suddenly appear in the fossil record of the Late Triassic, fully-formed and ready to fly.  (This is coincidentally similar to their reproductive strategy, in which baby pterosaurs, called flaplings, are able to fly very shortly after birth.)
 
@@ -89,7 +89,7 @@ Above: Pterodaustro, the Cretaceous flamingo (or, flamingos are the Holocene Pte
 
 #### Azhdarchoidea
 
-This is the group containing the very largest pterosaurs, and also the ones with the most fantastic headgear.  They were likely terrestrial stalkers, hunting small prey like dinosaur hatchlings on all fours on the ground.  Famous examples include Quetzalcoatlus, Tapejara, Hatzegopteryx, and Azhdharcho.
+This is the group containing the very largest pterosaurs, and also the ones with the most fantastic headgear.  They were likely terrestrial stalkers, hunting small prey like dinosaur hatchlings on all fours on the ground.  Famous examples include Quetzalcoatlus, Tapejara, Hatzegopteryx, and Azhdarcho.
 
 ![pterosaur-9](/assets/pterosaur-9.jpg)
 

@@ -175,6 +175,17 @@ A **plagiopatagium** (“plagio” means “flat”) is a membrane between a fin
 
 **Megafauna** is a not-very-well-defined term that usually refers to any animals human-sized or larger.
 
+### Prehistoric Events
+**The Cambrian Explosion** was a radiation event that spanned the Cambrian period, 541 to about 516 million years ago, in which all the main types of modern animals quickly appeared.  There are many things that could be considered causes for this, such as the advent of mouths, eyes, predation, burrowing behavior, the end-Ediacaran extinction, etc.
+
+**The Great Ordovician Biodiversification Event** (GOBE) was a radiation event that spanned the Ordovician period, 485 to 444 million years ago, in which the “foundations” of modern phyla laid by the Cambrian explosion were filled in by diverse animal groups.  Different types of marine ecosystems emerged, with different organisms living in, say, reefs than in deep water, and differences in populations depending on location.  This contrasts with the Cambrian, which had basically one type of biome and one biota globally.
+
+**The Mesozoic Marine Revolution** (MMR) was a radiation event that spanned the Mesozoic era, 251 to 66 million years ago, in which the ocean environment, niches, and interactions between oceanic animals became a lot more complex.  Predators found ways to crush shells and dig for burrowing animals, which forced the prey to develop spiky, tough shells, toxins, and other defenses to survive.  This was basically Round 2 of the GOBE in terms of new types of ecosystems created and increased niche partitioning and food web complexity.
+
+**The Carnian Pluvial Event** (CPE) was a climatic shift in the early Late Triassic period (230 million years ago) in which the previously dry, mild climate became warm and wet, probably caused by a combination of volcanic activity leading to global warming, and the creation of a new mountain range that cut off winds between ocean and continent, generating monsoons.  This caused numerous extinctions and subsequent radiations, and jump-started the rise of the dinosaurs.
+
+**The Great American Biotic Interchange** (GABI) was an event that began around 2.7 million years ago in the Pliocene when South America, which had been an island since the Cretaceous, collided with North America, forming the Isthmus of Panama.  This allowed animals to travel from one continent to the other.  Though animals did move both ways, the North American fauna tended to outcompete the South American.  One South American animal that successfully emigrated to North America was Titanis, the last of the terror birds, which ended up as far north as Tennessee.
+
 ### Miscellaneous
 **“Splitters”** are paleontologists who habitually like to create more taxonomic groups.  **“Lumpers”** are paleontologists who like to group other groups together and have less groups.
 
@@ -190,8 +201,8 @@ A **junior synonym** happens when a new genus is described based on a new fossil
 
 **Radiation** is when a lineage of organisms diversifies and many new species arise in order to fill open niches.  Radiation events often occur after extinction events, since many niches are left open by the organisms that didn’t make it, and other organisms rush to fill the space.
 
-**The Great American Biotic Interchange** (GABI) was an event that began around 2.7 million years ago in the Pliocene when South America, which had been an island since the Cretaceous, collided with North America, forming the Isthmus of Panama.  This allowed animals to travel from one continent to the other.  Though animals did move both ways, the North American fauna tended to outcompete the South American.  One South American animal to successfully emigrate to North America was Titanis, the last of the terror birds, which ended up as far north as Tennessee.
-
 **Ontogeny** is the way an organism grows and changes as it gets older.  Most creatures don’t retain the same proportions when old as they had when young--for example, human babies have gigantic heads in proportion to their bodies compared to adults.  An **ontogenetic sequence** is a picture showing various life stages of an organism.
 
 **Neoteny** is the retention of juvenile traits into adulthood, and is one method by which evolution can take a giant leap forward.  For example, our closest invertebrate relatives, the sea squirts, are sessile as adults, but have a larval form that is free-swimming and has a primitive backbone.  A long time ago, one of these larvae refused to grow up, and became a free-swimming, backboned adult.  This was such a successful strategy that that one critter was able to become the ancestor of all vertebrates.
+
+A **Lagerstätte** (meaning “storage place”) is a fossil deposit with exquisite preservation.  Famous examples include the Burgess Shale, Ghost Ranch, and the La Brea Tar Pits.
