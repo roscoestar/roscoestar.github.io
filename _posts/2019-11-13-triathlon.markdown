@@ -16,11 +16,11 @@ I started with the idea that humans are already pretty good at cycling and runni
 ![triathlon-0](/assets/triathlon-0.jpg)
 
 This design has many flaws:
-It can’t see where it’s going while swimming
-A hydrofoil dorsal fin is a highly specialized structure with no precedent in real organisms
-Even if an organism could produce a natural hydrofoil, it doesn’t seem evolutionarily advantageous; while hydrofoiling, the animal can’t eat, mate, etc, and swimming without hydrofoiling would be cumbersome
-Having a head in the abdomen doesn’t make evolutionary sense--what would its skeleton look like?
-Its arms look really uncomfortable held over its head like that while swimming; doesn’t look like it can produce much propulsion in such an awkward position
+- It can’t see where it’s going while swimming
+- A hydrofoil dorsal fin is a highly specialized structure with no precedent in real organisms
+- Even if an organism could produce a natural hydrofoil, it doesn’t seem evolutionarily advantageous; while hydrofoiling, the animal can’t eat, mate, etc, and swimming without hydrofoiling would be cumbersome
+- Having a head in the abdomen doesn’t make evolutionary sense--what would its skeleton look like?
+- Its arms look really uncomfortable held over its head like that while swimming; doesn’t look like it can produce much propulsion in such an awkward position
 
 So, I addressed most of these and moved on to Version 1, which I posted to Reddit in both r/triathlon and r/SpeculativeEvolution.
 
@@ -56,9 +56,9 @@ Above: A mummified Edmontosaurus forefoot.  What a beautiful specimen!!
 
 Other suggestions include having a snakelike two-part lower jaw that can slot into a bike’s aero bars, that hooves are too unstable for a biped, and that running on four limbs is faster.
 
-### Version 3: Velosuchus
+### Version 3: Velosuchus triathlus
 
-By now, I feel like I’ve strayed maybe a bit too far from the original goal, and have been over-optimizing on eliminating transitions and improving the swim at the cost of actually being a good runner and cyclist.  Given the constraint that the bike has to be a regular human’s bike, maybe something more human-shaped would do better riding it.  And maybe doing the run on four legs would actually be better, like a sled dog, which can run 10-15 mph almost indefinitely (the world-record Ironman pace, set by Marino Vanhoenacker in 2011, was a 9.9 mph pace), as long as the creature also has the sled-dog’s [non-reliance on carbs](https://www.youtube.com/watch?v=HDG4GSypcIE) for fuel.  Imagining something somewhat human-shaped but quadrupedal made me think of Hallopus, a Mesozoic cursorial crocodylomorph.  Thus, Velosuchus was born.  
+By now, I feel like I’ve strayed maybe a bit too far from the original goal, and have been over-optimizing on eliminating transitions and improving the swim at the cost of actually being a good runner and cyclist.  Given the constraint that the bike has to be a regular human’s bike, maybe something more human-shaped would do better riding it.  And maybe doing the run on four legs would actually be better, like a sled dog, which can run 10-15 mph almost indefinitely (the world-record Ironman pace, set by Marino Vanhoenacker in 2011, was a 9.9 mph pace), as long as the creature also has the sled dog’s [non-reliance on carbs](https://www.youtube.com/watch?v=HDG4GSypcIE) for fuel.  Imagining something somewhat human-shaped but quadrupedal made me think of Hallopus, a Mesozoic **cursorial** crocodylomorph.  Thus, Velosuchus was born.  
 
 ![triathlon-3](/assets/triathlon-3.jpg)
 

@@ -116,7 +116,7 @@ Archosauria is the group that includes dinosaurs (including birds), crocodilians
 #### Phytosaurs
 Phytosaurs were a group of Triassic-exclusive crocodile-mimics that are less closely related to birds and true crocs than birds and crocs are to each other.  They’re distinguishable from crocs by their nostrils being up by their eyes instead of at the end of the snout.
 
-![aquatic-12](/assets/aquatic-12.jpg)
+![aquatic-12.5](/assets/aquatic-12.5.jpg)
 
 Above: Redondasaurus and babies scares off some Coelophysis in Late Triassic New Mexico.
 
@@ -149,7 +149,7 @@ Above: Goniopholis, a Late Jurassic crocodyliform from Europe and Africa.  If yo
 Image credit:
 [Goniopholis](https://www.deviantart.com/biarmosuchus/art/Mesozoic-crocodile-132064516)
 
-#### Dinosaurs (birds, Halszkaraptor, Lurdusaurus, Spinosaurs, Liaoningosaurus)
+#### Dinosaurs
 You’re probably familiar with most semi-aquatic living birds such as penguins, seabirds, waterfowl, etc., so here I’ll just cover some famous fossil forms, focusing especially on semi-aquatic non-avian dinosaurs, since they’re so uncommon.  We will start with the most birdlike and get less birdlike as we move along.
 
 ![aquatic-16](/assets/aquatic-16.jpg)
