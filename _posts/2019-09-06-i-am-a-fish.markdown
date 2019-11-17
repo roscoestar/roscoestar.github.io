@@ -50,4 +50,10 @@ Note 2: Other polyphyletic groups!
 
 - “Dinosaurs” used to include Triceratops and Tyrannosaurus and Brontosaurus, but not modern birds.  Tyrannosaurus is (much) more closely related to modern birds than it is to Triceratops, so birds must be a subset of dinosaurs.  (If I was a bird writing this blog post, the title might be “I Am A Dinosaur (And So Are You)”.)
 
-- “Tree,” believe it or not, is also a polyphyletic group.  An apple tree is more closely related to grass (they’re both angiosperms) than is is to a pine tree (a gymnosperm).  However, “tree” is too widespread and useful an English word for taxonomists to successfully co-opt into a monophyletic group.
+- “Tree,” believe it or not, is also a polyphyletic group.  An apple tree is more closely related to grass (they’re both angiosperms) than is is to a pine tree (a gymnosperm).  However, “tree” _does_ have a rigorous scientific definition as a botanical "habit".  These are the criteria:
+	- A vascular plant
+	- Has a single stem
+	- Must be capable of reaching 20 feet tall, self-supporting (vines don't count)
+	- Has wood and [secondary growth](https://en.wikipedia.org/wiki/Secondary_growth) (it gets wider as well as taller as it grows, but in a specific manner; palms don't count)
+	- Perennial (doesn't die after one season)
+Unlike phylogeny though, these criteria are more or less arbitrary, and some botanists have a more inclusive definition of "tree" that sometimes includes groups like palms, bamboo, and treeferns.

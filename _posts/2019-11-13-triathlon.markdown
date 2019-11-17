@@ -69,7 +69,7 @@ Some drawbacks Velosuchus has compared to the other two include:
 - Carries its tail around for the rest of the race as dead weight
 - No blubber (needs to keep eating throughout the race)
 
-![triathlon-5](/assets/triathlon-5.jpg)
+![hallopus](/assets/hallopus.jpg)
 
 Above: Hallopus skeletal.  “Hallopus victor” means “leaping foot winner”!  Now that’s what I want in a triathlete.
 
@@ -141,6 +141,13 @@ I’m sure that some people will disagree with some of my assumptions, especiall
 One more interesting thing to note is that the best cyclist by far is still the human, Marino Vanhoenacker.  I guess that makes sense--since bikes were designed specifically for humans to use, humans are already the most efficient users of these bikes.  Maybe in the future I’ll do a race where the nonhuman competitors are allowed to bring their own bikes...
 
 It’s also a little disappointing that the best creature design was sort of just a human in an alligator suit.  I was hoping that by doing something radically different, I could give the creature a leg up, but I guess this makes sense too--since the race is designed by humans for humans, and humans don’t like swimming very much, the swim is by far the shortest leg of the race.  If the race were designed by Velocetus for Velocetus, the swim would be the longest and the bike would be the shortest.
+
+### Edits
+I originally made this post after getting Reddit's feedback on Velocetus and Velosaurus, but not Velosuchus.  After getting a lot of good comments from r/SpeculativeEvolution, I have a few more things to say about Velosuchus:
+- As an archosaur, he should have a caudofemoralis muscle and a fourth trochanter.  That is, he should have a big, bulky, stiff tail that helps improve his hind-leg power by attaching directly to his thighbone.  This is an ancestral archosaurian trait, and is a great idea for improving his running and cycling performance.  So now I need to re-draw him with a big muscular tail.
+- He should probably wear four little dog booties while running in order to protect his delicate webbing.  This will worsen his T2 time by a couple minutes.
+- Some people, seeing a pseudosuchian, thought he must be cold-blooded.  He isn't!  There's no way an ectothermic creature would be a good racer.  Thankfully, endothermy is also the archosaurian ancestral condition, so Velosuchus has the right to be warm-blooded if I say he is.
+- Since he can't sweat, his caudal fin should be highly vascularized, like an elephant's ear, to help him keep cool during the bike and run portions.
 
 Image credits:
 [Edmontosaurus hoof](https://i.redd.it/1xvs9mf923t31.jpg)
