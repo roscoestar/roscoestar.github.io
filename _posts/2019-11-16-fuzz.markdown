@@ -140,6 +140,17 @@ So, which Heterodontosaurus is the most probable?  It’s sort of a strange pale
 ### Conclusion
 TL;DR: basically all archosauromorphs are candidates for fluff, phylogenetically, especially the small ones, all the way back to the Triassic and possibly the Permian.  Anything over the Yutyrannus threshold of 1.4 tonnes should be fluffed with extreme caution and only under extenuating circumstances.  Anything under this threshold, even things we're used to being depicted as scaly, such as the smallish spinosaurid Irritator, can be fluffed with relative confidence.
 
+### Updates
+Putting my artistic money where my mouth is, here are a couple unusual takes on dinosaur integument.
+
+![microceratus](/assets/microceratus.jpg)
+
+Above: a fluffy take on Microceratus, a small bipedal basal ceratopsian from Late Cretaceous Mongolia.  It was one of the smallest ceratopsians, at about 2 feet long and 10-20 pounds--the size of a cat.  Being so small and endothermic, I thought it could use a bit of warm fluff.  I decided not to give it any tail quills--giving any and all ceratopsians quills has been a paleoart meme since the discovery of Psittacosaurus’s quills--for the same reason as mentioned above regarding Heterodontosaurus.
+
+![gigantoraptor](/assets/gigantoraptor.jpg)
+
+Above: a naked take on Gigantoraptor, a huge oviraptorosaur from Late Cretaceous China.  It was one of the largest oviraptorosaurs (along with possibly Beibeilong), weighing between 2 and 3.6 tonnes full-grown.  That puts it well over the Yutyrannus threshold (1.4 tonnes), so we should expect it to be at least partly naked, and possibly completely naked.  That is one big plucked chicken.  I gave it little filaments on the head, shoulders, and tip of the tail to improve heat dissipation like an elephant.  Drawing a naked dino feels kind of weird, like it’s the 1970s or something.
+
 Image credits:
 [Fatbird T.rex](https://imgur.com/gallery/rmad4)
 [Doswellia](https://www.deviantart.com/eurwentala/art/The-Armadillo-heron-798808507)
