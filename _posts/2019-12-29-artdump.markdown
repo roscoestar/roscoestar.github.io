@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Christmas Art Dump"
+date:   2019-12-29 01:42:08 -0700
+categories: blog post
+---
+I got an Apple Pencil and iPad for Christmas, and have been drawing basically nonstop over the break.  I'm still getting my digital-art legs under me, but here are some of the extinct animals (and a couple extant animals) I've drawn so far!
+
+#### Earless monitor lizard
+![art-1](/assets/art-1.png)
+
+The earless monitor lizard (Lanthanotus borneensis) is a smallish (16in total length), nocturnal, semi-aquatic lizard endemic to Borneo.  I love its osteoderms--it's like a dragon!  Drawn from photo reference.
+
+#### Pangolin
+![art-2](/assets/art-2.jpg)
+
+I drew this after I learned that pangolins walk on their hind legs like little theropods!  It's as if they're trying really hard to be reptiles.  Fun fact--although pangolins are very convergent with armadillos in terms of morphology and lifestyle, armadillos are xenarthrans (the family that includes sloths and anteaters) while pangolins are most closely related to dogs and cats.  Drawn from photo references.
+
+#### Austroraptor
+![art-3](/assets/art-3.jpg)
+
+My first digital paleoart attempt--Austroraptor, a giant (~500 lb) dromaeosaur from latest Cretaceous Argentina, scaring off something larger with a threat display.  I used a picture of a Canada goose as reference.  For this drawing and all the following ones, I used palettes that can be found [here](https://lessracquetball.tumblr.com/post/167814828278/hello-all-as-my-gift-to-you-this-lovely-holiday).
+
+#### Baurusuchus
+![art-4](/assets/art-4.png)
+
+Some [research](https://onlinelibrary.wiley.com/doi/full/10.1111/joa.12439) from 2016 suggests that certain advanced notosuchians may have had external ear pinnae, and that the muscular ear-lids that modern crocs use to keep water out of their ears may have been exapted from a pinna-like structure.  However, paleoart depicting eared notosuchians is lacking!  So here is my attempt to remedy that situation.  I used a picture of a lion as reference (clearly).
+
+#### Rubidgea
+![art-5](/assets/art-5.jpg)
+
+We mammals are not very good at color vision or color production due to our long stint as nocturnal burrowers during the Age of Reptiles, but prior to that in the Permian, synapsids (stem mammals) may have been more color-oriented.  Here is Rubidgea, a gorgonopsid, a saber-toothed stem-mammal that was likely cold-blooded, in some very bright colors.  I used a picture of a painted dog as reference.
+
+#### Orobates and Orobot
+![art-6](/assets/art-6.png)
+
+Orobates was a reptile-like amphibian from Permian Germany, known from an exquisitely-preserved skeleton and associated trackway.  From these, researchers built Orobot and used machine learning to find the most energy-efficient gait that fit the anatomy and the trackway.  I used a picture of a salamander and a picture of the real Orobot as reference.
+
+#### Qianzhousaurus
+![art-7](/assets/art-7.png)
+
+Qianzhousaurus was a tyrannosaur from latest Cretaceous China, nicknamed "Pinocchio Rex" due to its long snout.  This one has the plumage of a roadrunner.
+
+#### Jeholopterus
+![art-8](/assets/art-8.png)
+
+Jeholopterus was an anurognathid pterosaur from Middle Jurassic China.  I think due to media overrepresentation of pterydactyloid pterosaurs, most people don't know that tiny frog-faced batlike nocturnal ones like this existed.  Jeholopterus is notable for an exquisitely-preserved specimen showing a comprehensive coat of pycnofibres.  Here, it stalks an ancient grasshopper (the grasshopper family has been around since the Triassic).  I used a photo of a New Zealand burrowing bat as reference.
+
+#### Spiclypeus
+![art-9](/assets/art-9.png)
+
+Here is Spiclypeus, a chasmosaur from Late Cretaceous Montana, facing away.  Art of ceratopsians from behind is really difficult to find, so I thought I'd attempt to fill that gap.  I used a photo of a bull as reference.
+
+#### Eastern garden lizard
+![art-10](/assets/art-10.png)
+
+Back to the realm of the living, we have an eastern garden lizard (Calotes versicolor), also known as the changeable lizard or the Oriental garden lizard.  These beautiful iguanids are very commonly found all over Asia, and the male gets a bright red throat during mating season.  Drawn from photo reference.
+
+#### Velafrons
+![art-11](/assets/art-11.jpg)
+
+Velafrons was a hadrosaur from Late Cretaceous Mexico.  Like deer, I made the juveniles more spotty and leggy than the adult.  The young also lack crests, since the crest is a sexual display feature that isn't needed until maturity.  The front legs are hooves, based on the new finding of a mummified Edmontosaurus forelimb that preserves a hoof structure.  I used a picture of moose as reference.
+
+#### Hoatzin
+![art-12](/assets/art-12.png)
+
+Hoatzins (Opisthocomus hoazin) are a tropical bird native to the Amazon.  The chicks have two little clawed fingers on each wing that they use for climbing around in trees before they are able to fly.  People sometimes call hoatzins "living fossils" (which is a problematic term, but that's a whole 'nother can of worms) because their lineage diverged from other birds 64 million years ago, just after the non-avian dinosaurs went extinct.  However, fowl (ducks, geese) and ratites (kiwis, ostriches) diverged well before that during the time of the dinosaurs...so can we call ducks "living fossils" too?
+
+#### Zhenyuanlong
+![art-13](/assets/art-13.png)
+
+Loveraptors: a pair of Zhenyuanlong dressed up as lovebirds.  Zhenyuanlong is notable for being a large (dog-sized) dromaeosaur with short arms but extensive and complex wing feathers.  Its large body and short arms mean that it definitely wasn't using the wings to fly, indicating that wings evolved for some other purpose (probably sexual display) and were later repurposed for flight.
