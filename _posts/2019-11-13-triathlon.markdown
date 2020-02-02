@@ -142,12 +142,21 @@ One more interesting thing to note is that the best cyclist by far is still the 
 
 It’s also a little disappointing that the best creature design was sort of just a human in an alligator suit.  I was hoping that by doing something radically different, I could give the creature a leg up, but I guess this makes sense too--since the race is designed by humans for humans, and humans don’t like swimming very much, the swim is by far the shortest leg of the race.  If the race were designed by Velocetus for Velocetus, the swim would be the longest and the bike would be the shortest.
 
-### Edits
+### Updates
 I originally made this post after getting Reddit's feedback on Velocetus and Velosaurus, but not Velosuchus.  After getting a lot of good comments from r/SpeculativeEvolution, I have a few more things to say about Velosuchus:
 - As an archosaur, he should have a caudofemoralis muscle and a fourth trochanter.  That is, he should have a big, bulky, stiff tail that helps improve his hind-leg power by attaching directly to his thighbone.  This is an ancestral archosaurian trait, and is a great idea for improving his running and cycling performance.  So now I need to re-draw him with a big muscular tail.
 - He should probably wear four little dog booties while running in order to protect his delicate webbing.  This will worsen his T2 time by a couple minutes.
 - Some people, seeing a pseudosuchian, thought he must be cold-blooded.  He isn't!  There's no way an ectothermic creature would be a good racer.  Thankfully, endothermy is also the archosaurian ancestral condition, so Velosuchus has the right to be warm-blooded if I say he is.
 - Since he can't sweat, his caudal fin should be highly vascularized, like an elephant's ear, to help him keep cool during the bike and run portions.
+
+Here are digitally colored versions of the creature pictures, incorporating these updates into Velosuchus.  Note that now that he's wearing booties on the run, his T2 time will increase to, say, 4 minutes.  That would put his final time at 7:43:15, beating Marino by only a bit over two minutes!
+
+![velocetus-2](/assets/velocetus-2.jpg)
+
+![velosaurus-2](/assets/velosaurus-2.jpg)
+
+![velosuchus-2](/assets/velosuchus-2.jpg)
+
 
 Image credits:
 [Edmontosaurus hoof](https://i.redd.it/1xvs9mf923t31.jpg)

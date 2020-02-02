@@ -20,10 +20,10 @@ Once they could fly, pterosaurs quickly diversified into a variety of shapes and
 
 Above: A simplified pterosaur family tree, approximately to scale.  The green band represents the Triassic (we begin in the late Triassic here), the orange is Jurassic and the red is Cretaceous.  When a line ends, it means that group has gone extinct.  Note that this is not a comprehensive list of families; there are many genera that don’t fall into any of these groups.
 
-The first four groups--Eopterosauria, Dimorphodontia, Rhamphorhynchidae, and Anurognathidae--together make up the “Rhamphorhynchoids,” while the last three--Archaeopterodactyloidea, Azhdarchoidea, and Pteranodontia--make up the Pterodactyloids.  “Rhamphorhynchoids” is in quotes because it’s a **paraphyletic group**.  You can see why based on this tree: any clade containing Eopterosauria and Dimorphodontia, for example, must also contain Azhdarchoidea and Pteranodontia.  Effectively, calling something a “Rhamphorhynchoid” is just saying it’s a pterosaur that’s _not_ a Pterodactyloid.
+The first four groups--Eopterosauria, Dimorphodontia, Rhamphorhynchidae, and Anurognathidae--together make up the “rhamphorhynchoids,” while the last three--Archaeopterodactyloidea, Azhdarchoidea, and Pteranodontia--make up the pterodactyloids.  “Rhamphorhynchoids” is in quotes because it’s a **paraphyletic group**.  You can see why based on this tree: any clade containing Eopterosauria and Dimorphodontia, for example, must also contain Azhdarchoidea and Pteranodontia.  Effectively, calling something a “rhamphorhynchoid” is just saying it’s a pterosaur that’s _not_ a pterodactyloid (and indeed, sometimes scientists refer to this group as the non-pterodactyloid pterosaurs).
 
 ### Rhamphorhynchoidea
-Even though it’s a paraphyletic group, “Rhamphorhynchoids” do have a lot of features in common.  They have toothy jaws, or beaks that contain teeth; long tails; a sprawling quadrupedal stance; and they tend to be relatively small, with wingspans of usually 8 feet or less.  They also tended not to have the extravagant head crests favored by many Pterodactyloids, though some did sport some extreme headgear before it was cool.
+Even though it’s a paraphyletic group, “rhamphorhynchoids” do have a lot of features in common.  They have toothy jaws, or beaks that contain teeth; long tails; a sprawling quadrupedal stance; and they tend to be relatively small, with wingspans of usually 8 feet or less.  They also tended not to have the extravagant head crests favored by many pterodactyloids, though some did sport some extreme headgear before it was cool.
 
 #### Eopterosauria
 Meaning “dawn wing lizard,” Eopterosauria includes the most ancient pterosaurs we know of.  Some famous members include Caviramus, Preondactylus, and Eudimorphodon.
@@ -36,11 +36,11 @@ Further reading: [Caviramus details](http://markwitton-com.blogspot.com/2016/03/
 
 #### Dimorphodontia
 
-Meaning “two form tooth,” Dimorphodontids look kind of like someone popped a theropod’s head onto a pterosaur’s body.  Famous examples include Dimorphodon (of Jurassic World fame) and Caelestiventus, described in 2018 (pictured below).
+Meaning “two form tooth,” dimorphodontids look kind of like someone popped a theropod’s head onto a pterosaur’s body.  Famous examples include Dimorphodon (of Jurassic World fame) and Caelestiventus, described in 2018 (pictured below).
 
 ![pterosaur-3](/assets/pterosaur-3.jpg)
 
-Above: Caelestiventus, an early Dimorphodontid pterosaur from the Late Triassic, 208 MYA, described in 2018.  It had a 5-foot wingspan and lived in the desert, unusual for “Rhamphorhynchoids”.
+Above: Caelestiventus, an early dimorphodontid pterosaur from the Late Triassic, 208 MYA, described in 2018.  It had a 5-foot wingspan and lived in the desert, unusual for “rhamphorhynchoids”.  Note that this batlike upside-down pose is artistic license--pterosaurs had **plantigrade** feet not unlike our own, which would've been good for walking around on the ground but useless for grasping.
 
 Further reading: [Caelestiventus discovery](http://www.sci-news.com/paleontology/caelestiventus-hanseni-triassic-pterosaur-06304.html)
 
@@ -52,7 +52,7 @@ Rhamphorhynchids were well-known Jurassic pterosaurs with long, slender snouts w
 
 Above: Rhamphorhynchus, imagined with coloration reminiscent of a seabird.
 
-Note the difference between the very similar-sounding words (in order of increasing narrowness): “Rhamphorhynch-OIDS” are the whole paraphyletic group of toothy, small, long-tailed pterosaurs; Rhamphorhynch-IDS are a clade of fish-eating pterosaurs that include Rhamphorhynch-US, a genus of pterosaur. 
+Note the difference between the very similar-sounding words (in order of increasing narrowness): “rhamphorhynch-OIDS” are the whole paraphyletic group of toothy, small, long-tailed pterosaurs; rhamphorhynch-IDS are a clade of fish-eating pterosaurs that include Rhamphorhynch-US, a genus of pterosaur. 
 
 #### Anurognathidae
 
@@ -67,9 +67,9 @@ Above: Anurognathus chasing a bug in Jurassic Germany.
 Above: A group of Anurognathus in a speculative tree hole nest.  We don’t know if they were social, but since bats are and the two groups are so convergent in other ways, it’s not a bad guess.
 
 ### Pterodactyloidea
-Up to this point, the pterosaurs we’ve looked at have been small and, even though their appearance is somewhat alien, the niches that they fill are familiar.  Eopterosaurians soared and ate whatever they could find, like seagulls; Dimorphodontids killed small stem-lizards and stem-mammals, like hawks; Rhamphorhynchids dove for fish like cormorants; and Anurognathids caught insects on the wing like bats.  However, something would soon out-compete pterosaurs in these niches: birds.  The advent of birds that could do everything pterosaurs could do, but better\*, required pterosaurs to adapt to doing things that birds couldn’t do--get huge.  Birds are limited in size by their heavy, muscular legs, which need to be strong enough to launch them into the air for takeoff.  At larger sizes, these can become prohibitively heavy (since the strength of a muscle depends on its cross-sectional area while its weight depends on its volume, the [square-cube law](https://en.wikipedia.org/wiki/Square%E2%80%93cube_law) applies.  That’s why insects are so proportionally strong!).  Pterosaurs, which took off by [pole-vaulting](https://www.youtube.com/watch?v=CRk_OV2cDkk) over their front arms, were able to reduce their legs into skinny little twigs to save weight.  In many giant pterosaurs, their thighbones were skinnier than their finger bones!  This made a huge difference in maximum size--the largest flying bird ever, Pelagornis, had a wingspan of up to 24 feet and weighed up to 88 pounds, while the largest flying pterosaur ever, Quetzalcoatlus, had a wingspan of up to 36 feet and weighed up to 550 pounds!
+Up to this point, the pterosaurs we’ve looked at have been small and, even though their appearance is somewhat alien, the niches that they fill are familiar.  Eopterosaurians soared and ate whatever they could find, like seagulls; dimorphodontids killed small stem-lizards and stem-mammals, like hawks; rhamphorhynchids dove for fish like cormorants; and anurognathids caught insects on the wing like bats.  However, something would soon out-compete pterosaurs in these niches: birds.  The advent of birds that could do everything pterosaurs could do, but better\*, required pterosaurs to adapt to doing things that birds couldn’t do--get huge.  Birds are limited in size by their heavy, muscular legs, which need to be strong enough to launch them into the air for takeoff.  At larger sizes, these can become prohibitively heavy (since the strength of a muscle depends on its cross-sectional area while its weight depends on its volume, the [square-cube law](https://en.wikipedia.org/wiki/Square%E2%80%93cube_law) applies.  That’s why insects are so proportionally strong!).  Pterosaurs, which took off by [pole-vaulting](https://www.youtube.com/watch?v=CRk_OV2cDkk) over their front arms, were able to reduce their legs into skinny little twigs to save weight.  In many giant pterosaurs, their thighbones were skinnier than their finger bones!  This made a huge difference in maximum size--the largest flying bird ever, Pelagornis, had a wingspan of up to 24 feet and weighed up to 88 pounds, while the largest flying pterosaur ever, Quetzalcoatlus, had a wingspan of up to 36 feet and weighed up to 550 pounds!
 
-Unfortunately, the pterosaurs’ “decision” to go big or go home ended with them, well, going home.  In times of scarcity, such as the nuclear winter following the asteroid impact that wiped out the dinosaurs, the largest animals tend to die out first, since they require more resources to stay alive.  Birds, being small, suffered but bounced back; pterosaurs were not so lucky.  Since then, though, no other animals have been able to fill that niche, leaving pterosaurs’ records as the largest creatures ever to fly unchallenged.
+Unfortunately, the pterosaurs’ strategy of going big or going home ended with them, well, going home.  In times of scarcity, such as the nuclear winter following the asteroid impact that wiped out the dinosaurs, the largest animals tend to die out first, since they require more resources to stay alive.  Birds, being small, suffered but bounced back; pterosaurs were not so lucky.  Since then, though, no other animals have been able to fill that niche, leaving pterosaurs’ records as the largest creatures ever to fly unchallenged.
 
 Pterodactyloids shared more features than just size--they tended to lack teeth, have short tails and elongated hand-bones, and many had extravagant head crests.
 
@@ -91,9 +91,9 @@ Above: Pterodaustro, the Cretaceous flamingo (or, flamingos are the Holocene Pte
 
 This is the group containing the very largest pterosaurs, and also the ones with the most fantastic headgear.  They were likely terrestrial stalkers, hunting small prey like dinosaur hatchlings on all fours on the ground.  Famous examples include Quetzalcoatlus, Tapejara, Hatzegopteryx, and Azhdarcho.
 
-![pterosaur-9](/assets/pterosaur-9.jpg)
+![tupan](/assets/tupan.jpg)
 
-Above: Tupandactylus, an Early Cretaceous Tapejarid from Brazil.  Some paleontologists speculate that it may have used its head crest like a rudder to steer while flying, but others say it was purely for display.
+Above: Tupandactylus, an Early Cretaceous Tapejarid from Brazil.  Some paleontologists speculate that it may have used its head crest like a rudder to steer while flying, but others say it was purely for display.  A new [study](https://www.nature.com/articles/s41598-019-52318-y) indicatees that the crest might actually have been blue.
 
 ![pterosaur-10](/assets/pterosaur-10.png)
 
