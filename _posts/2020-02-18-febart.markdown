@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "February: More Art"
+date:   2020-2-18 01:42:08 -0700
+categories: blog post
+---
+Lately, I've been doing a lot more drawing and less writing.  Here is some of what I've been working on!
+
+#### Gorgosaurus
+![febart-1](/assets/febart-1.png)
+
+Gorgosaurus was a medium-sized tyrannosaur from Late Cretaceous North America.  It coexisted with another extremely similar tyrannosaur, Daspletosaurus, and scientists still don't know how they handled their niche-partitioning.  I wanted to get onboard with all the beautiful dinosaur portraits that have become popular lately, but this really didn't turn out the way I'd hoped.  Maybe next time...
+
+#### Abydosaurus
+![febart-2](/assets/febart-2.jpg)
+
+Abydosaurus was a brachiosaur from Early Cretaceous Utah, which is known from a nearly complete skull, rare for a sauropod.  I've given this one some colorful nasal display/air conditioning soft tissue, some droopy neck skin, and a beak to protect its long pencil-like teeth (new research indicates that sauropods may have had toothy beaks).  I'm a lot happier with how this portrait came out--it looks somewhat less cartoony, I guess.
+
+#### Shringasaurus
+![febart-3](/assets/febart-3.jpg)
+
+This is a digital "remastering" of a previous ink drawing I had done of Shringasaurus, an archosauromorph reptile from Middle Triassic India.  Since new research shows that a closely related genus, Azendohsaurus, was definitively warm-blooded, I thought I'd give its more charismatic relative a fluffy coat to keep warm.  Shringasaurus males had interesting forward-raked horns, while the females had none; pictured here is a male and female mated pair.  Unfortunately, they turned out looking like...pajama yetis?
+
+#### Liaoxipterus
+![febart-4](/assets/febart-4.jpg)
+
+I was inspired to draw this genus after listening to the Common Descent Podcast's episode on pterosaurs.  Liaoxipterus was an istiodactylid pterosaur from Early Cretaceous China whose hyoid (throat) bone closely resembles that of modern chameleons, leading some scientists to hypothesize that it may have had a similar long, sticky tongue!  I based the coloration on Amazonian milk frogs, but instead it ended up looking more like some kind of superhero.  For this one I went back to the same [palettes](https://lessracquetball.tumblr.com/post/167814828278/hello-all-as-my-gift-to-you-this-lovely-holiday) I'd been using in my previous "art dump".
+
+#### Dsungaripterus
+![febart-5](/assets/febart-5.jpg)
+
+Here's another exploration into alternative pterosaur lifestyles, with the "oystercatcher" azhdarchoid Dsungaripterus, also from Early Cretaceous China.  Its upturned beak and crushing molars indicate a **durophagous** (shell-crushing) diet.  It's also in the running for "ugliest pterosaur ever"--what do you think?
+
+#### Gull Identification Flowchart
+![febart-6](/assets/febart-6.png)
+
+And now for something completely different... I had taken a photo of a seagull that I wanted to identify, and it turns out there were basically no tools I could find that would help me, a beginner birder, to pin down what type of gull I was looking at.  So, I did a whole bunch of research and created my own.  I posted a preliminary version on Reddit and got some feedback (r/birding has some people with really sharp eyes, go figure), and here is the final version.  Let me know if it helps you!
+
+#### Dinosaurs of the Latest Cretaceous
+![febart-7](/assets/febart-7.png)
+
+Lastly, here's another infographic that has been a long time in the works.  This is a comprehensive map of all the ornithodirans (dinosaurs and pterosaurs) that lived 66 million years ago, right before the asteroid struck the Yucatan Peninsula.  Nothing is to scale and the colors are all guesswork!  But here are a couple things to note while looking at this.  First, a lot of people (on Reddit and also in real life) seemed surprised that all the main landmasses were recognizable; they'd imagined that all dinosaurs lived on Pangaea.  The Mesozoic spanned a LONG time--indeed, the first dinosaurs did live on Pangaea, but remember that Tyrannosaurus lived closer in time to the iPhone than to Stegosaurus, and Stegosaurus wasn't even a primitive dinosaur!  By the end of the Cretaceous, all the major continents had reached almost their modern positions with two major differences: India and South America were both still islands.  The other thing to notice is the ridiculous diversity of ornithopods (the "duck-billed" dinosaurs) and oviraptorosaurs (the ones that look like big chickens), especially in Asia.  How all these very similar genera were able to niche-partition in order to avoid competing with one another is still not well understood.
