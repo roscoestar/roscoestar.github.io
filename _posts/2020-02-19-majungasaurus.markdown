@@ -5,7 +5,9 @@ date:   2020-02-19 01:42:08 -0700
 categories: profile
 ---
 Family tree: Theropoda > Ceratosauria > Abelisauridae > Carnotaurinae > Majungasaurinae
+
 Hometown: Madagascar, 70-66 mya (Late Cretaceous)
+
 Discovered 1896, described 1955 (originally one of 50 species mistaken for Megalosaurus)
 
 ![majung-1](/assets/majungasaurus-1.jpg)

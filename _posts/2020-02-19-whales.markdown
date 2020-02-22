@@ -19,18 +19,22 @@ Just a couple million years later, Pakicetus appeared on the scene.  This was an
 Above: Pakicetus, the croc whale.
 
 ### Niche 3: Let’s Work On Swimming
-Shortly thereafter (47.8-41.3 Ma), the dominant group of early whales became the ambulocetids, including Ambulocetus itself, the “walking whale.”  This animal had a body plan much more specialized for swimming, with very short limbs and large hands and feet, and its eyes had moved back to the sides of its head rather than the top.  It probably lived like a teleosaur--still an ambush predator, but trending more fully-aquatic.
+Shortly thereafter (47.8-41.3 Ma), the dominant group of early whales became the ambulocetids, including Ambulocetus itself, meaning “walking whale.”  This animal had a body plan much more specialized for swimming, with very short limbs and large hands and feet, and its eyes had moved back to the sides of its head rather than the top.  It probably lived like a teleosaur--still an ambush predator, but trending more fully-aquatic.
 
 ![ambulocetus](/assets/ambulocetus.jpg)
 
-Above: Ambulocetus, the teleosaur whale.
+Above: Ambulocetus, the teleosaur whale.  By the way, this is what a teleosaur looked like:
+
+![machimosaurus](/assets/machimosaurus.jpg)
+
+Above: Machimosaurus, a very large teleosaur from Late Jurassic-Early Cretaceous Europe.
 
 ### Niche 4: Otters Before It Was Cool
 By the middle of the Eocene (46-43 Ma), a new group of cetaceans had shown up, the Remingtonocetids.  These were streamlined foot-swimmers that probably lived like modern otters, hunting in the water but no slouch on land either.
 
 ![kutchicetus](/assets/kutchicetus.png)
 
-Above: Kutchicetus, the “otter whale”.  It was the smallest Eocene cetacean.
+Above: Kutchicetus, the otter whale.  It was the smallest Eocene cetacean.
 
 ### Niche 5: Seal Update
 The next group to rise to prominence is called the protocetids, a very diverse group that covered a lot of time and a lot of different niches.  One of the earliest is Rodhocetus, a powerful fully-aquatic foot-swimmer in the manner of seals.
@@ -78,6 +82,7 @@ Whales secondarily returned to the oceans very rapidly in the Eocene, traveling 
 Another thing to think about is the fact that we live alongside the largest animal ever, the blue whale, which weighs up to 177 tonnes--twice as heavy as the largest sauropods.  Why were whales able to get so big just recently, while no aquatic creature could in the past?  Scientists aren’t sure, but a leading theory is the current lack of giant aquatic predators.  Sperm whales are the largest predators to ever live, but they don’t prey on other vertebrates, instead hunting giant squid in the deepest parts of the ocean; the last living predator a fully-grown whale needed to worry about was Megalodon, which went extinct 3.6 million years ago.  This is right around when the truly giant whales appeared.  Maybe being smaller and more nimble was helpful in avoiding super-predators, but once those disappeared, being large was helpful in warding off smaller threats.
 
 Just for fun, here’s a list of the largest animals in various categories, from biggest to smallest.
+
 | Category                       | Genus                                                                       | Length (m) | Weight (tonnes)|
 | ------------------------------ | --------------------------------------------------------------------------- | ---------- | -------------- |
 | Animal                         | Blue whale                                                                  | 29.9       | 177            |
