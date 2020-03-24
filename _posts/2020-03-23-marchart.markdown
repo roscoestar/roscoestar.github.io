@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "March Art"
+date:   2020-03-23 01:42:08 -0700
+categories: blog post
+---
+I've been doing a lot of art lately, because of the quarantine.  Here's what I've been working on!
+
+#### Velociraptor and Catopsbaatar
+![velociraptor](/assets/velociraptor.jpg)
+
+Velociraptor was a turkey-sized dromaeosaur from Late Cretaceous Mongolia, and Catopsbaatar was a multituberculate mammal from the same time and place.  I was going for a cat-brought-a-gift-to-your-doorstep feel.  No, Velociraptor's tail probably couldn't bend to such a degree, but I couldn't fit it in the frame otherwise.  Artistic license...
+
+#### Ianthasaurus
+![ianthasaurus](/assets/ianthasaurus.png)
+
+Ianthasaurus was a stem mammal from the late Carboniferous, very soon after the split between the mammal and reptile lineages.  Edaphosaurs like Ianthasaurus were a group of sail-backed herbivores whose cross-bars on their sail-bones may have supported keratinous spines.  They were cold-blooded, so here our scaly subject is sunbathing.
+
+#### Stenopterygius
+![stenopterygius-b](/assets/stenopterygius-b.png)
+
+On the same exquisitely-preserved specimen that showed us that ichthyosaurs had blubber (and were thus definitely warm-blooded), scientists have found preserved melanophores.  These are special pigmented cells that may even have allowed the animal to change color!  Here are three different color morphs of Stenopterygius, an early Jurassic ichthyosaur.  The idea is that an individual could change to look like any of these.
+
+#### Barylambda
+![barylambda](/assets/barylambda.jpg)
+
+Barylambda looks like a bear (especially the way I've drawn it), but it's actually a member of the pantodonts, one of the first groups to get really large after the extinction of the non-avian dinosaurs 66 million years ago.  To me, pantodonts look sort of uncannily similar to the last large synapsids that dominated global ecosystems at the end of the Permian period--it's almost as if mammals put their evolution on pause during the Age of Reptiles, and picked right back up where they left off.  (Of course, that's not actually what happened--pantodonts, and today's mammals, are the descendants of the small rodent-like cynodonts that survived the Great Dying.)
+
+Barylambda was a bear-sized herbivore with a long, heavy tail that it may have used as a prop for rearing up.  The males had large canine teeth for intraspecific competition; this is a male in a threat display.
+
+The thermal-camera colors don't really mean anything; it's just for fun!
+
+#### Maiacetus
+![maiacetus](/assets/maiacetus.jpg)
+
+You may know that Maiacetus, a stem whale from the Eocene of Pakistan, means "mother whale" because the holotype was found with a fetus preserved within its mother's womb.  But did you know that said fetus was facing with its head toward the mother's tail?  That means that Maiacetus still gave birth on land--all viviparous aquatic animals give birth tail-first so that the fetus doesn't drown in the event of a prolonged birth.  Modern seals give birth and nurse their pups on land; Maiacetus and other early cetaceans probably engaged in similar behavior.
+
+Someone told me this looked like a Wiki How illustration.  How to take care of your naked sea pigs?
