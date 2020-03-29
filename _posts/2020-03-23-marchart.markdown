@@ -36,3 +36,8 @@ The thermal-camera colors don't really mean anything; it's just for fun!
 You may know that Maiacetus, a stem whale from the Eocene of Pakistan, means "mother whale" because the holotype was found with a fetus preserved within its mother's womb.  But did you know that said fetus was facing with its head toward the mother's tail?  That means that Maiacetus still gave birth on land--all viviparous aquatic animals give birth tail-first so that the fetus doesn't drown in the event of a prolonged birth.  Modern seals give birth and nurse their pups on land; Maiacetus and other early cetaceans probably engaged in similar behavior.
 
 Someone told me this looked like a Wiki How illustration.  How to take care of your naked sea pigs?
+
+#### Scleromochlus
+![scleromochlus](/assets/scleromochlus.gif)
+
+Here's Scleromochlus, the saltatorial ornithodiran from Late Triassic Scotland.  This little nocturnal xerocole is often cited as an early ancestor of pterosaurs.  This gif is actually a digital "remastering" of one of my Inktober drawings from last year.  Boing!
