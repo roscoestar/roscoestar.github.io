@@ -97,3 +97,32 @@ Two sauropodomorphs in a row!  Mussaurus was a medium-sized (one tonne) sauropod
 ![notatesseraeraptor](/assets/notatesseraeraptor.png)
 
 Notatesseraeraptor was a basal theropod from Late Triassic Switzerland, described just last year.  It appears to represent a transitional form between the more basal coelophysoids and the later dilophosaurids, showing a mosaic of traits found in both groups--hence its name, meaning "trait mosaic thief".  The background is based on azulejos, the traditional Portuguese mosaic tiles (which you may recognize from the awesome board game, Azul).
+
+#### O is for Ouranosaurus
+![ouranosaurus](/assets/ouranosaurus.png)
+
+Ouranosaurus was an iguanodont from Early Cretaceous Niger.  It was a 2-4 tonne beaked herbivore with tall neural spines that formed a sail or a hump, and large thumb claws for defense.  Ouranosaurus means "brave reptile," so this one is waving its claws in a threat display.  The coloration is loosely based on that of a Przewalski's horse.
+
+#### P is for Pantydraco
+![pantydraco](/assets/pantydraco.png)
+
+Pantydraco (meaning "hollow of the dragon" in Welsh--why are you laughing?) was a sauropodomorph from Late Triassic Wales.  The ancestral condition of both theropods and sauropods was bipedal carnivory, so early sauropodomorphs were omnivorous before switching entirely to herbivory.  The type species, caducus, means "fallen" because the holotype specimen appeared to have fallen into a fissure and died there.  So, here's the individual who is about to become the holotype, failing to watch his step.
+
+#### Q is for Qantassaurus
+![qantassaurus](/assets/qantassaurus.png)
+
+Qantassaurus was a small ornithopod from Early Cretaceous Australia, when the continent was still connected to Antarctica.  It was probably related to the slightly larger and more famous Leaellynasaura.  Qantassaurus was named after the Australian airline, QANTAS (Queensland And Northern Territory Air Service) due to their help with and sponsorship of paleontological efforts in the '90s.  This picture is in the style of the QANTAS logo.
+
+Qantassaurus was a polar dinosaur and would have experienced months-long nights and well below freezing conditions.  Given its small size, it was probably very fluffy to insulate against the harsh conditions.  The amount of fluff I've given it here is actually probably conservative.
+
+#### R is for Rubeosaurus
+![rubeosaurus](/assets/rubeosaurus.png)
+
+Rubeosaurus (meaning "thornbush reptile") was a ceratopsian from Late Cretaceous Montana.  It was very closely related to the similarly spiky Styracosaurus, in the family Centrosaurinae (the other main family of ceratopsians was the Chasmosaurinae, which includes Triceratops).  Those top two horns grew toward each other, which makes me wonder if in old individuals they could've fused at the top.  This Rubeosaurus is peering out from within, well, a thornbush.
+
+#### S is for Scelidosaurus
+![scelidosaurus](/assets/scelidosaurus.gif)
+
+Scelidosaurus was a basal thyreophoran (armored dinosaur, the group containing plate-backed stegosaurs and tank-like ankylosaurs) from Early Jurassic England.  Along with Scutellosaurus, it shows the transition between the ancestral ornithischian "lightweight bipedal runner" body plan and the derived "siege engine" body plan.  The other creature depicted here is Dimorphodon, an early pterosaur.  It was famously depicted in Jurassic World as a T-rex-headed hellbat, which many viewers unfamiliar with paleontology thought was made up.  It does sort of look like a theropod-headed pterosaur, but it was a rather diminutive creature that hunted small prey on the ground, and definitely wasn't capable of carrying off screaming humans clutched in its feet. (Pterosaurs had walking feet, not grabbing feet, anyway.) Here, a curious Dimorphodon startles a browsing Scelidosaurus.
+
+Scelidosaurus means "rib of beef reptile" because Richard Owen, who described and named it in 1859, erroneously thought "scelido" meant "leg" in Greek (the prefix he was looking for is "scelodo").  The funny thing is, since then, numerous other animals have also been named after ribs of beef, such as Scelidotherium, Scelidodon, Scelidocetus, Scelidomachus, and Scelidotoma.  I guess Richard Owen ended up just changing Greek, or creating a taxonomy meme, or something.
