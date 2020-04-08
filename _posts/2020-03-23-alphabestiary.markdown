@@ -4,7 +4,7 @@ title:  "Alphabestiary"
 date:   2020-03-23 01:43:08 -0700
 categories: blog post
 ---
-I was inspired by the awesome paleoart blog, [Nix Draws Stuff](https://alphynix.tumblr.com), who did a dinosaur "alphabestiary" a few years ago.  Here is my own attempt at one dinosaur per letter per day.  I'm not finished yet, but I'll keep updating this as I go!
+I was inspired by Ceri Thomas's awesome paleoart blog, [Nix Draws Stuff](https://alphynix.tumblr.com), which did a dinosaur "alphabestiary" a few years ago.  Here is my own attempt at one dinosaur per letter per day.  Some of them are even animated.  Enjoy!
 
 #### A is for Animantarx
 ![animantarx](/assets/animantarx.jpg)
@@ -126,3 +126,48 @@ Rubeosaurus (meaning "thornbush reptile") was a ceratopsian from Late Cretaceous
 Scelidosaurus was a basal thyreophoran (armored dinosaur, the group containing plate-backed stegosaurs and tank-like ankylosaurs) from Early Jurassic England.  Along with Scutellosaurus, it shows the transition between the ancestral ornithischian "lightweight bipedal runner" body plan and the derived "siege engine" body plan.  The other creature depicted here is Dimorphodon, an early pterosaur.  It was famously depicted in Jurassic World as a T-rex-headed hellbat, which many viewers unfamiliar with paleontology thought was made up.  It does sort of look like a theropod-headed pterosaur, but it was a rather diminutive creature that hunted small prey on the ground, and definitely wasn't capable of carrying off screaming humans clutched in its feet. (Pterosaurs had walking feet, not grabbing feet, anyway.) Here, a curious Dimorphodon startles a browsing Scelidosaurus.
 
 Scelidosaurus means "rib of beef reptile" because Richard Owen, who described and named it in 1859, erroneously thought "scelido" meant "leg" in Greek (the prefix he was looking for is "scelodo").  The funny thing is, since then, numerous other animals have also been named after ribs of beef, such as Scelidotherium, Scelidodon, Scelidocetus, Scelidomachus, and Scelidotoma.  I guess Richard Owen ended up just changing Greek, or creating a taxonomy meme, or something.
+
+#### T is for Thanos
+![thanos](/assets/thanos.gif)
+
+Everyone got really excited when this new dinosaur was described in 2018--it's named after the Marvel character!  I'm definitely not the first to give him chin folds and purple coloration, but I think this is the first animation out there.  Thanos was a medium-sized abelisaur (the group of "mouth with legs" carnivores including Carnotaurus and Ekrixinatosaurus) from Late Cretaceous Brazil, known from a single neck vertebra.  I think it's pretty cool that paleontologists can place an animal in a pretty precise position on the tree of life based on just a vertebra!
+
+#### U is for Unenlagia
+![unenlagia](/assets/unenlagia.png)
+
+Unenlagia (meaning "half-bird") was a dromaeosaur from Late Cretaceous Argentina.  It was a member of the eponymous Unenlagiinae, a group of slender, long-snouted dromaeosaurs that were common in the Southern Hemisphere, as eudromaeosaurs populated the Northern.  The long snouts led paleontologists to think of the family as piscivores, maybe similar in lifestyle to modern herons.  Here, Unenlagia swallows a large fish.  This probably isn't even the biggest thing it could swallow whole.  You can cage a swallow, can't you, but you can't swallow a cage, can you?
+
+With this drawing, I was attempting to emulate the style of the artist calling themself [Small Microraptor](www.deviantart.com/smallmicroraptor). Turns out this is a pretty nice style!
+
+#### V is for Vespersaurus
+![vespersaurus](/assets/vespersaurus.png)
+
+Vespersaurus (meaning "evening reptile") was a noasaurid ceratosaur (relative of abelisaurs like Carnotaurus) from Late Cretaceous Brazil, described just last year.  It was known from its distinctive trackways (fossilized footprints) long before its bones were discovered.  Vespersaurus's feet were unique: it walked on a single toe, with two reduced toes held up next to it, sort of like a primitive horse or a short-faced kangaroo.  Monodactyly seems to be an adaptation for fast running in arid climates, which may have aided Vespersaurus in chasing down skittering prey, like this lizard.  Noasaurids in general were a strange and diverse group of dinosaurs, which survived right up to the end of the Cretaceous period.  Masiakasaurus had wicked outward-pointing teeth, while Limusaurus had a toothless beak.
+
+#### W is for Wannanosaurus
+![wannanosaurus](/assets/wannanosaurus.png)
+
+Wannanosaurus was a very small basal pachycephalosaur (the head-butting dinosaurs) from Late Cretaceous China.  Here is one with a fluffy integument, taking a break and not head-butting anyone.  Pachycephalosaurs were one of the last major dinosaur groups to arise before the end of the Mesozoic.  Their closest cousins were the ceratopsians (horned faced dinosaurs, including Triceratops).
+
+#### X is for Xenoposeidon
+![xenoposeidon](/assets/xenoposeidon.png)
+
+Xenoposeidon was a (possibly) rebbachisaurid sauropod from Early Cretaceous England.  Its name means "strange Poseidon," in reference to the existing genus Sauroposeidon ("reptile Poseidon," which makes about as much sense).  Very little is known about Xenoposeidon because it's known only from a single vertebra.
+
+#### Y is for Yi
+![yi](/assets/yi.gif)
+
+Yi (meaning "wing") was a one-pound scansoriopterygid from Late Jurassic China, and it's basically a real-life dragon.  This dinosaur group had batlike membranous wings supported by two points, their third finger, and a non-finger "styliform" bone attached to the wrist.  They also had feathers on their body and tail.  There are only a few known genera of scansoriopterygid: Epidexipteryx (whose fossil preserved the four long ribbonlike tail feathers I've given Yi here), Scansoriopteryx, Ambopteryx, Yi, and maybe Pedopenna.  Before Yi was discovered in 2015, nobody knew what these dinosaurs' long fingers were for--some suggested they poked them into trees like an aye-aye.  But the holotype of Yi preserved the wing membrane, changing the way we understood this group entirely.
+
+It's unclear whether scansoriopterygids were capable of powered flight, or if they just glided, but based on this new [research](https://phys.org/news/2020-02-gliding-animals-fine-tuned-evolution.html) into the evolutionary trends of gliding animals, I'd bet that they were gliders.  Unlocking true powered flight would've presumably spurred explosive diversification, but just adapting to glide better fits with the fact that only a few types of scansoriopterygids are known, and all of them are very similar.
+
+Here, Yi launches off a tree to glide to another, like a flying squirrel.  I don't actually know if there's evidence one way or another for them being nocturnal or diurnal--if you know, please tell me!
+
+#### Z is for Zuul
+![zuul](/assets/zuul.gif)
+
+Zuul was an ankylosaur from Late Cretaceous Montana, described in 2017 and named after the demon dog from Ghostbusters.  Its species name, crurivastator, means "destroyer of shins" because of the animal's low-slung stance and formidable tail weapon.  A beautifully-preserved, nearly complete skeleton has been found and is being prepared, but as of now only the head and tail have been formally described.  Did you know that ankylosaurs almost always fossilize upside-down?  All that heavy armor on their backs means that if they end up in water, they flip over.  Zuul was no exception.
+
+Ankylosaur fossils are particularly cool because, since much of their bodies were covered in osteoderms that fossilize easily, we know their life appearance almost exactly.  Same with placoderms like Dunkleosteus and many invertebrates like eurypterids and trilobites.
+
+And with that, we've reached the end of the Alphabestiary!  Hope you enjoyed my selections.  I had a good time doing all these in quarantine.  Maybe I'll do another theme in a little while.  Thanks for reading all the way to the end!

@@ -7,6 +7,7 @@ categories: blog post
 
 I thought it would be useful to share some recommendations for other places to consume paleontology media, news, art, etc.  Here are a few of my favorites--definitely not a comprehensive list!
 
+## Videos, Documentaries, and Podcasts
 ### The Common Descent Podcast
 Type: podcast
 
@@ -15,6 +16,51 @@ Creators: Will Harris and David Moscato, paleontologists and science communicato
 Audience: paleo fans, novice to fanatic
 
 I'm not generally a big podcast person because of the large proportion of podcasts that are just two guys chatting aimlessly for an hour or so.  But this paleontology podcast is extremely focused and organized, while also being funny and entertaining.  They have a great format: first they share four paleontology news pieces in the first half hour, distilling the important parts and putting them in context with other research or implications.  This makes the content way more memorable and easily understandable than reading the journal paper itself, but has more depth than you'd get from reading a sci-news article.  Then, they take an hour to discuss the main episode topic--one host presents, following a well-thought-out outline, but leaves room for the other host, who is listening, to interject with questions, clarifications, or jokes.  They also do special series in which they talk about movies, interview scientists, or design creatures, which are also great.  You can find them on [Podbean](https://commondescentpodcast.podbean.com), the Podcasts app, [Patreon](https://www.patreon.com/commondescentpodcast), and [their blog](http://commondescentpodcast.wordpress.com).
+
+### PBS Eons
+Type: Youtube channel
+
+Creators: PBS Digital Studios, hosted by Hank Green, Kallie Moore, and Blake de Pastino
+
+Audience: everyone
+
+This channel is super accessible, well-written, and well-produced.  Each episode, one of the hosts presents an overview of a paleontological topic, from specific animal groups or adaptations, to climatic or geologic changes, to sweeping sagas of the entire history of the world.  I really like how it starts with the very basics but ends up going pretty deeply into each topic; it also gives some time to how we know what we know based on specific fossils.  You can find their channel [here](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) and their Patreon [here](https://www.patreon.com/eons).
+
+### TierZoo
+Type: Youtube channel
+
+Creator: ???
+
+Audience: gamers who are interested in biology and paleontology
+
+This channel is basically the Youtube version of r/outside: people talking about real life as if it's a video game.  In TierZoo's videos, they rank various animal "builds" into viability tiers, talk about special abilities and unique strategies, and discuss how "balance patches" (extinction events) have affected the "meta" throughout history.  It's great content, and a lot of the video footage is documentary quality (with health bars, sound effects, and in-game chat added, of course).  Find the channel [here](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw).
+
+### Trey the Explainer
+Type: Youtube channel
+
+Creator: Trey the Explainer
+
+Audience: paleo beginners, Game of Thrones fans
+
+This channel's "Paleo Profile" series was one of the first things I encountered that got me interested in reading up about specific groups, like abelisaurs, placoderms, and temnospondyls.  In those, Trey gives a comprehensive overview of a single interesting genus in a very accessible way.  Nowadays, his channel focuses more on human evolution.  He also does analyses on the biology of various pop-culture franchises, such as Game of Thrones, Avatar, and The Good Dinosaur.  Find his channel [here](https://www.youtube.com/user/GamerCreator12345).
+
+### Amazing Dinoworld
+Type: documentary
+
+Creator: Salvatore Vecchio and CuriosityStream
+
+Audience: everyone, dinosaur fans
+
+This documentary requires a subscription to CuriosityStream, but you can get a 30-day trial through certain creators like TierZoo.  It's basically Walking With Dinosaurs modernized, with fluffy dinosaurs, newly discovered genera included, and lots of exciting action scenes and adorable baby dinosaurs.  The production quality is quite high.  There are only two episodes right now, but I'm hoping there will be more soon!  Find it [here](https://curiositystream.com/series/433/amazing-dinoworld).
+
+### Your Inner Fish
+Type: documentary
+
+Creator: Neil Shubin and PBS
+
+Audience: everyone
+
+This documentary is by the paleontologist who discovered the famous transitional tetrapod fossil, Tiktaalik!  It covers the entire history of human evolution in three acts: the fish-tetrapod transition, Permian synapsids, and primate evolution.  Dr. Shubin is in charge of a cadaver lab though, so some of the human dissection shown is not for the faint of heart.
 
 ### All Yesterdays
 Type: art book
@@ -60,6 +106,13 @@ Creator: Maija Karala, renowned paleoartist from Finland
 Audience: anyone interested in biology, botany, paleontology, and paleoart, but especially paleoartists
 
 This [blog](https://hummingdinosaur.wordpress.com) covers a wide variety of topics, and I've found it especially useful for paleoart inspiration.  Paleobotany is especially a topic of weakness for me and many paleoartists, even though it comprises the stage on which our beloved, charismatic vertebrates do their thing.  This blog saw that need and filled it.
+
+### Nix Draws Stuff: Ceri Thomas's Blog
+Type: blog
+
+Creator: Ceri Thomas, the paleoartist who does a lot of work for PBS Eons
+
+This paleoart blog is super active, and not only is the art great, but what Nix has to say about each piece is really interesting and inspires me to draw more!
 
 ### Paleoartists
 Type: art

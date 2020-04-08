@@ -17,9 +17,9 @@ Velociraptor was a turkey-sized dromaeosaur from Late Cretaceous Mongolia, and C
 Ianthasaurus was a stem mammal from the late Carboniferous, very soon after the split between the mammal and reptile lineages.  Edaphosaurs like Ianthasaurus were a group of sail-backed herbivores whose cross-bars on their sail-bones may have supported keratinous spines.  They were cold-blooded, so here our scaly subject is sunbathing.
 
 #### Stenopterygius
-![stenopterygius-b](/assets/stenopterygius-b.png)
+![stenopterygius-gif](/assets/stenopterygius.gif)
 
-On the same exquisitely-preserved specimen that showed us that ichthyosaurs had blubber (and were thus definitely warm-blooded), scientists have found preserved melanophores.  These are special pigmented cells that may even have allowed the animal to change color!  Here are three different color morphs of Stenopterygius, an early Jurassic ichthyosaur.  The idea is that an individual could change to look like any of these.
+On the same exquisitely-preserved specimen that showed us that ichthyosaurs had blubber (and were thus definitely warm-blooded), scientists have found preserved melanophores.  These are special pigmented cells that may even have allowed the animal to change color!  Here is a small pod of Stenopterygius, an Early Jurassic ichthyosaur.
 
 #### Barylambda
 ![barylambda](/assets/barylambda.jpg)
