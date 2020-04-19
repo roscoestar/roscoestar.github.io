@@ -140,6 +140,16 @@ So, which Heterodontosaurus is the most probable?  It’s sort of a strange pale
 ### Conclusion
 TL;DR: basically all archosauromorphs are candidates for fluff, phylogenetically, especially the small ones, all the way back to the Triassic and possibly the Permian.  Anything over the Yutyrannus threshold of 1.4 tonnes should be fluffed with extreme caution and only under extenuating circumstances.  Anything under this threshold, even things we're used to being depicted as scaly, such as the smallish spinosaurid Irritator, can be fluffed with relative confidence.
 
+### But what type of fluff?
+Modern birds have five different types of feathers, called Stage 1 through Stage 5 in order of increasing complexity.  They look like this:
+![feathertypes](/assets/feathertypes.gif)
+
+Stage 1 is a simple filament, which is probably ancestral to all archosaurs.  That means basically any archosaur under the Yutyrannus threshold is fair game for sporting these.  Stage 2 is a fiber bundle, such as the down feathers found in a pillow.  Stage 3 is a simple branched feather.  The small ornithischian Kulindadromeus was known to have this type of feather, which means that phylogenetically, any dinosaur can have these, but be wary of putting them on non-dinosaurian archosaurs.  Stage 4 has the feather barbs branching further and sporting barbules, which allow the feather to zipper itself together into a single surface, and Stage 5 is a fully-developed flight feather with an asymmetric leading edge and a smooth texture.  Only theropods are known to have Stage 4 and 5 feathers, and probably only maniraptorans or even paravians would have had Stage 5.  From fossilized skin impressions (outlined in Mark Witton's chart above), we know that true sauropods and the ceratosaur Carnotaurus had secondarily lost their fuzz, so for creatures nearby these on the family tree, feather with extreme caution.
+
+Further reading:
+[Paleobirding #1](https://theyoungbirdersodyssey.weebly.com/main-blog/paleobirding-1-which-groups-of-dinosaurs-had-feathers)
+[Should we make Plateosaurus fluffy?](http://markwitton-com.blogspot.com/2016/11/the-blog-post-where-i-ask-myself-should.html)
+
 ### Updates
 Putting my artistic money where my mouth is, here are a couple unusual takes on dinosaur integument.
 
@@ -171,3 +181,4 @@ Image credits:
 [Naked Heterodontosaurus](https://www.deviantart.com/ntamura/art/Heterodontosaurus-101671201)
 [Quilly Heterodontosaurus](https://en.wikipedia.org/wiki/Heterodontosaurus#/media/File:Heterodontosaurus_restoration.jpg)
 [Fluffy Heterodontosaurus](https://www.deviantart.com/saeto15/art/Heterodontosaurus-562734732)
+[Feather Types](https://theyoungbirdersodyssey.weebly.com/main-blog/paleobirding-1-which-groups-of-dinosaurs-had-feathers)
