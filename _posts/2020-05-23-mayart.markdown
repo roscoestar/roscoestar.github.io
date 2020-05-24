@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "May Art"
+date:   2020-05-23 01:43:08 -0700
+categories: blog post
+---
+
+I haven't been drawing as much this past month, but here's what I did do!
+
+#### Linhenykus
+![linhenykus](/assets/linhenykus.png)
+
+Linhenykus was an alvarezsaurid dinosaur (the little running insectivores with a single large clawed finger per hand) from Late Cretaceous China.  The skull is so bird-shaped that in a blue jay's clothes it just looks identical to a real jay.  Oh well.  I was thinking about how many modern animals' best-known feature has something to do with their integument: tiger and lion skeletons look nearly identical, but a child would never mix them up.  So too, maybe one would've been able to tell Linhenykus and Mononykus apart by their distinctive plumage.
+
+#### Allosaurus hatchlings
+![allo-hatchlings](/assets/allo-hatchlings.png)
+
+Allosaurus was a very well-known theropod dinosaur from Late Jurassic North America.  Here, some speculatively fluffy hatchlings beg mom for food.  Similarly to what is known about the ontogeny of Tyrannosaurus, Allosaurus juveniles were more leggy than the adults, indicating that they may have filled a different ecological niche so as not to compete.  Since drawing this, I've been informed that scale impressions are known from Allosaurus juveniles, but that material is from older individuals than I have pictured here.  So I'll admit that this drawing is improbable, but not impossible!
+
+#### Microraptor
+![pakasuchus](/assets/pakasuchus.png)
+
+Here's a quick painting I did of the famous Microraptor, the four-winged crow dinosaur.  From [melanosome studies](https://obscuredinosaurfacts.com/blog/post/2019/09/14/what-color-were-dinosaurs.html), we know that Microraptor was iridescent black like this.
+
+#### Spinosaurus 2020
+![spinosaurus](/assets/spinosaurus.png)
+
+As many of you probably know, a new Spinosaurus tail specimen was described earlier this year that made waves in the paleontology and paleoart communities.  No tail material was previously known, so artists defaulted to giving it a generic theropod tail, round in cross-section and relatively stiff.  But in actuality, Spinosaurus's tail was laterally compressed, with long neural spines and chevrons for better propulsion in water, like the tail of a newt or crocodile.  While lots of evidence already pointed to Spinosaurus spending a lot of time in water (the croc-like face with pressure-sensitive pits in the snout, webbed footprints, dense bones, legs further back on the body like a loon, fish stomach contents, etc) this swimmy tail solidifies our understanding of how Spinosaurus lived.  I've given my Spinosaurus coloration inspired by a modern-day sail-backed creature, the marlin.
+
+#### Kaprosuchus
+![kaprosuchus](/assets/kaprosuchus.png)
+
+Kaprosuchus ("Boar Croc") was a mahajangasuchid crocodyliform from Late Cretaceous Niger, described in 2009 alongside Anatosuchus ("Duck Croc") and Laganosuchus ("Pancake Croc").  It had huge, tusklike teeth that stuck out of its mouth when closed, like a boar, and was a fully terrestrial predator.
+
+The coloration here is inspired by Seregios, from the Monster Hunter franchise.  I was wanting to do another portrait like my [Aucasaurus x Tigrex](https://obscuredinosaurfacts.com/blog/post/2020/04/18/aprilart.html) one, but the head shape and ornamentation of Seregios ended up being too unlike that of any real animal that this picture doesn't really look reminiscent of Seregios at all.  I do like how Seregios's coloring mapped onto Kaprosuchus's face though.  I considered doing Monoblos x Styracosaurus, but then I realized Monoblos is literally just a Styracosaurus head pasted onto a dragon body, and Monoblos isn't even very interestingly colored.
+
+#### Zhenyuanlong
+![zhenyuanlong](/assets/zhenyuanlong.png)
+
+Zhenyuanlong was a dromaeosaur from Early Cretaceous China, known for having large, well-developed wings despite not being able to fly.  Here, two male Zhenyuanlong have a confrontation, displaying their wings and tails to make themselves look larger.  The coloration is inspired by kingfishers.
