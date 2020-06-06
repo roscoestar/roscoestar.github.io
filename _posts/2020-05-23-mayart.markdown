@@ -18,7 +18,7 @@ Linhenykus was an alvarezsaurid dinosaur (the little running insectivores with a
 Allosaurus was a very well-known theropod dinosaur from Late Jurassic North America.  Here, some speculatively fluffy hatchlings beg mom for food.  Similarly to what is known about the ontogeny of Tyrannosaurus, Allosaurus juveniles were more leggy than the adults, indicating that they may have filled a different ecological niche so as not to compete.  Since drawing this, I've been informed that scale impressions are known from Allosaurus juveniles, but that material is from older individuals than I have pictured here.  So I'll admit that this drawing is improbable, but not impossible!
 
 #### Microraptor
-![pakasuchus](/assets/pakasuchus.png)
+![microraptor](/assets/microraptor.png)
 
 Here's a quick painting I did of the famous Microraptor, the four-winged crow dinosaur.  From [melanosome studies](https://obscuredinosaurfacts.com/blog/post/2019/09/14/what-color-were-dinosaurs.html), we know that Microraptor was iridescent black like this.
 
@@ -38,3 +38,13 @@ The coloration here is inspired by Seregios, from the Monster Hunter franchise. 
 ![zhenyuanlong](/assets/zhenyuanlong.png)
 
 Zhenyuanlong was a dromaeosaur from Early Cretaceous China, known for having large, well-developed wings despite not being able to fly.  Here, two male Zhenyuanlong have a confrontation, displaying their wings and tails to make themselves look larger.  The coloration is inspired by kingfishers.
+
+#### Acheroraptor
+![acheroraptor](/assets/achero.png)
+
+Acheroraptor was a velociraptorine dromaeosaur from Latest Cretaceous Hell Creek, North America.  It was a turkey-sized creature that lived alongside such famous dinosaurs as Triceratops and Tyrannosaurus.  Here, two female Acheroraptor go for a peaceful stroll.  The patterning is inspired by ukiyo-e depictions of birds, but it ended up being a little more subtle than I'd intended.
+
+#### Anurognathus
+![anurognathus](/assets/anuro.png)
+
+Anurognathus was a sparrow-sized pterosaur from Late Jurassic Germany.  It was unusual among pterosaurs for being (a) so tiny, and (b) for having an extremely short-snouted face with pointy teeth for catching small insects on the wing.  It was the pterosaur answer to bats!  Here, a pair of Anurognathus are just waking up in the twilight to start their night of hunting.
