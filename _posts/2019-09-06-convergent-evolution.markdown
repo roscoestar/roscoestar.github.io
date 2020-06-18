@@ -13,12 +13,12 @@ Dolphins and penguins have both adapted to an aquatic lifestyle by developing st
 This is my favorite example even though neither group is very familiar to the public.  Metriorhynchids are a group of crocodyliformes that adapted to a fully-aquatic lifestyle.  Mosasaurs are a group of varanoid lizards that also adapted to a fully-aquatic lifestyle.  Imagine a group of something that looks like a modern croc, going into the ocean and deciding to be basically killer whales before it was cool.  Imagine a group of something that looks like a Komodo dragon being like, we should do that too.  This is kind of what happened.  Let’s get to the pictures:
 
 ![dakosaurus](/assets/convergent-evolution-1.2.png)
-Dakosaurus - a Metriorhynchid crocodyliform from Late Jurassic Germany (157-137 mya).  Closely related to modern crocodiles.
+*Dakosaurus* - a metriorhynchid crocodyliform from Late Jurassic Germany (157-137 mya).  Closely related to modern crocodiles.
 
 ![plioplatecarpus](/assets/convergent-evolution-1.3.jpg)
-Plioplatecarpus, a mosasaur from North America and Europe in the Late Cretaceous (73-68 mya).  Closely related to modern Komodo dragons.
+*Plioplatecarpus*, a mosasaur from North America and Europe in the Late Cretaceous (73-68 mya).  Closely related to modern Komodo dragons.
 
-If you’re not looking carefully, you could be forgiven for thinking these two were the same species, even though they’re separated by millions of years of evolution (Dakosaurus is much more closely related to birds than it is to Plioplatecarpus), and also millions of years (Dakosaurus is nearly as ancient to Plioplatecarpus as Tyrannosaurus is to us).
+If you’re not looking carefully, you could be forgiven for thinking these two were the same species, even though they’re separated by millions of years of evolution (*Dakosaurus* is much more closely related to birds than it is to *Plioplatecarpus*), and also millions of years (*Dakosaurus* is nearly as ancient to *Plioplatecarpus* as *Tyrannosaurus* is to us).
 
 If they’re not close to each other in genetics or in time, then why do they look so similar?  Similar selective pressures, caused by similar environments.  This body plan--flipper limbs, streamlined shape, fluked tail--is really good at swimming.  In an environment where good swimmers survive and reproduce and pass on their good-swimmy genes while bad swimmers don’t, over millions of years you end up with something that’s very good at swimming.  Both crocodylians and varanoids looked at the same problem--how do we become better at swimming?--and came up with the same solution independently.  That’s convergent evolution.
 
@@ -35,7 +35,7 @@ If I didn’t know better, I’d guess that these two animals are more closely r
 Further reading: Look up the fossa, a mongoose that thought becoming tubular was a mistake and decided to start being a cat again.
 
 ### 3. Canids and Thylacines
-The thylacine, also known as the Tasmanian Tiger, also known as the Marsupial Wolf, is an extinct marsupial from Tasmania (the little triangular island off the coast of Australia).  It’s one of many examples of convergent evolution among marsupials and placental mammals (other examples include Thylacoleo, aka the Marsupial Lion; the quokka, aka the Marsupial Pika\*; and the Tasmanian devil, aka the Marsupial Wolverine\*).  All of these Marsupial Whatevers are more closely related to one another than they are to their Placental Whatever counterpart.  But they sure look similar!  Here are some thylacines in a zoo, sometime before they went completely extinct in 1931:
+The thylacine, also known as the Tasmanian tiger, also known as the marsupial wolf, is an extinct marsupial from Tasmania (the little triangular island off the coast of Australia).  It’s one of many examples of convergent evolution among marsupials and placental mammals (other examples include *Thylacoleo*, aka the marsupial mion; the quokka, aka the marsupial pika\*; and the Tasmanian devil, aka the marsupial wolverine\*).  All of these marsupial whatevers are more closely related to one another than they are to their placental whatever counterpart.  But they sure look similar!  Here are some thylacines in a zoo, sometime before they went completely extinct in 1931:
 
 ![thylacines](/assets/convergent-evolution-1.4.jpg)
 
@@ -45,12 +45,12 @@ Looks an awful lot more like a wolf than a kangaroo, don’t you think?
 
 Above: skulls of a thylacine and a wolf.  It’s a common test for paleontology and evolutionary biology college students to be handed one of these and asked which it is.  If that’s not a testament to the power of convergent evolution, I don’t know what is.  (Hint: thylacines have 8 small teeth between the big canines in the top jaw, while wolves have 6.  Wolves also have a special giant molar on the bottom jaw that in thylacines is normal-sized.)
 
-Remember that episode of Seinfeld where Elaine starts hanging out with a new group of friends that uncannily parallels her other group of friends?  George tries to join that group, and Elaine says, “Sorry, we’ve already got a George.”  In this metaphor, the new group of friends are the placentals and the old group is the marsupials, and “the George” of each group is the thylacine and the wolf.  Basically, Elaine has certain **niches** that her friends can fill--the George, the Jerry, and the Kramer--and two groups of people independently filled those niches.  If that makes any sense.  Convergent evolution in pop...culture...?
+Remember that episode of Seinfeld where Elaine starts hanging out with a new group of friends that uncannily parallels her other group of friends?  George tries to join that group, and Elaine says, “Sorry, we’ve already got a George.”  In this metaphor, the new group of friends are the placentals and the old group is the marsupials, and “the George” of each group is the thylacine and the wolf.  Basically, Elaine has certain **niches** that her friends can fill--the George, the Jerry, and the Kramer--and two groups of people independently filled those niches.  If that makes any sense.
 
 \*nicknames not in widespread usage; so called by me (and now by you)
 
 ### 4. The Seven Saber Teeth
-Now for something slightly different--let’s look at a single trait over time instead of a side-by-side comparison of two animals (by the way, convergent evolution happens in non-vertebrate organisms too, I’m just biased and like vertebrates best).  Something we **synapsids** (mammals and all animals more closely related to mammals than to reptiles) are particularly good at is **heterodont dentition**, or the specialization of certain teeth for certain tasks.  Most mammals have a variety of tooth shapes--molars, incisors, canines--while this is rare (but does exist--see Notosuchians and Heterodontosaurs) among reptiles.  One very popular and very charismatic style of dentition is the extremely elongated canines known colloquially as saber teeth.
+Now for something slightly different--let’s look at a single trait over time instead of a side-by-side comparison of two animals (by the way, convergent evolution happens in non-vertebrate organisms too, I’m just biased and like vertebrates best).  Something we **synapsids** (mammals and all animals more closely related to mammals than to reptiles) are particularly good at is **heterodont dentition**, or the specialization of certain teeth for certain tasks.  Most mammals have a variety of tooth shapes--molars, incisors, canines--while this is rare (but does exist--see notosuchians and heterodontosaurs) among reptiles.  One very popular and very charismatic style of dentition is the extremely elongated canines known colloquially as saber teeth.
 
 Saber teeth have evolved no less than _seven times_ independently among mammals and stem-mammals throughout history.  Here are the groups:
 1. Gorgonopsids (a type of stem-mammal) in the Permian, about 270 mya
@@ -63,31 +63,31 @@ Saber teeth have evolved no less than _seven times_ independently among mammals 
 
 ![gorgonops](/assets/convergent-evolution-1.6.png)
 
-Gorgonops, a gorgonopsid therapsid (stem-mammal), Russia, 254 mya.  Saber teeth before they were cool (and before external ear-flaps (pinnae) were a thing).  We don’t know if these guys had fur or scales.  I find that most art depicts them either as completely reptilian, with scales and osteoderms, or completely mammalian, with fur and a carnivoran-like nose.  I think it’s most likely that they actually fell somewhere in between.  Another interesting thing to note is that of all the saber-toothed synapsids on this list, gorgonopsids were the only ones who were able to replace their saber teeth when they broke.
+*Gorgonops*, a gorgonopsid therapsid (stem-mammal), Russia, 254 mya.  Saber teeth before they were cool (and before external ear-flaps (pinnae) were a thing).  We don’t know if these guys had fur or scales.  I find that most art depicts them either as completely reptilian, with scales and osteoderms, or completely mammalian, with fur and a carnivoran-like nose.  I think it’s most likely that they actually fell somewhere in between.  Another interesting thing to note is that of all the saber-toothed synapsids on this list, gorgonopsids were the only ones who were able to replace their saber teeth when they broke.
 
 ![lotheridium](/assets/convergent-evolution-1.7.jpg)
 
-Lotheridium, a deltatheroidan metatherian (stem-marsupial), China, 100 mya.  Saber-toothed wombat...?  This is the smallest saber-toothed animal on our list, at around three feet long (the rest are close to lion-sized).
+*Lotheridium*, a deltatheroidan metatherian (stem-marsupial), China, 100 mya.  Saber-toothed wombat...?  This is the smallest saber-toothed animal on our list, at around three feet long (the rest are close to lion-sized).
 
 ![thylacosmilus](/assets/convergent-evolution-1.8.png)
 
-Thylacosmilus, a sparassodontan metatherian (stem-marsupial), South America, 9 mya.  See the weird bulge in its nose / forehead?  The saber teeth actually extend all the way up through there and end behind the eyes!  That, along with the crazy chin to protect the teeth, is some extreme dedication to specialized saber-toothing.  The whole face is built around it!
+*Thylacosmilus*, a sparassodontan metatherian (stem-marsupial), South America, 9 mya.  See the weird bulge in its nose / forehead?  The saber teeth actually extend all the way up through there and end behind the eyes!  That, along with the crazy chin to protect the teeth, is some extreme dedication to specialized saber-toothing.  The whole face is built around it!
 
 ![machaeroides](/assets/convergent-evolution-1.9.png)
 
-Machaeroides, a creodont mammal (related to cats, dogs, and pangolins, but not a member of any of those), Wyoming, 56 mya.
+*Machaeroides*, a creodont mammal (related to cats, dogs, and pangolins, but not a member of any of those), Wyoming, 56 mya.
 
 ![hoplophoneus](/assets/convergent-evolution-1.10.png)
 
-Hoplophoneus, a nimravid feliform (related to cats but not a true cat), South Dakota, 35 mya.
+*Hoplophoneus*, a nimravid feliform (related to cats but not a true cat), South Dakota, 35 mya.
 
 ![barbourofelis](/assets/convergent-evolution-1.11.jpg)
 
-Barbourofelis, a barbourofelid feliform (related to cats but not a true cat), Florida, 14 mya.
+*Barbourofelis*, a barbourofelid feliform (related to cats but not a true cat), Florida, 14 mya.
 
 ![smilodon](/assets/convergent-evolution-1.12.png)
 
-Smilodon, the famous “saber-toothed tiger,” and the only true cat on this list, California, 2.5 mya.
+*Smilodon*, the famous “saber-toothed tiger,” and the only true cat on this list, California, 2.5 mya.
 
 So, if saber teeth have happened so many times independently throughout history, why don’t any creatures have them now?  The answer is simple yet somewhat unsatisfactory--coincidence.  But don’t fret--saber teeth are likely to show up again in the future!  Just you wait a couple million years, my money is on either the descendents of lions or of mandrills.
 
@@ -100,16 +100,16 @@ Above: Ichthyosaurs, aquatic reptiles.  These evolved from a terrestrial reptile
 
 ![dolphins](/assets/convergent-evolution-1.14.jpg)
 
-Above: Dolphins, aquatic mammals.  These evolved from a terrestrial mammal ancestor, but converged on almost the same body style as Ichthyosaurs.
+Above: Dolphins, aquatic mammals.  These evolved from a terrestrial mammal ancestor, but converged on almost the same body style as ichthyosaurs.
 
 #### Ornithomimids and Ratites
 ![struthiomimus](/assets/convergent-evolution-1.15.png)
 
-Above: The skeleton of Struthiomimus, a non-avian dinosaur.  It had a long neck with a tiny head, a toothless beak, reduced arms, and powerful legs for running.
+Above: The skeleton of *Struthiomimus*, a non-avian dinosaur.  It had a long neck with a tiny head, a toothless beak, reduced arms, and powerful legs for running.
 
 ![ostrich](/assets/convergent-evolution-1.16.jpg)
 
-Above: The skeleton of an ostrich.  It evolved from a small, flighted bird ancestor (so it's **secondarily** flightless) and converged on the same body plan as Struthiomimus.
+Above: The skeleton of an ostrich.  It evolved from a small, flighted bird ancestor (so it's **secondarily** flightless) and converged on the same body plan as *Struthiomimus*.
 
 Image Credits:
 [Dakosaurus](https://www.wikiwand.com/en/Dakosaurus)

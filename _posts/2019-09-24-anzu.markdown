@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Obscure Dinosaur Profile #1: Anzu"
+title:  "Obscure Dinosaur Profile #1: *Anzu*"
 date:   2019-09-24 01:40:08 -0700
 categories: profile
 ---
@@ -12,19 +12,19 @@ Discovered 1998, described 2014
 
 ![anzu-1](/assets/anzu-1.jpg)
 
-Above: Anzu, the "Chicken from Hell".
+Above: *Anzu*, the "Chicken from Hell".
 
 ![anzu-2](/assets/anzu-2.jpg)
 
-Above: Anzu and chicks are startled by a nasty Acheroraptor.
+Above: *Anzu* and chicks are startled by a nasty *Acheroraptor*.
 
 ![anzu-3](/assets/anzu-3.jpg)
 
-Anzu was a large **oviraptorosaur** with a toothless beak and an impressive head crest.  It was North America’s largest oviraptorosaur (and by far the most well-known to science), and the second-largest in the world (Gigantoraptor, from a bit earlier in Mongolia, is a lot larger).  It was probably omnivorous and not picky, and was a good runner.  The crest was probably used for sexual display, leading some to speculate that Anzu may have exhibited **sexual dimorphism**, with major visual differences between males and females. Caenagnathidae (pronounced SEEN-a-NATH-id-ay) means “recently jawless” and is the **sister clade** to Oviraptoridae (which includes Oviraptor).  Weird holes in Caenagnathids' lower jaws initially made scientists think they were extinct ratite birds, like ostriches, before they realized they were actually non-avian dinosaurs.
+*Anzu* was a large **oviraptorosaur** with a toothless beak and an impressive head crest.  It was North America’s largest oviraptorosaur (and by far the most well-known to science), and the second-largest in the world (*Gigantoraptor*, from a bit earlier in Mongolia, is a lot larger).  It was probably omnivorous and not picky, and was a good runner.  The crest was probably used for sexual display, leading some to speculate that Anzu may have exhibited **sexual dimorphism**, with major visual differences between males and females. Caenagnathidae (pronounced SEEN-a-NATH-id-ay) means “recently jawless” and is the **sister clade** to Oviraptoridae (which includes *Oviraptor*).  Weird holes in caenagnathids' lower jaws initially made scientists think they were extinct ratite birds, like ostriches, before they realized they were actually non-avian dinosaurs.
 
-Anzu was part of the famous Hell Creek biota alongside such fan favorites as Tyrannosaurus, Triceratops, and Pachycephalosaurus.  66 million years ago, it was among the unfortunate direct victims of the Very Bad Day.
+*Anzu* was part of the famous Hell Creek biota alongside such fan favorites as *Tyrannosaurus*, *Triceratops*, and *Pachycephalosaurus*.  66 million years ago, it was among the unfortunate direct victims of the Very Bad Day.
 
-Anzu is named after a Sumerian mythological demon whom it somewhat resembles (center, below).
+*Anzu* is named after a Sumerian mythological demon whom it somewhat resembles (center, below).
 
 ![anzu-4](/assets/anzu-4.jpg)
 
@@ -40,7 +40,7 @@ Above: A bald eagle skeleton with sclerotic ring visible.
 Above: A gecko skeleton with sclerotic rings visible.
 
 #### Note 2: How many times have beaks evolved independently?
-A lot: Birds, oviraptorosaurs like Anzu, cephalopods (octopuses and squids), turtles, pterosaurs, monotremes (platypuses and echidnas), parrotfish, certain ornithischians, dicynodonts (a type of stem-mammal), certain pseudosuchians like Lotosaurus and Effigia (crocodile relatives), rhynchosaurs (early reptiles), therizinosaurs, ornithomimids, and even some ceratosaurs like Limusaurus all had **keratinous** beaks.  And that’s not even a comprehensive list.  Beaks are both very useful and very easy to make, evolutionarily--they are a very **homoplastic** trait.  This is another example of [convergent evolution](http://obscuredinosaurfacts.com/blog/post/2019/09/06/convergent-evolution.html).
+A lot: Birds, oviraptorosaurs like *Anzu*, cephalopods (octopuses and squids), turtles, pterosaurs, monotremes (platypuses and echidnas), parrotfish, certain ornithischians, dicynodonts (a type of stem-mammal), certain pseudosuchians like *Lotosaurus* and *Effigia* (crocodile relatives), rhynchosaurs (early reptiles), therizinosaurs, ornithomimids, and even some ceratosaurs like *Limusaurus* all had **keratinous** beaks.  And that’s not even a comprehensive list.  Beaks are both very useful and very easy to make, evolutionarily--they are a very **homoplastic** trait.  This is another example of [convergent evolution](http://obscuredinosaurfacts.com/blog/post/2019/09/06/convergent-evolution.html).
 
 ![beaks](/assets/beaks.jpg)
 

@@ -60,7 +60,7 @@ Creator: Neil Shubin and PBS
 
 Audience: everyone
 
-This documentary is by the paleontologist who discovered the famous transitional tetrapod fossil, Tiktaalik!  It covers the entire history of human evolution in three acts: the fish-tetrapod transition, Permian synapsids, and primate evolution.  Dr. Shubin is in charge of a cadaver lab though, so some of the human dissection shown is not for the faint of heart.
+This documentary is by the paleontologist who discovered the famous transitional tetrapod fossil, *Tiktaalik*!  It covers the entire history of human evolution in three acts: the fish-tetrapod transition, Permian synapsids, and primate evolution.  Dr. Shubin is in charge of a cadaver lab though, so some of the human dissection shown is not for the faint of heart.
 
 ### All Yesterdays
 Type: art book
@@ -69,7 +69,7 @@ Creators: John Conway, Darren Naish, and CM Kosemen, renowned paleoartists
 
 Audience: everyone, but especially aspiring paleoartists
 
-This is the paleoart counterculture manifesto, a book that protests the use of paleoart stereotypes in favor of creative, speculative, but still scientific, interpretations of extinct creatures.  Along with now-famous depictions of Parasaurolophus as an absolute unit, Protoceratops hanging out in trees, and Stegosaurus's impressive member, they also include hilarious artwork of modern creatures drawn using bad paleoart stereotypes, such as shrink-wrapped, venomous baboons, horizontal-necked rabbits, and terrestrial manatees.  This book has also spawned a whole paleoart movement, so I think it's worth checking out the source.
+This is the paleoart counterculture manifesto, a book that protests the use of paleoart stereotypes in favor of creative, speculative, but still scientific, interpretations of extinct creatures.  Along with now-famous depictions of *Parasaurolophus* as an absolute unit, *Protoceratops* hanging out in trees, and *Stegosaurus*'s impressive member, they also include hilarious artwork of modern creatures drawn using bad paleoart stereotypes, such as shrink-wrapped, venomous baboons, horizontal-necked rabbits, and terrestrial manatees.  This book has also spawned a whole paleoart movement, so I think it's worth checking out the source.
 
 ### The Rise and Fall of the Dinosaurs: A New History of a Lost World
 Type: book
@@ -96,7 +96,7 @@ Creator: also Mark Witton
 
 Audience: paleo fanatics and paleoartists researching a specific animal
 
-This [blog](http://markwitton-com.blogspot.com) is a sort of extension of Mark Witton's book, or his book is a distillation of his blog.  If you liked the book and want more super-detailed analysis on various extinct animals' anatomy and lifestyles, give this a try.  It's especially useful if you're a paleoartist looking for direction or inspiration for a specific creature--just google "Mark Witton Tanystropheus" and two novella-length posts containing diagrams and original research will float your way.
+This [blog](http://markwitton-com.blogspot.com) is a sort of extension of Mark Witton's book, or his book is a distillation of his blog.  If you liked the book and want more super-detailed analysis on various extinct animals' anatomy and lifestyles, give this a try.  It's especially useful if you're a paleoartist looking for direction or inspiration for a specific creature--just google "Mark Witton *Tanystropheus*" and two novella-length posts containing diagrams and original research will float your way.
 
 ### Humming Dinosaur: Maija Karala's Blog
 Type: blog
@@ -121,8 +121,8 @@ Creators: see below
 
 Audience: anyone who enjoys paleoart
 
-Professionals: [Gabriel Ugueto](https://twitter.com/SerpenIllus), [Emily Willoughby](https://www.deviantart.com/ewilloughby), [John Conway](https://www.deviantart.com/jconway), [Darren Naish](https://twitter.com/TetZoo), [CM Kosemen](http://cmkosemen.com), [Julio Lacerda](https://www.deviantart.com/julio-lacerda), [Nobu Tamura](https://www.deviantart.com/ntamura), [Maija Karala](https://www.deviantart.com/eurwentala), [Mark Witton](https://twitter.com/MarkWitton), [RJ Palmer](https://www.deviantart.com/arvalis), [Fred Wierum](https://www.deviantart.com/fredthedinosaurman)
+Professionals: [Gabriel Ugueto](https://twitter.com/SerpenIllus), [Emily Willoughby](https://www.deviantart.com/ewilloughby), [John Conway](https://www.deviantart.com/jconway), [Darren Naish](https://twitter.com/TetZoo), [CM Kosemen](http://cmkosemen.com), [Julio Lacerda](https://www.deviantart.com/julio-lacerda), [Nobu Tamura](https://www.deviantart.com/ntamura), [Maija Karala](https://www.deviantart.com/eurwentala), [Mark Witton](https://twitter.com/MarkWitton), [RJ Palmer](https://www.deviantart.com/arvalis), [Fred Wierum](https://www.deviantart.com/fredthedinosaurman), [Joschua Knuppe](https://www.deviantart.com/hyrotrioskjan)
 
-My personal favorites: [CoffeeBlack](https://www.deviantart.com/0coffeeblack0), [Daitengu](https://www.deviantart.com/daitengu), [Derpyduckart](https://www.deviantart.com/derpyduckart), [Dinomaniac](https://www.deviantart.com/dinomaniac), [Dinostavros](https://www.deviantart.com/dinostavros), [Dustdevil](https://www.deviantart.com/dustdevil), [Guindagear](https://www.deviantart.com/guindagear), [Hyrotrioskjan](https://www.deviantart.com/hyrotrioskjan), [Kuzim](https://www.deviantart.com/kuzim), [Lucas Atwell](https://www.deviantart.com/lucas-attwell), [Lythroversor](https://www.deviantart.com/lythroversor), [Olorotitan](https://www.deviantart.com/olorotitan), [Promilie](https://www.deviantart.com/promilie), [Pterosaur Freak](https://www.deviantart.com/pterosaur-freak), [Qilong](https://www.deviantart.com/qilong), [Stygimoloch spinifer](https://www.deviantart.com/stygimolochspinifer), [Thek560](https://www.deviantart.com/thek560), [The Meep Lord](https://www.deviantart.com/themeeplord), [Xiphactinus](https://www.deviantart.com/xiphactinus)
+My personal favorites: [CoffeeBlack](https://www.deviantart.com/0coffeeblack0), [Daitengu](https://www.deviantart.com/daitengu), [Derpyduckart](https://www.deviantart.com/derpyduckart), [Dinomaniac](https://www.deviantart.com/dinomaniac), [Dinostavros](https://www.deviantart.com/dinostavros), [Dustdevil](https://www.deviantart.com/dustdevil), [Guindagear](https://www.deviantart.com/guindagear), [Kuzim](https://www.deviantart.com/kuzim), [Lucas Atwell](https://www.deviantart.com/lucas-attwell), [Lythroversor](https://www.deviantart.com/lythroversor), [Olorotitan](https://www.deviantart.com/olorotitan), [Promilie](https://www.deviantart.com/promilie), [Pterosaur Freak](https://www.deviantart.com/pterosaur-freak), [Qilong](https://www.deviantart.com/qilong), [Stygimoloch spinifer](https://www.deviantart.com/stygimolochspinifer), [Thek560](https://www.deviantart.com/thek560), [The Meep Lord](https://www.deviantart.com/themeeplord), [Xiphactinus](https://www.deviantart.com/xiphactinus)
 
 There is so much amazing free paleoart out there, and you can learn a lot about what an artist considers when making paleoart decisions by reading the descriptions on Deviantart.  You can also comment, ask questions, and interact directly with them if you're gutsy!

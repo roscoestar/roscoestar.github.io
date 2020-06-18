@@ -5,11 +5,11 @@ date:   2019-11-16 01:40:08 -0700
 categories: blog post
 ---
 
-By now, I’m sure you’ve seen or heard about reconstructions of fluffy or feathery dinosaurs.  Lately, paleoartists have been going crazy with the speculative fluffy integument of everything from Tyrannosaurus:
+By now, I’m sure you’ve seen or heard about reconstructions of fluffy or feathery dinosaurs.  Lately, paleoartists have been going crazy with the speculative fluffy integument of everything from *Tyrannosaurus*:
 
 ![fatbird-trex](/assets/fatbird-trex.jpg)
 
-to armored archosauromorphs like Doswellia:
+to armored archosauromorphs like *Doswellia*:
 
 ![fuzz-1](/assets/fuzz-1.jpg)
 
@@ -36,18 +36,18 @@ To answer this question, we will use the principle of **phylogenetic bracketing*
 
 For example, let’s say your dad’s cousin’s kid (your first cousin once removed) has ear hair.  And your dad’s brother’s kid (your first cousin) also has ear hair.  There’s a good chance the two of them got their ear hair from the same place, the last common ancestor they shared, which is your great-grandfather.  That means that you (and all your great-grandfather’s other descendents) also probably have the gene for ear hair, even if you don’t show it (only men can have ear hair, but that’s another story).
 
-So who are our distant fluffy cousins in the case of archosaurs?  Well, we have fossilized fuzz from pterosaurs, and birds are clearly fluffy.  That means that phylogenetically, everything in between, which includes all dinosaurs, were capable of producing fluff.  Then why don’t we see art of fluffy Stegosaurus or Triceratops?  Well, not everyone who _could_ produce protofeathers actually _did_.  Now that we’ve covered the main concepts surrounding paleo fuzz, let’s dive into specific examples.
+So who are our distant fluffy cousins in the case of archosaurs?  Well, we have fossilized fuzz from pterosaurs, and birds are clearly fluffy.  That means that phylogenetically, everything in between, which includes all dinosaurs, were capable of producing fluff.  Then why don’t we see art of fluffy *Stegosaurus* or *Triceratops*?  Well, not everyone who _could_ produce protofeathers actually _did_.  Now that we’ve covered the main concepts surrounding paleo fuzz, let’s dive into specific examples.
 
 ### Triassic Archosauromorphs
-Our story begins way back in the days before the dinosaurs, shortly after the Great Dying, when the reptile family tree was still sorting itself out into the clades we’re familiar with today.  New [research](https://www.researchgate.net/publication/332796952_Bone_histology_of_Azendohsaurus_laaroussii_Implications_for_the_evolution_of_thermometabolism_in_Archosauromorpha) from May of 2019 shows that some of the very earliest archosauromorphs closest to the base of the archosaur (birds, crocs, and dinosaurs) family tree were very much endothermic.  Since the earliest ancestors were warm-blooded, we can infer that this was the ancestral condition, and that means the cold-blooded crocodilians of today became ectothermic **secondarily**--that is, they evolved from warm-blooded ancestors.  And since these early archosauromorphs were warm-blooded, at least the small ones probably had some kind of insulating coat.
+Our story begins way back in the days before the dinosaurs, shortly after the Great Dying, when the reptile family tree was still sorting itself out into the clades we’re familiar with today.  New [research](https://www.researchgate.net/publication/332796952_Bone_histology_of_Azendohsaurus_laaroussii_Implications_for_the_evolution_of_thermometabolism_in_Archosauromorpha) from May of 2019 shows that some of the very earliest archosauromorphs closest to the base of the **archosaur** (birds, crocs, and dinosaurs) family tree were very much endothermic.  Since the earliest ancestors were warm-blooded, we can infer that this was the ancestral condition, and that means the cold-blooded crocodilians of today became ectothermic **secondarily**--that is, they evolved from warm-blooded ancestors.  And since these early archosauromorphs were warm-blooded, at least the small ones probably had some kind of insulating coat.
 
 ![fuzz-2.5](/assets/fuzz-2.5.jpg)
 
-Above: Euparkeria, a small archosauriform from Middle Triassic South Africa, reconstructed with a fluffy coat of protofeathers.  Doesn’t it make you want to pet him?
+Above: *Euparkeria*, a small archosauriform from Middle Triassic South Africa, reconstructed with a fluffy coat of protofeathers.  Doesn’t it make you want to pet him?
 
 ![fuzz-2](/assets/fuzz-2.jpg)
 
-Above: Teraterpeton, a small archosauromorph from Late Triassic Canada.  It looks super bird-like in this depiction, but its body plan was more like that of a lizard, with four sprawling limbs and long, clawed toes.
+Above: *Teraterpeton*, a small archosauromorph from Late Triassic Canada.  It looks super bird-like in this depiction, but its body plan was more like that of a lizard, with four sprawling limbs and long, clawed toes.
 
 So, when drawing Triassic archosauromorphs, it’s reasonable to depict a good amount of fuzz, especially when the creature is small.  However, no direct fossilized fuzz has been found in these groups, so if you don’t like how it looks, you could argue your case.  Also, note that primitive archosauromorph fluff is not feathers--only dinosaurs are known to have complex, branching feathers, but for archosauromorphs simple filaments (called protofeathers) are fair game.
 
@@ -56,97 +56,97 @@ As I mentioned above, we have direct fossilized evidence that pterosaurs were fl
 
 ![fuzz-3](/assets/fuzz-3.jpg)
 
-Above: Sordes pilosus (meaning “dirty hairy”--I’m not kidding), a basal pterosaur from Late Jurassic Kazakhstan, was found with beautifully preserved pycnofibres.
+Above: *Sordes pilosus* (meaning “dirty hairy”--I’m not kidding), a basal pterosaur from Late Jurassic Kazakhstan, was found with beautifully preserved pycnofibres.
 
 ![fuzz-4](/assets/fuzz-4.jpg)
 
-Above: Jeholopterus (meaning “Jehol wing”), an anurognathid pterosaur from Middle to Late Jurassic China, found with directly preserved pycnofibres.  Anurognathids (meaning “frog jaw”) were a group of small, nocturnal, short-tailed, short-faced pterosaurs that probably filled the same niche that bats do today.
+Above: *Jeholopterus* (meaning “Jehol wing”), an anurognathid pterosaur from Middle to Late Jurassic China, found with directly preserved pycnofibres.  Anurognathids (meaning “tailless jaw”) were a group of small, nocturnal, short-tailed, short-faced pterosaurs that probably filled the same niche that bats do today.
 
 Though pycnofibres weren’t as complex in shape as true feathers, new [research](https://www.nature.com/articles/s41559-018-0728-7) shows that there were a few varieties that served different functions.  Some were for insulation, some for aerodynamics, some for sensing like whiskers, and some for display.
 
 #### What about giant pterosaurs?
-The evidence shows that pterosaurs were ancestrally fluffy and endothermic, but is there a case to be made that giant pterosaurs secondarily could have lost their fluff?  Actually, probably not.  Quetzalcoatlus northropi, the largest known pterosaur, weighed something like 200 kg (440 lbs), which is extremely large for a flying creature, but not that large compared to other animals known to be very fluffy.  For example, a grizzly bear, which has thick fur even in the summer, can get up to 360 kg, so it’s unlikely that Quetzalcoatlus, with its huge membranous wing surfaces, would have faced problems with overheating.  In addition, Quetzalcoatlus is estimated to have flown at altitudes up to 4.6 km (15,000 feet) where it would have experienced sub-freezing temperatures.
+The evidence shows that pterosaurs were ancestrally fluffy and endothermic, but is there a case to be made that giant pterosaurs secondarily could have lost their fluff?  Actually, probably not.  *Quetzalcoatlus northropi*, the largest known pterosaur, weighed something like 200 kg (440 lbs), which is extremely large for a flying creature, but not that large compared to other animals known to be very fluffy.  For example, a grizzly bear, which has thick fur even in the summer, can get up to 360 kg, so it’s unlikely that *Quetzalcoatlus*, with its huge membranous wing surfaces, would have faced problems with overheating.  In addition, Quetzalcoatlus is estimated to have flown at altitudes up to 4.6 km (15,000 feet) where it would have experienced sub-freezing temperatures.
 
 In conclusion, pterosaurs should always be restored with a full coat of pycnofibres.  Totally naked pterosaurs like the ones in Jurassic Park are frankly unacceptable (though that’s not even the worst problem with that depiction--see my [post](http://obscuredinosaurfacts.com/blog/post/2019/09/25/portrayals.html) about media portrayals of prehistoric animals).
 
 ### Dinosaurs
-Before the discovery of Tianyulong in 2009 Kulindadromeus in 2014, two small ornithischians (the opposite side of the [dinosaur family tree](http://obscuredinosaurfacts.com/blog/post/2019/09/11/dinosaur-family-overview.html) than birds), it was thought that only coelurosaurs (the group containing tyrannosaurs, birds, and everything in between) had feathers.  However, Kulindadromeus’s extensive coat, which includes complex branching feathers, coupled with its very distant position on the dinosaur family tree compared to coelurosaurs, means that phylogenetically, _basically any dinosaur is fair game for feathering_.  There are a few fossils that directly preserve scales, such as Carnotaurus, various sauropods, Edmontosaurus, etc, but since all of these fall between Kulindadromeus and birds on the family tree, we know that they all must have secondarily lost their fluff.
+Before the discovery of *Tianyulong* in 2009 *Kulindadromeus* in 2014, two small ornithischians (the opposite side of the [dinosaur family tree](http://obscuredinosaurfacts.com/blog/post/2019/09/11/dinosaur-family-overview.html) than birds), it was thought that only coelurosaurs (the group containing tyrannosaurs, birds, and everything in between) had feathers.  However, *Kulindadromeus*’s extensive coat, which includes complex branching feathers, coupled with its very distant position on the dinosaur family tree compared to coelurosaurs, means that phylogenetically, _basically any dinosaur is fair game for feathering_.  There are a few fossils that directly preserve scales, such as *Carnotaurus*, various sauropods, *Edmontosaurus*, etc, but since all of these fall between *Kulindadromeus* and birds on the family tree, we know that they all must have secondarily lost their fluff.
 
 Here is a chart summarizing the known and theorized integuments for ornithodirans:
 
 ![fuzz-chart](/assets/fuzz-chart.jpg)
 
-However, even though all dinosaurs have the phylogenetic possibility of having feathers, that doesn’t make it probable in every case.  Since a lot of dinosaurs were very large, a fluffy coat would’ve caused them to severely overheat.  Mark Witton has a very informative [blog post](http://markwitton-com.blogspot.com/2019/10/megafuzz-under-microscope-how-credible.html) that goes into detail about thermal neutrality (the temperature zones in which an animal doesn’t have to expend extra energy to heat itself up or cool itself down) and how fluffy big animals should probably be.  The largest dinosaur we’ve found with directly preserved feathers is Yutyrannus, at up to 1.4 tonnes; anything larger than this should be treated with caution with respect to feathery restorations.  As Mark Witton explains, even medium-sized animals like cows are surprisingly cold-tolerant without a very thick coat, and large animals like elephants exist at near-critical temperatures most of the time--a four-hour walk in the sun would cause fatal overheating.  This means that the super-fluffy “fatbird” Tyrannosaurus pictured at the beginning of this post is unfortunately out of the question.\*
+However, even though all dinosaurs have the phylogenetic possibility of having feathers, that doesn’t make it probable in every case.  Since a lot of dinosaurs were very large, a fluffy coat would’ve caused them to severely overheat.  Mark Witton has a very informative [blog post](http://markwitton-com.blogspot.com/2019/10/megafuzz-under-microscope-how-credible.html) that goes into detail about thermal neutrality (the temperature zones in which an animal doesn’t have to expend extra energy to heat itself up or cool itself down) and how fluffy big animals should probably be.  The largest dinosaur we’ve found with directly preserved feathers is *Yutyrannus*, at up to 1.4 tonnes; anything larger than this should be treated with caution with respect to feathery restorations.  As Mark Witton explains, even medium-sized animals like cows are surprisingly cold-tolerant without a very thick coat, and large animals like elephants exist at near-critical temperatures most of the time--a four-hour walk in the sun would cause fatal overheating.  This means that the super-fluffy “fatbird” *Tyrannosaurus* pictured at the beginning of this post is unfortunately out of the question.\*
 
 ![fuzz-7](/assets/fuzz-7.jpg)
 
-Above: Yutyrannus (meaning “feathered tyrant”), weighing up to 1.4 tonnes, is the largest dinosaur we’ve found that has directly preserved feathers.
+Above: *Yutyrannus* (meaning “feathered tyrant”), weighing up to 1.4 tonnes, is the largest dinosaur we’ve found that has directly preserved feathers.
 
-\* In addition to thermal evidence that Tyrannosaurus should probably be scaly, we now have directly preserved skin impressions of scales.
+\* In addition to thermal evidence that *Tyrannosaurus* should probably be scaly, we now have directly preserved skin impressions of scales.
 
 #### So what dinosaurs were _for sure_ fluffy, and what’s just speculation?
-The chart above does a pretty good job of showing all the directly-known, phylogenetically important feathered dinosaurs: Psittacosaurus and Tianyulong had quills; Beipiaosaurus and Shuvuuia had filaments; and Ornithomimus and Kulindadromeus had pennaceous feathers.  There are many other maniraptoriformes (node 4 in the chart) that have been found with beautifully preserved feathers, such as Zhenyuanlong, Microraptor, and Caihong, that sometimes even show what color they were in life (see my [post](http://obscuredinosaurfacts.com/blog/post/2019/09/14/what-color-were-dinosaurs.html) on dinosaur coloration).  There are also many examples of non-maniraptoran coelurosaurs with protofeathers, such as Dilong and Yutyrannus (tyrannosauroids), and Sinosauropteryx (a compsognathid).  Here, I’ll go over a few examples speculative featheriness and how likely they actually are.
+The chart above does a pretty good job of showing all the directly-known, phylogenetically important feathered dinosaurs: *Psittacosaurus* and *Tianyulong* had quills; *Beipiaosaurus* and *Shuvuuia* had filaments; and *Ornithomimus* and *Kulindadromeus* had complex feathers.  There are many other maniraptoriformes (node 4 in the chart) that have been found with beautifully preserved feathers, such as *Zhenyuanlong*, *Microraptor*, and *Caihong*, that sometimes even show what color they were in life (see my [post](http://obscuredinosaurfacts.com/blog/post/2019/09/14/what-color-were-dinosaurs.html) on dinosaur coloration).  There are also many examples of non-maniraptoran coelurosaurs with protofeathers, such as *Dilong* and *Yutyrannus* (tyrannosauroids), and *Sinosauropteryx* (a compsognathid).  Here, I’ll go over a few examples speculative featheriness and how likely they actually are.
 
 ![fuzz-5](/assets/fuzz-5.png)
 
-Above: Shuvuuia, an insectivorous alvarezsaurid with one-clawed hands from Late Cretaceous Mongolia, which we know was fluffy from direct fossil evidence.
+Above: *Shuvuuia*, an insectivorous alvarezsaurid with one-clawed hands from Late Cretaceous Mongolia, which we know was fluffy from direct fossil evidence.
 
-#### Plateosaurus
+#### *Plateosaurus*
 ![fuzz-6](/assets/fuzz-6.jpg)
 
-Above: Plateosaurus, a prosauropod (ancestral cousin to the later, giant, long-necked dinosaurs) from Late Triassic Europe and North America, reconstructed with an ostrich-like protofeather coat on the back and tail, with limbs and head bare.  Plateosaurus adults weighed up to 4 tonnes, putting it well over the 1.4-tonne Yutyrannus threshold.  Furthermore, skin impressions from true sauropods show that they were scaly, meaning that somewhere along the sauropod line, the protofeathers were lost--we just don’t know exactly when.  However, as this reconstruction leaves the limbs, neck and head, and underside of the tail bare, it could be argued that those areas can compensate to keep Plateosaurus cool enough--this is how ostriches thermoregulate.  I’d give this reconstruction between 5 and 10 percent likelihood.
+Above: *Plateosaurus*, a prosauropod (ancestral cousin to the later, giant, long-necked dinosaurs) from Late Triassic Europe and North America, reconstructed with an ostrich-like protofeather coat on the back and tail, with limbs and head bare.  *Plateosaurus* adults weighed up to 4 tonnes, putting it well over the 1.4-tonne *Yutyrannus* threshold.  Furthermore, skin impressions from true sauropods show that they were scaly, meaning that somewhere along the sauropod line, the protofeathers were lost--we just don’t know exactly when.  However, as this reconstruction leaves the limbs, neck and head, and underside of the tail bare, it could be argued that those areas can compensate to keep Plateosaurus cool enough--this is how ostriches thermoregulate.  I’d give this reconstruction between 5 and 10 percent likelihood.
 
 ![fig-2.3](/assets/family-overview-2.3.jpg)
 
-Above: a more likely, mostly-naked, sparsely-filamented reconstruction of Plateosaurus.  Sparse filaments like this (and like those found on elephants) actually help with heat dissipation by providing increased surface area like radiator fins--up to 10% more heat dissipation than a completely bald animal, according to one bit of [research](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047018).  I’d give this depiction between 60 and 80 percent likelihood.
+Above: a more likely, mostly-naked, sparsely-filamented reconstruction of *Plateosaurus*.  Sparse filaments like this (and like those found on elephants) actually help with heat dissipation by providing increased surface area like radiator fins--up to 10% more heat dissipation than a completely bald animal, according to one bit of [research](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047018).  I’d give this depiction between 60 and 80 percent likelihood.
 
-#### Therizinosaurus
+#### *Therizinosaurus*
 ![fuzz-8](/assets/fuzz-8.png)
 
-Above: An amusingly-colored Therizinosaurus, a maniraptoran (closely related to birds) from Late Cretaceous Mongolia, restored with a generous feather coat complete with **pennaceous** wing and tail feathers.  A fossil of a very close relative, Beipiaosaurus (listed in the chart above), was found with filaments preserved; however, Therizinosaurus is well over the Yutyrannus threshold at 5 tonnes.  I’d give this super-fluffy depiction (ignoring the coincidental coloration) a very low likelihood.  Despite this, the super-feathery depiction of Therizinosaurus is by far the most common among paleoartists right now.
+Above: An amusingly-colored *Therizinosaurus*, a maniraptoran (closely related to birds) from Late Cretaceous Mongolia, restored with a generous feather coat complete with **pennaceous** wing and tail feathers.  A fossil of a very close relative, *Beipiaosaurus* (listed in the chart above), was found with filaments preserved; however, *Therizinosaurus* is well over the *Yutyrannus* threshold at 5 tonnes.  I’d give this super-fluffy depiction (ignoring the coincidental coloration) a very low likelihood.  Despite this, the super-feathery depiction of *Therizinosaurus* is by far the most common among paleoartists right now.
 
 ![fuzz-9](/assets/fuzz-9.jpg)
 
-Above: A nearly naked Therizinosaurus.  I’d give this depiction between 30 and 50 percent likelihood.
+Above: A nearly naked *Therizinosaurus*.  I’d give this depiction between 30 and 50 percent likelihood.
 
 ![fuzz-10](/assets/fuzz-10.jpg)
 
-Above: A half-naked Therizinosaurus, again in the manner of ostriches.  I’d give this depiction between 50 and 70 percent likelihood.
+Above: A half-naked *Therizinosaurus*, again in the manner of ostriches.  I’d give this depiction between 50 and 70 percent likelihood.
 
 #### Irritator
 ![fuzz-11](/assets/fuzz-11.jpg)
 
-Above: Irritator, a spinosaurid from late Early Cretaceous Brazil, here shown traditionally naked.  Probably over 95% of paleoart depictions of Irritator show it being completely scaly.
+Above: *Irritator*, a spinosaurid from late Early Cretaceous Brazil, here shown traditionally naked.  Probably over 95% of paleoart depictions of *Irritator* show it being completely scaly.
 
 ![fuzz-12](/assets/fuzz-12.jpg)
 
-Above: A rather unusual interpretation of Irritator with a thick coat of protofeathers covering everything except the belly, hands, feet, neck, and snout.  Which of these depictions is more likely?  Well, Irritator was one of the smallest spinosaurids, at only 1 tonne, putting it under the Yutyrannus threshold, meaning that a full coat of protofeathers won’t cause it to fatally overheat.  It was probably semi-aquatic, in which case one could argue that protofeathers are a bad idea--but then again, otters, cormorants, and penguins all sport thick coats even as they dive to depths of several meters.  And phylogenetically, Irritator is a tetanuran, which, according to the chart above, have around a 60% chance of filaments.  So, in this case, I’d say that the fluffy Irritator is actually not unlikely, with a probability of between 30 and 60 percent.  I’d give naked Irritator a similar spread--since it lived in a tropical climate and is close to the Yutyrannus threshold, it’s kind of a borderline case.  If I were to illustrate Irritator, I think I would go with a middle ground of some areas of display filaments on the arms, tail, and head, but an otherwise mostly scaly body.
+Above: A rather unusual interpretation of *Irritator* with a thick coat of protofeathers covering everything except the belly, hands, feet, neck, and snout.  Which of these depictions is more likely?  Well, *Irritator* was one of the smallest spinosaurids, at only 1 tonne, putting it under the *Yutyrannus* threshold, meaning that a full coat of protofeathers won’t cause it to fatally overheat.  It was probably semi-aquatic, in which case one could argue that protofeathers are a bad idea--but then again, otters, cormorants, and penguins all sport thick coats even as they dive to depths of several meters.  And phylogenetically, *Irritator* is a tetanuran, which, according to the chart above, have around a 60% chance of filaments.  So, in this case, I’d say that the fluffy *Irritator* is actually not unlikely, with a probability of between 30 and 60 percent.  I’d give naked *Irritator* a similar spread--since it lived in a tropical climate and is close to the *Yutyrannus* threshold, it’s kind of a borderline case.  If I were to illustrate *Irritator*, I think I would go with a middle ground of some areas of display filaments on the arms, tail, and head, but an otherwise mostly scaly body.
 
-#### Heterodontosaurus
+#### *Heterodontosaurus*
 ![fuzz-13](/assets/fuzz-13.jpg)
 
-Above: The old-fashioned naked Heterodontosaurus, a very small (2-3 kg) basal ornithischian dinosaur from Early Jurassic South Africa.  However, after the discovery of the related Tianyulong in 2009, it became fashionable to depict this dinosaur as some kind of angry, spiky vampire creature, possibly inspired by its fearsome little teeth.
+Above: The old-fashioned naked *Heterodontosaurus*, a very small (2-3 kg) basal ornithischian dinosaur from Early Jurassic South Africa.  However, after the discovery of the related *Tianyulong* in 2009, it became fashionable to depict this dinosaur as some kind of angry, spiky vampire creature, inspired by its fearsome little teeth and its lacrimal (eyebrow) bone.
 
 ![fuzz-14](/assets/fuzz-14.jpg)
 
-Above: “Edgy” Heterodontosaurus.
+Above: “Edgy” *Heterodontosaurus*.
 
 ![fuzz-15](/assets/fuzz-15.jpg)
 
-Above: Fluffy Heterodontosaurus.  I want one!
+Above: Fluffy *Heterodontosaurus*.  I want one!
 
-So, which Heterodontosaurus is the most probable?  It’s sort of a strange paleoart meme that when depicting Heterodontosaurus as quilly, it also needs to be very angry.  I think it’s pretty unlikely that basal ornithischians were meaner than an average animal.  But angriness aside, in my estimation the fluffy depiction is the most likely, followed by quilly, with the naked depiction a distant last place.  Tianyulong is very closely related to Heterodontosaurus and is quilly, but porcupines are closely related to guinea pigs and chinchillas, which are fluffy.  In today’s world, quilly creatures are the exception rather than the rule, and fluffy ones are much more common; I would guess that the Mesozoic wasn’t much different.  It’s also possible that quills, being harder and larger than fine filaments, fossilize more easily, which is why they seem to be overrepresented among dinosaurs whose integument is known directly.
+So, which *Heterodontosaurus* is the most probable?  In my estimation the fluffy depiction is the most likely, followed by quilly, with the naked depiction a distant last place.  *Tianyulong* is very closely related to *Heterodontosaurus* and is quilly, but porcupines are closely related to guinea pigs and chinchillas, which are fluffy.  In today’s world, quilly creatures are the exception rather than the rule, and fluffy ones are much more common; I would guess that the Mesozoic wasn’t much different.  It’s also possible that quills, being harder and larger than fine filaments, fossilize more easily, which is why they seem to be overrepresented among dinosaurs whose integument is known directly.
 
 ### Conclusion
-TL;DR: basically all archosauromorphs are candidates for fluff, phylogenetically, especially the small ones, all the way back to the Triassic and possibly the Permian.  Anything over the Yutyrannus threshold of 1.4 tonnes should be fluffed with extreme caution and only under extenuating circumstances.  Anything under this threshold, even things we're used to being depicted as scaly, such as the smallish spinosaurid Irritator, can be fluffed with relative confidence.
+TL;DR: basically all archosauromorphs are candidates for fluff, phylogenetically, especially the small ones, all the way back to the Triassic and possibly the Permian.  Anything over the *Yutyrannus* threshold of 1.4 tonnes should be fluffed with extreme caution and only under extenuating circumstances.  Anything under this threshold, even things we're used to being depicted as scaly, such as the smallish spinosaurid *Irritator*, can be fluffed with relative confidence.
 
 ### But what type of fluff?
 Modern birds have five different types of feathers, called Stage 1 through Stage 5 in order of increasing complexity.  They look like this:
 ![feathertypes](/assets/feathertypes.gif)
 
-Stage 1 is a simple filament, which is probably ancestral to all archosaurs.  That means basically any archosaur under the Yutyrannus threshold is fair game for sporting these.  Stage 2 is a fiber bundle, such as the down feathers found in a pillow.  The small ornithischian Kulindadromeus was known to have this type of feather, which means that phylogenetically, any dinosaur can have these, but be wary of putting them on non-dinosaurian archosaurs.  Stage 3 is a simple branched feather.  These are known from within Maniraptoriformes--anything more birdlike than Sinosauropteryx, which is known not to have anything more complex than Stage 2.  Stage 4 has the feather barbs branching further and sporting barbules, which allow the feather to zipper itself together into a single surface, and Stage 5 is a fully-developed flight feather with an asymmetric leading edge and a smooth texture.  Only pennaraptorans (oviraptorosaurs and more birdlike) have Stage 4 and 5 feathers, and probably only flighted paravians would have had Stage 5.  From fossilized skin impressions (outlined in Mark Witton's chart above), we know that true sauropods and the ceratosaur Carnotaurus had secondarily lost their fuzz, so for creatures nearby these on the family tree, feather with extreme caution.
+Stage 1 is a simple filament, which is probably ancestral to all archosaurs.  That means basically any archosaur under the *Yutyrannus* threshold is fair game for sporting these.  Stage 2 is a fiber bundle, such as the down feathers found in a pillow.  The small ornithischian Kulindadromeus was known to have this type of feather, which means that phylogenetically, any dinosaur can have these, but be wary of putting them on non-dinosaurian archosaurs.  Stage 3 is a simple branched feather.  These are known from within Maniraptoriformes--anything more birdlike than *Sinosauropteryx*, which is known not to have anything more complex than Stage 2.  Stage 4 has the feather barbs branching further and sporting barbules, which allow the feather to zipper itself together into a single surface, and Stage 5 is a fully-developed flight feather with an asymmetric leading edge and a smooth texture.  Only pennaraptorans (oviraptorosaurs and more birdlike) have Stage 4 and 5 feathers, and probably only flighted paravians would have had Stage 5.  From fossilized skin impressions (outlined in Mark Witton's chart above), we know that true sauropods and the ceratosaur *Carnotaurus* had secondarily lost their fuzz, so for creatures nearby these on the family tree, feather with extreme caution.
 
-Ornithischians, having inherited the basal filament-producing ability, went on to develop specialized structures not covered in Stages 1-5.  Kulindadromeus had two types of unusual feathers alongside Stages 1 and 2: scales with filaments attached to them, and bundles of ribbonlike parallel filaments.  However, since ornithischians have no modern descendents, we don't know what other types of integument are possible.  As more discoveries are made, we will doubtless find additional unfamiliar fuzz structures preserved.
+Ornithischians, having inherited the basal filament-producing ability, went on to develop specialized structures not covered in Stages 1-5.  *Kulindadromeus* had two types of unusual feathers alongside Stages 1 and 2: scales with filaments attached to them, and bundles of ribbonlike parallel filaments.  However, since ornithischians have no modern descendents, we don't know what other types of integument are possible.  As more discoveries are made, we will doubtless find additional unfamiliar fuzz structures preserved.
 
 Further reading:
 [Paleobirding #1](https://theyoungbirdersodyssey.weebly.com/main-blog/paleobirding-1-which-groups-of-dinosaurs-had-feathers)
@@ -157,11 +157,11 @@ Putting my artistic money where my mouth is, here are a couple unusual takes on 
 
 ![microceratus](/assets/microceratus.jpg)
 
-Above: a fluffy take on Microceratus, a small bipedal basal ceratopsian from Late Cretaceous Mongolia.  It was one of the smallest ceratopsians, at about 2 feet long and 10-20 pounds--the size of a cat.  Being so small and endothermic, I thought it could use a bit of warm fluff.  I decided not to give it any tail quills--giving any and all ceratopsians quills has been a paleoart meme since the discovery of Psittacosaurus’s quills--for the same reason as mentioned above regarding Heterodontosaurus.
+Above: a fluffy take on *Microceratus*, a small bipedal basal ceratopsian from Late Cretaceous Mongolia.  It was one of the smallest ceratopsians, at about 2 feet long and 10-20 pounds--the size of a cat.  Being so small and endothermic, I thought it could use a bit of warm fluff.  I decided not to give it any tail quills--giving any and all ceratopsians quills has been a paleoart meme since the discovery of *Psittacosaurus*’s quills--for the same reason as mentioned above regarding *Heterodontosaurus*.
 
 ![gigantoraptor](/assets/gigantoraptor.jpg)
 
-Above: a naked take on Gigantoraptor, a huge oviraptorosaur from Late Cretaceous China.  It was one of the largest oviraptorosaurs (along with possibly Beibeilong), weighing between 2 and 3.6 tonnes full-grown.  That puts it well over the Yutyrannus threshold (1.4 tonnes), so we should expect it to be at least partly naked, and possibly completely naked.  That is one big plucked chicken.  I gave it little filaments on the head, shoulders, and tip of the tail to improve heat dissipation like an elephant.  Drawing a naked dino feels kind of weird, like it’s the 1970s or something.
+Above: a naked take on *Gigantoraptor*, a huge oviraptorosaur from Late Cretaceous China.  It was one of the largest oviraptorosaurs (along with possibly Beibeilong), weighing between 2 and 3.6 tonnes full-grown.  That puts it well over the *Yutyrannus* threshold (1.4 tonnes), so we should expect it to be at least partly naked, and possibly completely naked.  That is one big plucked chicken.  I gave it little filaments on the head, shoulders, and tip of the tail to improve heat dissipation like an elephant.  Drawing a naked dino feels kind of weird, like it’s the 1970s or something.
 
 Image credits:
 [Fatbird T.rex](https://imgur.com/gallery/rmad4)
