@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Obscure Dinosaur Profile #2: *Timurlengia* and Friends"
+title:  "Obscure Dinosaur Profile #2: Timurlengia and Friends"
 date:   2019-10-10 01:40:08 -0700
 categories: profile
 ---

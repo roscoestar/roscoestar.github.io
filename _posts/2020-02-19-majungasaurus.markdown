@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Obscure Dinosaur Profile #3: *Majungasaurus*"
+title:  "Obscure Dinosaur Profile #3: Majungasaurus"
 date:   2020-02-19 01:42:08 -0700
 categories: profile
 ---

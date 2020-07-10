@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "\"*Brontosaurus* Isn't Real?\""
+title:  "\"Brontosaurus Isn't Real?\""
 date:   2019-08-30 22:40:08 -0700
 categories: blog post
 ---
