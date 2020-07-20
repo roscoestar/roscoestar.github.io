@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "Evolutionary Anachronisms"
+tags: [Evolution, Extinction]
 date:   2020-06-17 01:43:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/pronghorn.png
+featured: true
+hidden: true
 ---
 
 The world during the Ice Age was a very different place than it is today.  Charismatic **megafauna** were common across all continents, from the North American mammoths, ground-sloths, and saber-toothed cats to the giant wombats and short-faced kangaroos of Australia, while today a diversity of large animals only exists on one continent, Africa.  However, the Ice Age only ended 11,000 years ago, which means that the survivors of the Pleistocene extinction haven’t really had enough time to adapt to the new environment.  Because many behaviors and adaptations depended on the existence of megafauna, especially giant herbivores, following the Ice Age there would’ve been numerous examples of **maladaptations**, or traits that used to provide an evolutionary advantage but no longer make sense.  For many plants and animals, these maladaptations were detrimental enough that they went extinct soon after the Pleistocene megafauna did; however, in certain cases they were able to survive, leading to strange cases of **evolutionary anachronism** that we can observe today.  Here’s a short list of a few interesting examples.

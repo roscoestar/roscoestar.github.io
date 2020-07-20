@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Speculative Evolution of Monster Hunter"
+tags: [SpeculativeEvolution, Miscellaneous]
 date:   2019-09-08 01:40:08 -0700
 categories: blog post
 ---
@@ -9,7 +10,7 @@ I don’t know about you, but I’m a huge fan of the creature design in Monster
 
 If you aren’t familiar with the series, I recommend you check out the newest installment, Monster Hunter World, first.  The earlier titles had a learning curve that was sort of ridiculously steep, less variety of monsters, behaviors, weapons, and environments, and some of them suffered from terrible camera mechanics that required players to do this:
 
-![mh-claw](/assets/mh-1.1.jpg)
+![mh-claw](/assets/images/posts/mh-1.1.jpg)
 
 The infamous "Monster Hunter Claw".
 
@@ -19,27 +20,27 @@ In this post, I’ll show you the tree of life I’ve created for select monster
 
 Okay, without further ado, here’s the tree:
 
-![tree](/assets/Monster-Hunter-Evolutionary-Tree-v4.png)
+![tree](/assets/images/posts/Monster-Hunter-Evolutionary-Tree-v4.png)
 
 Sorry for the low resolution; keep reading to see detailed views of various sections of the tree.
 
 I’ve started with a structure that’s pretty similar to our real-world tree of life.  The first group to branch off are the protostomes, including arthropods and cephalopods.  Protostomes include most invertebrates, and together with the deuterostomes (ecinoderms like sea stars and sea cucumbers, plus all vertebrates) make up the clade Bilateria, or animals with bilateral symmetry.  The protostomes of the Monster Hunter universe include Nerscylla, Seltas, Shen Gaoren, Yama Tsukami, etc:
 
-![mh-2.1](/assets/mh-2.1.png)
+![mh-2.1](/assets/images/posts/mh-2.1.png)
 
 Officially, Konchu is a neopteran, but here I’ve included it as a basal carapaceon (the group including Hermitaur, Ceanataur, and Shen Gaoren) due to its similarity to pillbugs, which are crustaceans.  Funnily, Neoptera is a real-world clade that actually would include all the animals that are included on this tree (beetles, ants, and wasps).  Ants and wasps are more closely related to one another than they are to beetles, in the group Hymenoptera (name not shown).
 
 The next groups we’ll look at are the ray-finned fish (Actinopterygii) including Delex and, well, fish, and the Hexapoda, or six-limbed vertebrates, most of which are Elder Dragons.
 
-![mh-2.2](/assets/mh-2.2.png)
+![mh-2.2](/assets/images/posts/mh-2.2.png)
 
 The assumption I’m making here is that, similarly to in the real world, lobe-finned fish (Sarcopterygii) split off from the ray-finned fish, but instead of lobe-finned fish giving rise to the tetrapods, in Monster Hunter they split into two groups, the Tetrapods and Hexapods\*.  Some real-life early lobe-finned fish had bones in more than four of their fins, like *Eusthenopteron*:
 
-![eusthenopteron](/assets/eusthenopteron.png)
+![eusthenopteron](/assets/images/posts/eusthenopteron.png)
 
 Maybe a group of these fish kept all their limb-bones as they developed into land-faring creatures parallel to the tetrapods:
 
-![salamander](/assets/salamander.jpg)
+![salamander](/assets/images/posts/salamander.jpg)
 
 From there, the first Hexapod to split off is Teostra (and Lunastra, not shown) because of their similarity to stem-mammals (whether this assumption is a good one is debatable).  Teostra has fur in some places, scales in others, and has an upright posture.  Next, among the reptilian Hexapods, the most basal is Chameleos, based on its lack of derived features--it doesn’t have feathers, and has a more sprawling posture than other Elder Dragons.  Then, Kushala and Fatalis are closely related, based on their wing morphology--both have the thumbclaw free and the other four fingers supporting the wing.  Magala and Alatreon are also related through wing morphology--Magala has four claws free and only one elongated finger supporting the wing along with an elbow spike, while Alatreon has three claws somewhat free and two supporting the wing.  Perhaps Magala’s wing is more derived, as its ancestors used the wing more and more for maneuvering on the ground.
 
@@ -51,17 +52,17 @@ Another strange thing to think about is why all Monster Hunter’s hexapods have
 
 Now we move to the next part of the tree, the basal tetrapods:
 
-![mh-2.3](/assets/mh-2.3.png)
+![mh-2.3](/assets/images/posts/mh-2.3.png)
 
 Like in the real world, the first group to split are the lungfish, or Dipnoi.  In Monster Hunter, this not only includes the monsters similar to real early fishapods--Gobul and Nibelsnarf--but also the very strange, derived Piscine Wyverns.  These are all in a clade together because of their unclear number of digits on each limb--Piscine Wyverns appear to have fishlike fins, not dissimilar to real-life “fishapod” *Tiktaalik*:
 
-![tiktaalik](/assets/tiktaalik.jpg)
+![tiktaalik](/assets/images/posts/tiktaalik.jpg)
 
 Jyuratodus, a new addition to the Piscine Wyvern roster from Monster Hunter World, is the most basal; it very much resembles a lungfish, and its name is derived from *Ceratodus*, a real-world genus of Mesozoic lungfish.  I feel like Capcom created this monster specifically to tie the Piscine Wyverns to the Leviathans evolutionarily, which is pretty cool.  Lavasioth is the next most basal, since its legs are more developed than Jyuratodus's but its arms are still finlike.  Plesioth comes next, followed by the highly derived Cephadrome, which is specialized for burrowing.
 
 Gobul has similarly nondescript fins, while Nibelsnarf’s five short, unspecialized digits per limb, sort of like Acanthostega (below), lead me to place it in a more advanced position on the tree.  Similarly to *Acanthostega*, Nibelsnarf can be considered an ancestral cousin to the rest of Tetrapoda, but not a direct ancestor--lobe fins evolved into digits many times among stem tetrapods.
 
-![acanthostega](/assets/acanthostega.png)
+![acanthostega](/assets/images/posts/acanthostega.png)
 
 Above: *Acanthostega*, a stem-tetrapod that had eight digits per foot!  That's way too many digits.
 
@@ -69,20 +70,20 @@ To be honest, Piscine Wyverns are my least favorite monsters in the series.  The
 
 Moving on, we have the true amphibians, with Anura (frogs) on one side, including Tetsucabra and Zamtrios, and the Caudata (salamanders) on the other, including Khezu and Gigginox.  At first, it seems like a bit of a leap to call Khezu and Gigginox amphibians, especially due to their possible jawlessness (in the real world, there’s no such thing as a jawless tetrapod--fish developed jaws first, before developing limbs).  But when Khezu “smiles” in-game, its mouth does appear to close like it has a jaw, and it bears a very strong resemblance to a giant caecilian (a real legless amphibian).
 
-![caecilian](/assets/caecilian.jpg)
+![caecilian](/assets/images/posts/caecilian.jpg)
 
 Above: a caecilian's horrifying maw.  I wouldn't be surprised if the designer of Khezu was directly inspired by these tiny terrors.
 
 Here I’ve placed Khezu as more basal than Gigginox, which not only seems to have some sort of derived jaw adaptation optimized for clinging to ceilings, but also has gecko-like fingers for climbing and bioluminescence, both of which seem to be derived traits.  I'm thinking Gigginox has a jaw similar to that of cookie-cutter sharks, which use their lips to suction onto large animals and their band-saw-like teeth to chop out a neat cylinder of flesh.
 
-![cookiecutter](/assets/cookiecutter.jpg)
+![cookiecutter](/assets/images/posts/cookiecutter.jpg)
 
 Above: A cookie-cutter shark's mouth, or how one repurposes a jaw for a jawless lifestyle.
 
 ### Mammals
 Now we’ve reached the more advanced tetrapods, the amniotes (reptiles and mammals).  Let’s explore the mammal side first.
 
-![mh-2.4](/assets/mh-2.4.png)
+![mh-2.4](/assets/images/posts/mh-2.4.png)
 
 There don’t seem to be any marsupials in the Monster Hunter universe, which makes the mammal tree much more compact.  As in real life, the first group of placental mammals to diverge from the rest are the Atlantogenata, which includes proboscideans (Popo), sloths (I’m calling Kecha Wacha a sloth here), and armadillos (Volvidon).  As in real life, sloths and armadillos are more closely related to one another and occupy a group called Xenarthra (name not shown).  Kecha is a very chimera-like animal, unusual for Monster Hunter, and is thus hard to place on this tree.  It has a proboscis like an elephant or tapir, gliding membranes like a flying squirrel or colugo, and claws specialized for suspensory behavior like a sloth.  Since proboscises and gliding membranes are independently present among multiple groups of real-world living mammals but sloth-like suspensory claws are not, I decided Kecha was probably a highly derived sloth.
 
@@ -90,7 +91,7 @@ Next we have the euarchontoglires, a group that in real life includes rodents, p
 
 Onward!  Here we take a look at the laurasiatherians:
 
-![mh-2.5](/assets/mh-2.5.png)
+![mh-2.5](/assets/images/posts/mh-2.5.png)
 
 In the real world, Laurasiatheria includes bats, ungulates (hoofed animals), and carnivores (cats, dogs, and relatives).  Paolumu, the only bat in the MH universe, is different than real bats in that it displays **zygodactyly**, where each foot has two toes facing forward and two facing backward, like a parrot.  Fortunately for Capcom, zygodactyly evolved several times among birds independently, which means it’s not too hard to do (at least for birds), so it’s not too implausible for a bat to have evolved zygodactyly as well.  Paolumu’s wings are similar to real bats’, with the thumbclaw sticking out and the other four fingers elongated to support the wing membrane.
 
@@ -98,7 +99,7 @@ The next group to branch off is Ungulata, which quickly splits again into Periss
 
 Ceadeus is a particularly interesting case, since it has unusual bony plates on its face reminiscent of predatory placoderms like *Dunkleosteus*:
 
-![dunkleosteus](/assets/dunkleosteus.png)
+![dunkleosteus](/assets/images/posts/dunkleosteus.png)
 
 But Ceadeus has fur, horns, and a horizontal tail fluke\*, indicating that it’s probably a secondarily aquatic mammal rather than a placoderm descendant that split off way before.  That means Ceadeus must have evolved its bony head plates independently.  I don’t think this is particularly plausible, but given that whales are already such derived artiodactyls, I’ll give Capcom the benefit of the doubt.
 
@@ -106,30 +107,30 @@ But Ceadeus has fur, horns, and a horizontal tail fluke\*, indicating that it’
 
 Next up we have the carnivorans:
 
-![mh-2.6](/assets/mh-2.6.png)
+![mh-2.6](/assets/images/posts/mh-2.6.png)
 
 This part of the tree is pretty straightforward and parallel to the real world.  We have the feliforms (catlike carnivorans), including Narga, Barioth, Felyne, Melynx, and Shakalaka, and we have the caniforms (doglike carnivorans), including Arzuros, Mizu, and Zin.  The interesting thing about this section of the tree is the presence of another group of sentient animals, the Felyne branch.  They have to have evolved intelligence and bipedalism independently from humans and Wyverians, since they’re separated by many non-sentient, quadrupedal species on the tree, which is not implausible.  I’ve tentatively put the Shakalaka on the same branch as the Felynes because the games officially classify them as Lynians, but judging by their plantigrady and hairlessness, they may actually be primates closely related to humans.  It’s hard to tell, given we never see their faces.
 
 ### Reptiles
 We’ve made it to the reptile side of the tree!  Let’s start with a look at the reptiles not in the Pan-Aves group:
 
-![mh-2.7](/assets/mh-2.7.png)
+![mh-2.7](/assets/images/posts/mh-2.7.png)
 
 First we have the lepidosaurs, or lizards and snakes.  This includes Jagras, Ludroth, Remobra, Girros, Naja, and Dala.  Ludroth is cool because they’re very close to what basal mosasauroids looked like--semiaquatic monitor lizards in the process of fully committing to an aquatic lifestyle:
 
-![aigialosaurus](/assets/aigialosaurus.jpg)
+![aigialosaurus](/assets/images/posts/aigialosaurus.jpg)
 
 Above: *Aigialosaurus*, a basal mosasauroid from the early Late Cretaceous.
 
 Both snakelike wyverns retain small clawed limbs, which I think is also cool, since this is how real-world snakes looked before they lost their legs entirely (though much, much smaller):
 
-![najash](/assets/najash.jpg)
+![najash](/assets/images/posts/najash.jpg)
 
 *Najash*, a Cretaceous basal snake.  Probably what Najarala is named after.  Look at those tiny legs!  Dalamadur is in a more derived position on the tree because its limbs are more reduced than Najarala’s.
 
 I’ve included Remobra as a basal lepidosaur because (a) their heads and teeth are so snakelike, (b) there is a precedent for gliding lepidosaurs, so maybe Remobra is a derived form capable of powered flight, and (c) the Monster List calls them Snake Wyverns, along with Najarala.
 
-![draco](/assets/draco.jpg)
+![draco](/assets/images/posts/draco.jpg)
 
 *Draco*, a real-life gliding lizard.  Its “wings” aren’t attached to its arms, but are actually part of its ribs!  In the photo, it’s actively grabbing the wings with its arms to steer.  I’d imagine Remobra is probably more distantly related to other lizards than Draco is, given how advanced Remobra’s wings are.
 
@@ -137,11 +138,11 @@ At least with the Lepidosaur group, it looks like Capcom took a lot of inspirati
 
 Next up are the Pantestudines, or "all turtles," which in real life include Testudines (turtles) and Sauropterygia (plesiosaurs and pliosaurs):
 
-![mh-2.8](/assets/mh-2.8.png)
+![mh-2.8](/assets/images/posts/mh-2.8.png)
 
 I've put Dodogama here as a basal turtle because its toothless beak and barrel chest remind me of real-life proto-turtles like *Eunotosaurus*:
 
-![eunotosaurus](/assets/eunotosaurus.jpg)
+![eunotosaurus](/assets/images/posts/eunotosaurus.jpg)
 
 I'm not a fan of the Monster List category "Fanged Wyvern".  The only thing in this category before World was Zinogre, which is based on a wolf; in World, Capcom introduced a bunch of quadrupedal reptiles that also are considered Fanged Wyverns.  It seems like the monster version of a wastebasket taxon--anything that doesn't fit the existing categories is lumped in here.
 
@@ -157,7 +158,7 @@ How does Amatsu manage to fly?  Lighter-than-air gas sacs?  Magnetism?  Electrom
 
 We've made it to the dinosaur portion of the tree!  Before going into the Flying Wyverns (which are a branch of Theropoda that doesn't exist in the real world), let's talk about the ornithischian dinosaurs:
 
-![mh-2.9](/assets/mh-2.9.png)
+![mh-2.9](/assets/images/posts/mh-2.9.png)
 
 The easy ones to place are Apceros, which is clearly an ankylosaur; Aptonoth, which is clearly an ornithopod; Rhenoplos and Slagtoth, which are clearly ceratopsians; and Kestodon, which is clearly a pachycephalosaur.  Then we’ve got Uragaan.  This guy is extremely enigmatic and could plausibly go in many places on the tree.  Here I have it listed as a giant heterodontosaur because of its teeth--specialized molars and tusk-like canines, which aren’t found among saurischians.  How did it come to eat rocks?  I would speculate that its ancestors were herbivorous and consumed **gastroliths** to help it better digest tough vegetation, and then a mutation arose that allowed them to get nutrients from the gastroliths themselves.  It’s also a bit unclear how, with its large brow-horns and gigantic chin, Uragaan is able to reach anything with its mouth--I’m pretty sure in-game its chin just no-clips through whatever is nearby when performing the eating animation.
 
@@ -169,19 +170,19 @@ The Monster List claims Tigrex is a basal Flying Wyvern and that Akantor and Uka
 
 The next group is the Raths, Seregios, and Legiana.  I’ve grouped these due to their wing morphology--the thumbclaw is free and the rest of the wing is supported by the other four fingers, like a bat.  Seregios has somehow acquired a second thumbclaw, for a total of six fingers, presumably made out of one of the wrist bones like a panda’s second thumb:
 
-![panda-thumb](/assets/panda-thumb.gif)
+![panda-thumb](/assets/images/posts/panda-thumb.gif)
 
 Seregios has also become independently zygodactyl, like Paolumu, while the Raths are **anisodactyl**, meaning they have three toes pointing forward and one pointing backward.
 
 Here are some more derived theropods, the carnosaurs:
 
-![mh-2.10](/assets/mh-2.10.png)
+![mh-2.10](/assets/images/posts/mh-2.10.png)
 
 In real life this is a paraphyletic group, but here I’ve drawn it as monophyletic.  Barroth and Brachydios are closely related armored theropods that retain the use of their arms.  The other three have highly reduced arms, especially Deviljho.  Anjanath is the only one on this branch with feathers, but as in the real world I’m assuming that feathers are the archosaurian ancestral condition and many derived groups independently lost them when they became larger-bodied and needed less insulation.  This is corroborated by the fact that Rathian, an archosaur relatively far from Anjanath on tree, has quill-like feathers on her shoulders and wrists.
 
 And finally, the maniraptors:
 
-![mh-2.11](/assets/mh-2.11.png)
+![mh-2.11](/assets/images/posts/mh-2.11.png)
 
 Jaggi, Baggi, and Wroggi are obviously closely related, maybe as a parallel to the real-life Megaraptorans, a clade that we still don’t really know where it belongs.  An argument could be made that Wroggi is actually an amphibian that convergently evolved a theropod-like body plan, since it looks slimy and seems to be able to produce toxins, which no birds (and probably no maniraptorans) are known to be able to do.  However, some real-life birds feed on toxic substances and then “sequester” the poison in their skin, such as the pitohui and the little shrikethrush, so maybe Wroggi does this too.  Wroggi also has a scaly underside, indicating that maybe the scales on its back are just too small to see or render.
 
@@ -193,7 +194,7 @@ The last group we have to cover is the paravians.  Gypceros (another apparently 
 
 Yian Kut-Ku and Yian Garuga have very confusing wings, which appear to be supported by one elongated finger and a bunch of non-finger “styliform” bones.  These aren’t unheard of in the real world, as evidenced by the unusual paravian dinosaur *Yi*:
 
-![yi-qi](/assets/yi-qi.jpg)
+![yi-qi](/assets/images/posts/yi-qi.jpg)
 
 And finally we have Gargwa and Malfestio, two of the very few true avialan birds in the Monster List.
 

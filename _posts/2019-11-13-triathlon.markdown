@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Ultimate Triathlete: A Speculative Evolution Project"
+tags: [SpeculativeEvolution, Miscellaneous]
 date:   2019-11-13 01:40:08 -0700
 categories: blog post
 ---
@@ -13,7 +14,7 @@ The goal here is to create a creature that makes sense based on earth biology as
 ### Version 0: *Velopelta triathlus*
 I started with the idea that humans are already pretty good at cycling and running, but could use a lot of help on the swim.  This creature runs and cycles like a human but swims backwards, using its tail for propulsion and tucking its legs away.  It has dorsal plates shaped like a hydrofoil that allow it to reduce drag in the water.  Since the only animal with extreme dorsal plates like this are stegosaurs, the creature is a highly derived stegosaur.
 
-![velopelta](/assets/velopelta.png)
+![velopelta](/assets/images/posts/velopelta.png)
 
 This design has many flaws:
 - A hydrofoil is a highly specialized structure with no precedent in real organisms
@@ -24,7 +25,7 @@ So, I addressed most of these and moved on to Version 1, which I posted to Reddi
 
 ### Version 1: *Velocetus triathlus*
 
-![velocetus-2](/assets/velocetus-2.jpg)
+![velocetus-2](/assets/images/posts/velocetus-2.jpg)
 
 With this creature, I flipped it over relative to *Velopelta* but kept the idea that it would swim with one set of limbs and run/cycle with the other set: Velocetus swims with its legs, then flips over and does the rest with its arms.  It doesn’t need to change clothes or anything to transition between any of the events--its blubber acts as a natural wetsuit, and it installs toe clips into its hooves like a horseshoe prior to the race.  “*Velocetus*” means “swift whale”--I imagined this creature evolving from a hoofed whale ancestor like *Indohyus*, but taking a completely different strategy to a semi-aquatic lifestyle, using its hind legs for propulsion like a pinniped rather than its tail, and keeping its hooves for effective terrestrial locomotion.
 
@@ -39,7 +40,7 @@ This brings us to Version 2, in an attempt to address some of these problems.
 
 ### Version 2: *Velosaurus triathlus*
 
-![velosaurus-2](/assets/velosaurus-2.jpg)
+![velosaurus-2](/assets/images/posts/velosaurus-2.jpg)
 
 Someone on r/SpeculativeEvolution suggested autotomy (dropping its tail like a lizard) as a transition strategy, which Velocetus is unable to do for two reasons: it’s a mammal, and also it uses its hind legs to swim rather than a tail.  So, this creature uses its tail to swim and then ditches it into an appropriate receptacle in the transition area before getting on the bike.  It also has no hind legs at all, using its snout to steer the bike instead.  It has hooves reminiscent of advanced hadrosaurs--a new mummified specimen of *Edmontosaurus* that hasn’t been formally described yet, known only as “Dakota,” shows that hadrosaurs may have had keratinized hooves.  This is important because prior to this the most hoof-like foot previously known within Reptilia belonged to *Boverisuchus*, and those were multiple small hoof-like nails that didn’t look like they could support a horseshoe.  It also has multiple dorsal fins that act as vortex spoilers.  By this strategy, it solves a lot of the problems that *Velocetus* had--*Velosaurus* doesn’t have to contort itself, looks way more aerodynamic, and isn’t hauling around any extra weight--but it comes with its own flaws as well:
 
@@ -48,7 +49,7 @@ Someone on r/SpeculativeEvolution suggested autotomy (dropping its tail like a l
 - It can only race once per however long it takes the tail to grow back completely.  An anole takes two months to regrow a tail and has a lifespan of six years; scaling that up linearly to a humanlike 80 year lifespan, it would take *Velosaurus* one year to regrow the tail.  Since it can’t train while the tail is regrowing, it could probably realistically only race once per 1.5 to 2 years.
 - It may be too much of a chimaera--all of its constituent features come from within Reptilia, but the tail-dropping is a lepidosaur thing while the hooves are an archosaur thing.  I think *Velosaurus* is probably a lepidosaur that convergently evolved hooves, but I’m not sure if that’s plausible enough.
 
-![triathlon-4](/assets/triathlon-4.jpg)
+![triathlon-4](/assets/images/posts/triathlon-4.jpg)
 
 Above: A mummified *Edmontosaurus* forefoot.  What a beautiful specimen!!
 
@@ -58,7 +59,7 @@ Other suggestions include having a snakelike two-part lower jaw that can slot in
 
 By now, I feel like I’ve strayed maybe a bit too far from the original goal, and have been over-optimizing on eliminating transitions and improving the swim at the cost of actually being a good runner and cyclist.  Given the constraint that the bike has to be a regular human’s bike, maybe something more human-shaped would do better riding it.  And maybe doing the run on four legs would actually be better, like a sled dog, which can run 10-15 mph almost indefinitely (the world-record Ironman pace, set by Marino Vanhoenacker in 2011, was a 9.9 mph pace), as long as the creature also has the sled dog’s [non-reliance on carbs](https://www.youtube.com/watch?v=HDG4GSypcIE) for fuel.  Imagining something somewhat human-shaped but quadrupedal made me think of *Hallopus*, a Mesozoic **cursorial** crocodylomorph.  Thus, *Velosuchus* was born.  
 
-![velosuchus-2](/assets/velosuchus-2.jpg)
+![velosuchus-2](/assets/images/posts/velosuchus-2.jpg)
 
 It’s basically just a scaled-up *Hallopus* with webbed feet, a shorter, more powerful tail, and a tail fluke.  Not nearly as whimsical or freakish as *Velocetus* and *Velosaurus*, but looks significantly more effective.  It probably wouldn’t be nearly as good at the swim, but the swim is the shortest portion of the race; being a good cyclist and a good runner matter much more in terms of overall time.
 
@@ -67,7 +68,7 @@ His main improvements over the other designs are:
 - Some people, seeing a pseudosuchian, thought he must be cold-blooded.  He isn't!  There's no way an ectothermic creature would be a good racer.  Thankfully, endothermy is also the archosaurian ancestral condition, so *Velosuchus* has the right to be warm-blooded if I say he is.
 - Since he can't sweat, his caudal fin needs to be highly vascularized, like an elephant's ear, to help him keep cool during the bike and run portions.
 
-![caudofemoralis](/assets/caudofem.jpg)
+![caudofemoralis](/assets/images/posts/caudofem.jpg)
 
 Above: *Tyrannosaurus rex*'s caudofemoralis (tail) muscle.  It connects to the fourth trochanter, a bone protrusion on the femur, to help pull the leg backward.
 
@@ -76,7 +77,7 @@ Some drawbacks *Velosuchus* has compared to the other two include:
 - Carries its tail around for the rest of the race (although this is mitigated by the caudofemoralis aiding its leg power)
 - No blubber (needs to keep eating throughout the race)
 
-![hallopus](/assets/hallopus.jpg)
+![hallopus](/assets/images/posts/hallopus.jpg)
 
 Above: *Hallopus* skeletal.  “*Hallopus victor*” means “leaping foot winner”!  Now that’s what I want in a triathlete.
 
@@ -153,13 +154,13 @@ It’s also a little disappointing that the best creature design was sort of jus
 
 I've incorporated the digitally remastered versions of the drawings into the main post now, and put the original ink drawings below.  
 
-![triathlon-0](/assets/triathlon-0.jpg)
+![triathlon-0](/assets/images/posts/triathlon-0.jpg)
 
-![triathlon-1](/assets/triathlon-1.jpg)
+![triathlon-1](/assets/images/posts/triathlon-1.jpg)
 
-![triathlon-2](/assets/triathlon-2.jpg)
+![triathlon-2](/assets/images/posts/triathlon-2.jpg)
 
-![triathlon-3](/assets/triathlon-3.jpg)
+![triathlon-3](/assets/images/posts/triathlon-3.jpg)
 
 Image credits:
 [Edmontosaurus hoof](https://i.redd.it/1xvs9mf923t31.jpg)

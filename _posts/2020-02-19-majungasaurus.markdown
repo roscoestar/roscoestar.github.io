@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Obscure Dinosaur Profile #3: Majungasaurus"
+tags: [Profile, Dinosauria]
 date:   2020-02-19 01:42:08 -0700
 categories: profile
 ---
@@ -10,9 +11,9 @@ Hometown: Madagascar, 70-66 mya (Late Cretaceous)
 
 Discovered 1896, described 1955 (originally one of 50 species mistaken for *Megalosaurus*)
 
-![majung-1](/assets/majungasaurus-1.jpg)
+![majung-1](/assets/images/posts/majungasaurus-1.jpg)
 
-![majung-2](/assets/majungasaurus-2.jpg)
+![majung-2](/assets/images/posts/majungasaurus-2.jpg)
 
 *Majungasaurus* was a Malagasy apex predator from the very latest Cretaceous, known from many specimens.  Abelisaurs (pronounced “uh-BELLY-sores”) were a group of ceratosaurs that rose to prominence toward the end of the Cretaceous in the Southern Hemisphere.  Prior to this, in the Early Cretaceous, the allosauroid carcharodontosaurs (including the famously large *Giganotosaurus*, *Mapusaurus*, and *Carcharodontosaurus*) held the apex predator role worldwide, but toward the end of that period they were displaced by tyrannosaurs in the north and abelisaurs in the south.  While a fully grown *Tyrannosaurus* could reach 14 tonnes, most tyrannosaurs were more modestly sized, with *Tarbosaurus* weighing in at 5 tonnes, *Daspletosaurus* and *Gorgosaurus* at 2.5, and *Qianzhousaurus* (Pinocchio rex) a measly 0.75 tonnes.  Abelisaurs as a group were more gracile, with the largest, *Rajasaurus*, tipping the scales at 3 tonnes, while the more famous *Carnotaurus* and our hero *Majungasaurus* weighed in the ballpark of 1.5 tonnes.  The smaller *Aucasaurus* weighed only 0.7 tonnes.
 

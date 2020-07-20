@@ -1,18 +1,19 @@
 ---
 layout: post
 title:  "Mesozoic Inktober 2019"
+tags: [Paleoart, Inktober]
 date:   2019-10-01 01:40:08 -0700
 categories: blog post
 ---
 For those of you who aren’t familiar with Inktober (and other month-long creativity challenges), it’s a social-media event where participants draw something related to the official prompt, in ink, each day during the month of October.  This is the first time I’ll be participating, so we’ll see how long it takes me to fall off the bandwagon.  Of course, I’m going to do a dinosaur spin on each of the prompts.  Caveat: I’m not a professional paleoartist, so there may be some inaccuracies (and ugliness) even when I try my best; constructive criticism is much appreciated.  Anyway, without further ado, here’s the official list:
 
-![inktober](/assets/inktober.jpg)
+![inktober](/assets/images/posts/inktober.jpg)
 
 And here are my entries so far!  I’ll keep updating this with more as the month goes on.
 
 ### Day 1: Ring
 
-![inktober-1](/assets/inktober-1.jpg)
+![inktober-1](/assets/images/posts/inktober-1.jpg)
 
 Day 1: Ring - *Torosaurus*.  Drawn in about 40 minutes from photo reference.
 
@@ -24,7 +25,7 @@ I picked *Torosaurus* to be my “ring” because the holes in its frill are so 
 
 ### Day 2: Mindless
 
-![inktober-2](/assets/inktober-2.jpg)
+![inktober-2](/assets/images/posts/inktober-2.jpg)
 
 Day 2: Mindless - *Ctenochasma*.  Drawn in about 4 hours.  All that black--never again!
 
@@ -37,7 +38,7 @@ I picked *Ctenochasma* to be my “mindless” because its inefficient feeding h
 
 ### Day 3: Bait
 
-![inktober-3](/assets/inktober-3.jpg)
+![inktober-3](/assets/images/posts/inktober-3.jpg)
 
 Day 3: Bait - *Tanystropheus*.  Drawn in about an hour.  Is using sepia pens cheating?
 
@@ -51,13 +52,13 @@ I picked *Tanystropheus* to be my “bait” because of its claim to fame as the
 
 ### Day 4: Freeze
 
-![inktober-4](/assets/inktober-4.jpg)
+![inktober-4](/assets/images/posts/inktober-4.jpg)
 
 Day 4: Freeze - *Yutyrannus*.  Drawn in about 2 hours.
 
 *Yutyrannus* (meaning “feather tyrant”) was an Early Cretaceous basal tyrannosauroid from Liaoning (northern China).  It’s by far the largest dinosaur we’ve found with preserved feathers, at around 3,000 pounds, and upon its discovery, paleoartists got super excited at the direct evidence that giant carnivorous dinos could be feathered, and started doing things like this:
 
-![fatbird-trex](/assets/fatbird-trex.jpg)
+![fatbird-trex](/assets/images/posts/fatbird-trex.jpg)
 
 However, *Yutyrannus* lived in quite different conditions than *Tyrannosaurus*--the former lived in a temperate climate that would’ve seen snow in the winter, while the latter lived in a subtropical forested floodplain.  Plus, *Tyrannosaurus* is about 13 times heavier, and due to the [square-cube law](https://en.wikipedia.org/wiki/Square%E2%80%93cube_law), would’ve had a much harder time dissipating heat.  In addition to all this, by now many tiny, high-res skin impressions from The King have been found that indicate complete scaliness.
 
@@ -68,7 +69,7 @@ I picked *Yutyrannus* to be my “freeze” because of the seasonal changes it w
 
 ### Day 5: Build
 
-![inktober-5](/assets/inktober-5.jpg)
+![inktober-5](/assets/images/posts/inktober-5.jpg)
 
 Day 5: Build - *Protoceratops*.  Drawn in about an hour.
 
@@ -80,7 +81,7 @@ An interesting thing to note is the huge number of dinosaurs in these litters--1
 
 ### Day 6: Husky
 
-![inktober-6](/assets/inktober-6.jpg)
+![inktober-6](/assets/images/posts/inktober-6.jpg)
 
 Day 6: Husky - *Olorotitan*.  Drawn in about 4 hours.  All those ovals...
 
@@ -90,7 +91,7 @@ What’s with the huge, dragonlike scales? A [fossil](https://www.nationalgeogra
 
 ### Day 7: Enchanted
 
-![inktober-7](/assets/inktober-7.jpg)
+![inktober-7](/assets/images/posts/inktober-7.jpg)
 
 Day 7: Enchanted - *Carnotaurus*.  Drawn in about 40 minutes.
 
@@ -107,7 +108,7 @@ Pose references: [1](https://www.deviantart.com/fredthedinosaurman/art/Dinosaur-
 
 ### Day 8: Frail
 
-![inktober-8](/assets/inktober-8.jpg)
+![inktober-8](/assets/images/posts/inktober-8.jpg)
 
 Day 8: Frail - *Scleromochlus*.  Drawn in about 30 minutes.  Boing!
 
@@ -120,7 +121,7 @@ I picked *Scleromochlus* to be my “frail” because its long limbs just look l
 
 ### Day 9: Swing
 
-![inktober-9](/assets/inktober-9.jpg)
+![inktober-9](/assets/images/posts/inktober-9.jpg)
 
 Day 8: Swing - *Megalancosaurus*.  Drawn in about an hour.
 
@@ -131,7 +132,7 @@ Day 8: Swing - *Megalancosaurus*.  Drawn in about an hour.
 
 ### Day 10: Pattern
 
-![inktober-10](/assets/inktober-10.jpg)
+![inktober-10](/assets/images/posts/inktober-10.jpg)
 
 Day 10: Pattern - *Ornithomimus* (chicks).  Drawn in about 40 minutes.
 
@@ -144,7 +145,7 @@ I picked *Ornithomimus* to be my “pattern” because baby ostriches have adora
 
 ### Day 11: Snow
 
-![inktober-11](/assets/inktober-11.jpg)
+![inktober-11](/assets/images/posts/inktober-11.jpg)
 
 Day 11: Snow - *Leaellynasaura*.  Drawn in about an hour.
 
@@ -158,7 +159,7 @@ References [1](https://www.deviantart.com/eurwentala/art/Blue-Moment-474422923) 
 
 ### Day 12: Dragon
 
-![inktober-12](/assets/inktober-12.jpg)
+![inktober-12](/assets/images/posts/inktober-12.jpg)
 
 Day 12: Dragon - *Beibeilong*.  Drawn in about 3 hours.
 
@@ -171,7 +172,7 @@ I based my *Beibeilong*’s plumage off that of a rooster, since oviraptorosaurs
 
 ### Day 13: Ash
 
-![inktober-13](/assets/inktober-13.jpg)
+![inktober-13](/assets/images/posts/inktober-13.jpg)
 
 Day 13: Ash - The Very Bad Day.  The final day of the Cretaceous period. Drawn in about 2 hours. Featured animals: *Triceratops* and *Anzu*.
 
@@ -186,7 +187,7 @@ This comic is largely based on Steve Brusatte’s description from his book _The
 
 ### Day 14: Overgrown
 
-![inktober-14](/assets/inktober-14.jpg)
+![inktober-14](/assets/images/posts/inktober-14.jpg)
 
 Day 14: Overgrown - *Ambopteryx*. Drawn in about 40 minutes.
 
@@ -198,7 +199,7 @@ I picked *Ambopteryx* to be my “overgrown” because it probably lived in the 
  
 ### Day 15: Legend
 
-![inktober-15](/assets/inktober-15.jpg)
+![inktober-15](/assets/images/posts/inktober-15.jpg)
 
 Day 15: Legend - *Tyrannosaurus rex* through the years.
  
@@ -211,7 +212,7 @@ Here are four depictions of *Tyrannosaurus* showing how our understanding of thi
 
 ### Day 16: Wild
 
-![inktober-16](/assets/inktober-16.jpg)
+![inktober-16](/assets/images/posts/inktober-16.jpg)
 
 Day 16: Wild - *Araripesuchus*.  Drawn in about an hour.
  
@@ -238,7 +239,7 @@ Thanks for sticking with me through my first half of my first Inktober.  We’re
  
 ### Day 17: Ornament
 
-![inktober-17](/assets/inktober-17.jpg)
+![inktober-17](/assets/images/posts/inktober-17.jpg)
 
 Day 17: Ornament - Fabulous Fliers of the Romualdo Formation.  Drawn in about 3 hours.  I sort of bit off more than I wanted to chew with respect to the area that needed to be stippled.
  
@@ -248,7 +249,7 @@ All these fabulous-crested pterosaurs were found in the Romualdo Formation, but 
 
 ### Day 18: Misfit
 
-![inktober-18](/assets/inktober-18.jpg)
+![inktober-18](/assets/images/posts/inktober-18.jpg)
 
 Day 18: Misfit - *Halszkaraptor*.  Drawn in about 50 minutes.
  
@@ -262,7 +263,7 @@ My paleo blog: [obscuredinosaurfacts.com](http://obscuredinosaurfacts.com)
  
 ### Day 19: Sling
 
-![inktober-19](/assets/inktober-19.jpg)
+![inktober-19](/assets/images/posts/inktober-19.jpg)
 
 Day 19: Sling - *Stenopterygius*.  Drawn in about 40 minutes.
  
@@ -274,7 +275,7 @@ Since they’re so convergent with dolphins, and dolphins exhibit “infant-carr
  
 ### Day 20: Tread
 
-![inktober-20](/assets/inktober-20.jpg)
+![inktober-20](/assets/images/posts/inktober-20.jpg)
 
 Day 20: Tread - *Vouivria* and *Plesiochelys*.  Drawn in about an hour.
  
@@ -289,7 +290,7 @@ Looking back at it now, I’m pretty sure Vouivria’s neck couldn’t actually 
  
 ### Day 21: Treasure
 
-![inktober-21](/assets/inktober-21.jpg)
+![inktober-21](/assets/images/posts/inktober-21.jpg)
 
 Day 21: Treasure - *Oryctodromeus*.  Drawn in about an hour.
  
@@ -297,7 +298,7 @@ Day 21: Treasure - *Oryctodromeus*.  Drawn in about an hour.
  
 ### Day 22: Ghost
 
-![inktober-22](/assets/inktober-22.jpg)
+![inktober-22](/assets/images/posts/inktober-22.jpg)
 
 Day 22: Ghost - *Effigia*.  Drawn in about an hour.  Previously in my Inktober series, we saw a crocodilian pretending to be a wolf (Day 16); now, we have one pretending to be a dinosaur.  That crurotarsal ankle looks weirdly humanlike...
  
@@ -307,7 +308,7 @@ Day 22: Ghost - *Effigia*.  Drawn in about an hour.  Previously in my Inktober s
 
 ### Day 23: Ancient
  
-![inktober-23](/assets/inktober-23.jpg)
+![inktober-23](/assets/images/posts/inktober-23.jpg)
 
 Day 23: Ancient - Megafauna of the Ischigualasto Formation.  Drawn in about 3 hours.  This didn’t turn out how I imagined it at all....definitely not my best work.  But we persevere!
  
@@ -319,7 +320,7 @@ Here, a pack of *Herrerasaurus* chase a *Saurosuchus* away from an *Ischigualast
  
 ### Day 24: Dizzy
 
-![inktober-24](/assets/inktober-24.jpg)
+![inktober-24](/assets/images/posts/inktober-24.jpg)
 
 Day 24: Dizzy - *Prenocephale*.  Drawn in about 2 hours.
  
@@ -333,7 +334,7 @@ Have you ever seen a video of two bighorns ramming each other?  They rear up on 
  
 ### Day 25: Tasty
 
-![inktober-25](/assets/inktober-25.jpg)
+![inktober-25](/assets/images/posts/inktober-25.jpg)
 
 Day 25: Tasty - *Nothronychus*.  Drawn in about 40 minutes.
  
@@ -345,7 +346,7 @@ Remember [this meme](https://imgur.com/gallery/c2ExZ)?  Here’s a recreation of
  
 ### Day 26: Dark
 
-![inktober-26](/assets/inktober-26.jpg)
+![inktober-26](/assets/images/posts/inktober-26.jpg)
 
 Day 26: Dark - *Microraptor*.  Drawn in about 90 minutes.
  
@@ -357,7 +358,7 @@ Here, an itchy *Microraptor* preens itself atop a hoodoo-like rock.  I’m prett
  
 ### Day 27: Coat
 
-![inktober-27](/assets/inktober-27.jpg)
+![inktober-27](/assets/images/posts/inktober-27.jpg)
 
 Day 27: Coat - *Caihong*.
  
@@ -369,7 +370,7 @@ Similarly to trumpeters, my *Caihong* are a flock of ground-birds that just hang
 
 ### Day 28: Ride
 
-![inktober-28](/assets/inktober-28.jpg)
+![inktober-28](/assets/images/posts/inktober-28.jpg)
 
 Day 28: Ride - *Suchomimus*.  Drawn in about 30 minutes.
 
@@ -377,7 +378,7 @@ Day 28: Ride - *Suchomimus*.  Drawn in about 30 minutes.
 
 ### Day 29: Injured
 
-![inktober-29](/assets/inktober-29.jpg)
+![inktober-29](/assets/images/posts/inktober-29.jpg)
 
 Day 29: Injured - *Stegosaurus*.  Drawn in about an hour.
 
@@ -388,7 +389,7 @@ In Late Jurassic Colorado, a *Stegosaurus stenops* sits down to nurse its injure
 
 ### Day 30: Catch
 
-![inktober-30](/assets/inktober-30.jpg)
+![inktober-30](/assets/images/posts/inktober-30.jpg)
 
 Day 30: Catch - *Liaoningosaurus*.  Drawn in about 90 minutes.
 
@@ -398,7 +399,7 @@ Here, a *Liaoningosaurus* chases two *Lycoptera*, a type of fish that was very c
 
 ### Day 31: Ripe
 
-![inktober-31](/assets/inktober-31.jpg)
+![inktober-31](/assets/images/posts/inktober-31.jpg)
 
 Day 31: Ripe - *Acrocanthosaurus*, rolling in something.  Drawn in about an hour.
 

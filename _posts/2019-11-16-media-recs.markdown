@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Paleontology Media Recommendations"
+tags: [Miscellaneous, Tips]
 date:   2019-11-16 01:42:08 -0700
 categories: blog post
 ---

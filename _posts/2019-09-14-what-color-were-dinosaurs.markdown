@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What Color Were Dinosaurs?"
+tags: [Dinosauria, Taphonomy]
 date:   2019-09-14 01:40:08 -0700
 categories: blog post
 ---
@@ -14,7 +15,7 @@ However, as of the very next year after that book was published, dinosaur skin i
 
 ### *Sinosauropteryx*
 
-![color-1](/assets/color-1.jpg)
+![color-1](/assets/images/posts/color-1.jpg)
 
 After the discovery of fossilized melanosomes in 2008, the race was on to paint the first dinosaur.  A team rival to Vinther’s led by Fucheng Zhang in 2010 examined the melanosomes in a little compsognathid from Early Cretaceous China called *Sinosauropteryx*, which was historically important as the first non-bird dinosaur to be discovered with preserved feathers back in 1996.  Happily, *Sinosauropteryx*’s coloration ended up being pretty exciting--it was a red panda-mimic dinosaur, with a bandit mask and a long ring tail!
 
@@ -24,19 +25,19 @@ Note: Why are ring tails so popular in nature?  It might have to do with [math](
 
 ### *Anchiornis*
 
-![color-2](/assets/color-2.jpg)
+![color-2](/assets/images/posts/color-2.jpg)
 
 A week after Zheng’s team published, Vinther’s own team announced the results of their melanosome examination.  They looked in great detail at the Late Jurassic paravian dinosaur *Anchiornis*, which is known from hundreds of exquisitely-preserved fossils, taking melanosome samples from all over the body to create a comprehensive picture.  *Anchiornis* is colored like a woodpecker--mostly black body, with white-spangled wings and a red crown.  The fact that it’s so uncannily similar to the coloration of modern woodpeckers, to whom it’s not super closely related, is why it’s shown using a tree hole nest in the picture above.  Maybe something about the woodpecker lifestyle makes this coloration advantageous.
 
 ### *Borealopelta*
 
-![color-4](/assets/color-4.jpg)
+![color-4](/assets/images/posts/color-4.jpg)
 
 In 2011, a ridiculously well-preserved ankylosaur mummy from the Early Cretaceous was unearthed in Alberta.  It took five years to prepare the fossil for study, and it was finally given a name (and a color) in 2017--*Borealopelta*.  Melanosomes in the skin of *Borealopelta* showed that it was rusty red, and also countershaded.  This indicates that it still needed to hide from predators, despite being 3,000 pounds--the size of a small rhino!  Modern animals that large don’t bother with countershading because there’s really nothing large enough around to threaten them.  (The largest terrestrial predators today cap out at around 2300 pounds for the saltwater crocodile, and 1500 pounds for the polar bear.  The large carcharodontosaurs of the time that may have threatened *Borealopelta* got up to 13,000 pounds!)  And _that_ indicates that *Borealopelta*’s armor was not just for show, and that the Cretaceous was a very scary time.
 
 ### *Microraptor*
 
-![color-3](/assets/color-3.jpg)
+![color-3](/assets/images/posts/color-3.jpg)
 
 *Microraptor* was a four-winged flying dromaeosaur from Early Cretaceous China.  A study in 2012, also by Vinther, revealed the first evidence of prehistoric iridescence--*Microraptor*’s melanosomes were arranged in a particular pattern found in modern iridescent birds.  This dinosaur was shiny black like a crow!  That indicates that Microraptor was probably diurnal, since nocturnal animals have no reason to be iridescent.
 

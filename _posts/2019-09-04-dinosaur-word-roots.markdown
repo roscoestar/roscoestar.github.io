@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dinosaur Word Roots: What's In A Name?"
+tags: [Taxonomy, Dinosauria]
 date:   2019-09-04 22:45:08 -0700
 categories: blog post
 ---

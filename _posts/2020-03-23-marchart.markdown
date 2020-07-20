@@ -1,28 +1,29 @@
 ---
 layout: post
 title:  "March Art"
+tags: [Paleoart]
 date:   2020-03-23 01:42:08 -0700
 categories: blog post
 ---
 I've been doing a lot of art lately, because of the quarantine.  Here's what I've been working on!
 
 #### *Velociraptor* and *Catopsbaatar*
-![velociraptor](/assets/velociraptor.jpg)
+![velociraptor](/assets/images/posts/velociraptor.jpg)
 
 *Velociraptor* was a turkey-sized dromaeosaur from Late Cretaceous Mongolia, and *Catopsbaatar* was a multituberculate mammal from the same time and place.  I was going for a cat-brought-a-gift-to-your-doorstep feel.  No, *Velociraptor*'s tail probably couldn't bend to such a degree, but I couldn't fit it in the frame otherwise.  Artistic license...
 
 #### *Ianthasaurus*
-![ianthasaurus](/assets/ianthasaurus.png)
+![ianthasaurus](/assets/images/posts/ianthasaurus.png)
 
 *Ianthasaurus* was a stem mammal from the late Carboniferous, very soon after the split between the mammal and reptile lineages.  Edaphosaurs like *Ianthasaurus* were a group of sail-backed herbivores whose cross-bars on their sail-bones may have supported keratinous spines.  They were cold-blooded, so here our scaly subject is sunbathing.
 
 #### *Stenopterygius*
-![stenopterygius-gif](/assets/stenopterygius.gif)
+![stenopterygius-gif](/assets/images/posts/stenopterygius.gif)
 
 On the same exquisitely-preserved specimen that showed us that ichthyosaurs had blubber (and were thus definitely warm-blooded), scientists have found preserved melanophores.  These are special pigmented cells that may even have allowed the animal to change color!  Here is a small pod of *Stenopterygius*, an Early Jurassic ichthyosaur.
 
 #### *Barylambda*
-![barylambda](/assets/barylambda.jpg)
+![barylambda](/assets/images/posts/barylambda.jpg)
 
 *Barylambda* looks like a bear (especially the way I've drawn it), but it's actually a member of the pantodonts, one of the first groups to get really large after the extinction of the non-avian dinosaurs 66 million years ago.  To me, pantodonts look sort of uncannily similar to the last large synapsids that dominated global ecosystems at the end of the Permian period--it's almost as if mammals put their evolution on pause during the Age of Reptiles, and picked right back up where they left off.  (Of course, that's not actually what happened--pantodonts, and today's mammals, are the descendants of the small rodent-like cynodonts that survived the Great Dying.)
 
@@ -31,18 +32,18 @@ On the same exquisitely-preserved specimen that showed us that ichthyosaurs had 
 The thermal-camera colors don't really mean anything; it's just for fun!
 
 #### *Maiacetus*
-![maiacetus](/assets/maiacetus.jpg)
+![maiacetus](/assets/images/posts/maiacetus.jpg)
 
 You may know that *Maiacetus*, a stem whale from the Eocene of Pakistan, means "mother whale" because the holotype was found with a fetus preserved within its mother's womb.  But did you know that said fetus was facing with its head toward the mother's tail?  That means that *Maiacetus* still gave birth on land--all viviparous aquatic animals give birth tail-first so that the fetus doesn't drown in the event of a prolonged birth.  Modern seals give birth and nurse their pups on land; Maiacetus and other early cetaceans probably engaged in similar behavior.
 
 Someone told me this looked like a Wiki How illustration.  How to take care of your naked sea pigs?
 
 #### *Scleromochlus*
-![scleromochlus](/assets/scleromochlus.gif)
+![scleromochlus](/assets/images/posts/scleromochlus.gif)
 
 Here's *Scleromochlus*, the saltatorial ornithodiran from Late Triassic Scotland.  This little nocturnal xerocole is often cited as an early ancestor of pterosaurs.  This gif is actually a digital "remastering" of one of my Inktober drawings from last year.  Boing!
 
 #### *Inostrancevia*
-![inostrancevia](/assets/inostrancevia.gif)
+![inostrancevia](/assets/images/posts/inostrancevia.gif)
 
 *Inostrancevia* was a lion-sized (300 kg) saber-toothed stem-mammal from the Late Permian of what is now Russia.  This was back before synapsids had discovered ear flaps, endothermy, and fur.  (Endothermy and fur would be present in dicynodonts and cynodonts by the end of the Permian; earflaps wouldn't be invented until the middle or end of the Mesozoic.)  *Inostrancevia* here looks very catlike, but I gave it a gecko-like coloration to try to prevent it from being too mammalian-looking.  Its saber teeth are protected by its jowls.  My friend told me it reminded her of the Cheetos mascot, and now I can't unsee it...

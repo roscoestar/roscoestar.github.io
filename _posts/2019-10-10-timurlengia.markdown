@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Obscure Dinosaur Profile #2: Timurlengia and Friends"
+tags: [Profile, Dinosauria]
 date:   2019-10-10 01:40:08 -0700
 categories: profile
 ---
@@ -10,13 +11,13 @@ Hometown: Uzbekistan, 90 mya (early Late Cretaceous)
 
 Discovered 2004, described 2016 by Steve Brusatte et al
 
-![timurlengia](/assets/timurlengia.jpg)
+![timurlengia](/assets/images/posts/timurlengia.jpg)
 
 *Timurlengia* was a horse-sized tyrannosaur found within the 20-million-year “tyrannosaur gap” that had previously existed between small basal tyrannosaurs (like Dilong) and the apex predators of the latest Cretaceous (*Tyrannosaurus*, *Tarbosaurus*, *Gorgosaurus*, *Daspletosaurus*, etc).  The discovery of *Timurlengia* showed that tyrannosaurs first developed their acute senses (*Timurlengia* had really long inner ear passages, presumably for hearing low-frequency sounds, and brain features that indicate acute sight and smell) and then bulked up later.
 
 Tyrannosaurs grew up in the shadow of the giant carcharodontosaurs like *Carcharodontosaurus*, *Mapusaurus*, and *Giganotosaurus*, which peaked in size in the Cenomanian (early Late Cretaceous) 98-94 million years ago.  During that time, the ancestors of the future giant tyrannosaurs were leggy, **cursorial** marginal hunters like *Moros*:
 
-![moros](/assets/moros.png)
+![moros](/assets/images/posts/moros.png)
 
 As the Cretaceous wore on and the continents continued to drift farther apart though, the carcharodontosaurs began to decline, and the tyrannosaurs were poised to take over (in the northern hemisphere at least.  In the south, abelisaurs like *Carnotaurus* and *Majungasaurus* became the new apex predators).  Tyrannosaurs became highly successful due to a few key adaptations\*:
 
