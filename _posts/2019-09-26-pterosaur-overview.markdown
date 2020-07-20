@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Pterosaur Family: An Overview"
+tags: [FamilyOverview, Pterosauria]
 date:   2019-09-26 01:50:08 -0700
 categories: blog post
 ---
@@ -12,11 +13,11 @@ Pterosaurs (meaning “wing reptile”) aren’t dinosaurs, but they’re the ne
 
 There are a few theories about how they developed flight--ground-up, arboreal leaping, and arboreal parachuting--but none of them really stick out as particularly better than the others.  One animal often cited as a pterosaur ancestor is *Scleromochlus*, a tiny kangaroo-like archosaur that lived in the early Late Triassic (237-ish MYA) and probably hopped adorably through the desert.  Below is an image showing the speculative transitional forms between *Scleromochlus* and *Preondactylus*, an early pterosaur that lived in the middle Late Triassic (228-ish MYA):
 
-![pterosaur-1](/assets/pterosaur-1.jpg)
+![pterosaur-1](/assets/images/posts/pterosaur-1.jpg)
 
 Once they could fly, pterosaurs quickly diversified into a variety of shapes and sizes.  They can be separated into two main flavors: the “rhamphorhynchoids” (meaning “beak snout”) and the pterodactyloids (meaning “wing finger”).  Here’s the tree:
 
-![pterosaur-tree](/assets/pterosaur-tree.png)
+![pterosaur-tree](/assets/images/posts/pterosaur-tree.png)
 
 Above: A simplified pterosaur family tree, approximately to scale.  The green band represents the Triassic (we begin in the late Triassic here), the orange is Jurassic and the red is Cretaceous.  When a line ends, it means that group has gone extinct.  Note that this is not a comprehensive list of families; there are many genera that don’t fall into any of these groups.
 
@@ -28,7 +29,7 @@ Even though it’s a paraphyletic group, “rhamphorhynchoids” do have a lot o
 #### Eopterosauria
 Meaning “dawn wing reptile,” Eopterosauria includes the most ancient pterosaurs we know of.  Some famous members include *Caviramus*, *Preondactylus*, and *Eudimorphodon*.
 
-![pterosaur-2](/assets/pterosaur-2.jpg)
+![pterosaur-2](/assets/images/posts/pterosaur-2.jpg)
 
 Above: *Caviramus*, an early pterosaur with an unusual large head crest.  This picture makes it look kind of large, but it actually had a wingspan of only 4.5 feet (1.5m), comparable to a red-tailed hawk.  Its wing shape suggests that it may have been adapted for soaring, and its teeth indicate that it may have been an herbivore or generalist.
 
@@ -38,7 +39,7 @@ Further reading: [Caviramus details](http://markwitton-com.blogspot.com/2016/03/
 
 Meaning “two form tooth,” dimorphodontids look kind of like someone popped a theropod’s head onto a pterosaur’s body.  Famous examples include *Dimorphodon* (of Jurassic World fame) and *Caelestiventus*, described in 2018 (pictured below).
 
-![pterosaur-3](/assets/pterosaur-3.jpg)
+![pterosaur-3](/assets/images/posts/pterosaur-3.jpg)
 
 Above: *Caelestiventus*, an early dimorphodontid pterosaur from the Late Triassic, 208 MYA, described in 2018.  It had a 5-foot wingspan and lived in the desert, unusual for “rhamphorhynchoids”.  Note that this batlike upside-down pose is artistic license--pterosaurs had **plantigrade** feet not unlike our own, which would've been good for walking around on the ground but useless for grasping.
 
@@ -48,7 +49,7 @@ Further reading: [Caelestiventus discovery](http://www.sci-news.com/paleontology
 
 Rhamphorhynchids were well-known Jurassic pterosaurs with long, slender snouts with interlocking, bear-trap-like teeth that were good for catching fish.  Fossilized gut contents and **coprolites** (fossilized dung) show that they did indeed eat fish and other sea creatures.  Famous members include *Scaphognathus*, which may have had a keratinous head crest, and *Rhamphorhynchus* (below).
 
-![pterosaur-4](/assets/pterosaur-4.jpg)
+![pterosaur-4](/assets/images/posts/pterosaur-4.jpg)
 
 Above: *Rhamphorhynchus*, imagined with coloration reminiscent of a seabird.
 
@@ -58,11 +59,11 @@ Note the difference between the very similar-sounding words (in order of increas
 
 Anurognathids were the group of pterosaurs that I was most surprised to learn about.  They’re tiny, they have short, frog-like faces and huge eyes, and were probably insectivorous and nocturnal.  They were pterosaurs convergent with bats!  They may even have had special fuzzy wing edges for silent flight, like owls.
 
-![pterosaur-5](/assets/pterosaur-5.jpg)
+![pterosaur-5](/assets/images/posts/pterosaur-5.jpg)
 
 Above: *Anurognathus* chasing a bug in Jurassic Germany.
 
-![pterosaur-6](/assets/pterosaur-6.jpg)
+![pterosaur-6](/assets/images/posts/pterosaur-6.jpg)
 
 Above: A group of *Anurognathus* in a speculative tree hole nest.  We don’t know if they were social, but since bats are and the two groups are so convergent in other ways, it’s not a bad guess.
 
@@ -79,11 +80,11 @@ Pterodactyloids shared more features than just size--they tended to lack teeth, 
 
 This group contains the famous *Pterodactylus* (there’s no such thing as a creature named "Pterodactyl,"" by the way), which is much smaller than you imagine--about crow-sized.  It also contains the much more exciting group Ctenochasmatidae, the comb-toothed filter-feeding pterosaurs, which filled the same niche as modern flamingos and spoonbills, eating small crustaceans and being fabulously pink.  Recent coprolite evidence corroborates this theory.
 
-![pterosaur-7](/assets/pterosaur-7.jpg)
+![pterosaur-7](/assets/images/posts/pterosaur-7.jpg)
 
 Above: *Pterodactylus* landing on a log in Late Jurassic Germany.  It was unremarkable as pterosaurs go, owing its disproportionate fame to the fact that it was the first pterosaur discovered and identified as a flying reptile, in the very early 1800s.
 
-![pterosaur-8](/assets/pterosaur-8.jpg)
+![pterosaur-8](/assets/images/posts/pterosaur-8.jpg)
 
 Above: *Pterodaustro*, the Cretaceous flamingo (or, flamingos are the Holocene *Pterodaustro*).  It used its baleen-like teeth to strain water for small crustaceans.  This diet would’ve made it pink.  Its large feet may have been webbed for swimming.
 
@@ -91,11 +92,11 @@ Above: *Pterodaustro*, the Cretaceous flamingo (or, flamingos are the Holocene *
 
 This is the group containing the very largest pterosaurs, and also the ones with the most fantastic headgear.  They were likely terrestrial stalkers, hunting small prey like dinosaur hatchlings on all fours on the ground.  Famous examples include *Quetzalcoatlus*, *Tapejara*, *Hatzegopteryx*, and *Azhdarcho*.
 
-![tupan](/assets/tupan.jpg)
+![tupan](/assets/images/posts/tupan.jpg)
 
 Above: *Tupandactylus*, an Early Cretaceous tapejarid from Brazil.  Some paleontologists speculate that it may have used its head crest like a rudder to steer while flying, but others say it was purely for display.  A new [study](https://www.nature.com/articles/s41598-019-52318-y) indicatees that the crest might actually have been blue.
 
-![pterosaur-10](/assets/pterosaur-10.png)
+![pterosaur-10](/assets/images/posts/pterosaur-10.png)
 
 Above: *Quetzalcoatlus*, the largest creature ever to fly.  It was taller than a giraffe (though less than a quarter of the weight).
 
@@ -103,11 +104,11 @@ Above: *Quetzalcoatlus*, the largest creature ever to fly.  It was taller than a
 
 We’ve reached the end!  The last group of pterosaurs we’ll cover, Pteranodontia, means “winged toothless,” since these very derived pterosaurs had long, toothless beaks.  Famous examples include *Pteranodon*, which had a tasteful handle-like pointy head crest, and *Nyctosaurus*, which had a flamboyant fork-like head crest that was taller than the rest of its body.
 
-![pterosaur-11](/assets/pterosaur-11.jpg)
+![pterosaur-11](/assets/images/posts/pterosaur-11.jpg)
 
 Above: Three *Pteranodon* flying over Late Cretaceous North America.  The one in the middle with the short crest is a female.  Over 1200 specimens of *Pteranodon* have been found, making it one of the best-understood pterosaurs.
 
-![pterosaur-12](/assets/pterosaur-12.jpg)
+![pterosaur-12](/assets/images/posts/pterosaur-12.jpg)
 
 Above: *Nyctosaurus*, with a speculative membranous crest.  The one on the bottom left is reconstructed with a more conservative crest.  With a crest like that, you’d better be colorful--no point in lugging that thing around and sacrificing any chance at stealth if you’re not going to go the whole nine yards!
 

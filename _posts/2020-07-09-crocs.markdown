@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "The Croc Family: An Overview"
+tags: [FamilyOverview, Pseudosuchia]
 date:   2020-07-09 01:43:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/typothorax.png
+featured: true
+hidden: true
 ---
 
 I said my [Aquatic Reptiles post](https://obscuredinosaurfacts.com/blog/post/2019/11/13/aquatic-reptiles.html) would be the last Mesozoic reptile family overview, but of course no trilogy is complete without a trilogy creep!  Crocodylians and their relatives used to be so much more diverse and prolific than they are today, but since the dinosaurs came out ahead after the Triassic-Jurassic extinction event and ruled for the rest of the Mesozoic, crocs are much less notorious.  In this post, I’ll go over the major branches of the pseudosuchian family tree, with examples and pictures, to give you an idea of the amazing croc diversity the world used to have.
@@ -13,7 +18,8 @@ Pseudosuchia means “false crocodile,” and is a subgroup of Archosauria and t
 It’s now known through **bone histology** that warm-bloodedness is the archosaurian ancestral condition--that is, the ancestors of crocs and birds were warm-blooded, and modern crocs evolved to be cold-blooded later on.  We don’t know which pseudosuchians were which in terms of endo- or ectothermy, but from our best guess at their lifestyles based on their morphology, it seems that many croc relatives were warm-blooded and led active lifestyles, and some may even have been fluffy.
 
 Here’s the tree we’ll be working with:
-![Croc-tree](/assets/Croc-tree.png)
+
+![Croc-tree](/assets/images/posts/Croc-tree.png)
 
 The colored bands of green, orange, and red represent the Triassic, Jurassic, and Cretaceous periods, respectively (not to scale).  Where a line ends, that group has gone extinct, and arrowheads indicate groups that are still alive today.  Note that many animals fall outside these groups, but in this post we’ll just look at the most diverse and charismatic clades.
 
@@ -23,7 +29,8 @@ The Triassic period was an unusual time, situated between two of the **Big Five 
 ### Ornithosuchidae
 
 The first branch to split off within Pseudosuchia is that of the ornithosuchids (meaning “bird croc”).  These were quadrupedal terrestrial predators that were sort of a test run for the giant land crocs that would come later.  Only four genera are known: *Ornithosuchus*, *Dynamosuchus*, *Riojasuchus*, and *Venaticosuchus*.
-![dynamosuchus](/assets/dynamosuchus.jpg)
+
+![dynamosuchus](/assets/images/posts/dynamosuchus.jpg)
 
 Above: Dynamosuchus.  All known ornithosuchids looked basically like this.
 
@@ -31,11 +38,11 @@ Above: Dynamosuchus.  All known ornithosuchids looked basically like this.
 
 The next branch we’ll look at is much more specialized: the heavily-armored aetosaurs (meaning “eagle reptile”).  These filled the same niche in the Triassic as ankylosaurs would later in the Cretaceous: they were large, bulky herbivores with piglike snouts that would’ve been good for digging up roots.
 
-![desmatosuchus](/assets/desmatosuchus.jpg)
+![desmatosuchus](/assets/images/posts/desmatosuchus.jpg)
 
 Above: *Desmatosuchus*, the largest and spikiest known aetosaur, could reach 4.5 meters long and weigh half a tonne (about buffalo-sized).  Fun fact: the Pokemon Avalugg is based on a combination of *Desmatosuchus* and a tabular iceberg.
 
-![typothorax](/assets/typothorax.png)
+![typothorax](/assets/images/posts/typothorax.png)
 
 Above: *Typothorax*, a smaller, pig-sized aeotosaur.
 
@@ -43,29 +50,31 @@ Above: *Typothorax*, a smaller, pig-sized aeotosaur.
 
 The poposauroids were a particularly strange and diverse group of pseudosuchians.  This clade included the sail-backed, probably carnivorous ctenosauriscids; the bipedal carnivorous poposaurids; the quadrupedal sail-backed herbivorous lotosaurids; and the bipedal, beaked, dinosaur-mimic shuvosaurids.
 
-![arizonasaurus](/assets/arizonasaurus.png)
+![arizonasaurus](/assets/images/posts/arizonasaurus.png)
 
 Above: *Arizonasaurus*, a sail-backed probable carnivore from the Middle Triassic.  It isn’t known whether it was bipedal or quadrupedal, so here it is depicted in both stances.  It’s also possible that it was a facultative biped, walking on all fours but running on two legs.
 
-![poposaurus](/assets/poposaurus.jpg)
+![poposaurus](/assets/images/posts/poposaurus.jpg)
 
 Above: the bipedal carnivore, *Poposaurus*, from the Late Triassic.  Since pseudosuchian limbs and tails are built differently than those of dinosaurs, their bipedal stance is somewhat different.
-![lotosaurus](/assets/lotosaurus.jpg)
+
+![lotosaurus](/assets/images/posts/lotosaurus.jpg)
 
 Above: *Lotosaurus*, a sail-backed, beaked herbivore from the Middle Triassic.
 
-![effigia](/assets/effigia.jpg)
+![effigia](/assets/images/posts/effigia.jpg)
 
 Above: *Effigia*, a beaked, herbivorous biped from the Late Triassic, with a speculative [fluffy coat](https://obscuredinosaurfacts.com/blog/post/2019/11/16/fuzz.html).  This creature’s skeleton looked so much like that of a dinosaur that it took almost sixty years after its original excavation for someone to realize that it was actually a croc relative.
 
 ### Rauisuchidae
 
 Rauisuchids were a group of large, carnivorous pseudosuchians that included many of the apex predators of the Triassic.  They had an unusual hip structure with “pillar-erect” legs, and some were quadrupedal while others were low-slung bipeds.  A [new fossil trackway](https://www.scientificamerican.com/article/fossil-footprints-help-uncover-the-mysteries-of-bipedal-crocodiles/) from South Korea of Early Cretaceous age, discovered in June of this year, indicates that rauisuchians may have survived long past the end of the Triassic, or that other, similar bipedal croc relatives evolved much later.
-![postosuchus](/assets/postosuchus.jpg)
+
+![postosuchus](/assets/images/posts/postosuchus.jpg)
 
 Above: *Postosuchus*, a 4-meter, 300 kg apex predator from the Late Triassic.  This one is lying down, but it would’ve walked bipedally.
 
-![rauisuchus](/assets/rauisuchus.jpg)
+![rauisuchus](/assets/images/posts/rauisuchus.jpg)
 
 Above: *Rauisuchus*, a similarly-sized quadrupedal apex predator from the Middle to Late Triassic.  To me, these guys look like someone put a *Tyrannosaurus* head on a croc body.
 
@@ -75,17 +84,20 @@ Despite the setback crocs suffered during the end-Triassic extinction and during
 ### Protosuchia
 
 Protosuchia (meaning “first croc”) is a **paraphyletic grouping** of small, gracile, terrestrial crocodylomorphs that survived until the end of the Cretaceous period.  This body plan is what I based my winning [triathlon creature](https://obscuredinosaurfacts.com/blog/post/2019/11/13/triathlon.html), *Velosuchus*, on!
-![terrestrisuchus](/assets/terrestrisuchus.jpg)
+
+![terrestrisuchus](/assets/images/posts/terrestrisuchus.jpg)
 
 Above: *Terrestrisuchus*, a small leggy terrestrial predator from Late Triassic Britain, with a fluffy coat.
-![hesperosuchus](/assets/hesperosuchus.jpg)
+
+![hesperosuchus](/assets/images/posts/hesperosuchus.jpg)
 
 Above: *Hesperosuchus*, a slightly larger **cursorial** protosuchian from Late Triassic New Mexico.
 
 ### Notosuchia
 
 Notosuchia is a very diverse, very derived group of mostly smallish terrestrial crocs, which contains a lot of the genera famously nicknamed after mammals (“cat croc,” “pug croc,” “cheetah croc,” etc).  Many notosuchians had very mammal-like **heterodont dentition**, meaning that they had different types of teeth for different purposes (e.g. molars for grinding, incisors for slicing, and canines for gripping) rather than having just one type of repeated tooth like modern crocs.  Some of them may also have had external ear **pinnae**, which would’ve given them an extremely mammal-like appearance.
-![simosuchus](/assets/simosuchus.jpg)
+
+![simosuchus](/assets/images/posts/simosuchus.jpg)
 
 Above: *Simosuchus*, meaning “pug croc,” a pug-sized, heavily armored herbivore from Late Cretaceous Madagascar.  10/10 would pet.
 
@@ -93,22 +105,27 @@ Above: *Simosuchus*, meaning “pug croc,” a pug-sized, heavily armored herbiv
 
 Above: *Anatosuchus*, meaning “duck croc,” a real-life reverse example of the famous fictional “crocoduck” (which has the head of a croc and body of a duck).
 
-![armadillosuchus](/assets/armadillosuchus.jpg)
+![armadillosuchus](/assets/images/posts/armadillosuchus.jpg)
 
 Above: *Armadillosuchus*.  Just...what.  This Late Cretaceous croc was about 2 meters long and may have led a **fossorial**, or burrowing, lifestyle.
-![baurusuchus](/assets/art-4.png)
+
+![baurusuchus](/assets/images/posts/art-4.png)
 
 Above: *Baurusuchus*, a terrestrial predator from Late Cretaceous Brazil, with speculative ear pinnae, by me.
-![araripesuchus](/assets/inktober-16.jpg)
+
+![araripesuchus](/assets/images/posts/inktober-16.jpg)
 
 Above: *Araripesuchus*, also from Cretaceous Brazil, also with speculative ear pinnae, also by me. 
-![pakasuchus](/assets/pakasuchus.png)
 
-Above: *Pakasuchus*, meaning “cat croc,” from Early Cretaceous Tanzania, also with speculative ear pinnae, also by me.  I love eared crocs, clearly!
-![kaprosuchus](/assets/kaprosuchus.png)
+![pakasuchus](/assets/images/posts/pakasuchus.png)
+
+Above: *Pakasuchus*, meaning “cat croc,” from Early Cretaceous Tanzania, also with speculative ear pinnae, also by me.  I love eared crocs, clearly!  [(I'm not the only paleoartist doing this though!)](https://www.deviantart.com/dragonthunders/art/Pinnasuchida-608265173)
+
+![kaprosuchus](/assets/images/posts/kaprosuchus.png)
 
 Above: *Kaprosuchus*, meaning “boar croc,” from Late Cretaceous Niger, with no ear pinnae.  Too bad!
-![pissarrachampsa](/assets/pissarrachampsa.jpg)
+
+![pissarrachampsa](/assets/images/posts/pissarrachampsa.jpg)
 
 Above: *Pissarrachampsa*, another tusked croc from Late Cretaceous Brazil, sporting speculative whiskers.
 
@@ -127,60 +144,60 @@ For comparison, the largest modern crocodylian is the saltwater crocodile, at a 
 
 #### Thalattosuchia
 Thalattosuchians, meaning “sea croc,” were a group of suchians highly adapted for life in the water.  They came in two main flavors: teleosaurids, which were semi-aquatic, but would’ve been better swimmers than modern crocs, and metriorhynchids, which were fully-aquatic, flippered beasts that gave live birth and spent their entire lives in the water. 
-![machimosaurus](/assets/machimosaurus2.jpg)
+![machimosaurus](/assets/images/posts/machimosaurus2.jpg)
 
 Above: *Machimosaurus*, the king of the teleosaurids, from Early Cretaceous Europe.
 
-![magyarosuchus](/assets/magyarosuchus.jpg)
+![magyarosuchus](/assets/images/posts/magyarosuchus.jpg)
 
 Above: *Magyarosuchus*, an early metriorhynchid from Early Jurassic Hungary (on the right), swimming alongside two *Leedsichthys*, the largest known (non-tetrapod) fish.
-![geosaurus](/assets/geosaurus.jpg)
+![geosaurus](/assets/images/posts/geosaurus.jpg)
 
 Above: *Geosaurus* (back) and *Dakosaurus* (front), two metriorhynchids from Late Jurassic Germany.  *Dakosaurus* lost all its armor for the sake of hydrodynamics, and both would’ve given live birth, allowing them to live their entire lives in the ocean.  Many species of metriorhynchids coexisted in the same waters at that time, and their differing sizes and snout shapes indicate that they **niche partitioned** (each tackled different prey) in order to avoid competing with one another.
-![stomatosuchus](/assets/stomatosuchus.jpg)
+![stomatosuchus](/assets/images/posts/stomatosuchus.jpg)
 
 Above: *Stomatosuchus*, meaning “mouth croc,” a huge ambush predator with a pelican-like throat pouch.  Its only fossil was destroyed in the same World War II bombing that claimed the only *Spinosaurus* specimen known at the time, but since then another stomatosuchid, *Laganosuchus* (meaning “pancake croc”) was discovered, allowing us to learn more about their strange biology.  *Stomatosuchus* may also have been a contender for one of the largest crocodylians, but since the specimen was destroyed we can’t be sure.
 
-![sarcosuchus](/assets/sarcosuchus.jpg)
+![sarcosuchus](/assets/images/posts/sarcosuchus.jpg)
 
 Above: *Sarcosuchus*, meaning “flesh croc,” an extremely large croc from Early Cretaceous Africa and South America.  It had a rather cartoony bulla, or bulb on the end of its snout, whose purpose is still unknown.
 
 ### Eusuchia
 
-![boverisuchus](/assets/boverisuchus.png)
+![boverisuchus](/assets/images/posts/boverisuchus.png)
 
 Above: *Boverisuchus*, from the Eocene of Germany, one of the few fully-terrestrial croc relatives to live beyond the Mesozoic.  It had hooflike nails and would’ve been a fast runner.
 
 #### Alligatoridae (alligators and caimans)
 
-![purussaurus](/assets/purussaurus.jpg)
+![purussaurus](/assets/images/posts/purussaurus.jpg)
 
 Above: *Purussaurus*, the giant caiman from the Miocene of South America, and one of the largest crocs known.
 
-![deinosuchus](/assets/deinosuchus.jpg)
+![deinosuchus](/assets/images/posts/deinosuchus.jpg)
 
 Above: *Deinosuchus*, meaning “terrible croc,” the largest known croc, from Late Cretaceous North America.
-![american-alligator](/assets/american-alligator.jpg)
+![american-alligator](/assets/images/posts/american-alligator.jpg)
 
 Above: an American alligator high-walking.  Too bad he isn’t aware of all his illustrious ancestors!
 
 #### Crocodylidae (crocodiles and false gharial)
 
-![voay](/assets/voay.png)
+![voay](/assets/images/posts/voay.png)
 
 Above: *Voay*, a croc from Pleistocene Madagascar with impressive horns.
 
-![croc-gallop](/assets/croc-gallop.gif)
+![croc-gallop](/assets/images/posts/croc-gallop.gif)
 
 Above: An Australian freshwater crocodile galloping.
 
-![false-gharial](/assets/false-gharial.jpg)
+![false-gharial](/assets/images/posts/false-gharial.jpg)
 
 Above: A false gharial.  Long snouts like this evolved many times throughout the croc lineage, since they’re the best way to catch maneuverable, slippery fish.
 
 #### Gavialidae (true gharial)
 
-![gharial](/assets/gharial.jpg)
+![gharial](/assets/images/posts/gharial.jpg)
 
 Above: A true gharial showing off its ghara (nose bump only males have).
 

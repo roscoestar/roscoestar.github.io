@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Obscure Dinosaur Profile #1: Anzu"
+tags: [Profile, Dinosauria]
 date:   2019-09-24 01:40:08 -0700
 categories: profile
 ---
@@ -10,15 +11,15 @@ Hometown: Hell Creek (Montana), 66 mya (Latest Cretaceous)
 
 Discovered 1998, described 2014
 
-![anzu-1](/assets/anzu-1.jpg)
+![anzu-1](/assets/images/posts/anzu-1.jpg)
 
 Above: *Anzu*, the "Chicken from Hell".
 
-![anzu-2](/assets/anzu-2.jpg)
+![anzu-2](/assets/images/posts/anzu-2.jpg)
 
 Above: *Anzu* and chicks are startled by a nasty *Acheroraptor*.
 
-![anzu-3](/assets/anzu-3.jpg)
+![anzu-3](/assets/images/posts/anzu-3.jpg)
 
 *Anzu* was a large **oviraptorosaur** with a toothless beak and an impressive head crest.  It was North America’s largest oviraptorosaur (and by far the most well-known to science), and the second-largest in the world (*Gigantoraptor*, from a bit earlier in Mongolia, is a lot larger).  It was probably omnivorous and not picky, and was a good runner.  The crest was probably used for sexual display, leading some to speculate that Anzu may have exhibited **sexual dimorphism**, with major visual differences between males and females. Caenagnathidae (pronounced SEEN-a-NATH-id-ay) means “recently jawless” and is the **sister clade** to Oviraptoridae (which includes *Oviraptor*).  Weird holes in caenagnathids' lower jaws initially made scientists think they were extinct ratite birds, like ostriches, before they realized they were actually non-avian dinosaurs.
 
@@ -26,23 +27,23 @@ Above: *Anzu* and chicks are startled by a nasty *Acheroraptor*.
 
 *Anzu* is named after a Sumerian mythological demon whom it somewhat resembles (center, below).
 
-![anzu-4](/assets/anzu-4.jpg)
+![anzu-4](/assets/images/posts/anzu-4.jpg)
 
 #### Note 1: What’s that eye bone thing?
 It’s called a **sclerotic ring**, a special bone that supports the eyeball, especially if it’s particularly large or not spherical.  It’s common among all groups of vertebrates except modern mammals and crocodiles.  Read more about it [here (less technical)](https://www.quora.com/Why-did-dinosaurs-have-rings-of-bones-in-their-eye-sockets) and [here (more technical)](https://bryangee.weebly.com/blog/i-spy-with-my-not-so-little-eye).
 
-![anzu-5](/assets/anzu-5.jpg)
+![anzu-5](/assets/images/posts/anzu-5.jpg)
 
 Above: A bald eagle skeleton with sclerotic ring visible.
 
-![anzu-6](/assets/anzu-6.jpg)
+![anzu-6](/assets/images/posts/anzu-6.jpg)
 
 Above: A gecko skeleton with sclerotic rings visible.
 
 #### Note 2: How many times have beaks evolved independently?
 A lot: Birds, oviraptorosaurs like *Anzu*, cephalopods (octopuses and squids), turtles, pterosaurs, monotremes (platypuses and echidnas), parrotfish, certain ornithischians, dicynodonts (a type of stem-mammal), certain pseudosuchians like *Lotosaurus* and *Effigia* (crocodile relatives), rhynchosaurs (early reptiles), therizinosaurs, ornithomimids, and even some ceratosaurs like *Limusaurus* all had **keratinous** beaks.  And that’s not even a comprehensive list.  Beaks are both very useful and very easy to make, evolutionarily--they are a very **homoplastic** trait.  This is another example of [convergent evolution](http://obscuredinosaurfacts.com/blog/post/2019/09/06/convergent-evolution.html).
 
-![beaks](/assets/beaks.jpg)
+![beaks](/assets/images/posts/beaks.jpg)
 
 Above: Five of the many times beaks have developed among unrelated groups.  Clockwise from top left: a dicynodont, a rhynchosaur, a ceratopsian, a shuvosaurid pseudosuchian, and a turtle (center).
 

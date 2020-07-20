@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "\"Brontosaurus Isn't Real?\""
+tags: [Taxonomy, Dinosauria]
 date:   2019-08-30 22:40:08 -0700
 categories: blog post
 ---

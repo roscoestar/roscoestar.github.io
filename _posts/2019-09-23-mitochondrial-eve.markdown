@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mitochondrial Eve Is A Tautology"
+tags: [Evolution]
 date:   2019-09-23 22:40:08 -0700
 categories: blog post
 ---
@@ -18,7 +19,7 @@ We’ve stated above that mtDNA is passed from mother to child intact.  But how 
 
 Okay, now we’re ready to go into what Mitochondrial Eve actually is.  The way it’s commonly stated is that all living humans have the “same” mtDNA, belonging to this mysterious ancient woman, Mitochondrial Eve, who is a common ancestor of all humans alive today.  That is a true but misleading statement.  Take a look at the tree below:
 
-![tree-1](/assets/mitochondrial-eve-1.jpg)
+![tree-1](/assets/images/posts/mitochondrial-eve-1.jpg)
 
 Ignoring the disturbing habit of this family to methodically always marry their first cousins, this tree shows an example of how even as the total population remains large (there aren’t any “bottleneck” events where only two individuals remain), one variant of mtDNA can become ubiquitous while the rest don’t get passed on.  Here, the circles represent women and squares represent men.  The colors show which type of mtDNA the individual has.  Even though the green and blue lines have descendents who live in the present day--in fact, the way this tree is constructed, everyone in the third-to-bottom row and below can count Mrs. Mito 1, Mrs. Mito 2, and Mrs. Mito 3 as their great-great-great grandmothers--at some point their descendents either have only sons or no children, and their mtDNA fails to get passed on.  In other words, it’s possible to have living descendents who do not share your mtDNA, if the line of descent includes any sons.
 
@@ -27,7 +28,7 @@ So, if you consider the population alive today who are in the group shown on thi
 2. _Mitochondrial Eve isn’t special._  Every Eve was a member of a large population at the time, and she was just another woman in that population.  She had no idea that her lineage would be the lucky one that kept having daughters who kept having daughters.
 3. _Mitochondrial Eve can change--the title can transfer to someone more recent._  As time goes on and populations die out, it’s possible for the title of Mitochondrial Eve to be confiscated from one individual and bestowed upon another.  Let’s look at a somewhat less incestuous tree:
 
-![tree-2](/assets/mitochondrial-eve-3.png)
+![tree-2](/assets/images/posts/mitochondrial-eve-3.png)
 
 Here, the woman in black at the top holds the title.  But just say all four of the couples in the bottom row on the left half go on to have no daughters, only sons or nothing, while some of the couples on the right half of the bottom row do have some daughters.  Then half the tree will have been pruned, and the title of Mitochondrial Eve will have passed to the woman in black in the second row on the right (circled).
 

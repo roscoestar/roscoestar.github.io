@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dinosaur Portrayals In The Media: What To Look Out For"
+tags: [Miscellaneous, Tips]
 date:   2019-09-25 01:50:08 -0700
 categories: blog post
 ---
@@ -8,11 +9,11 @@ Dinosaurs and friends, being large and charismatic, have had their fair share of
 
 ### Theropods
 
-![tyrannosaurus](/assets/tyrannosaurus.jpg)
+![tyrannosaurus](/assets/images/posts/tyrannosaurus.jpg)
 
 Above: A recent reconstruction by the Saurian team of The King himself.  This is one of the most meticulously-researched reconstructions of *Tyrannosaurus* ever attempted.
 
-![utahraptor](/assets/utahraptor.jpg)
+![utahraptor](/assets/images/posts/utahraptor.jpg)
 
 Above: *Utahraptor*, the largest known dromaeosaur, and a close relative of *Velociraptor* and *Deinonychus*.
 
@@ -26,11 +27,11 @@ Here are some key features to note about theropods, in approximate order from mo
 
 ### Sauropods
 
-![patagotitan](/assets/patagotitan.png)
+![patagotitan](/assets/images/posts/patagotitan.png)
 
 Above: *Patagotitan*, a giant titanosaur and one of the largest terrestrial animals ever (the other contenders are all other South American titanosaurs as well).
 
-![diplodocus](/assets/diplodocus.jpg)
+![diplodocus](/assets/images/posts/diplodocus.jpg)
 
 Above: *Diplodocus*, a classic well-known diplodocoid sauropod.
 
@@ -41,11 +42,11 @@ Here are some key features to note about sauropods:
 
 ### Pterosaurs
 
-![hatzegopteryx](/assets/hatzegopteryx.jpg)
+![hatzegopteryx](/assets/images/posts/hatzegopteryx.jpg)
 
 Above: Giant azhdarchid pterosaur *Hatzegopteryx*, one of the largest creatures ever to fly.
 
-![caviramus](/assets/caviramus.jpg)
+![caviramus](/assets/images/posts/caviramus.jpg)
 
 Above: *Caviramus*, a “rhamphorhynchoid” pterosaur from the Triassic (much more ancient than Late Cretaceous Hatzegopteryx).
 
@@ -59,7 +60,7 @@ Pterosaurs aren’t dinosaurs, but they’re close relatives and contemporaries,
 
 ### Ornithischians
 
-![parasaurolophus](/assets/parasaurolophus.jpg)
+![parasaurolophus](/assets/images/posts/parasaurolophus.jpg)
 
 Above: *Parasaurolophus*, a famous hadrosaur (“duck-billed dinosaur”).
 
@@ -67,7 +68,7 @@ A couple key features to note about hadrosaurs:
 1. _Quadrupedal stance_.  Hadrosaurs could probably rear up onto their hind legs, but usually walked on all fours.  Older depictions show them with a kangaroo-like stance and a curved tail.
 2. _Fat?_  Hadrosaurs had advanced chewing abilities, indicating that they were grazers rather than browsers.  Tough grasses and other not-very-nutritious vegetation require a large and complex gut to digest (this is why cows have four stomachs), so hadrosaurs were probably pretty chunky-looking.  Many older depictions show them as being more slender.
 
-![stegosaurus](/assets/stegosaurus.jpg)
+![stegosaurus](/assets/images/posts/stegosaurus.jpg)
 
 Above: *Stegosaurus*, the well-known Jurassic plate-backed dinosaur.
 

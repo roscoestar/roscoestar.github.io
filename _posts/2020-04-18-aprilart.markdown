@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "April Art: Portraits and Gestures"
+tags: [Paleoart]
 date:   2020-04-18 01:43:08 -0700
 categories: blog post
 ---
@@ -10,84 +11,84 @@ After finishing the Alphabestiary, I've been trying a couple new art formats: bi
 ### Gestures
 
 #### *Pakasuchus*
-![pakasuchus](/assets/pakasuchus.png)
+![pakasuchus](/assets/images/posts/pakasuchus.png)
 
 *Pakasuchus*, meaning "cat crocodile," was a notosuchian from late Early Cretaceous Tanzania.  It had mammal-like heterodont teeth, with canines, premolars, and molars that would've allowed it to chew.  It had reduced armor along its body but retained a heavily armored tail for some reason.  I've given my Pakasuchus speculative ear pinnae, since osteological correlates (bone textures) in advanced notosuchians have hinted at an external earflap-like structure, but we don't know the extent of these structures.  Here, it's engaging in various catlike poses.  10/10 would pet.  If you're familiar with my prior work, this is the third notosuchian I've decked out in ears; in Inktober I drew *Araripesuchus* as being convergent with a wolf, and around Christmastime I drew *Baurusuchus* in the form factor of a lion.
 
 #### *Dineobellator*
-![dineobellator](/assets/dineobellator.png)
+![dineobellator](/assets/images/posts/dineobellator.png)
 
 It's the brand-new velociraptorine from Latest Cretaceous New Mexico, *Dineobellator* (meaning "Navajo warrior")!  Described just this year, this is just the third end-Cretaceous dromaeosaur known from North America (the other two being *Dakotaraptor*, described 2015, and *Acheroraptor*, described 2013.  So we didn't know that ANY dromaeosaurs lived in North America at that time until 2013!)  Here, he's exhibiting four emotional states: angry, casual, excited, and cold.
 
 ### Portraits
 
 #### *Latenivenatrix*
-![latenivenatrix](/assets/latenivenatrix.png)
+![latenivenatrix](/assets/images/posts/latenivenatrix.png)
 
 I was inspired to start doing these feathery portraits because of a photo of a harpy eagle I stumbled upon on Reddit.  It looked so primeval and full of personality that I wanted to see what it would look like as a non-avian dinosaur.  *Latenivenatrix* was a large troodontid from Late Cretaceous Alberta.  It's currently the largest troodontid known, at around 3.5m long (*Deinonychus*-sized).  Its name means "hiding huntress" (-venatrix is the female form of -venator, meaning "hunter").  I like how the head feathers look sort of like a barette or something, making her look more fancy and feminine.  Fun fact, this dinosaur is what I named my new bicycle after.  I call it "Lottie" for short.
 
 #### *Hesperonychus*
-![hesperonychus](/assets/hesperonychus.png)
+![hesperonychus](/assets/images/posts/hesperonychus.png)
 
 *Hesperonychus* was a very small (1-2 pound) microraptorine dromaeosaur from Late Cretaceous North America.  This was a huge range extension for the clade Microraptoria, since they were previously known only from Early Cretaceous Asia.  This *Hesperonychus* is dressed up as a black palm cockatoo.  I think I half-accidentally captured the shape of the microraptorine skull pretty well, but I could've done better with making the feathers more iridescent.
 
 #### *Thescelosaurus*
-![thescelosaurus](/assets/thescelosaurus.jpg)
+![thescelosaurus](/assets/images/posts/thescelosaurus.jpg)
 
 *Thescelosaurus* was a large (200-300kg) parksosaurid ornithischian from Latest Cretaceous North America.  It had both teeth toward the back of its snout and a beak on the tip.  This one is dressed up as a wood grouse or capercaillie.  I have been informed that this type of birdlike branching feather is outside the phylogenetic bracket including ornithischians; a more accurate deptiction would give it simple filaments.
 
 #### *Siamraptor*
-![siamraptor](/assets/siamraptor.png)
+![siamraptor](/assets/images/posts/siamraptor.png)
 
 *Siamraptor* was a medium-sized (8-meter) carcharodontosaur from Early Cretaceous Thailand (*Yutyrannus*-sized or a bit smaller).  There are not a whole lot of dinosaurs currently known from Southeast Asia, and this one was the first carcharodontosaur known from that region, described just last year.  Here I've given him the plumage of a Philippine eagle.
 
 Usually when I draw scales, I do about 20% of them and then use Procreate's "clone" tool to make the rest.  But that results in visible seams between cloned sections.  So this time, I actually drew _every circle_ by hand!  I think it was worth it though.
 
 #### *Buitreraptor*
-![buitreraptor](/assets/buitreraptor.jpg)
+![buitreraptor](/assets/images/posts/buitreraptor.jpg)
 
 Here's another bird-inspired portrait: *Buitreraptor* dressed as a hamerkop (not a shoebill, but a close relative).  *Buitreraptor* was a small unenlagiine dromaeosaur from Late Cretaceous Argentina.  This is the same group that includes *Unenlagia* and *Austroraptor*, which I've drawn before.  They were long-snouted, putative piscivores that populated the Southern Hemisphere toward the end of the Mesozoic.  Here, *Buitreraptor* rests with its neck retracted and chest feathers puffed up, giving it a compact "aeroshell" look, even though its neck is actually quite long.  Read more about it [here](http://willoughbyart.blogspot.com/2012/07/the-neck-is-lie.html).
 
 #### *Garudimimus*
-![garudimimus](/assets/garudimimus.png)
+![garudimimus](/assets/images/posts/garudimimus.png)
 
 *Garudimimus* was an ornithomimosaur from earlyish Late Cretaceous Mongolia.  It was small for an ornithomimosaur, weighing in at 30kg (the size of a small emu), and may have been a basal member of the family including the famous *Deinocheirus*.  Its name refers to Garuda, a legendary birdlike creature in Hindu mythology.
 
 Unlike the rest of my bird-plumage portraits, this one has a toothless keratinous beak, which means the portrait ended up looking very, very similar to its photo-reference subject, in this case the common crane.  I tried hard to make him look bigger and to get the shape of the beak right.  Did you know that common cranes had tonsures?  I didn't until I started doing this.  It's...not my favorite look.
 
 #### *Tsaagan*
-![tsaagan](/assets/tsaagan.png)
+![tsaagan](/assets/images/posts/tsaagan.png)
 
 *Tsaagan* was a 15-kg velociraptorine dromaeosaur from Late Cretaceous Mongolia.  This one has the plumage of a prairie falcon.
 
 #### *Qianzhousaurus*
-![qianzhousaurus-portrait](/assets/qianzhousaurus-portrait.png)
+![qianzhousaurus-portrait](/assets/images/posts/qianzhousaurus-portrait.png)
 
 I've drawn *Qianzhousaurus* ("Pinocchio Rex") in the plumage of a roadrunner before, but here's a much more close up view.  The bulbous stuff along its snout was supposed to be keratin horn ornamentation, but it ended up looking like tumors...
 
 #### *Thanatotheristes*
-![thanatotheristes](/assets/thanatotheristes.png)
+![thanatotheristes](/assets/images/posts/thanatotheristes.png)
 
 *Thanatotheristes* (meaning "death reaper") was a daspletosaurid tyrannosaur from Late Cretaceous Alberta.  It's a brand-new genus, named just this year, and is known from fragmentary remains, so it might turn out to just be another species of *Daspletosaurus*.  We'll see.
 
 *Daspletosaurus* could reach 1.8 to 2 tonnes, which is over the *Yutyrannus* threshold of 1.4 tonnes.  Since it's hard to make an accurate size estimate from fragments, we don't really know how big *Thanatotheristes* could get, but it was probably comparable.  That means this super-feathery interpretation is probably fanciful.  The plumage here is based on that of a bearded vulture.
 
 #### *Therizinosaurus*
-![therizinosaurus](/assets/therizinosaurus.png)
+![therizinosaurus](/assets/images/posts/therizinosaurus.png)
 
 *Therizinosaurus* was a huge secondarily herbivorous maniraptoran theropod from Late Cretaceous Mongolia.  It had giant arms ending in long, scary claws that it probably used for stripping vegetation like a ground sloth (because of this similarity, artists often give therizinosaurs sloth-like poofy tails).  *Therizinosaurus* was one of the largest therizinosaurs and could weigh 4-5 tonnes (so please imagine the dark feathering here as being very sparse).  It had both a beak on the front of its snout and teeth farther back.  This one is dressed up like a vulturine guinea fowl.  Unfortunately, it ended up sort of looking like Ronald McDonald.
 
 ### Just For Fun
 
 #### *Medusaceratops*
-![medusaceratops](/assets/medusaceratops.png)
+![medusaceratops](/assets/images/posts/medusaceratops.png)
 
 Thought it'd be fun to take part in the Tiktok trend of painting "thermal noods".  With dinosaurs.  And hopefully more thermal accuracy than average.
 
 *Medusaceratops* was a centrosaurine ceratopsian from Late Cretaceous Montana.  I chose it for this exercise because the generic name is feminine, and it's relatively large (2 tonnes).  My other choice, *Avaceratops*, weighed only one tonne and I wanted to draw a big girl.
 
 #### *Aucasaurus*
-![aucasaurus](/assets/aucasaurus.png)
+![aucasaurus](/assets/images/posts/aucasaurus.png)
 
 Here we have the abelisaur *Aucasaurus*, from Late Cretaceous Argentina, dressed up like Tigrex, a monster from the Monster Hunter franchise.  They have similar skull shape and possible keratinous ornamentation, but postcranially, the similarity ends; Tigrex has a sort of beefy pterosaur-type body with wrestler's arms, while *Aucasaurus* has comically reduced arms and long lanky legs.
 
@@ -95,11 +96,11 @@ Here we have the abelisaur *Aucasaurus*, from Late Cretaceous Argentina, dressed
 
 I'm surprised that it seems like nobody's done this before.  Land Before Time popularized dinosaurs before Jurassic Park--the first movie came out in 1988--and consistent with the times, its depiction of dinosaurs have quite a few inaccuracies.  The main offense though is their compressing the entire Mesozoic world into one time and location.  Remember, *Stegosaurus* was more ancient to *Tyrannosaurus* than *Tyrannosaurus* is to the iPhone!  So, to start with, I've broken the "gang" into three groups that could have more plausibly lived alongside one another.
 
-![rubypetrie](/assets/rubypetrie.png)
+![rubypetrie](/assets/images/posts/rubypetrie.png)
 
 Here's a scene from early Late Cretaceous (86-84 Ma) Mongolia.  A curious young *Oviraptor* encounters something she's never seen before: a stray *Pteranodon* flapling, blown astray from Canada by a storm.  Major differences from the original character designs include: Petrie's wings actually have bones in them (they're not just a cape) and he's quadrupedal on the ground; Ruby is fully feathered and winged, and her pennaceous feathers are in logical places, ie wings and tail and not randomly on her back and neck.
 
-![littlefootspike](/assets/littlefootspike.png)
+![littlefootspike](/assets/images/posts/littlefootspike.png)
 
 In the Late Jurassic (152-151 Ma) of what is now North America, a juvenile *Apatosaurus* and *Stegosaurus* share a cycad for lunch.
 
