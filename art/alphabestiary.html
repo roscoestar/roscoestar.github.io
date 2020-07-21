@@ -1,0 +1,32 @@
+---
+layout: default
+title: Art Gallery
+---
+
+<main id="main" class="site-main">
+    <div class="post-full inner">
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+        </header>
+        <p>ere you will find a selection of my original paleoart compiled onto one page, listed from newest to oldest. You can also find them in their original posts (linked at the top of each section), which also contain more detailed captions and other info.</p>
+        <div class="post-content inner">
+            <h2 id="May-2020">Alphabestiary</h2>
+            <p><a href="https://obscuredinosaurfacts.com/blog/post/2020/03/23/alphabestiary.html">Alphabestiary original post</a></p>
+            <ul class="archive-posts-list">
+                {% include image-caption.html imageurl="/assets/images/posts/fruitadens.jpg#wide" title="Fruitadens" caption="F is for Fruitadens and Fruitafossor fighting over false-fruit in Fruita." %}
+
+                {% include image-caption.html imageurl="/assets/images/posts/gargoyleosaurus.png#wide" title="Gargoyleosaurus" caption="G is for Gargoyleosaurus enjoying the rain." %}
+                
+                {% include image-caption.html imageurl="/assets/images/posts/ledumahadi.png#wide" title="Ledumahadi" caption="L is for Ledumahadi, the giant thunderclap at dawn." %}
+                
+                {% include image-caption.html imageurl="/assets/images/posts/unenlagia.png#wide" title="Unenlagia" caption="U is for Unenlagia swallowing a big catch." %}
+                
+                {% include image-caption.html imageurl="/assets/images/posts/wannanosaurus.png#wide" title="Wannanosaurus" caption="W is for Wannanosaurus taking a load off." %}
+            </ul>
+            <div>
+                <a href="/art/april-2020">Back to Newer</a>
+                <a href="/art/march-2020">Older Art</a>
+            </div><!-- .post-tags -->
+        </div><!-- .entry-box -->
+    </div><!-- .inner -->
+</main><!-- .site-main -->
