@@ -7,19 +7,19 @@ categories: profile
 ---
 Family tree: Theropoda > Neotheropoda > Averostra > Tetanurae > Avetheropoda > Coelurosauria > Tyrannosauroidea
 
-Hometown: Uzbekistan, 90 mya (early Late Cretaceous)
+Hometown: Uzbekistan, 90 million years ago (early Late Cretaceous)
 
 Discovered 2004, described 2016 by Steve Brusatte et al
 
 ![timurlengia](/assets/images/posts/timurlengia.jpg)
 
-*Timurlengia* was a horse-sized tyrannosaur found within the 20-million-year “tyrannosaur gap” that had previously existed between small basal tyrannosaurs (like Dilong) and the apex predators of the latest Cretaceous (*Tyrannosaurus*, *Tarbosaurus*, *Gorgosaurus*, *Daspletosaurus*, etc).  The discovery of *Timurlengia* showed that tyrannosaurs first developed their acute senses (*Timurlengia* had really long inner ear passages, presumably for hearing low-frequency sounds, and brain features that indicate acute sight and smell) and then bulked up later.
+*Timurlengia* was a horse-sized tyrannosaur found within the 20-million-year “tyrannosaur gap,” a dearth of tyrannosaur fossils that had previously existed between small basal tyrannosaurs of the early Cretaceous (like *Dilong*) and the apex predators of the latest Cretaceous (*Tyrannosaurus*, *Tarbosaurus*, *Gorgosaurus*, *Daspletosaurus*, etc).  The discovery of *Timurlengia* showed that tyrannosaurs first developed their acute senses (*Timurlengia* had really long inner ear passages, presumably for hearing low-frequency sounds, and brain features that indicate acute sight and smell) and then bulked up later.
 
 Tyrannosaurs grew up in the shadow of the giant carcharodontosaurs like *Carcharodontosaurus*, *Mapusaurus*, and *Giganotosaurus*, which peaked in size in the Cenomanian (early Late Cretaceous) 98-94 million years ago.  During that time, the ancestors of the future giant tyrannosaurs were leggy, **cursorial** marginal hunters like *Moros*:
 
 ![moros](/assets/images/posts/moros.png)
 
-As the Cretaceous wore on and the continents continued to drift farther apart though, the carcharodontosaurs began to decline, and the tyrannosaurs were poised to take over (in the northern hemisphere at least.  In the south, abelisaurs like *Carnotaurus* and *Majungasaurus* became the new apex predators).  Tyrannosaurs became highly successful due to a few key adaptations\*:
+As the Cretaceous wore on and the continents continued to drift farther apart, the carcharodontosaurs began to decline, and the tyrannosaurs were poised to take over (in the northern hemisphere at least.  In the south, abelisaurs like *Carnotaurus* and *Majungasaurus* became the new apex predators).  Tyrannosaurs became highly successful due to a few key adaptations\*:
 
 1. **Peg-like teeth.** These super-strong teeth allowed tyrannosaurs to crush bone, like hyenas do today, to get at the nutritious marrow. They also helped them have a ridiculously powerful bite.
 2. **Sharp senses.** Based on the shape of tyrannosaurs’ brain cavity, we know that they had sharper eyes and noses than their predecessors, which allowed them to hunt more effectively.
@@ -27,4 +27,4 @@ As the Cretaceous wore on and the continents continued to drift farther apart th
 
 \* This is also covered in my other post, [The Dinosaur Family: An Overview](http://obscuredinosaurfacts.com/blog/post/2019/09/11/dinosaur-family-overview.html).
  
-It was only very recently that we’ve been able to paint a coherent picture of tyrannosauroid evolution.  *Dilong*, a very early tyrannosauroid, was discovered in 2004; then we had a period of speculation until *Timurlengia* was described in 2016.  Since then, more tyrannosaurs have been found that fill the evolutionary “gap”; *Moros* and *Suskityrannus* were just described this year (2019).  A key player in getting this story straight was Steve Brusatte, a tyrannosaur expert and author of _The Rise and Fall of the Dinosaurs: A New History of a Lost World_, which is a terrific book that I highly recommend.
+It was only very recently that we’ve been able to paint a coherent picture of tyrannosauroid evolution.  *Dilong*, a very early tyrannosauroid, was discovered in 2004; then there was a period of speculation due to the lack of fossil material until *Timurlengia* was described in 2016.  Since then, more tyrannosaurs have been found that fill the evolutionary “gap”; *Moros* and *Suskityrannus* were just described this year (2019).  A key player in getting this story straight was Steve Brusatte, a tyrannosaur expert and author of _The Rise and Fall of the Dinosaurs: A New History of a Lost World_, which is a terrific book that I highly recommend.

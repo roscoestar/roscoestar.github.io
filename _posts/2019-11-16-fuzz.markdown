@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "To Fuzz or Not To Fuzz: A Guide to Archosaur Integument"
-Tags: [Paleoart, Tips]
+tags: [Paleoart, Tips]
 date:   2019-11-16 01:40:08 -0700
 categories: blog post
 ---

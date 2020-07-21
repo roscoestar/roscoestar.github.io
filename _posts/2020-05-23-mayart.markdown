@@ -4,10 +4,6 @@ title:  "May Art"
 tags: [Paleoart]
 date:   2020-05-23 01:43:08 -0700
 categories: blog post
-featured_image_thumbnail:
-featured_image: /assets/images/posts/toro.png
-featured: true
-hidden: true
 ---
 
 I haven't been drawing as much this past month, but here's what I did do!
