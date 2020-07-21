@@ -1,0 +1,32 @@
+---
+layout: default
+title: Art Gallery
+---
+
+<main id="main" class="site-main">
+    <div class="post-full inner">
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+        </header>
+        <p>Here you will find a selection of my original paleoart compiled onto one page, listed from newest to oldest. You can also find them in their original posts (linked at the top of each section), which also contain more detailed captions and other info.</p>
+        <div class="post-content inner">
+            <h2 id="May-2020">Archive</h2>
+            <p><a href="https://obscuredinosaurfacts.com/blog/post/2020/02/18/febart.html">February 2020 original post</a>
+            <a href="https://obscuredinosaurfacts.com/blog/post/2019/12/29/artdump.html">December 2019 original post</a></p>
+            <ul class="archive-posts-list">
+                {% include image-caption.html imageurl="/assets/images/posts/febart-2.jpg#wide" title="Abydosaurus" caption="Abydosaurus with a speculative beak." %}
+                {% include image-caption.html imageurl="/assets/images/posts/febart-5.jpg#wide" title="Dsungaripterus" caption="Dsungaripterus digging for clams." %}
+                {% include image-caption.html imageurl="/assets/images/posts/febart-6.png#wide" title="Gull Identification" caption="A handy flowchart for identifying gulls." %}
+                {% include image-caption.html imageurl="/assets/images/posts/febart-7.png#wide" title="DotLC" caption="All the known dinosaurs and pterosaurs that lived at the very end of the Mesozoic." %}
+                {% include image-caption.html imageurl="/assets/images/posts/art-1.png#wide" title="Earless Monitor Lizard" caption="An earless monitor lizard in artificial color." %}
+                {% include image-caption.html imageurl="/assets/images/posts/art-2.jpg#wide" title="Pangolin" caption="A pangolin in artificial color." %}
+                {% include image-caption.html imageurl="/assets/images/posts/art-10.png#wide" title="Eastern Garden Lizard" caption="An eastern garden lizard in artificial color." %}
+                {% include image-caption.html imageurl="/assets/images/posts/art-12.png#wide" title="Hoatzin" caption="A baby hoatzin showing off its little clawed fingers." %}
+            </ul>
+            <div>
+                <a href="/art/march-2020">Back to Newer</a>
+                <a href="/art/index">Back to Newest</a>
+            </div><!-- .post-tags -->
+        </div><!-- .entry-box -->
+    </div><!-- .inner -->
+</main><!-- .site-main -->

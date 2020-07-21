@@ -1,0 +1,27 @@
+---
+layout: default
+title: Art Gallery
+---
+
+<main id="main" class="site-main">
+    <div class="post-full inner">
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+        </header>
+        <p>Here you will find a selection of my original paleoart compiled onto one page, listed from newest to oldest. You can also find them in their original posts (linked at the top of each section), which also contain more detailed captions and other info.</p>
+        <div class="post-content inner">
+            <h2 id="May-2020">March 2020</h2>
+            <p><a href="https://obscuredinosaurfacts.com/blog/post/2020/03/23/marchart.html">March Art original post</a></p>
+            <ul class="archive-posts-list">
+                {% include image-caption.html imageurl="/assets/images/posts/ianthasaurus.png#wide" title="Ianthasaurus" caption="Ianthasaurus, an early synapsid (mammal relative)." %}
+                {% include image-caption.html imageurl="/assets/images/posts/stenopterygius.gif#wide" title="Stenopterygius" caption="A pod of Stenopterygius swimming and changing colors." %}
+                {% include image-caption.html imageurl="/assets/images/posts/Scleromochlus-small.gif#wide" title="Scleromochlus" caption="Scleromochlus, the little desert hopper." %}
+                {% include image-caption.html imageurl="/assets/images/posts/inostrancevia.gif#wide" title="Inostrancevia" caption="Inostrancevia, the saber-toothed stem-mammal." %}
+            </ul>
+            <div>
+                <a href="/art/alphabestiary">Back to Newer</a>
+                <a href="/art/archive">Older Art</a>
+            </div><!-- .post-tags -->
+        </div><!-- .entry-box -->
+    </div><!-- .inner -->
+</main><!-- .site-main -->
