@@ -31,3 +31,5 @@ Discoveries like these, which show how hyper-specialized ancient creatures could
 ![cormorant](/assets/images/posts/cormorant.jpg)
 
 I live in a place where double-crested cormorants are not uncommon.  Whenever I see one, I'm happily reminded that it's filling the shoes of its ancestral cousin, and I imagine that a *Deinocheirus* could be right around the corner!
+
+Image credits: [Halszkaraptor](https://www.deviantart.com/stygimolochspinifer/art/31-Day-Palette-Challenge-Halszkaraptor-790476182) [Featured image](https://www.deviantart.com/hyrotrioskjan/art/Halszkaraptor-718742891) [Cormorant](https://i.pinimg.com/originals/c2/ba/ef/c2baefae10ad388e7478ae54ff28e00a.jpg)
