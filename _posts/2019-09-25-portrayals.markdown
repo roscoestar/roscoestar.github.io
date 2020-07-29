@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dinosaur Portrayals In The Media: What To Look Out For"
+title:  "Dinosaur Portrayals In The Media"
 tags: [Miscellaneous, Tips]
 date:   2019-09-25 01:50:08 -0700
 categories: blog post

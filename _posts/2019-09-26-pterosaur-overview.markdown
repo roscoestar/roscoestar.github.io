@@ -11,7 +11,7 @@ As a followup to my [Dinosaur Family Overview post](http://obscuredinosaurfacts.
 
 Pterosaurs (meaning “wing reptile”) aren’t dinosaurs, but they’re the next closest thing--Pterosauria is the **sister clade** to Dinosauromorpha.  They’re the first group of vertebrates to unlock the achievement “Powered Flight” (insects did it first).  They’re exceedingly specialized for flight, with delicate skeletons that don’t fossilize easily, so we don’t know much about how they transitioned into the air.  As far as we’ve found, they suddenly appear in the fossil record of the Late Triassic, fully-formed and ready to fly.  (This is coincidentally similar to their reproductive strategy, in which baby pterosaurs, called flaplings, are able to fly very shortly after birth.)
 
-There are a few theories about how they developed flight--ground-up, arboreal leaping, and arboreal parachuting--but none of them really stick out as particularly better than the others.  One animal often cited as a pterosaur ancestor is *Scleromochlus*, a tiny kangaroo-like archosaur that lived in the early Late Triassic (237-ish MYA) and probably hopped adorably through the desert.  Below is an image showing the speculative transitional forms between *Scleromochlus* and *Preondactylus*, an early pterosaur that lived in the middle Late Triassic (228-ish MYA):
+There are a few theories about how they developed flight--ground-up, arboreal leaping, and arboreal parachuting--but none of them really stick out as particularly better than the others.  One animal often cited as a pterosaur ancestor is *Scleromochlus*, a tiny kangaroo-like archosaur that lived in the early Late Triassic (237-ish million years ago) and probably hopped adorably through the desert.  Below is an image showing the speculative transitional forms between *Scleromochlus* and *Preondactylus*, an early pterosaur that lived in the middle Late Triassic (228-ish million years ago):
 
 ![pterosaur-1](/assets/images/posts/pterosaur-1.jpg)
 
@@ -21,7 +21,7 @@ Once they could fly, pterosaurs quickly diversified into a variety of shapes and
 
 Above: A simplified pterosaur family tree, approximately to scale.  The green band represents the Triassic (we begin in the late Triassic here), the orange is Jurassic and the red is Cretaceous.  When a line ends, it means that group has gone extinct.  Note that this is not a comprehensive list of families; there are many genera that don’t fall into any of these groups.
 
-The first four groups--Eopterosauria, Dimorphodontia, Rhamphorhynchidae, and Anurognathidae--together make up the “rhamphorhynchoids,” while the last three--Archaeopterodactyloidea, Azhdarchoidea, and Pteranodontia--make up the pterodactyloids.  “Rhamphorhynchoids” is in quotes because it’s a **paraphyletic group**.  You can see why based on this tree: any clade containing Eopterosauria and Dimorphodontia, for example, must also contain Azhdarchoidea and Pteranodontia.  Effectively, calling something a “rhamphorhynchoid” is just saying it’s a pterosaur that’s _not_ a pterodactyloid (and indeed, sometimes scientists refer to this group as the non-pterodactyloid pterosaurs).
+The first four groups--Eopterosauria, Dimorphodontia, Rhamphorhynchidae, and Anurognathidae--together make up the “rhamphorhynchoids,” while the last three--Archaeopterodactyloidea, Azhdarchoidea, and Pteranodontia--make up the pterodactyloids.  “Rhamphorhynchoids” is in quotes because it’s a **paraphyletic group**.  You can see why based on this tree: any clade containing Eopterosauria and Dimorphodontia, for example, must also contain Azhdarchoidea and Pteranodontia (more on this in my other post, about why [I am a fish](https://obscuredinosaurfacts.com/blog/post/2019/09/06/i-am-a-fish.html).  Effectively, calling something a “rhamphorhynchoid” is just saying it’s a pterosaur that’s _not_ a pterodactyloid (and indeed, sometimes scientists refer to this group as the non-pterodactyloid pterosaurs).
 
 ### Rhamphorhynchoidea
 Even though it’s a paraphyletic group, “rhamphorhynchoids” do have a lot of features in common.  They have toothy jaws or beaks that contain teeth, long tails, a sprawling quadrupedal stance, and they tend to be relatively small, with wingspans of usually 8 feet or less.  They also tended not to have the extravagant head crests favored by many pterodactyloids, though some did sport some extreme headgear before it was cool.
@@ -41,7 +41,7 @@ Meaning “two form tooth,” dimorphodontids look kind of like someone popped a
 
 ![pterosaur-3](/assets/images/posts/pterosaur-3.jpg)
 
-Above: *Caelestiventus*, an early dimorphodontid pterosaur from the Late Triassic, 208 MYA, described in 2018.  It had a 5-foot wingspan and lived in the desert, unusual for “rhamphorhynchoids”.  Note that this batlike upside-down pose is artistic license--pterosaurs had **plantigrade** feet not unlike our own, which would've been good for walking around on the ground but useless for grasping.
+Above: *Caelestiventus*, an early dimorphodontid pterosaur from the Late Triassic, 208 Ma, described in 2018.  It had a 5-foot wingspan and lived in the desert, unusual for “rhamphorhynchoids”.  Note that this batlike upside-down pose is artistic license--pterosaurs had **plantigrade** feet not unlike our own, which would've been good for walking around on the ground but useless for grasping.
 
 Further reading: [Caelestiventus discovery](http://www.sci-news.com/paleontology/caelestiventus-hanseni-triassic-pterosaur-06304.html)
 
@@ -57,7 +57,7 @@ Note the difference between the very similar-sounding words (in order of increas
 
 #### Anurognathidae
 
-Anurognathids were the group of pterosaurs that I was most surprised to learn about.  They’re tiny, they have short, frog-like faces and huge eyes, and were probably insectivorous and nocturnal.  They were pterosaurs convergent with bats!  They may even have had special fuzzy wing edges for silent flight, like owls.
+Anurognathids were the group of pterosaurs that I was most surprised to learn about for the first time.  They’re tiny, they have short, frog-like faces and huge eyes, and were probably insectivorous and nocturnal.  They were pterosaurs convergent with bats!  They may even have had special fuzzy wing edges for silent flight, like owls.
 
 ![pterosaur-5](/assets/images/posts/pterosaur-5.jpg)
 
@@ -78,7 +78,7 @@ Pterodactyloids shared more features than just size--they tended to lack teeth, 
 
 #### Archaeopterodactyloidea
 
-This group contains the famous *Pterodactylus* (there’s no such thing as a creature named "Pterodactyl,"" by the way), which is much smaller than you imagine--about crow-sized.  It also contains the much more exciting group Ctenochasmatidae, the comb-toothed filter-feeding pterosaurs, which filled the same niche as modern flamingos and spoonbills, eating small crustaceans and being fabulously pink.  Recent coprolite evidence corroborates this theory.
+This group contains the famous *Pterodactylus* (there’s no such thing as a creature named "Pterodactyl," by the way), which is much smaller than you imagine--about crow-sized.  It also contains the much more exciting group Ctenochasmatidae, the comb-toothed filter-feeding pterosaurs, which filled the same niche as modern flamingos and spoonbills, eating small crustaceans and being fabulously pink.  Recent coprolite evidence corroborates this theory.
 
 ![pterosaur-7](/assets/images/posts/pterosaur-7.jpg)
 
@@ -94,7 +94,7 @@ This is the group containing the very largest pterosaurs, and also the ones with
 
 ![tupan](/assets/images/posts/tupan.jpg)
 
-Above: *Tupandactylus*, an Early Cretaceous tapejarid from Brazil.  Some paleontologists speculate that it may have used its head crest like a rudder to steer while flying, but others say it was purely for display.  A new [study](https://www.nature.com/articles/s41598-019-52318-y) indicatees that the crest might actually have been blue.
+Above: *Tupandactylus*, an Early Cretaceous tapejarid from Brazil.  Some paleontologists speculate that it may have used its head crest like a rudder to steer while flying, but others say it was purely for display.  A new [study](https://www.nature.com/articles/s41598-019-52318-y) indicates that the crest might actually have been blue.
 
 ![pterosaur-10](/assets/images/posts/pterosaur-10.png)
 

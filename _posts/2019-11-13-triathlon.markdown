@@ -27,7 +27,7 @@ So, I addressed most of these and moved on to Version 1, which I posted to Reddi
 
 ![velocetus-2](/assets/images/posts/velocetus-2.jpg)
 
-With this creature, I flipped it over relative to *Velopelta* but kept the idea that it would swim with one set of limbs and run/cycle with the other set: Velocetus swims with its legs, then flips over and does the rest with its arms.  It doesn’t need to change clothes or anything to transition between any of the events--its blubber acts as a natural wetsuit, and it installs toe clips into its hooves like a horseshoe prior to the race.  “*Velocetus*” means “swift whale”--I imagined this creature evolving from a hoofed whale ancestor like *Indohyus*, but taking a completely different strategy to a semi-aquatic lifestyle, using its hind legs for propulsion like a pinniped rather than its tail, and keeping its hooves for effective terrestrial locomotion.
+With this creature, I flipped it over relative to *Velopelta* but kept the idea that it would swim in one configuration and then run/cycle completely differently: Velocetus swims with its legs, then flips over and does the rest with its arms.  It doesn’t need to change clothes or anything to transition between any of the events--its blubber acts as a natural wetsuit, and it installs toe clips into its hooves like a horseshoe prior to the race.  “*Velocetus*” means “swift whale”--I imagined this creature evolving from a hoofed whale ancestor like *Indohyus*, but taking a completely different strategy to a semi-aquatic lifestyle, using its hind legs for propulsion like a pinniped rather than its tail, and keeping its hooves for effective terrestrial locomotion.
 
 I got a lot of good feedback on Reddit about the flaws of this design:
 
@@ -46,7 +46,7 @@ Someone on r/SpeculativeEvolution suggested autotomy (dropping its tail like a l
 
 - It can’t really shift gears or brake on the bike, unless it has some sort of long prehensile tongue like a giraffe, which doesn’t have precedent among reptiles (as far as I know).
 - It can’t eat or drink at all during the race unless someone feeds it, especially on the bike, since it has no opposable appendages.
-- It can only race once per however long it takes the tail to grow back completely.  An anole takes two months to regrow a tail and has a lifespan of six years; scaling that up linearly to a humanlike 80 year lifespan, it would take *Velosaurus* one year to regrow the tail.  Since it can’t train while the tail is regrowing, it could probably realistically only race once per 1.5 to 2 years.
+- It can only race once per however long it takes the tail to grow back completely.  An anole takes two months to regrow a tail and has a lifespan of six years; scaling that up linearly to a humanlike 80 year lifespan, it would take *Velosaurus* two years to regrow the tail.  Since it can’t train while the tail is regrowing, it could probably realistically only race once per 2.5 to 3 years.
 - It may be too much of a chimaera--all of its constituent features come from within Reptilia, but the tail-dropping is a lepidosaur thing while the hooves are an archosaur thing.  I think *Velosaurus* is probably a lepidosaur that convergently evolved hooves, but I’m not sure if that’s plausible enough.
 
 ![triathlon-4](/assets/images/posts/triathlon-4.jpg)
