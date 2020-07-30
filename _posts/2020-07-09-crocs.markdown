@@ -6,11 +6,9 @@ date:   2020-07-09 01:43:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/typothorax.png
-featured: true
-hidden: true
 ---
 
-I said my [Aquatic Reptiles post](https://obscuredinosaurfacts.com/blog/post/2019/11/13/aquatic-reptiles.html) would be the last Mesozoic reptile family overview, but of course no trilogy is complete without a trilogy creep!  Crocodylians and their relatives used to be so much more diverse and prolific than they are today, but since the dinosaurs came out ahead after the Triassic-Jurassic extinction event and ruled for the rest of the Mesozoic, crocs are much less notorious.  In this post, I’ll go over the major branches of the pseudosuchian family tree, with examples and pictures, to give you an idea of the amazing croc diversity the world used to have.
+I said my [Aquatic Reptiles post](https://obscuredinosaurfacts.com/blog/post/2019/11/13/aquatic-reptiles.html) would be the last Mesozoic reptile family overview, but of course no trilogy is complete without a [trilogy creep](https://tvtropes.org/pmwiki/pmwiki.php/Main/TrilogyCreep)!  Crocodylians and their relatives used to be so much more diverse and prolific than they are today, but since the dinosaurs came out ahead after the Triassic-Jurassic extinction event and ruled for the rest of the Mesozoic, crocs are much less notorious.  In this post, I’ll go over the major branches of the pseudosuchian family tree, with examples and pictures, to give you an idea of the amazing croc diversity the world used to have.
 
 ## Pseudosuchia
 Pseudosuchia means “false crocodile,” and is a subgroup of Archosauria (which includes crocs and birds) and the **sister clade** to Ornithodira (which includes birds).  Pseudosuchians include everything more closely related to modern crocs than to birds.  Some phylogenies include Phytosauria within Pseudosuchia--phytosaurs were Triassic semi-aquatic predators that superficially look a lot like modern crocs--but it’s now mostly agreed that pseudosuchians and ornithodirans are more closely related to each other than either is to phytosaurs.

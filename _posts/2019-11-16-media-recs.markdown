@@ -63,6 +63,7 @@ Audience: everyone
 
 This documentary is by the paleontologist who discovered the famous transitional tetrapod fossil, *Tiktaalik*!  It covers the entire history of human evolution in three acts: the fish-tetrapod transition, Permian synapsids, and primate evolution.  Dr. Shubin is in charge of a cadaver lab though, so some of the human dissection shown is not for the faint of heart.
 
+## Books
 ### All Yesterdays
 Type: art book
 
@@ -81,6 +82,15 @@ Audience: everyone--use this to get your dinosaur-clueless friends to have some 
 
 This book takes the reader on a tour through the Mesozoic, looking at the age of reptiles in detail while also presenting the author's own experience as a paleontologist.  It's very recent, and thus serves as a good primer on the modern theories about dinosaurs.  It's also a very compelling narrative, and the author is a world-renowned expert on tyrannosaurs, so his insights into what made that specific group so successful are presented here.
 
+### The Dinosaurs Rediscovered: How a Scientific Revolution is Rewriting History
+Type: book
+
+Creator: Michael J. Benton
+
+Audience: paleo fans looking to start learning about modern scientific methods
+
+This book focuses more on recent discoveries and methods that have cast old assumptions and depictions of dinosaurs in a new light.  Its scope includes new ways of dating and analyzing dinosaur body fossils; new strategies for reconstructing how dinosaurs behaved, breathed, and moved; and beautiful sketches and descriptions of individual dinosaur genera that sometimes take up an entire two-page spread.
+
 ### The Palaeoartist's Handbook
 Type: art book
 
@@ -90,6 +100,7 @@ Audience: aspiring paleoartists
 
 This book, while pretty dang dense, does a good job of explaining how to create accurate life reconstructions from first principles--how we know what we know.  It explains what types of **osteological correlates** correspond to what types of overlying tissues, how to interpret trackways, and how not to fall prey to paleoart "memes," among other things.  It also contains some really beautiful and inspiring original artwork.
 
+## Blogs and other Internet content
 ### Mark Witton's Blog
 Type: blog
 

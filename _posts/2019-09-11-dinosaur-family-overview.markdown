@@ -13,7 +13,7 @@ This clade is usually defined nowadays as the last common ancestor between *Tric
 
 Dinosaurs all belong to one of two groups: Saurischia (meaning “reptile-hipped”) and Ornithischia (meaning “bird-hipped”).  Sauropods and theropods fall under Saurischia (yes, confusingly birds are not in the bird-hipped group, but are in the reptile-hipped group) while the rest fall under Ornithischia.
 
-The hip distinction is a little obscure at first sight, but this is what it’s about: of the three main hip bones, Saurischians have one on top, one pointing forward, and one pointing backward, while Ornithischians have one on top and two pointing backward.  This makes room for the larger gut required to effectively digest plants (meat, lacking tough cell walls, is much easier to digest).  The reason this difference is important is that it’s a useful hallmark for identifying remains, and it’s almost always consistent within each group.
+The hip distinction is a little obscure at first sight, but this is what it’s about: of the three main hip bones, saurischians have one on top, one pointing forward, and one pointing backward, while ornithischians have one on top and two pointing backward.  This makes room for the larger gut required to effectively digest plants (meat, lacking tough cell walls, is much easier to digest).  The reason this difference is important is that it’s a useful hallmark for identifying remains, and it’s almost always consistent within each group.
 
 ![fig-2.1](/assets/images/posts/family-overview-2.1.jpg)
 
@@ -51,7 +51,7 @@ In the Jurassic and Cretaceous, theropods and sauropods each split into further,
 
 In the Jurassic, sauropods really hit their stride and became hugely diverse and successful.  There are two main flavors of true sauropod: the gigantic vertical-necked titanosaurs and the horizontal-necked, whip-tailed diplodocoids.  Titanosaurs were the largest terrestrial creatures ever, and were able to grow to such great sizes due to a few key adaptations.
 
-1) **Air sacs.**  Like modern birds, sauropods had hollow bones with air sacs inside, as well as air sacs interspersed all over the place within their body.  These made it so that they were way lighter than they would be otherwise.
+1) **Air sacs.**  Like modern birds, sauropods had hollow bones with air sacs inside, as well as air sacs interspersed all over the place within their bodies.  These made it so that they were way lighter than they would be otherwise.
 
 ![fig-2.4](/assets/images/posts/family-overview-2.4.jpg)
 
@@ -129,7 +129,7 @@ The next major theropod group to branch off the bird lineage were the megalosaur
 
 ![fig-1.9](/assets/images/posts/family-overview-9.png)
 
-Moving along, the next group to branch off the bird lineage were the allosauroids (meaning “other reptile,” including the famous *Allosaurus* and the later carcharodontosaurs (meaning “sharp tooth reptile”) like *Carcharodontosaurus*, *Mapusaurus*, and *Giganotosaurus*.  Carcharodontosaurs had long faces and shark-like slicing teeth, indicating that they took prey down by biting over and over, like dogs.
+Moving along, the next group to branch off the bird lineage were the allosauroids (meaning “other reptile"), including the famous *Allosaurus* and the later carcharodontosaurs (meaning “sharp tooth reptile”) like *Carcharodontosaurus*, *Mapusaurus*, and *Giganotosaurus*.  Carcharodontosaurs had long faces and shark-like slicing teeth, indicating that they took prey down by biting over and over, like dogs.
 
 ![fig-2.8](/assets/images/posts/family-overview-2.8.jpg)
 
@@ -244,13 +244,13 @@ Ornithopods (meaning “bird foot”) were a group of herbivores from the Cretac
 
 *Maiasaura*, meaning “mother reptile,” was a Late Cretaceous ornithopod from Montana.  The name refers to how the first fossils of Maiasaura were found among many nests with eggs and nestlings, indicating group-nesting behavior and parental care.
 
-Note: Hadrosaurs in the past (especially Parasaurolophus for some reason) were often depicted with a bipedal, upright, kangaroo-like stance.  We now know that they were quadrupedal, even though their front legs look super skinny.
+Note: Hadrosaurs in the past (especially *Parasaurolophus* for some reason) were often depicted with a bipedal, upright, kangaroo-like stance.  We now know that they were quadrupedal, even though their front legs look super skinny.
 
 ### Pachycephalosauria
 
 ![fig-1.19](/assets/images/posts/family-overview-19.png)
 
-Pachycephalosaurs (meaning “thick head reptile,” pronounced “PAK-ee-SEF-a-lo-SOR-us”) were the famous dome-headed group of smallish bipedal herbivores from the Late Cretaceous.  Famous members include *Pachycephalosaurus* and *Stegoceras* (*Stygimoloch* and *Dracorex* are also often cited as their own groups, but recently they were found to be juvenile forms of *Pachycephalosaurus*).  *Pachycephalosaurus* itself lived in Latest Cretaceous Hell Creek alongside *Tyrannosaurus* and *Triceratops*.  There’s evidence of wounds in many pachycephalosaurid domes that indicate they did indeed head-butt each other.
+Pachycephalosaurs (meaning “thick head reptile,” pronounced “PAK-ee-SEF-a-lo-sores”) were the famous dome-headed group of smallish bipedal herbivores from the Late Cretaceous.  Famous members include *Pachycephalosaurus* and *Stegoceras* (*Stygimoloch* and *Dracorex* are also often cited as their own groups, but recently they were found to be juvenile forms of *Pachycephalosaurus*).  *Pachycephalosaurus* itself lived in Latest Cretaceous Hell Creek alongside *Tyrannosaurus* and *Triceratops*.  There’s evidence of wounds in many pachycephalosaurid domes that indicate they did indeed head-butt each other.
 
 ![fig-2.14](/assets/images/posts/family-overview-2.14.jpg)
 
