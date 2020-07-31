@@ -6,8 +6,6 @@ date:   2020-07-20 01:42:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/posts/aquatic-17.jpg
-featured: true
-hidden: true
 ---
 
 Family tree: Coelurosauria > Maniraptora > Pennaraptora > Paraves > Dromaeosauridae > Halszkaraptorinae
