@@ -5,7 +5,7 @@ tags: [Paleoart, Tips]
 date:   2020-07-20 01:42:08 -0700
 categories: blog post
 featured_image_thumbnail:
-featured_image: /assets/images/pages/boreal.jpg
+featured_image: /assets/images/posts/boreal.jpg
 featured: true
 hidden: true
 ---
