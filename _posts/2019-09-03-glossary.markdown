@@ -213,6 +213,8 @@ A **junior synonym** happens when a new genus is described based on a new fossil
 
 **Ontogeny** is the way an organism grows and changes as it gets older.  Most creatures don’t retain the same proportions when old as they had when young--for example, human babies have gigantic heads in proportion to their bodies compared to adults.  An **ontogenetic sequence** is a picture showing various life stages of an organism.
 
+**Ontogeny Recapitulates Phylogeny** is the outdated theory (also known as Recapitulation Theory) that ontogeny, specifically embryonic development, mirrors the evolutionary process the organism's ancestors went through.  For example, in the very early stages of development, human embryos look very similar to those of a more "primitive" animal, like a fish, and as the human embryo grows it goes through developmental stages that correspond to looking like an amphibian, a reptile, etc.  This is much more of an effect than a cause, however, and does not hold up under all (or even most) conditions.  Now it's just a well-known "biological myth".
+
 **Neoteny** is the retention of juvenile traits into adulthood, and is one method by which evolution can take a giant leap forward.  For example, our closest invertebrate relatives, the sea squirts, are sessile as adults, but have a larval form that is free-swimming and has a primitive backbone.  A long time ago, one of these larvae refused to grow up, and became a free-swimming, backboned adult.  This was such a successful strategy that that one critter was able to become the ancestor of all vertebrates.
 
 A **Lagerstätte** (meaning “storage place”) is a fossil deposit with exquisite preservation.  Famous examples include the Burgess Shale, Ghost Ranch, and the La Brea Tar Pits.
