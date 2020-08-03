@@ -2,7 +2,7 @@
 layout: post
 title:  "The Appeal to Nature Fallacy"
 tags: [Miscellaneous, Rationality]
-date:   2020-07-20 01:42:08 -0700
+date:   2020-07-29 01:42:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/mammoths.jpg

@@ -2,7 +2,7 @@
 layout: post
 title:  "How Accurate Can Paleoart Be?"
 tags: [Paleoart, Tips]
-date:   2020-07-20 01:42:08 -0700
+date:   2020-07-31 01:42:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/boreal.jpg
@@ -10,7 +10,7 @@ featured: true
 hidden: true
 ---
 
-I recently had someone ask me this question, and when I was writing my response to them, it became long enough to merit its own blog post.  It’s a great question!  Since most people who consume paleoart are not familiar with the fossils and the scientific analysis done on them, paleoartists represent a layer of remove between the viewer and the science.  A good paleoartist makes scientific findings much more digestible--it’s much easier to look at a picture and get a sense of what the dinosaur looked like than to read the list of **autapomorphies** from a paper (“well-developed and deep prezygapophyseal spinodiapophyseal fossae…”).  When not much material is known from a specific genus, it’s the paleoartist’s job to extrapolate from what we know about related animals and animals that filled a similar niche in order to fill in the rest.
+I recently had someone ask me this question, and when I was writing my response to them, it became long enough to merit its own blog post.  It’s a great question!  Since most people who consume paleoart are not familiar with the fossils and the scientific analysis done on them, paleoartists represent a layer of remove between the viewer and the science.  A good paleoartist makes scientific findings much more digestible--it’s much easier to get a sense of what a dinosaur looked like by looking at a picture than by reading the list of **autapomorphies** from a paper (“well-developed and deep prezygapophyseal spinodiapophyseal fossae…”).  When not much material is known from a specific genus, it’s the paleoartist’s job to extrapolate from what we know about related animals and animals that filled a similar niche in order to fill in the rest.
 
 While a good paleoartist bridges the gap between viewer and science, a bad paleoartist--one who claims to be basing their art on scientific fact but is really just following bad paleoart “memes”--obfuscates the science and perpetuates misconceptions, not just about specific animals but also about how prehistoric animals would’ve lived and behaved in general.  Bad paleoart tends to “monsterify” its subjects, portraying them as unnaturally vicious, bloodthirsty killers, while no carnivore alive today would take massive personal risks in order to score a kill.
 
@@ -45,7 +45,7 @@ For a lot of less well-known taxa, there's a lot of speculation that goes on.  H
 
 The top picture is my interpretation, while the bottom picture belongs to Mark Witton, a famous professional paleoartist and paleontologist.  (Given that, his is almost certainly much more accurate than mine!)  Though our knowledge of its skeleton is nearly complete, there's still a lot of room for soft-tissue and integument speculation for two reasons: since this dinosaur was a much more distant relative of modern dinosaurs we can't make assumptions about its skin/scales/feathers based on birds with much accuracy, and since it's not fluffy there's just a lot more body structure visible.  The main differences in assumptions Mark Witton and I made are (1) his *Aucasaurus* has very minimal keratinous structures on its head, while mine has extensive horns and crests; (2) his has protofeathers on its arms while mine doesn't; (3) his has a lot of droopy skin around its neck, including a wattle-like mantle, where mine has tight skin.  Oh, and of course the color, which in both cases is totally made up, but my choice of neon colors is admittedly unlikely.  But for all the rest of the differences I listed above, both interpretations are scientifically plausible.
 
-### How adventurous versus conservative the artist wants to be
+### How adventurous or conservative the artist wants to be
 This is the most exciting part of paleoart!  I'm not a scientist, but when I look at the data and conclude that croc-relatives with big ears are a real possibility, and then I make art that reflects this and show others, I'm helping to spread knowledge about these animals, inviting criticism and alternative interpretations and thus learning more myself, and contributing a tiny bit to the body of scientific knowledge.  I had to do loads of research to get to the point where I was able to do this, but it was definitely worth it.
 
 Here’s one final example, contrasting a highly speculative depiction with a conservative one.
