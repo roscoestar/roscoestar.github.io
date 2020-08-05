@@ -6,8 +6,6 @@ date:   2020-07-29 01:42:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/mammoths.jpg
-featured: true
-hidden: true
 ---
 
 Everyone at some point has encountered an argument using an appeal to nature: in a grocery store label proclaiming a product is natural and therefore good for you, in a philosophical argument about where we draw our moral ideas from, in a pop-science book or work of fiction extolling the way Native Americans lived naturally and sustainably, and in countless other contexts.  Essentially, an appeal to nature is the claim that if something is naturally occurring, it follows that it is also good, justified, or healthy.  However, while this is sometimes a helpful heuristic (as a rule of thumb it is generally healthier to eat lettuce than Doritos), just because something is natural doesn't mean it's good.  In this post I’ll explore some examples of domains in which the appeal to nature fallacy often crops up, and whether it has any validity in each case.  (Note: there is an unrelated logical fallacy known as the [naturalistic fallacy](https://en.wikipedia.org/wiki/Naturalistic_fallacy), which is a rather arcane philosophical argument about definitions.)
