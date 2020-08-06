@@ -9,7 +9,7 @@ categories: blog post
 The last in the trilogy of group overviews on this blog, in this post I’ll be going over the main types of Mesozoic aquatic reptiles.  However, the phylogeny of many of these groups, especially turtles and their relatives, is still pretty uncertain, so I won’t include a tree.  This isn’t a comprehensive list, but I’ll cover the most charismatic and prolific groups; groups not covered include mesosaurs, protorosaurs, and thalattosaurs.
 
 ### Ichthyosauromorphs
-One of the most famous groups of aquatic reptiles, these appeared basically fully-formed at the beginning of the Triassic period, and led the [Mesozoic Marine Revolution](https://en.wikipedia.org/wiki/Mesozoic_marine_revolution), a radiation event that resulted in much more complex food webs and predator-prey interactions in the ocean than had been seen in the Paleozoic.  Giant Triassic ichthyosaurs like *Shastasaurus* and *Shonisaurus* were the largest marine reptiles ever, at around 60 feet long and 75 tons, the size of a sperm whale.
+One of the most famous groups of aquatic reptiles, these appeared at the beginning of the Triassic period, and led the [Mesozoic Marine Revolution](https://en.wikipedia.org/wiki/Mesozoic_marine_revolution), a radiation event that resulted in much more complex food webs and predator-prey interactions in the ocean than had been seen in the Paleozoic.  Giant Triassic ichthyosaurs like *Shastasaurus* and *Shonisaurus* were the largest marine reptiles ever, at around 20 meters long and 30-70 tonnes, the size of a sperm whale.
 
 Ichthyosaurs were warm-blooded, blubbery, often **countershaded**, and gave live birth tail-first similarly to modern cetaceans (to prevent the infant from drowning before it’s completely free of the mother).  They filled a variety of niches in the Triassic and Jurassic, including **durophagy** (cracking tough shells to get at the soft prey inside), ram feeding, suction feeding, and apex predation, but as other groups of aquatic reptiles diversified in the Jurassic and Cretaceous, ichthyosaurs fell to the wayside.  Here’s a [PBS Eons episode](https://www.youtube.com/watch?v=V342aXQs9XY) on ichthyosaurs and the Mesozoic Marine Revolution.
 
@@ -71,7 +71,7 @@ Plesiosaurs were warm-blooded and gave live birth in the water, as evidenced by 
 
 ![aquatic-8](/assets/images/posts/aquatic-8.jpg)
 
-Above: * Kronosaurus* (meaning “Kronos’s reptile” or “time reptile”), a giant pliosauromorph from the late Early Cretaceous.  It was around 36 feet long and weighed up to 13 tonnes, the size of a *Tyrannosaurus*.
+Above: *Kronosaurus* (meaning “Kronos’s reptile” or “time reptile”), a giant pliosauromorph from the late Early Cretaceous.  It was around 36 feet long and weighed up to 13 tonnes, the size of a *Tyrannosaurus*.
 
 ![aquatic-9](/assets/images/posts/aquatic-9.jpg)
 
@@ -96,7 +96,7 @@ Turtles are a super bizarre group whose relationship to other reptiles is still 
 
 ![aquatic-12](/assets/images/posts/aquatic-12.jpg)
 
-Above: *Archelon*, the largest known sea turtle, from the Late Cretaceous Western Interior Seaway, the ocean that bisected North America.  It was about 15 feet long and weighed around 2.5 tons.  The largest living turtle, the leatherback, is about 7 feet long and up to 1 ton.
+Above: *Archelon*, the largest known sea turtle, from the Late Cretaceous Western Interior Seaway, the ocean that bisected North America.  It was about 5 meters long and weighed around 2.2 tonnes.  The largest living turtle, the leatherback, is about 2 meters long and a bit less than 1 tonne.
 
 Turtles do the four-paddle thing a bit differently than plesiosaurs.  Turtles’ front flippers provide propulsion while their rear flippers are much smaller and are used for steering, while all four of plesiosaurs’ flippers were about the same size.
 
@@ -118,9 +118,9 @@ Phytosaurs were a group of Triassic-exclusive crocodile-mimics that are less clo
 
 ![aquatic-12.5](/assets/images/posts/aquatic-12.5.jpg)
 
-Above: *Redondasaurus* and babies scares off some *Coelophysis* in Late Triassic New Mexico.
+Above: *Redondasaurus* and babies scare off some *Coelophysis* in Late Triassic New Mexico.
 
-Phytosaurs were very successful, with a worldwide distribution in the Triassic, and probably fulfilled the same niche that modern crocodilians do today, that of semi-aquatic large ambush predator.  However, they went extinct shortly after the end-Triassic extinction event along with a lot of other crurotarsan diversity.
+Phytosaurs were very successful, with a worldwide distribution in the Triassic, and probably fulfilled the same niche that modern crocodilians do today, that of large semi-aquatic ambush predator.  However, they went extinct shortly after the end-Triassic extinction event along with a lot of other archosaurian diversity.
 
 Image credit: [Redondasaurus](https://www.deviantart.com/apsaravis/art/Coelophyses-surprised-430139881)
 

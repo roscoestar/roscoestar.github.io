@@ -95,11 +95,11 @@ Above: *Shuvuuia*, an insectivorous alvarezsaurid with one-clawed hands from Lat
 #### *Plateosaurus*
 ![fuzz-6](/assets/images/posts/fuzz-6.jpg)
 
-Above: *Plateosaurus*, a prosauropod (ancestral cousin to the later, giant, long-necked dinosaurs) from Late Triassic Europe and North America, reconstructed with an ostrich-like protofeather coat on the back and tail, with limbs and head bare.  *Plateosaurus* adults weighed up to 4 tonnes, putting it well over the 1.4-tonne *Yutyrannus* threshold.  Furthermore, skin impressions from true sauropods show that they were scaly, meaning that somewhere along the sauropod line, the protofeathers were lost--we just don’t know exactly when.  However, as this reconstruction leaves the limbs, neck and head, and underside of the tail bare, it could be argued that those areas can compensate to keep Plateosaurus cool enough--this is how ostriches thermoregulate.  I’d give this reconstruction between 5 and 10 percent likelihood.
+Above: *Plateosaurus*, a prosauropod (ancestral cousin to the later, giant, long-necked dinosaurs) from Late Triassic Europe and North America, reconstructed with an ostrich-like protofeather coat on the back and tail, with limbs and head bare.  *Plateosaurus* adults weighed up to 4 tonnes, putting it well over the 1.4-tonne *Yutyrannus* threshold.  Furthermore, skin impressions from true sauropods show that they were scaly, meaning that somewhere along the sauropod line, the protofeathers were lost--we just don’t know exactly when.  However, as this reconstruction leaves the limbs, neck and head, and underside of the tail bare, it could be argued that those areas can compensate to keep *Plateosaurus* cool enough--this is how ostriches thermoregulate.  I’d give this reconstruction a low but nonzero likelihood.
 
 ![fig-2.3](/assets/images/posts/family-overview-2.3.jpg)
 
-Above: a more likely, mostly-naked, sparsely-filamented reconstruction of *Plateosaurus*.  Sparse filaments like this (and like those found on elephants) actually help with heat dissipation by providing increased surface area like radiator fins--up to 10% more heat dissipation than a completely bald animal, according to one bit of [research](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047018).  I’d give this depiction between 60 and 80 percent likelihood.
+Above: a more likely, mostly-naked, sparsely-filamented reconstruction of *Plateosaurus*.  Sparse filaments like this (and like those found on elephants) actually help with heat dissipation by providing increased surface area like radiator fins--up to 10% more heat dissipation than a completely bald animal, according to one bit of [research](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047018).  I’d give this depiction better than 50% likelihood.
 
 #### *Therizinosaurus*
 ![fuzz-8](/assets/images/posts/fuzz-8.png)
@@ -108,11 +108,11 @@ Above: An amusingly-colored *Therizinosaurus*, a maniraptoran (closely related t
 
 ![fuzz-9](/assets/images/posts/fuzz-9.jpg)
 
-Above: A nearly naked *Therizinosaurus*.  I’d give this depiction between 30 and 50 percent likelihood.
+Above: A nearly naked *Therizinosaurus*.  I'd say this depiction is more likely than the super-fluffy one, but still less than 50%.
 
 ![fuzz-10](/assets/images/posts/fuzz-10.jpg)
 
-Above: A half-naked *Therizinosaurus*, again in the manner of ostriches.  I’d give this depiction between 50 and 70 percent likelihood.
+Above: A half-naked *Therizinosaurus*, again in the manner of ostriches.  I’d give this depiction better than 50% likelihood.
 
 #### Irritator
 ![fuzz-11](/assets/images/posts/fuzz-11.jpg)
@@ -147,7 +147,7 @@ Modern birds have five different types of feathers, called Stage 1 through Stage
 
 Stage 1 is a simple filament, which is probably ancestral to all archosaurs.  That means basically any archosaur under the *Yutyrannus* threshold is fair game for sporting these.  Stage 2 is a fiber bundle, such as the down feathers found in a pillow.  Stage 3 is a simple branched feather.  These are known from within Maniraptoriformes--anything more birdlike than *Sinosauropteryx*, which is known not to have anything more complex than Stage 2.  Stage 4 has the feather barbs branching further and sporting barbules, which allow the feather to zipper itself together into a single surface, and Stage 5 is a fully-developed flight feather with an asymmetric leading edge and a smooth texture.  Only pennaraptorans (oviraptorosaurs and more birdlike) have Stage 4 and 5 feathers, and probably only flighted paravians would have had Stage 5.  From fossilized skin impressions (outlined in Mark Witton's chart above), we know that true sauropods and the ceratosaur *Carnotaurus* had secondarily lost their fuzz, so for creatures nearby these on the family tree, feather with extreme caution.
 
-Ornithischians, having inherited the basal filament-producing ability, went on to develop specialized structures not covered in Stages 1-5.  *Kulindadromeus* had two types of unusual feathers alongside Stages 1 and 2: scales with filaments attached to them, and bundles of ribbonlike parallel filaments.  However, since ornithischians have no modern descendents, we don't know what other types of integument are possible.  As more discoveries are made, we will doubtless find additional unfamiliar fuzz structures preserved.
+Ornithischians, having inherited the basal filament-producing ability, went on to develop specialized structures not covered in Stages 1-5.  *Kulindadromeus* had two types of unusual feathers alongside Stage 1 filaments: scales with filaments attached to them, and bundles of ribbonlike parallel filaments.  However, since ornithischians have no modern descendents, we don't know what other types of integument are possible.  As more discoveries are made, we will doubtless find additional unfamiliar fuzz structures preserved.
 
 Further reading:
 [Paleobirding #1](https://theyoungbirdersodyssey.weebly.com/main-blog/paleobirding-1-which-groups-of-dinosaurs-had-feathers)

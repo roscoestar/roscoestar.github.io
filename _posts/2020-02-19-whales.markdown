@@ -13,7 +13,7 @@ Cetaceans are artiodactyls, or even-toed ungulates.  That means their closest re
 ![indohyus](/assets/images/posts/indohyus.jpg)
 
 ### Niche 2: Mammalian Croc
-Just a couple million years later, *Pakicetus* appeared on the scene.  This was another hoofed, long-legged creature, but it had a couple important adaptations that distinguished it from *Indohyus*.  *Pakicetus*’s fingers and toes were splayed and paddle-like, indicating that it probably spent more time in the water than the dainty-footed *Indohyus*.  *Pakicetus* also had eyes more toward the top of its head, indicating that it may have hidden partially underwater while observing things above the water.  Similarly to Indohyus, it had a whalelike inner ear.  At this point in whale evolution, they appeared to be moving toward the niche that’s currently filled by modern crocodilians: semiaquatic ambush predator.
+Just a couple million years later, *Pakicetus* appeared on the scene.  This was another long-legged creature, but it had a couple important adaptations that distinguished it from *Indohyus*.  *Pakicetus*’s fingers and toes were splayed and paddle-like, indicating that it probably spent more time in the water than the dainty-footed *Indohyus*.  *Pakicetus* also had eyes more toward the top of its head, indicating that it may have hidden partially underwater while observing things above the water.  Similarly to *Indohyus*, it had a whalelike inner ear.  At this point in whale evolution, they appeared to be moving toward the niche that’s currently filled by modern crocodilians: semiaquatic ambush predator.
 
 ![pakicetus](/assets/images/posts/pakicetus.png)
 
@@ -42,16 +42,16 @@ The next group to rise to prominence is called the protocetids, a very diverse g
 
 ![whale-1](/assets/images/posts/whale-1.png)
 
-Above: *Rodhocetus*, by me!  For some reason, almost every existing depiction of Rodhocetus looks like a horribly ugly pig-like creature with duck feet and knobbly sticks for legs.  I wanted to remedy this, so I made my *Rodhocetus* a lot more huggable.
+Above: *Rodhocetus*, by me!  For some reason, almost every existing depiction of *Rodhocetus* looks like a horribly ugly pig-like creature with duck feet and knobbly sticks for legs.  I wanted to remedy this, so I made my *Rodhocetus* a lot more huggable.
 
-Modern whales swim using their tails, and have extremely reduced hind legs.  But up to this point, all primitive whales were foot swimmers, and getting from there to tail-swimming seems like it would require a transition in which the animals are temporarily less well-adapted, while their feet are being reduced and their tails are growing.  This question had scientists stumped until just last year, when a new transitional protocetid was discovered, called *Aegicetus*.
+Modern whales swim using their tails, and have extremely reduced hind legs.  But up to this point, all primitive whales were foot swimmers. Getting from there to tail-swimming seems like it would require a transition in which the animals are temporarily less well-adapted, while their feet are being reduced and their tails are growing.  This question had scientists stumped until just last year, when a new transitional protocetid was discovered, called *Aegicetus*.
 
 ### Niche 6: Eel Whale
 *Aegicetus* was a very long whale with reduced, but still present, hind legs.  It appeared to swim in an **anguilliform** fashion, like an eel turned ninety degrees.  This explains how whales made the transition from foot to tail swimming: first, they started undulating their bodies to complement the foot propulsion, and then they became elongated to better undulate, and then their feet could be reduced without negatively affecting their swimming abilities.  This also helps to explain why the famous early whale *Basilosaurus* (more on him in a bit) was so long--it had made the transition fully to tail swimming, but the long body was a hold over from the undulatory swimming strategy.
 
 ![whale-2](/assets/images/posts/whale-2.jpg)
 
-Above: Aegicetus, by me.
+Above: *Aegicetus*, by me.
 
 ### Longwhale
 Now we’ve reached the Late Eocene, 41.3-33.9 million years ago, and the Basilosauridae have appeared on the scene.  *Basilosaurus* itself was clearly recognizable as a whale by modern standards, and the whole process from *Indohyus* the tiny deerlike critter to a 20-meter-long behemoth only took 8 million years or so--a blink of an eye in geologic time.
