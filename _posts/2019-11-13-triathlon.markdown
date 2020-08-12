@@ -21,6 +21,8 @@ This design has many flaws:
 - Even if an organism could produce a natural hydrofoil, it doesn’t seem evolutionarily advantageous; while hydrofoiling, the animal can’t eat, mate, etc, and swimming without hydrofoiling would be cumbersome
 - A stegosaur evolving humanlike upright bipedality is highly improbable
 
+Edit: I have now heard of a hydrofoil in nature!  The Late Devonian freshwater placoderm, *Groenlandaspis*, was a fish whose [armor formed a hydrofoil](https://alphynix.tumblr.com/post/621650893280034816/the-armor-headed-placoderms-were-the-dominant-fish) that would've allowed it to swim efficiently (but it's unlikely that it would've used it to rise out of the water).
+
 So, I addressed most of these and moved on to Version 1, which I posted to Reddit in both r/triathlon and r/SpeculativeEvolution.
 
 ### Version 1: *Velocetus triathlus*

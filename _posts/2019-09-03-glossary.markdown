@@ -58,7 +58,7 @@ categories: blog post
 
 **Pseudosuchians** (meaning “false crocodile”) are the group containing crocodiles and their ancestral cousins.  They used to be incredibly diverse, especially in the Triassic--there were sail-backed, herbivorous crocs (*Lotosaurus*); hoofed crocs (*Boverisuchus*); “cat” crocs (*Pakasuchus*) and “cheetah” crocs (*Araripesuchus*); fully-aquatic crocs with fins and flippers (*Dakosaurus*); tank-like armored, spiky crocs (*Desmatosuchus*); and many more.
 
-**Pan-aves** (meaning “all birds”) are the group containing pterosaurs and dinosaurs (which contains birds).
+**Ornithodira** is the group containing pterosaurs and dinosaurs (which contains birds).
 
 ### Phylogeny terms
 A **monophyletic group**, or a **clade**, is a group of organisms defined as an ancestor and all its descendants.
@@ -88,6 +88,10 @@ An **autapomorphy** is a derived trait that’s unique to one group.  For exampl
 A **synapomorphy** is a trait that’s ancestrally unique to one group, but later members of the group may have secondarily lost it.  For example, archosaurs may be ancestrally feathered, but many derived archosaurs such as crocodylians and many dinosaurs were secondarily scaly.
 
 **Homoplasy** is when a trait is gained or lost independently in unrelated groups, often due to convergent evolution.  For example, electric eels and elephantfish both separately came up with a way to produce electricity.  A trait that is prone to homoplasy is called a **homoplastic trait**.
+
+A **homology** is a trait that is derived from an ancestral trait.  For example, a bat has the same arm bones in the same order in its wing as a whale has in its flipper, though each bone is a vastly different shape.  Those are considered **homologous structures**.
+
+An **analogy** is a convergent trait derived from different starting points.  For example, a whale developed its flipper independently from a plesiosaur's flipper, but both flippers look nearly the same.  Those are considered **analogous structures**.
 
 ### Leg Anatomy
 
@@ -137,6 +141,10 @@ A **plagiopatagium** (“plagio” means “flat”) is a membrane between a fin
 **Cursorial** creatures are optimized for running long distances, such as horses, ostriches, wolves, certain spiders, and *Moros*.
 
 **Saltatorial** creatures are optimized for hopping, such as kangaroos, jerboas, and *Scleromochlus*.  This is particularly common among desert-dwelling creatures.
+
+**Oophagy** is the practice of an embryo eating unfertilized eggs while still in the womb.
+
+**Adelphophagy** is the practice of an embryo eating other embryos while still in the womb.
 
 ### Integument
 **Integument** is the “covering” of an organism.  In animals, it refers to the skin, scales, fur, feathers, or other features on the outside of an animal.  In plants, it refers to the rind, husk, shell, etc.
@@ -218,3 +226,5 @@ A **junior synonym** happens when a new genus is described based on a new fossil
 **Neoteny** is the retention of juvenile traits into adulthood, and is one method by which evolution can take a giant leap forward.  For example, our closest invertebrate relatives, the sea squirts, are sessile as adults, but have a larval form that is free-swimming and has a primitive backbone.  A long time ago, one of these larvae refused to grow up, and became a free-swimming, backboned adult.  This was such a successful strategy that that one critter was able to become the ancestor of all vertebrates.
 
 A **Lagerstätte** (meaning “storage place”) is a fossil deposit with exquisite preservation.  Famous examples include the Burgess Shale, Ghost Ranch, and the La Brea Tar Pits.
+
+The **fraternal birth order effect** is the biological effect responsible for gay men having disproportionately more older brothers than straight men.
