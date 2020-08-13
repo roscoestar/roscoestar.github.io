@@ -5,7 +5,7 @@ tags: [Evolution, Cetacea]
 date:   2020-02-19 01:43:08 -0700
 categories: blog post
 featured_image_thumbnail:
-featured_image: /assets/images/pages/maiacetus.jpg
+featured_image: /assets/images/posts/maiacetus.jpg
 ---
 Cetaceans are a fascinating group of tetrapods that went from the sea to land and back again.  Given the recent discovery of the new transitional protocetid, *Aegicetus*, I thought I’d give an overview of the crazy evolutionary journey whales have been through, and the niches they have stopped at along the way.  With a couple pictures drawn by me!
 

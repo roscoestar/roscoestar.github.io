@@ -203,6 +203,7 @@ And finally we have Gargwa and Malfestio, two of the very few true avialan birds
 Thanks for bearing with me on this extremely long journey into the bowels of Monster Hunter lore.  Hope you enjoyed.  Feel free to email me with any comments, opinions, or suggestions on my phylogenetic analysis of this awesome game series!
 
 Image credits:
+[Page image](https://www.deviantart.com/raphtor/art/Anjanath-pursuit-711345539)
 [Monster Hunter Claw](http://www.capcom-unity.com/monster_hunter/go/thread/view/146585/30481495/wtf-is-the-monster-hunter-claw-ive-been-hearing-about-around-the-internet?liveView=1)
 [Eusthenopteron](http://www.labspaces.net/blog/1271/Organizing_Life_Part_IV__Linnaean_Taxonomy_Keeps_Putting_Humans_In_Thier_Place)
 [Six-Legged Salamander](https://www.artstation.com/artwork/1JOJq)

@@ -5,7 +5,7 @@ tags: [Dinosauria, Taphonomy]
 date:   2019-09-14 01:40:08 -0700
 categories: blog post
 featured_image_thumbnail:
-featured_image: /assets/images/posts/caihong.jpg
+featured_image: /assets/images/posts/caihong.png
 ---
 “If truth were a crayon and it were up to me to put a wrapper on it and name its color, I know just what I would call it--dinosaur skin.”  So begins the novel _So B. It_ (Sarah Weeks, 2007) whose central message is that there are some things you just can’t know, and it’s better to just enjoy what you have instead of being dissatisfied with what you don’t.
 
