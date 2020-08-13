@@ -4,6 +4,8 @@ title:  "The Pterosaur Family: An Overview"
 tags: [FamilyOverview, Pterosauria]
 date:   2019-09-26 01:50:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/pages/anuro.jpg
 ---
 As a followup to my [Dinosaur Family Overview post](http://obscuredinosaurfacts.com/blog/post/2019/09/11/dinosaur-family-overview.html), here’s a similar pterosaur’s-eye view of the lineage of those awesome flying reptiles!  This should be a significantly shorter post; since pterosaurs weren’t nearly as diverse as dinosaurs, there are fewer groups to cover.
 

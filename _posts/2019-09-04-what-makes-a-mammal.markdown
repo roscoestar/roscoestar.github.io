@@ -4,6 +4,8 @@ title:  "What Makes A Mammal?"
 tags: [Evolution, Taxonomy]
 date:   2019-09-04 22:40:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/art-2.jpg
 ---
 You may have learned in elementary school that mammals all have the following traits:
 1. Warm-blooded

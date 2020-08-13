@@ -93,6 +93,13 @@ A **homology** is a trait that is derived from an ancestral trait.  For example,
 
 An **analogy** is a convergent trait derived from different starting points.  For example, a whale developed its flipper independently from a plesiosaur's flipper, but both flippers look nearly the same.  Those are considered **analogous structures**.
 
+### Paleontological Methods
+**Bone histology** is the practice of cutting a thin cross-section of bone and looking at it under a microscope.  Tons of information can be deduced about an animal from its bone histology, including its gender, growth rate, resting metabolic rate, and more.
+
+**Melanosome analysis** is the technique of deducing what color a fossil animal was by looking at its pigment-containing organelles under a microscope.  The pigments have long since degraded, but fortunately the melanosomes have distinctive shapes and organizations that carry information.
+
+**Osteological correlates** are textures left on the surface of a bone by the tissue that used to be attached there.  Muscles, fat, skin, and horns all leave distinctive marks on bone.
+
 ### Leg Anatomy
 
 **Plantigrady** is when an animal’s toe and foot bones (phalanges and metatarsals) are in contact with the ground while walking or running.  Examples of plantigrade animals include humans, bears, and rodents.

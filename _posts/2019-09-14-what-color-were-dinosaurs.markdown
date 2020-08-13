@@ -4,6 +4,8 @@ title:  "What Color Were Dinosaurs?"
 tags: [Dinosauria, Taphonomy]
 date:   2019-09-14 01:40:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/caihong.jpg
 ---
 “If truth were a crayon and it were up to me to put a wrapper on it and name its color, I know just what I would call it--dinosaur skin.”  So begins the novel _So B. It_ (Sarah Weeks, 2007) whose central message is that there are some things you just can’t know, and it’s better to just enjoy what you have instead of being dissatisfied with what you don’t.
 
@@ -44,6 +46,7 @@ In 2011, a ridiculously well-preserved ankylosaur mummy from the Early Cretaceou
 As more time passes, more fossils turn up, and more specimens get examined for preserved melanosomes, we’ll continue to get a better picture of what colors prehistoric creatures were.  Though some may be surprising, like *Borealopelta*’s countershading, it seems that more often, the same styles have been popular throughout history over and over again.
 
 Image credits
+[Page image, Caihong](https://chasmosaurs.com/wp-content/uploads/2018/08/TMM1808_caihong_juji_afton_kern-featured.png)
 [Sinosauropteryx](https://www.deviantart.com/lythroversor/art/sinosauropteryx-710972809)
 [Anchiornis](https://www.deviantart.com/ewilloughby/art/What-color-is-a-dinosaur-807897867)
 [Microraptor](https://www.deviantart.com/ewilloughby/art/Microraptor-Takeoff-343914806)

@@ -4,6 +4,8 @@ title:  "I Am A Fish (And So Are You)"
 tags: [Evolution, Taxonomy]
 date:   2019-09-06 01:45:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/panderichthys.jpg
 ---
 If you’re like me, you learned that King Philip Came Over For Grape Soda in high school (or, Kids Playing Chess On Freeways Get Squished, if you were part of the edgy crowd) as a mnemonic for remembering Linnean cladistic levels.  Kingdom, Animalia.  Phylum, Chordata.  Class, Mammalia.  Order, Primates.  Family, Hominids.  Genus, Homo.  Species, Sapiens.  Very clean and organized.  You may have also had to memorize the five Kingdoms (Animalia, Plantae, Protista, Eubacteria, Archaebacteria) and the five classes of vertebrates (fish, amphibians, reptiles, mammals, birds).
 
@@ -58,3 +60,5 @@ Note 2: Other polyphyletic groups!
 	- Has wood and [secondary growth](https://en.wikipedia.org/wiki/Secondary_growth) (it gets wider as well as taller as it grows, but in a specific manner; palms don't count)
 	- Perennial (doesn't die after one season)
 Unlike phylogeny though, these criteria are more or less arbitrary, and some botanists have a more inclusive definition of "tree" that sometimes includes groups like palms, bamboo, and treeferns.
+
+[Page image source](https://www.deviantart.com/eurwentala/art/Fishy-Thing-734012022)

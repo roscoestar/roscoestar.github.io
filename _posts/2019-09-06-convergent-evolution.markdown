@@ -4,6 +4,8 @@ title:  "Convergent Evolution"
 tags: [Evolution]
 date:   2019-09-06 01:40:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/claws.png
 ---
 When I first learned about convergent evolution in school, this is the example the textbook gave: dolphins and penguins.
 ![excuse-me](/assets/images/posts/convergent-evolution-1.1.jpg)

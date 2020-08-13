@@ -4,6 +4,8 @@ title:  "The Dinosaur Family: An Overview"
 tags: [FamilyOverview, Dinosauria]
 date:   2019-09-11 01:40:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/pages/achero.jpg
 ---
 
 Are you intimidated by the overly-detailed phylogenetic trees and endless jargon you find on Wikipedia when you’re trying to learn about a specific dinosaur?  Are you overwhelmed by the sheer number of genera and do you struggle to figure out which groups are actually important?  Or do you just want to get familiar with dinosaurs without much overhead?  Then this is the post for you!  Here I will go over the major groups within Dinosauria and how they’re related to one another.

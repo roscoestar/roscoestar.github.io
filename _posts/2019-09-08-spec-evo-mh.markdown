@@ -4,6 +4,8 @@ title:  "The Speculative Evolution of Monster Hunter"
 tags: [SpeculativeEvolution, Miscellaneous]
 date:   2019-09-08 01:40:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/anjanath.jpg
 ---
 
 I don’t know about you, but I’m a huge fan of the creature design in Monster Hunter.  The monsters are beautiful, believable, and have a ton of personality.  A common pitfall I’ve noticed in creature design in general is that people tend to create “chimeras” of existing creatures--a lizard with the head of a lion and the tail of a scorpion or whatever--but Monster Hunter frequently produces creatures that have no real-world analog, but are still very plausible, which to me is impressive.

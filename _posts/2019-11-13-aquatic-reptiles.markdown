@@ -4,6 +4,8 @@ title:  "Aquatic Reptiles: An Overview"
 tags: [FamilyOverview, AquaticReptiles]
 date:   2019-11-13 01:42:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/pages/spinosaurus.jpg
 ---
 
 The last in the trilogy of group overviews on this blog, in this post I’ll be going over the main types of Mesozoic aquatic reptiles.  However, the phylogeny of many of these groups, especially turtles and their relatives, is still pretty uncertain, so I won’t include a tree.  This isn’t a comprehensive list, but I’ll cover the most charismatic and prolific groups; groups not covered include mesosaurs, protorosaurs, and thalattosaurs.

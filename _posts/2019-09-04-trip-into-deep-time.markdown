@@ -4,6 +4,8 @@ title:  "An Extremely Abridged (But Still Very Long) Trip Into Deep Time"
 tags: [Evolution, GeologicTime]
 date:   2019-09-04 22:50:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/ianthasaurus.png
 ---
 In this post, I’m going to summarize the history of complex life on earth, starting with the Ediacaran period and ending in the present day.  In each section, I'll list some notable creatures and take a look at what the ancestors of humans and the ancestors of birds looked like at that time.  Buckle your seatbelts!
 

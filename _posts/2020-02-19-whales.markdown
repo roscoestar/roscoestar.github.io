@@ -4,6 +4,8 @@ title:  "Whale Evolution"
 tags: [Evolution, Cetacea]
 date:   2020-02-19 01:43:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/pages/maiacetus.jpg
 ---
 Cetaceans are a fascinating group of tetrapods that went from the sea to land and back again.  Given the recent discovery of the new transitional protocetid, *Aegicetus*, I thought I’d give an overview of the crazy evolutionary journey whales have been through, and the niches they have stopped at along the way.  With a couple pictures drawn by me!
 
@@ -100,6 +102,8 @@ Just for fun, here’s a list of the largest animals in various categories, from
 | Terrestrial mammalian predator | *Andrewsarchus*                                                               | 3          | 1              |
 
 ### Further exploration:
+The page image is my drawing of *Maiacetus*, a protocetid from middle Eocene Pakistan whose name means "mother whale," since the holotype was found with a fetus preserved inside.  The fetus was positioned to be born headfirst, indicating that these animals still gave birth on land.
+
 PBS Eons’s [episode](https://www.youtube.com/watch?v=_OSRKtT_9vw&t=299s) on whale evolution
 
 The Common Descent Podcast’s [episode](https://commondescentpodcast.wordpress.com/2018/08/12/episode-41-the-evolution-of-whales/) on whale evolution

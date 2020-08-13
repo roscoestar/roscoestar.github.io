@@ -4,6 +4,8 @@ title:  "\"Brontosaurus Isn't Real?\""
 tags: [Taxonomy, Dinosauria]
 date:   2019-08-30 22:40:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/sauropods.jpg
 ---
 One question I sometimes get is, “I keep hearing that this or that dinosaur ended up not being real.  I don’t get it.  Are paleontologists making stuff up?  How am I supposed to know what’s real and what’s not?”  The short answer is, paleontologists don’t* make stuff up whole-cloth--everything is always based on actual fossils found--but they do make occasional mistakes, and they also don’t always agree on the interpretation of fossil data that’s often fragmentary and confusing.  Sometimes someone will find a fossil that looks like it belongs to a new genus, and publish a paper naming said genus, only to find out later that it’s actually just the juvenile of an existing species when more fossils turn up.  In that case, the officially-named genus becomes a **junior synonym** of the other one, and is no longer considered valid.
 
@@ -14,3 +16,5 @@ The second attack on *Brontosaurus*’s legitimacy came from a different angle--
 \*usually
 
 Further reading: *Torosaurus* and *Triceratops*; *Dracorex*, *Stygimoloch*, and *Pachycephalosaurus*; *Nanotyrannus* and *Tyrannosaurus*; the tragedy of *Archaeoraptor*
+
+[Page image source](https://www.deviantart.com/lythroversor/art/Jurassic-Fashion-Week-767868652)

@@ -4,6 +4,8 @@ title:  "Mitochondrial Eve Is A Tautology"
 tags: [Evolution]
 date:   2019-09-23 22:40:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/paleolithic.jpg
 ---
 
 Mitochondria are the powerhouse of the cell!  ....just kidding, that’s not what this post is about.  Mitochondria are organelles, tiny structures within each of an organism’s cells, that are responsible for creating ATP, a chemical that can be used as an energy source elsewhere in the cell.  But mitochondria are much more interesting than most organelles--they appear to have been, a long time ago, a separate creature than the host cell, that started living inside a larger cell in a symbiotic relationship around 2 billion years ago, and never left.  The host cell gets ATP from the mitochondrion, and the mitochondrion gets shelter from the host cell.  Even now, mitochondria retain some of their independence, like a recalcitrant startup unhappily acquired by a conglomerate.  Mitochondria have their own DNA, separate from the main cell’s DNA that resides in the cell’s nucleus.  And this makes it a really useful resource for molecular and evolutionary biologists to look at, since this secret stash of DNA (1) doesn’t experience any evolutionary pressures, (2) doesn’t recombine like cellular DNA does on a regular basis, and (3) is passed from mother to child pretty much intact, save a few small mutations.  We’ll expand on this in a bit.  But first, a quick detour...

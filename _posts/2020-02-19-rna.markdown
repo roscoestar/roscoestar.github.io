@@ -4,6 +4,8 @@ title:  "Abiogenesis: The RNA World Hypothesis"
 tags: [Evolution, Biology]
 date:   2020-02-19 01:44:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/hadean.jpg
 ---
 The earth formed out of colliding space debris 4.54 billion years ago, and a mere 260 million years later (or less), there was life.  It took another 2.43 billion years (nine times as long!) before there were eukaryotes, or single-celled organisms with nuclei and organelles, like an amoeba.  That seems to indicate that simple life forms easily, while the task of turning that simple life into complex life--even the simplest kind of complex life--is much more difficult.
 
@@ -45,3 +47,5 @@ From there, the complexity ceiling is basically infinite--as you’ve probably n
 There’s one last detail to address before we can confirm that this proto-cell is in fact alive.  Natural selection requires variation to work--if a replicating proto-cell can only produce exact copies of itself, it can’t ever improve, which means it can’t evolve.  How could this proto-cell give rise to all the complex forms of life that we know today?
 
 Luckily, RNA replication is not an error-free process.  Sometimes, an A will slip in where there was once a G, changing how the resulting strand folds, and thus changing its functionality.  As with all mutations, this is usually neutral, and often bad, but occasionally a mutation that has a beneficial effect will occur--for example, a ribozyme that is more efficient at creating nucleotides.  Then, the proto-cell armed with this new ribozyme will out-compete the other proto-cells for resources and will replicate itself more often.  That’s natural selection!  This spontaneously-formed proto-cell is a living thing!
+
+[Page image source](https://i.pinimg.com/originals/f6/d0/9e/f6d09e92b8cda44d769d3e1c2cc64093.jpg)

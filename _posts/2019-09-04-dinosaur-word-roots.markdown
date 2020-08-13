@@ -4,6 +4,8 @@ title:  "Dinosaur Word Roots: What's In A Name?"
 tags: [Taxonomy, Dinosauria]
 date:   2019-09-04 22:45:08 -0700
 categories: blog post
+featured_image_thumbnail:
+featured_image: /assets/images/posts/fruitadens.jpg
 ---
 You’ve probably noticed that a lot of dinosaur names end in the suffix -saurus.  Some others you might know end in -ceratops or -raptor.  But can you guess what sort of dinosaur (or other creature) it might be, just based on the name?  Often, yes--and here I’ll show you how!
 
