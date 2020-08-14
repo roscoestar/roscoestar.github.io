@@ -62,3 +62,10 @@ It's the brand-new lagerpetid ornithodiran, *Kongonaphon kely*, the tiny bug sla
 Big clawed herbivores throughout history!  Not to scale.  Left to right: *Nothronychus*, the 800kg therizinosaur from Late Cretaceous North America; *Anisodon*, the 600kg chalicothere from Miocene Europe; *Megalonyx*, the 1-tonne ground sloth from Pleistocene North America; and the giant panda, the 160kg bear from Holocene China.
 
 The colors and biomes are reminiscent of a certain legendary quartet.  Someone from Reddit suggested this as a followup to my Kings of the Cretaceous piece, though the similarities in this one are a bit more subtle.
+
+#### *Graciliraptor*
+![graciliraptor](/assets/images/posts/gracili.png)
+
+The little microraptorine from Yixian, *Graciliraptor*, floofs itself against a drizzle.  Modern birds are well-known for concealing their skeletal shape using compact postures and extensive feathering, so why not stem-birds too?
+
+The new [discovery](https://www.sciencenews.org/article/microraptor-dinosaur-fossil-molting-feathers-songbirds) of a *Microraptor* specimen with a group of three half-grown feathers on one wing provides the first evidence for sequential molting outside of birds.  Most modern flighted birds replace their feathers a small group at a time, strategically, so that they're always able to fly, while modern flightless birds and some dinosaurs like *Incisivosaurus* are known to have molted catastrophically, losing all their feathers at once.  If *Microraptor* molted sequentially, flying must have been very important to its lifestyle.

@@ -45,3 +45,5 @@ You’ve probably noticed that a lot of dinosaur names end in the suffix -saurus
 **Pter-** or **-pterus**: Greek for “wing”.  Usually used for **pterosaurs** (flying non-dinosaur reptiles).  If it has this root, it probably flies on membranous wings supported by an elongated fourth finger and is covered in **pycnofibres**.  Examples: *Pterodactylus* (winged finger), *Pteranodon* (winged toothless), *Pterodaustro* (winged south); *Darwinopterus* (Darwin’s wing), *Noripterus* (lake wing).
 
 **-ella**: Latin diminutive (something you add to a name to make it cuter, like -ita in Spanish (Rosa > Rosita) or -ie in English (Kate > Katie)).  Usually used for super-ancient primitive creatures from the Ediacaran and Cambrian periods (approx 610-485 mya).  If it has this suffix, it’s probably slimy, simple, and aquatic.  Examples: *Kimberella*, *Aspidella*, *Cindarella* (no kidding), *Haikouella*, *Marrella*.  Counterexamples: *Eohostimella* is a plant; *Perryella* is a temnospondyl.
+
+For some really strange examples of dinosaur names with accompanying illustrations, check out my [Alphabestiary](https://obscuredinosaurfacts.com/blog/post/2020/03/23/alphabestiary.html)!
