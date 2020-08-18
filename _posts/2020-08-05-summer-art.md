@@ -66,6 +66,11 @@ The colors and biomes are reminiscent of a certain legendary quartet.  Someone f
 #### *Graciliraptor*
 ![graciliraptor](/assets/images/posts/gracili.png)
 
-The little microraptorine from Yixian, *Graciliraptor*, floofs itself against a drizzle.  Modern birds are well-known for concealing their skeletal shape using compact postures and extensive feathering, so why not stem-birds too?
+The little microraptorine from Yixian, *Graciliraptor*, floofs itself against a drizzle.  Modern birds are well-known for concealing their skeletal shape using compact postures and extensive feathering, so why not stem-birds too?  Check out the [inside view](https://imgur.com/gallery/wfCh7fd)!
 
 The new [discovery](https://www.sciencenews.org/article/microraptor-dinosaur-fossil-molting-feathers-songbirds) of a *Microraptor* specimen with a group of three half-grown feathers on one wing provides the first evidence for sequential molting outside of birds.  Most modern flighted birds replace their feathers a small group at a time, strategically, so that they're always able to fly, while modern flightless birds and some dinosaurs like *Incisivosaurus* are known to have molted catastrophically, losing all their feathers at once.  If *Microraptor* molted sequentially, flying must have been very important to its lifestyle.
+
+#### Psittacosaurus
+![psittacosaurus](/assets/images/posts/psittaco.png)
+
+It's another Yixian resident, *Psittacosaurus*, the small basal ceratopsian.  There are 12 different species of *Psittacosaurus*, each with distinctive face ornamentation; this one is the type species, *P. mongoliensis*.  I was trying a new style, inspired by [Keller Pyle](https://www.deviantart.com/kepyle2055), with no outlines and heavy textures, but it ended up looking more like South Park.
