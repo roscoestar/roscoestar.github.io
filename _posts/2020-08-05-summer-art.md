@@ -23,7 +23,7 @@ hidden: true
 #### *Thylacosmilus*
 ![thylacosmilus](/assets/images/posts/thylacosmilus.gif)
 
-*Thylacosmilus* (meaning "pouch knife") was a very weird, jaguar-sized marsupial from Miocene South America.  New research into its skull and tooth morphology shows that it was probably an organ specialist, possibly a scavenger.  It had basically no teeth between the massive canines--the better for slurping!
+*Thylacosmilus* (meaning "pouch knife") was a very weird, jaguar-sized marsupial from Miocene South America.  New [research](https://peerj.com/articles/9346/) into its skull and tooth morphology shows that it was probably an organ specialist, possibly a scavenger.  It had basically no teeth between the massive canines--the better for slurping!
 
 #### *Dilong*
 ![dilong](/assets/images/posts/dilong.png)
@@ -75,7 +75,7 @@ The new [discovery](https://www.sciencenews.org/article/microraptor-dinosaur-fos
 
 It's another Yixian resident, *Psittacosaurus*, the small basal ceratopsian.  There are 12 different species of *Psittacosaurus*, each with distinctive face ornamentation; this one is the type species, *P. mongoliensis*.  I was trying a new style, inspired by [Keller Pyle](https://www.deviantart.com/kepyle2055), with no outlines and heavy textures, but it ended up looking more like South Park.
 
-#### *Dromaeoopodus*
+#### *Dromaeopodus*
 ![dromaeopodus](/assets/images/posts/dromaeopodus.png)
 
 *Dromaeopodus* isn't the name of the dinosaur--it's the name of the footprint!  **Ichnofossils**, or trace fossils, such as trackways, **coprolites** (fossilized poop), or burrows, get their own scientific names, since it's usually very difficult to match up a trace with a trace-maker with any degree of confidence.  *Dromaeopodus* is a footprint from a dromaeosaur (raptor dinosaur) from Early Cretaceous China.  We don't have any candidate dinosaurs for who made it right now--the footprint is pretty large, and we don't have fossil material from any dromaeosaurs large enough to have created it from that time and place, so the dinosaur I've depicted here is a generic deinonychosaur.
