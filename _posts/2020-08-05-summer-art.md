@@ -6,8 +6,6 @@ date:   2020-08-05 01:43:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/kongona.jpg
-featured: true
-hidden: true
 ---
 
 #### *Caviramus*
@@ -18,7 +16,7 @@ hidden: true
 #### *Borealopelta*
 ![boreal](/assets/images/pages/boreal.png)
 
-*Borealopelta* was a nodosaur (the armored dinosaurs without tail clubs) from Early Cretaceous Canada, known from a single beautifully-preserved mummy.  New analysis of the fossil has yielded gut contents, so now in addition to knowing the color and osteoderm positions of this animal, we also know its last meal!  Turns out, a majority of the material consisted of a single species of fern, and most of the rest was charcoal.  This indicates that *Borealopelta* (or at least this individual) might've been an early repopulator of areas that had recently been burned by forest fires.  Perhaps that one fern was particularly hardy or fast-growing, making it more abundant in these areas--or, perhaps it was just this individual's favorite!
+*Borealopelta* was a nodosaur (the armored dinosaurs without tail clubs) from Early Cretaceous Canada, known from a single beautifully-preserved mummy.  [New analysis](https://gizmodo.com/fossilized-stomach-contents-of-armored-dinosaur-reveal-1843862743) of the fossil has yielded gut contents, so now in addition to knowing the color and osteoderm positions of this animal, we also know its last meal!  Turns out, a majority of the material consisted of a single species of fern, and most of the rest was charcoal.  This indicates that *Borealopelta* (or at least this individual) might've been an early repopulator of areas that had recently been burned by forest fires.  Perhaps that one fern was particularly hardy or fast-growing, making it more abundant in these areas--or, perhaps it was just this individual's favorite!
 
 #### *Thylacosmilus*
 ![thylacosmilus](/assets/images/posts/thylacosmilus.gif)

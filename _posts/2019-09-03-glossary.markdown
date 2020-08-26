@@ -235,3 +235,5 @@ A **junior synonym** happens when a new genus is described based on a new fossil
 A **Lagerstätte** (meaning “storage place”) is a fossil deposit with exquisite preservation.  Famous examples include the Burgess Shale, Ghost Ranch, and the La Brea Tar Pits.
 
 The **fraternal birth order effect** is the biological effect responsible for gay men having disproportionately more older brothers than straight men.
+
+**Taphonomy** is everything that happens to an organism after death--scavenging, burial, fossilization, etc.
