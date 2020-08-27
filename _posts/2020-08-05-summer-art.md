@@ -81,3 +81,10 @@ It's another Yixian resident, *Psittacosaurus*, the small basal ceratopsian.  Th
 Dromaeosaurs are often compared to cats--they're hypercarnivores, range from, well, cat-sized to tiger-sized, were probably agile and quick, and were covered in blades.  They even had toe beans!  *Dromaeopodus* and other ichnogenera thought to belong to dromaeosaurs show that they had catlike padded toes.  The footprints also show that they did, in fact, hold their "killing claws" in a hyperextended posture when they walked, to keep the claws sharp.
 
 This composition was inspired by a picture of a cat walking on a coffeetable.  The colors are inspired by a red-breasted nuthatch.
+
+#### *Leaellynasaura*
+![leae](/assets/images/posts/leae.gif)
+
+I saw this [video](https://www.reddit.com/r/Superbowl/comments/ihl0re/2_months_old_eurasian_eagleowls_video_from/) of Eurasian eagle-owls moving their heads around on Reddit, and was inspired.  Since owls need good night vision, they have really big eyes for their head size, and to fit those huge eyes in there the eyes have to be tubular in shape.  That makes it so they can't move their eyes in their sockets, so they have to move their heads around to look at stuff.
+
+I thought *Leaellynasaura* would be a good non-avian dinosaur candidate for a similar adaptation because, being a polar dinosaur, it would've experienced months-long nights, justifying the need for good night vision.  It also had a similarly small head and big eye sockets.  *Leaellynasaura* had arms, but I made mine fluffy enough that they don't show on the outside.
