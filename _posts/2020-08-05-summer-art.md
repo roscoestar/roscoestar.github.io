@@ -88,3 +88,8 @@ This composition was inspired by a picture of a cat walking on a coffeetable.  T
 I saw this [video](https://www.reddit.com/r/Superbowl/comments/ihl0re/2_months_old_eurasian_eagleowls_video_from/) of Eurasian eagle-owls moving their heads around on Reddit, and was inspired.  Since owls need good night vision, they have really big eyes for their head size, and to fit those huge eyes in there the eyes have to be tubular in shape.  That makes it so they can't move their eyes in their sockets, so they have to move their heads around to look at stuff.
 
 I thought *Leaellynasaura* would be a good non-avian dinosaur candidate for a similar adaptation because, being a polar dinosaur, it would've experienced months-long nights, justifying the need for good night vision.  It also had a similarly small head and big eye sockets.  *Leaellynasaura* had arms, but I made mine fluffy enough that they don't show on the outside.
+
+#### *Baryonyx* bubble bath
+![bary](/assets/images/posts/bary.png)
+
+This was originally a pencil drawing posted to r/Paleoart by someone called u/MagicMisterLemon.  I got his permission to digitally trace and color it, and then made this, which I think turned out pretty well.  I like the concept because (a) imagining what it would be like to have a non-avian dinosaur as a pet is fun, (b) spinosaurids were semi-aquatic so presumably *Baryonyx* would enjoy splashing around, and (c) the alliteration is so good.

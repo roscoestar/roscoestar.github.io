@@ -6,8 +6,6 @@ date:   2020-08-12 01:15:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/marmosets.jpg
-featured: true
-hidden: true
 ---
 
 Classically, mammals are the animal group best-known for giving live birth.  But did you know that live birth has evolved independently hundreds of times in everything from sharks, snakes, frogs, and fish to cockroaches and scorpions?  In fact, while mammals evolved their strategy for giving live birth just once and stuck with it, different groups of squamates (lizards and snakes) have taken this evolutionary path at least 115 times [[1](https://pubmed.ncbi.nlm.nih.gov/24652663/)]!  Even among the super-ancient armored fish that lived 400 million years ago, the **placoderms**, at least some were placentally viviparous.
