@@ -58,7 +58,7 @@ Above: Numerous weird little bipedal sauropods run clumsily from a subadult *All
 
 There's a lot to unpack about what we know about *Psittacosaurus*'s lifestyle, so I'll start with the very basics: what did it eat?  Funnily enough, we don't actually know.  It was clearly an herbivore, and its beak would've been good for either cropping vegetation or for cracking nuts.  Some specimens have **gastroliths** preserved in their guts--these are small rocks ingested on purpose to aid with mechanical breakdown of food, a strategy used by many modern groups including birds, crocodiles, whales, and seals.  These have so far only been found in adult specimens, indicating that maybe adults preferred tough, fibrous nuts while juveniles ate soft plants.
 
-Even though we don't have direct evidence for what it ate, we do have direct evidence for what ate it!  The wolverine-sized mammal, *Repenomamus*, is known from a fossil preserving stomach contents to have eaten a hatchling *Psittacosaurus*.
+Even though we don't have direct evidence for what it ate, we do have direct evidence for what ate *it!*  The wolverine-sized mammal, *Repenomamus*, is known from a fossil preserving stomach contents to have eaten a hatchling *Psittacosaurus*.
 
 ![repenomamus2](/assets/images/posts/repenomamus2.jpg)
 
