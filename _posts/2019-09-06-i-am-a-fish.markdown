@@ -44,9 +44,14 @@ Figure 5. A phylogenetic tree showing the lineage of goldfish, coelacanths, and 
 
 Most people agree that goldfish are an example of fish, and coelacanths are also an example of fish.  But we humans (in fact all tetrapods--amphibians, reptiles, and mammals) shared a common ancestor with coelacanths more recently than either us or coelacanths shared a common ancestor with goldfish!  That makes a group including goldfish and coelacanths but not us polyphyletic, and the way to remedy that is to either decide that we are fish (which is a little weird) or that coelacanths aren’t fish (which is weirder!).
 
-Note 1: The leftmost group, including just the goldfish, is called Actinopterygii (“ACT-in-OP-ter-EE-jee-ai”), or ray-finned fish.  The branch including humans and coelacanths is called Sarcopterygii (“sar-COP-ter-EE-jee-ai”), or lobe-finned fish.  Even above this is another level of creatures people commonly call fish--the sharks and rays, or Chondrichthyes (“cond-RIK-theez”), cartilaginous fish.  Goldfish are more closely related to us than they are to sharks.
+![you-are](/assets/images/posts/you-are-a-fish.png)
 
-Note 2: Other polyphyletic groups!
+Believe it or not, I did not make this meme.
+
+#### Note 1
+The leftmost group, including just the goldfish, is called Actinopterygii (“ACT-in-OP-ter-EE-jee-ai”), or ray-finned fish.  The branch including humans and coelacanths is called Sarcopterygii (“sar-COP-ter-EE-jee-ai”), or lobe-finned fish.  Even above this is another level of creatures people commonly call fish--the sharks and rays, or Chondrichthyes (“cond-RIK-theez”), cartilaginous fish.  Goldfish are more closely related to us than they are to sharks.
+
+#### Note 2: Other polyphyletic groups!
 - “Pachyderms” (meaning thick skin) was a term that basically meant “large gray hairless animals from Africa,” and included rhinos, hippos, and elephants until we realized that elephants are afrotherians (a clade including dugongs and manatees, aardvarks, hyraxes, tenrecs, elephant shrews, and other small, non-gray animals), hippos are artiodactyls (a clade including deer, sheep, pigs, whales, and others), and rhinos are perissodactyls (a clade including horses and tapirs).  A clade including rhinos, hippos, and elephants would necessarily have to include all the animals mentioned here, PLUS rodents and primates, which are between hippos/rhinos and elephants on the mammal family tree.  So, instead of insisting that we are all pachyderms, scientists decided the term was basically useless and stopped using it.
 
 - “Reptiles” used to include lizards, snakes, tuatara, and crocodiles, but exclude birds.  But birds and crocodiles are more closely related to each other (they’re both archosaurs) than either is to lizards, snakes, and tuatara (lepidosaurs), so birds must be a subset of reptiles.
@@ -62,3 +67,4 @@ Note 2: Other polyphyletic groups!
 Unlike phylogeny though, these criteria are more or less arbitrary, and some botanists have a more inclusive definition of "tree" that sometimes includes groups like palms, bamboo, and treeferns.
 
 [Page image source](https://www.deviantart.com/eurwentala/art/Fishy-Thing-734012022)
+[You Are A Fish](https://www.deviantart.com/smallmicroraptor/art/YOU-844410000)

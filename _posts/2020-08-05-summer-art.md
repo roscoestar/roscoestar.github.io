@@ -93,3 +93,7 @@ I thought *Leaellynasaura* would be a good non-avian dinosaur candidate for a si
 ![bary](/assets/images/posts/bary.png)
 
 This was originally a pencil drawing posted to r/Paleoart by someone called u/MagicMisterLemon.  I got his permission to digitally trace and color it, and then made this, which I think turned out pretty well.  I like the concept because (a) imagining what it would be like to have a non-avian dinosaur as a pet is fun, (b) spinosaurids were semi-aquatic so presumably *Baryonyx* would enjoy splashing around, and (c) the alliteration is so good.
+
+#### *Protarchaeopteryx*
+![prot](/assets/images/posts/prot.png)
+No relation to Archaeopteryx.  This was a small feathered dinosaur from the Yixian Formation, possibly a basal oviraptorosaur.  I drew this because I was doing some preliminary research for my Yixian Formation [blog post](https://obscuredinosaurfacts.com/profile/2020/07/22/yixian.html) and noticed that all the art on Wikipedia of this guy was just terrible.  Not only was it horribly shrink-wrapped and had primary feathers coming out of nowhere, it also was just an ugly piece of art.  (Sorry if you are or you know the guy who drew it.)  So now the article, ["Paleobiota of the Yixian Formation"](https://en.wikipedia.org/wiki/Paleobiota_of_the_Yixian_Formation) has my art in it instead!
