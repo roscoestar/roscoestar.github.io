@@ -6,8 +6,6 @@ date:   2020-08-19 00:02:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/scrub-closeup.jpg
-featured: true
-hidden: true
 ---
 
 I recently obtained a Nikon D3300 camera, and though I know next to nothing about photography at the moment, I’m super excited to learn and take some killer bird photos!  Here are a few of the highlights I’ve taken so far.

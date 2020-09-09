@@ -9,9 +9,9 @@ featured_image: /assets/images/posts/ianthasaurus.png
 ---
 In this post, I’m going to summarize the history of complex life on earth, starting with the Ediacaran period and ending in the present day.  In each section, I'll list some notable creatures and take a look at what the ancestors of humans and the ancestors of birds looked like at that time.  Buckle your seatbelts!
 
-## The Neo-Proterozoic Era (1000-541 MYA)
+## The Neo-Proterozoic Era (1000-541 million years ago)
 The Neo-Proterozoic is the last era in the Proterozoic eon, and the Ediacaran Period is the last period in the Neo-Proterozoic Era.  It was in the Ediacaran that the first fossils of plants and animals large enough to see with the naked eye become abundant, in what is now known as the Ediacaran Biota.
-### The Ediacaran Period: The first animals (635-541 MYA)
+### The Ediacaran Period: The first animals (635-541 million years ago)
 The earliest visible fossils come from the Ediacaran Period (pronounced ee-dee-ACK-rin), when most creatures were sessile (couldn’t move) and thick mats of bacteria covered the seafloor.  By the end of the period, motile (moveable) creatures like *Spriggina* and *Kimberella* took off and may have even hunted for food.
 
 ![ediacaran](/assets/images/posts/ediacaran.jpg)
@@ -35,9 +35,9 @@ The Ediacaran Biota.  Pictured: *Dickcinsonia* (front and center), *Charnia* (th
 
 *Haootia*.  Looks a little indecent, doesn't it?
 
-## The Paleozoic Era (541-251.9 MYA)
+## The Paleozoic Era (541-251.9 million years ago)
 The next six geologic periods fall within the Paleozoic Era.  A ton of stuff happened during this era; at the beginning, small, primitive jawless fish and arthropods killed each other on the seafloor, and at the end, large, advanced, saber-toothed stem-mammals killed each other on land.  In between, giant sea scorpions, giant armored fish, and giant terrestrial bugs each enjoyed a heyday before giving way to the next wave of extinction and subsequent innovation.
-### The Cambrian Period: The Cambrian Explosion (541-485.4 MYA)
+### The Cambrian Period: The Cambrian Explosion (541-485.4 million years ago)
 At the end of the Ediacaran period, animals developed mouths and guts that gave them the ability to eat and hunt rather than just sitting atop the microbial mats and passively absorbing nutrients.  To avoid being hunted, creatures began to burrow into the sediment, disturbing the ocean chemistry and destroying the thick microbial mats that covered the seafloor, causing the creatures that depended on them to go extinct.  What soon replaced them was a huge variety of creatures with exotic body plans no longer seen today, in a **radiation** event known as the **Cambrian Explosion**.  One factor that may have helped accelerate the Cambrian Explosion was invention of eyes, which enabled animals to hunt each other and avoid each other, putting natural selection pressure on overdrive.  During this period, chordates (animals with a primitive backbone) first arose, such as the eel-like *Pikaia* and the fish-like *Haikouichthys*.
 
 ![cambrian](/assets/images/posts/cambrian.jpg)
@@ -66,7 +66,7 @@ Many modern polyp-like creatures are free-swimming in their childhood and have p
 
 *Haikouichthys*, an early jawless fish.  It's only one inch long!
 
-### The Ordovician Period: The Great Ordovician Biodiversification Event (485.4-443.8 MYA)
+### The Ordovician Period: The Great Ordovician Biodiversification Event (485.4-443.8 million years ago)
 After another series of extinctions wiped out many of the strangest of the Cambrian animals, fish, molluscs, and arthropods replaced them and became prominent, in another radiation event called the **Great Ordovician Biodiversification Event**.  Large arthropods called **eurypterids**, or sea scorpions, prowled the oceans as apex predators--some, like *Pentecopterus*, were bigger than a man.  Meanwhile fish grew armor but remained jawless filter-feeders, and shelled molluscs, which looked similar to today’s nautiluses, became common.
 
 ![ordovician](/assets/images/posts/ordovician.jpg)
@@ -88,7 +88,7 @@ The Ordovician biota.  Pictured: *Arandaspis* (top fish), *Sacabambaspis* (botto
 #### What did our ancestors look like?
 Jawless fish were now clearly true fishes, and began to develop bony armored plates, especially on their heads.  *Sacabambaspis* was one such armored fish--think swimming Nerf football.
 
-### The Silurian Period: The first jawed fish; also tree-sized fungi (443.8-419.2 MYA)
+### The Silurian Period: The first jawed fish; also tree-sized fungi (443.8-419.2 million years ago)
 So far, the oceans have been very busy, while land has remained nearly empty of living things.  This was because there was no soil, only rocks, so plants that depend on soil couldn’t go on land, and animals that depend on plants couldn’t either.  But during the Silurian, a giant spear-shaped fungus called *Prototaxites* bravely colonized the land, breaking down the inhospitable rocks into welcoming soil.  Early plants like *Cooksonia* soon followed, as well as pioneering arthropods such as *Trigonotarbida*.  Meanwhile, in the seas, sea scorpions continued to grow and dominate, while fish developed jaws.
 
 ![silurian](/assets/images/posts/silurian.jpg)
@@ -125,7 +125,7 @@ The first jawed fish quickly split into three groups: the **placoderms** (armore
 
 *Guiyu*.  If you told me this was a modern fish, I don't think I'd disbelieve!
 
-### The Devonian Period: The Age of Fishes (419.2-358.9 MYA)
+### The Devonian Period: The Age of Fishes (419.2-358.9 million years ago)
 Things were getting really exciting in the ocean, with the advent of giant predatory placoderms such as *Dunkleosteus*, a fish the size of a car!  Early **tetrapodomorphs** (four-limbed creatures) like *Tiktaalik* and *Ichthyostega* could breathe air and ventured up onto land.
 
 ![devonian](/assets/images/posts/devonian.jpg)
@@ -157,7 +157,7 @@ Early in the Devonian, “fishapods” like *Tiktaalik* lived mostly in the wate
 
 *Ichthyostega*, a tetrapodomorph.  Our ancestors probably looked a lot like this, but *Ichthyostega* in particular was definitely not our ancestor--it had seven toes on each foot!
 
-### The Carboniferous Period: The Age of Giant Bugs (358.9-298.9 MYA)
+### The Carboniferous Period: The Age of Giant Bugs (358.9-298.9 million years ago)
 During the Carboniferous, the first trees, such as *Lepidodendrales*, emerged and quickly spread to cover the planet.  However, unlike today, wood did not decompose, since nothing had figured out how to eat it yet.  So, the trees absorbed carbon dioxide and pumped more and more oxygen into the atmosphere, but when they died, they didn’t release carbon dioxide during decomposition like they do today.  Because of this, the oxygen level in the air soared, and arthropods, which breathe through their exoskeletons, were able to become bigger than ever before or ever since.
 
 ![carboniferous](/assets/images/posts/carboniferous.jpg)
@@ -185,7 +185,7 @@ The first **amniotes** appeared at this time--animals who used waterproof eggshe
 
 *Sphenacodon*, a large-bodied (up to 10 feet long) synapsid from the end-Carboniferous.
 
-### The Permian Period: Amniotes Rule, aka Age of ‘Mammals’ 1.0 (298.9-251.9 MYA)
+### The Permian Period: Amniotes Rule, aka Age of ‘Mammals’ 1.0 (298.9-251.9 million years ago)
 At the end of the Carboniferous, all the continents smashed together into one supercontinent called Pangaea.  This meant a lot of the land area was now farther from the water, which caused huge deserts to form where there used to be rainforests in an event called the **Carboniferous Rainforest Collapse**.  Since there were less trees, oxygen levels also fell.  Amniotes were able to live in this new dry environment, and quickly replaced the water-dependent amphibians and oxygen-dependent arthropods that used to be in charge.  By the end of the Permian, synapsids were the most diverse and successful group, filling a wide variety of niches.
 
 ![permian](/assets/images/posts/permian.jpg)
@@ -216,7 +216,7 @@ Mammals and reptiles continued to become more mammalian and reptilian, respectiv
 
 *Protorosaurus* means "first reptile".
 
-## The Mesozoic Era: Age of Reptiles (251.9-66 MYA)
+## The Mesozoic Era: Age of Reptiles (251.9-66 million years ago)
 The next three geologic periods fall within the Mesozoic Era, which saw the rise and fall of the dinosaurs, the first true birds, and the first angiosperms (flowering plants).  Dinosaurs didn’t look like the front-runners in the Triassic, but the extinction that ended that period pushed them into the spotlight.  The Mesozoic ended with the famous K-Pg (Cretaceous-Paleogene) asteroid impact that killed all the non-avian dinosaurs.
 ### The Triassic Period: More weirdness and experimentation - herbivorous crocodiles? (251.9-201.3 MYA)
 The end of the Permian period was marked by the worst mass extinction Earth has ever seen, known as the **Great Dying**.  It took a very long time for life to recover, but once it did, it was very different from before.  Reptiles had become the dominant land creature, while mammals became tiny and mostly took a backseat.  There were many types of strange crocodylians, from the terrifying long-legged apex predator *Fasolasuchus* to the tiny herbivorous “pug croc” *Revueltosaurus*.  Late in the Triassic, early **sauropodomorphs** (ancestors of long-necked dinosaurs) and early **theropods** (carnivorous dinosaurs) appeared and rose to prominence following the **Carnian Pluvial Event**.
@@ -252,7 +252,7 @@ During this time, archosaurs split into **pseudosuchians** (including crocodylia
 
 The ratlike stem-mammal *Morganucodon*.  We're not sure when **pinnae** (external ear flaps) evolved--*Morganucodon* may or may not have had them.
 
-### The Jurassic Period: Dinosaurs really hit their stride (201.3-145 MYA)
+### The Jurassic Period: Dinosaurs really hit their stride (201.3-145 million years ago)
 The Triassic period ended with another mass extinction, which wiped out much of the dinosaurs’ competition and cleared the way for them to become dominant.  They expanded into a wide variety of ecological niches, from the plate-backed, herbivorous *Stegosaurus* to the bird-like *Archaeopteryx* to the giant carnivore *Allosaurus*.  Marine reptiles also diversified, with the famous Nessie-like *Plesiosaurus*, big-mouthed pliosaurs like *Liopleurodon*, and dolphin-like ichthyosaurs ruling the seas.
 
 ![jurassic](/assets/images/posts/jurassic.jpg)
@@ -289,7 +289,7 @@ Our Jurassic ancestor looked like *Docodon*, another rodent-like early mammal, w
 
 *Docodon*, another rat-like mammaliform.
 
-### The Cretaceous Period: Dinosaurs get really cool (145-66 MYA)
+### The Cretaceous Period: Dinosaurs get really cool (145-66 million years ago)
 Unlike the Permian and the Triassic, which ended with mass extinctions, the Jurassic slid unnoticeably into the Cretaceous as dinosaurs continued to become more derived.  In addition to crowd favorites such as *Ankylosaurus*, *Triceratops*, *Tyrannosaurus*, and *Velociraptor*, there were unusual creatures like *Spinosaurus*, a sail-backed semiaquatic predator, and *Carnotaurus*, a bull-horned, short-faced predator.  Azhdarchid pterosaurs ruled the skies--*Quetzalcoatlus* was as big as a giraffe!--and mosasaurs, giant aquatic lizards, ruled the seas.
 
 ![cretaceous](/assets/images/posts/cretaceous.jpg)
@@ -333,9 +333,9 @@ Our Cretaceous ancestor resembled Zalambdalestes, a **eutherian** mammal.  That 
 
 A lineup showing representative ancestral cousins at various stages during the evolution of birds.  From left to right: *Tawa*, *Compsognathus*, *Haplocheirus*, *Anchiornis*, *Archaeopteryx*, *Sapeornis*, *Ichthyornis*, and various modern birds.
 
-## The Cenozoic Era: Age of Mammals 2.0 (66 MYA - present)
+## The Cenozoic Era: Age of Mammals 2.0 (66 million years ago - present)
 After the dinosaurs were wiped out, mammals, which had been mostly eking out a living as small, unobtrusive burrowers and scavengers during the Mesozoic, quickly diversified to fill the open niches.  As always following a mass extinction, there was some weirdness and experimentation in the early part of the Cenozoic, but even then the world looked pretty comparable to how it does today.
-### The Paleogene Period: Age of Ungulates
+### The Paleogene Period: Age of Ungulates (66-23 million years ago)
 The reign of the dinosaurs ended with a single Very Bad Day, when a giant asteroid smashed into Mexico.  This created an opening for other creatures to diversify and fill the empty niches.  Axe-faced giant birds such as *Gastornis* became apex predators in South America, while the giant pig-like *Andrewsarchus* terrorized Asia.  Early ancestors of whales, horses, primates, and dogs also became recognizable.
 
 ![paleogene](/assets/images/posts/paleogene.jpg)
@@ -363,7 +363,7 @@ In the early Paleogene, our ancestors looked like *Eosimias* (meaning “dawn mo
 
 *Eosimias* was an early monkey small enough to fit in your hand!
 
-### The Neogene Period: First hominins (23-2.58 MYA)
+### The Neogene Period: First hominins (23-2.58 million years ago)
 During the Neogene, pretty much all the animal groups we’re currently familiar with evolved to their modern forms.  South America, which had been an island for a long time, collided with North America, forming the Isthmus of Panama and setting off the **Great American Biotic Interchange** (known to its friends as GABI), where animals crossed from North to South America and vice versa and many of the South American groups went extinct.  The formation of Panama also prevented water from flowing between the Atlantic and Pacific oceans, which contributed to overall global cooling and helped to trigger the Ice Ages.
 
 ![neogene](/assets/images/posts/neogene.jpg)
@@ -393,7 +393,7 @@ Our last common ancestor with chimpanzees resembled *Sahelanthropus*, a Miocene-
 
 A sculpture of "Lucy," the famous *Australopithecus afarensis*, in the Smithsonian Museum of Natural History.
 
-### The Quaternary Period: Ice Age and Beyond (2.58 MYA - present)
+### The Quaternary Period: Ice Age and Beyond (2.58 million years ago - present)
 The first epoch of the Quaternary period, the Pleistocene, is also known as the Ice Age because it spans a time of repeated, planet-scale glaciations.  Modern humans arose at the end of the Pleistocene and lived alongside other types of humans such as Neanderthals, Denisovans, and *Homo erectus*.  At the end of the Pleistocene, global warming caused most of the **megafauna** (large animals) to go extinct, leaving the world looking basically as it does today.
 
 ![quaternary](/assets/images/posts/quaternary.jpg)
