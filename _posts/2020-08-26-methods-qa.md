@@ -6,8 +6,6 @@ date:   2020-08-26 00:02:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/gracili-inside.jpg
-featured: true
-hidden: true
 ---
 
 Recently, I've been getting more good questions from friends and family that I think deserve to be answered on the blog.  However, a lot of them aren't really long enough to justify their own posts.  So, in this post, I'll do a little Q&A--if you have more questions, feel free to email me at obscure.dinosaur.facts@gmail.com and ask!  I'll append my answers to this post.
