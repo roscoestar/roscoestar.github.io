@@ -6,8 +6,6 @@ date:   2020-09-02 01:42:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/pages/psittaco.jpg
-featured: true
-hidden: true
 ---
 
 Family tree: Ornithischia > Neornithischia > Cerapoda > Marginocephalia > Ceratopsia > Psittacosauridae
