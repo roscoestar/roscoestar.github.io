@@ -6,8 +6,6 @@ date:   2020-09-16 00:02:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/cat.png
-featured: true
-hidden: true
 ---
 
 If you've spent time looking for paleoart on the Internet, you'll probably have heard the name "All Yesterdays" and "The 'All Yesterdays' Movement" thrown around a lot.  What this refers to is a little [paperback](https://www.amazon.com/All-Yesterdays-Speculative-Dinosaurs-Prehistoric/dp/1291177124/ref=sr_1_2?dchild=1&keywords=all+yesterdays&qid=1599416536&sr=8-2) by paleontologist Darren Naish (of Tetrapod Zoology fame) and paleoartists John Conway and C.M. Kosemen, published in 2012. It encourages paleoartists to think more creatively and to do their own research when depicting ancient creatures, and to avoid paleoart memes.  You can read more about the methods and process of paleoart in my [other post](https://obscuredinosaurfacts.com/blog/post/2020/07/31/accuracy-paleoart.html).
