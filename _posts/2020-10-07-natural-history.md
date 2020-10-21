@@ -6,8 +6,6 @@ date:   2020-10-07 01:40:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/prot-cropped.png
-featured: true
-hidden: true
 ---
 
 In public school, I recall learning about different types of rocks and the basics of Linnean classification (Kingdom, Phylum, Class, etc; mammals, birds, amphibians, etc) in elementary school, and some of the mechanisms of evolution in high school (alleles and Punnett squares, genetic drift, speciation, etc).  But I never learned about the geologic time scale, I didn’t know anything about how specific animal groups were related to each other, and I’d never heard of many of the coolest extinct animals until I did my own research.  However, I learned about the Revolutionary War on, like, five separate occasions.  I think that’s a real shame, and I think kids, and later, science, and later, humanity, would benefit from adding natural history to the required public school curriculum.
