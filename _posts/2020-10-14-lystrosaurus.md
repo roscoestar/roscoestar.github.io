@@ -6,8 +6,6 @@ date:   2020-10-14 00:42:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/pages/lystro.jpg
-featured: true
-hidden: true
 ---
 Family tree: Synapsida > Therapsida > Eutherapsida > Neotherapsida > Anomodontia > Dicynodontia
 
