@@ -91,7 +91,7 @@ Just for fun, here’s a list of the largest animals in various categories, from
 | Animal                         | Blue whale                                                                    | 29.9       | 177            |
 | Predator                       | Sperm whale                                                                   | 24         | 80             |
 | Land animal                    | *Patagotitan*, *Argentinosaurus*, *Alamosaurus*                               | 39         | 50-100         |
-| Cartilaginous fish             | *Megalodon*                                                                   | 18         | 30-50          |
+| Cartilaginous fish             | *O. megalodon*                                                                | 19         | 30-50          |
 | Aquatic reptile                | *Shastasaurus*                                                                | 21         | 30             |
 | Non-tetrapod bony fish         | *Leedsichthys*                                                                | 16.5       | 20             |
 | Non-sauropod dinosaur          | *Shantungosaurus*                                                             | 16.6       | 16             |
