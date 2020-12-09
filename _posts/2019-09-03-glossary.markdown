@@ -60,6 +60,10 @@ categories: blog post
 
 **Ornithodira** is the group containing pterosaurs and dinosaurs (which contains birds).
 
+**Cynodonts** (meaning "dog tooth") are a subgroup of synapsids (stem-mammals) that includes mammals and their close relatives, but excludes basal synapsids like *Dimetrodon*, *Gorgonops*, and the dicynodonts.
+
+**Dicynodonts** (meaning "two dog tooth") are an offshoot of synapsids (stem-mammals) that were warm-blooded, roly-poly, beaked, and toothless except for two large tusks.  They aren't our ancestors, but ancestral cousins.
+
 ### Phylogeny terms
 A **monophyletic group**, or a **clade**, is a group of organisms defined as an ancestor and all its descendants.
 
@@ -102,7 +106,7 @@ An **analogy** is a convergent trait derived from different starting points.  Fo
 
 ### Leg Anatomy
 
-**Plantigrady** is when an animal’s toe and foot bones (phalanges and metatarsals) are in contact with the ground while walking or running.  Examples of plantigrade animals include humans, bears, and rodents.
+**Plantigrady** is when an animal’s toe and foot bones (phalanges and metatarsals) are in contact with the ground while walking or running.  Examples of plantigrade animals include humans, bears, sauropod dinosaurs (on their back legs), and rodents.
 
 **Digitigrady** is when an animal’s toe bones (phalanges) are in contact with the ground while walking or running, but the foot bones (metatarsals) are raised off the ground.  Examples of digitigrade animals include dogs, cats, birds, and humans on tiptoe.
 
@@ -237,3 +241,13 @@ A **Lagerstätte** (meaning “storage place”) is a fossil deposit with exquis
 The **fraternal birth order effect** is the biological effect responsible for gay men having disproportionately more older brothers than straight men.
 
 **Taphonomy** is everything that happens to an organism after death--scavenging, burial, fossilization, etc.
+
+A **ghost lineage** is a line of descent we know must exist because we have fossil or living evidence for its descendents, but we haven't found any fossil evidence for the ancestors.  The most famous example is the coelacanth, a type of rare lobe-finned fish that is present in the fossil record up to the Cretaceous Period, but then appears to go extinct.  However, living coelacanths still exist; we just haven't found any fossils of them younger than Cretaceous age, making that line of descent a ghost lineage.  Read a more detailed explanation [here](https://ucmp.berkeley.edu/taxa/verts/archosaurs/ghost_lineages.php).
+
+**Endemism** is when an organism is only found in a single time and place; for example, emus are endemic to Australia.
+
+**Cosmopolitan distribution** is when an organism is found everywhere, the opposite of endemism.
+
+**Exaptation** is when a trait used for one thing is co-opted for another purpose.  For example, opposable thumbs are useful for swinging between branches, but also for making tools and manipulating small objects.
+
+The **semilunate carpal** is a bone found in the wrists of birds and their close relatives, which allows them to fold their wings the way they do.  It's a carpal shaped like a half moon, hence the name.  For more info on how bird wings work, check out my [wing anatomy post](https://obscuredinosaurfacts.com/blog/post/2020/11/18/wings.html)!
