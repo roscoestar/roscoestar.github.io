@@ -5,7 +5,7 @@ tags: [Physics, Biology]
 date:   2020-12-30 01:40:08 -0700
 categories: blog post
 featured_image_thumbnail:
-featured_image: /assets/images/posts/mold-pigs.png
+featured_image: /assets/images/posts/mold-pigs.jpg
 featured: true
 hidden: true
 ---
