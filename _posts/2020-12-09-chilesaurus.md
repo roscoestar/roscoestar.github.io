@@ -6,8 +6,6 @@ date:   2020-12-09 00:42:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/pages/chile.jpg
-featured: true
-hidden: true
 ---
 
 Family tree: Dinosauria > ???

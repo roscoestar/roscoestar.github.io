@@ -215,6 +215,15 @@ A **plagiopatagium** (“plagio” means “flat”) is a membrane between a fin
 
 **The Great American Biotic Interchange** (GABI) was an event that began around 2.7 million years ago in the Pliocene when South America, which had been an island since the Cretaceous, collided with North America, forming the Isthmus of Panama.  This allowed animals to travel from one continent to the other.  Though animals did move both ways, the North American fauna tended to outcompete the South American.  One famous South American animal that successfully emigrated to North America was *Titanis*, the last of the terror birds, which ended up as far north as Tennessee.
 
+### Proteins
+**Elastin** is an elastic protein found in vertebrates' connective tissues.
+
+**Resilin** is an elastic protein found in invertebrates' connective tissues.  It is superior to elastin in most ways.
+
+**Keratin** is a hard protein found in vertebrates' nails, hair, and horns.  "Kera" comes from the Greek for "horn" (it's the same root as ceratopsian and ceratosaur).
+
+**Chitin** is a hard protein found in invertebrates' shells.  It is the invert equivalent of keratin.  Detecting keratin versus chitin is how scientists found out that the Tully Monster is probably a vertebrate.
+
 ### Miscellaneous
 **“Splitters”** are paleontologists who habitually like to create more taxonomic groups.  **“Lumpers”** are paleontologists who like to group other groups together and have less groups.
 

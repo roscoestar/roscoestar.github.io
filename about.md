@@ -8,4 +8,4 @@ Welcome! This is a blog about vertebrate paleontology, mostly, focusing on dinos
 
 My background is in mechanical engineering, but I'm an amateur paleoartist and longtime dinosaur fanatic.
 
-I used to post new content to this blog whenever I had some to post, but from now on I'm going to try to post every Wednesday.
+New posts will now go up every other Wednesday.
