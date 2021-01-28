@@ -43,7 +43,7 @@ Some scientists have objections to how studies are run, results are reported, an
 
 Some follow-up studies have found that the fraternal birth order effect seems to affect right-handed but not left-handed men, and that left-handed men with no older brothers are more likely to be homosexual than right-handed men with no older brothers [[8](https://pubmed.ncbi.nlm.nih.gov/16246335/)].  These findings are somewhat more controversial, and the mechanism behind handedness determination is unknown.
 
-\*The relationship can be approximated as $$P_{gay}=1-\left(\frac{97}{100}\left(\frac{2}{3}\right)^n\right)$$, where n is number of older brothers, and the baseline probability of being gay with no older brothers is estimated to be 3%.  So, if you have three older brothers, your probability of being gay would be 71.2%.
+\*The relationship can be approximated as $$P_{gay}(n)=\frac{1}{1+e^{-0.298(n-11.66)}}$$, where n is number of older brothers, and the baseline probability of being gay with no older brothers is estimated to be 3%.  So, if you have three older brothers, your probability of being gay would be 7%.  You can find a derivation of this expression in my post about [Bayes's Theorem](https://obscuredinosaurfacts.com/blog/post/2021/01/27/bayes.html).
 
 ### Conclusion
 
