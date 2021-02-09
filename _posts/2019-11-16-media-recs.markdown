@@ -100,6 +100,15 @@ Audience: aspiring paleoartists
 
 This book, while pretty dang dense, does a good job of explaining how to create accurate life reconstructions from first principles--how we know what we know.  It explains what types of **osteological correlates** correspond to what types of overlying tissues, how to interpret trackways, and how not to fall prey to paleoart "memes," among other things.  It also contains some really beautiful and inspiring original artwork.
 
+### Dinosaurs: How They Lived And Evolved
+Type: textbook
+
+Creator: Darren Naish and Paul Barrett, renowned paleontologists
+
+Audience: Dinosaurs 101 students
+
+A very high-level fly-by of dinosaur groups, dinosaur paleontology, and dinosaur evolution, intended as a modern primer for college students.  Well-written and easy to understand, with beautiful illustrations, it's enjoyable to read straight through even though it's a textbook.
+
 ## Blogs and other Internet content
 ### Mark Witton's Blog
 Type: blog

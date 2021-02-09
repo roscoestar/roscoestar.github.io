@@ -6,8 +6,6 @@ date:   2020-12-30 01:40:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/mold-pigs.jpg
-featured: true
-hidden: true
 ---
 
 The world we inhabit and interact with on a daily basis, the world of **megafauna**, is far from the only world there is.  At other size scales, there are layers upon layers of other worlds that we don't notice, that operate by very different rules than what we are familiar with.  In this post, we will explore the worlds of the very large and the very small, and the rules of physics that govern their workings.  Strategies and body plans don't just scale--what is a very good idea in a fish would be a very bad idea in a protozoan!
@@ -96,6 +94,8 @@ Even with all these tricks, large animals just aren't able to muster the same pr
 
 ### Conclusions
 What is it like to be a mold pig?  A giant sauropod?  Understanding the physical rules and limitations creatures different than us experience is the first step to getting into their shoes.  Whether you're designing speculatively evolved or fantasy creatures, critiquing kaiju or humongous mecha films, or if you're just interested in the worlds that operate on scales we can't percieve, I hope this post has been interesting and informative.  It sure was interesting for me to research--some of this stuff takes me back to my mechanical engineering classes in college!
+
+Also, True Facts has a great new [video](https://www.youtube.com/watch?v=HsStKuWHI_c) with a lot more info on how tardigrades eat, reproduce, and survive extreme conditions.  I'd highly recommend it if you have ten minutes.
 
 #### Credits and References
 
