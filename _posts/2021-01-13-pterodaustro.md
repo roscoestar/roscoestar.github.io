@@ -6,8 +6,6 @@ date:   2021-01-13 00:42:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/pages/pterodaustro.jpg
-featured: true
-hidden: true
 ---
 
 Take a moment and think of the myriad lifestyles different birds live.  Some are flightless, swift-running herbivores; some are terrifying aerial hunters; some dive for fish; some nab insects on the wing; et cetera et cetera.  Many of these niches can only be occupied by a largeish flying creature, so it's no surprise that many roles we observe birds filling today were in the past filled by pterosaurs, the large membrane-winged flying reptiles of the Mesozoic Era.  When depicted in fiction, pterosaurs are often relegated to play the part of aerial monster, swooping down to carry hapless bystanders away to their roosts.  However, this is one behavior that pterosaurs definitely never did.  (Their feet were incapable of grasping.)  In this post, I'll give just a few examples of specialized pterosaurs, starting with our flagship monster, *Pterodaustro* (depicted in the page image above).  Hopefully you'll be surprised by the wide range of things pterosaurs were capable of!
