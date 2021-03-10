@@ -5,7 +5,7 @@ tags: [Paleoart]
 date:   2021-03-10 01:43:08 -0700
 categories: blog post
 featured_image_thumbnail:
-featured_image: /assets/images/pages/snowy-unenlagiine.jpg
+featured_image: /assets/images/pages/snowy-unenlagiine2.jpg
 featured: true
 hidden: true
 ---
@@ -40,7 +40,7 @@ Toward the end of this batch it was starting to feel more like a chore to comple
 
 Remember when I drew the ["Kings of the Cretaceous"](https://obscuredinosaurfacts.com/blog/post/2020/08/05/summer-art.html) (*Alamosaurus*, *Quetzalcoatlus*, and *Mosasaurus*) in the coloration of the legendary weather trio of Pokémon? (And later, a bunch of convergently clawed herbivores in the coloration of the legendary golems?)  Well, here's the last (or maybe second-to-last) piece in that series: *Tyrannosaurus* in the coloration of Deoxys.  Why?  A lot of people seemed to think *Tyrannosaurus* was missing from the "Kings of the Cretaceous" piece, as the largest land predator ever.  Unfortunately, Deoxys's coloration is pretty bizarre on such a large animal.  It would look more natural on a poisonous frog.
 
-{% include image-caption.html imageurl="/assets/images/pages/snowy-unenlagiine.jpg#wide" title="Snowy unenlagiine" caption="A small unenlagiine hunts among the rocks for worms." %}
+{% include image-caption.html imageurl="/assets/images/pages/snowy-unenlagiine2.jpg#wide" title="Snowy unenlagiine" caption="A small unenlagiine hunts among the rocks for worms." %}
 
 I was happy with how my [*Leptostomia* piece](https://obscuredinosaurfacts.com/blog/post/2020/11/25/fall-art.html) came out, so I thought I'd try my hand at some more paleo-Photoshop.  This one is more of a legit Photoshop attempt than my last, which was more of a painting over a photo.
 
