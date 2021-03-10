@@ -1,0 +1,39 @@
+---
+layout: default
+title: Art Gallery
+---
+
+<main id="main" class="site-main">
+    <div class="post-full inner">
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+        </header>
+        <p>Here you will find a selection of my original paleoart compiled onto one page, listed from newest to oldest. You can also find them in their original posts (linked at the top of each section), which also contain more detailed captions and other info.</p>
+        <div class="post-content inner">
+            <h2 id="fall-2020">Fall 2020</h2>
+            <p><a href="https://obscuredinosaurfacts.com/blog/post/2020/11/25/fall-art.html">Fall Art original post</a></p>
+            <ul class="archive-posts-list">
+                {% include image-caption.html imageurl="/assets/images/posts/stella.png#wide" title="Stellasaurus" caption="Stellasaurus with colorful horns for display." %}
+
+                {% include image-caption.html imageurl="/assets/images/posts/proburnetia2.png#wide" title="Proburnetia" caption="Proburnetia, the bump-headed biarmosuchian." %}
+
+                {% include image-caption.html imageurl="/assets/images/posts/leptostomia.png#wide" title="Leptostomia" caption="Leptostomia catching an invertebrate." %}
+
+                {% include image-caption.html imageurl="/assets/images/posts/acro.png#wide" title="Acrocanthosaurus" caption="Acrocanthosaurus doing a mating display." %}
+                
+                {% include image-caption.html imageurl="/assets/images/posts/lystro.png#wide" title="Lystrosaurus" caption="Lystrosaurus, the Great Survivor." %}
+                
+                {% include image-caption.html imageurl="/assets/images/posts/caelestiventus.png#wide" title="Caelestiventus" caption="Caelestiventus, the early desert-dwelling pterosaur." %}
+
+                {% include image-caption.html imageurl="/assets/images/posts/revuelto.png#wide" title="Revueltosaurus" caption="Revueltosaurus, the small herbivorous pseudosuchian." %}
+
+                {% include image-caption.html imageurl="/assets/images/posts/chile.png#wide" title="Chilesaurus" caption="Chilesaurus, the dinosaur of problematic affinity." %}
+                
+            </ul>
+            <div>
+                <a href="/art/index">Back to Newer</a>
+                <a href="/art/summer">Older Art</a>
+            </div><!-- .post-tags -->
+        </div><!-- .entry-box -->
+    </div><!-- .inner -->
+</main><!-- .site-main -->
