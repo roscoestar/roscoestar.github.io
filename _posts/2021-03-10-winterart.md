@@ -45,3 +45,13 @@ Remember when I drew the ["Kings of the Cretaceous"](https://obscuredinosaurfact
 I was happy with how my [*Leptostomia* piece](https://obscuredinosaurfacts.com/blog/post/2020/11/25/fall-art.html) came out, so I thought I'd try my hand at some more paleo-Photoshop.  This one is more of a legit Photoshop attempt than my last, which was more of a painting over a photo.
 
 This little dinosaur is supposed to be an unnamed unenlagiine, a member of a family of fish-eating dromaeosaurs (raptor dinosaurs) from Late Cretaceous South America.  Its toes and neck are not quite like those of any known specimen, but they're not out of the range of possibility for that family.  The base image was a snowy egret, a small fish-stalking bird whose habits are probably similar to those of a small unenlagiine.  Sharp-eyed readers may notice that this photo was the reference I used to draw the snowy egret in one of the above sketch collections.
+
+{% include image-caption.html imageurl="/assets/images/pages/dickinsonia.png#wide" title="Dickinsonia" caption="Dickinsonia gets blown about by the water currents." %}
+
+*Dickinsonia* is a very well-known Ediacaran animal (557-550 million years ago) closely resembling a tablecloth.  It lived by anchoring itself to a spot on the hard, thick bacterial mats that covered the sea-floor, and doing...something...to cause the bacteria directly beneath it to die, so it could then suck up the juices before moving to a new spot and repeating the process.  However, while un-anchored it would've been vulnerable to water currents, leading to lots of fossil specimens that have been [folded, stretched, torn, and otherwise deformed](https://www.researchgate.net/publication/336002157_Stretched_mangled_and_torn_Responses_of_the_Ediacaran_fossil_Dickinsonia_to_variable_forces).
+
+{% include image-caption.html imageurl="/assets/images/pages/bustard.png#wide" title="new terror bird" caption="A descendant of the Kori bustard resembles the terror birds of the Paleocene." %}
+
+This was a speculative evolution exercise in which I tried to create a terror bird of the future.
+
+A couple million years after the sixth extinction left huge vacancies in global ecosystems, a descendant of the Kori bustard (the heaviest modern flying bird) coevolved with a descendant of the dik dik (a tiny deer) in a predator-prey arms race, with both achieving huge sizes.
