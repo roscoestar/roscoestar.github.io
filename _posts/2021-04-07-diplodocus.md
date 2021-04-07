@@ -2,7 +2,7 @@
 layout: post
 title:  "Obscure Dinosaur Profile #8: Diplodocus and a selection of sauropods"
 tags: [Profile, Dinosauria]
-date:   2021-04-06 00:02:08 -0700
+date:   2021-04-07 00:02:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/pages/shoving.jpg
