@@ -38,11 +38,11 @@ If I didn’t know better, I’d guess that these two animals are more closely r
 Further reading: Look up the fossa, a mongoose that thought becoming tubular was a mistake and decided to start being a cat again.
 
 ### 3. Canids and Thylacines
-The thylacine, also known as the Tasmanian tiger, also known as the marsupial wolf, is an extinct marsupial from Tasmania (the little triangular island off the coast of Australia).  It’s one of many examples of convergent evolution among marsupials and placental mammals (other examples include *Thylacoleo*, aka the marsupial mion; the quokka, aka the marsupial pika\*; and the Tasmanian devil, aka the marsupial wolverine\*).  All of these marsupial whatevers are more closely related to one another than they are to their placental whatever counterpart.  But they sure look similar!  Here are some thylacines in a zoo, sometime before they went completely extinct in 1931:
+The thylacine, also known as the Tasmanian tiger, also known as the marsupial wolf, is an extinct marsupial from Tasmania (the little triangular island off the coast of Australia).  It’s one of many examples of convergent evolution among marsupials and placental mammals (other examples include *Thylacoleo*, aka the marsupial lion; the quokka, aka the marsupial pika\*; and the Tasmanian devil, aka the marsupial wolverine\*).  All of these marsupial whatevers are more closely related to one another than they are to their placental counterpart.  But they sure look similar!  Here are some thylacines in a zoo, sometime before they went completely extinct in 1931:
 
 ![thylacines](/assets/images/posts/convergent-evolution-1.4.jpg)
 
-Looks an awful lot more like a wolf than a kangaroo, don’t you think?
+Looks an awful lot more like a wolf than a kangaroo, don’t you think?  When convergence is at work, appearances can be misleading!
 
 ![skull-comparison](/assets/images/posts/convergent-evolution-1.5.jpg)
 
@@ -53,46 +53,48 @@ Remember that episode of Seinfeld where Elaine starts hanging out with a new gro
 \*nicknames not in widespread usage; so called by me (and now by you)
 
 ### 4. The Seven Saber Teeth
-Now for something slightly different--let’s look at a single trait over time instead of a side-by-side comparison of two animals (by the way, convergent evolution happens in non-vertebrate organisms too, I’m just biased and like vertebrates best).  Something we **synapsids** (mammals and all animals more closely related to mammals than to reptiles) are particularly good at is **heterodont dentition**, or the specialization of certain teeth for certain tasks.  Most mammals have a variety of tooth shapes--molars, incisors, canines--while this is rare (but does exist--see notosuchians and heterodontosaurs) among reptiles.  One very popular and very charismatic style of dentition is the extremely elongated canines known colloquially as saber teeth.
+Now for something slightly different--let’s look at a single trait over time instead of a side-by-side comparison of two animals (by the way, convergent evolution happens in non-vertebrate organisms too, I’m just biased and like vertebrates best).  Something we **synapsids** (mammals and all animals more closely related to mammals than to reptiles) are particularly good at is **heterodont dentition**, or the specialization of certain teeth for certain tasks.  Most mammals have a variety of tooth shapes--molars, incisors, canines--while this is rare among reptiles (but does exist--see notosuchians and heterodontosaurs).  One very popular and very charismatic style of dentition is the extremely elongated canines known colloquially as saber teeth.
 
 Saber teeth have evolved no less than _seven times_ independently among mammals and stem-mammals throughout history.  Here are the groups:
-1. Gorgonopsids (a type of stem-mammal) in the Permian, about 270 mya
-2. Deltatheroida (a type of **metatherian** (stem-marsupial)) in the Cretaceous, about 100 mya
-3. Sparassodonta (another type of metatherian) in the Paleocene, about 66 mya
-4. Creodonta (a type of mammal related to carnivorans) in the Eocene, about 56 mya
-5. Nimravidae (a type of feliform but not a true cat) in the Oligocene, about 33 mya
-6. Barbourofelidae (another type of feliform) in the Miocene, about 14 mya
-7. Felidae (true cats) in the Pleistocene, about 2.5 mya
+1. Gorgonopsids (a type of stem-mammal) in the Permian, about 270 million years ago
+2. Deltatheroida (a type of **metatherian** (stem-marsupial)) in the Cretaceous, about 100 million years ago
+3. Sparassodonta (another type of metatherian) in the Paleocene, about 66 million years ago
+4. Creodonta (a type of mammal related to carnivorans) in the Eocene, about 56 million years ago
+5. Nimravidae (a type of feliform but not a true cat) in the Oligocene, about 33 million years ago
+6. Barbourofelidae (another type of feliform) in the Miocene, about 14 million years ago
+7. Felidae (true cats) in the Pleistocene, about 2.5 million years ago
 
 ![gorgonops](/assets/images/posts/convergent-evolution-1.6.png)
 
-*Gorgonops*, a gorgonopsid therapsid (stem-mammal), Russia, 254 mya.  Saber teeth before they were cool (and before external ear-flaps (pinnae) were a thing).  We don’t know if these guys had fur or scales.  I find that most art depicts them either as completely reptilian, with scales and osteoderms, or completely mammalian, with fur and a carnivoran-like nose.  I think it’s most likely that they actually fell somewhere in between.  Another interesting thing to note is that of all the saber-toothed synapsids on this list, gorgonopsids were the only ones who were able to replace their saber teeth if they fell out.
+*Gorgonops*, a gorgonopsid therapsid (stem-mammal), Russia, 254 million years ago.  Saber teeth before they were cool (and before **pinnae** (external ear-flaps) were a thing).  We don’t know if these guys had fur or scales.  I find that most art depicts them either as completely reptilian, with scales and osteoderms, or completely mammalian, with fur and a carnivoran-like nose.  I think it’s most likely that they actually fell somewhere in between.  Another interesting thing to note is that of all the saber-toothed synapsids on this list, gorgonopsids were the only ones who were able to replace their saber teeth if they fell out.
 
 ![lotheridium](/assets/images/posts/convergent-evolution-1.7.jpg)
 
-*Lotheridium*, a deltatheroidan metatherian (stem-marsupial), China, 100 mya.  Saber-toothed wombat...?  This is the smallest saber-toothed animal on our list, at around three feet long (the rest are close to lion-sized).
+*Lotheridium*, a deltatheroidan metatherian (stem-marsupial), China, 100 million years ago.  Saber-toothed wombat...?  This is the smallest saber-toothed animal on our list, at around three feet long (the rest are close to lion-sized).
 
 ![thylacosmilus](/assets/images/posts/convergent-evolution-1.8.png)
 
-*Thylacosmilus*, a sparassodontan metatherian (stem-marsupial), South America, 9 mya.  See the weird bulge in its nose / forehead?  The saber teeth actually extend all the way up through there and end behind the eyes!  That, along with the crazy chin to protect the teeth, is some extreme dedication to specialized saber-toothing.  The whole face is built around it!  Although *Thylacosmilus* and *Lotheridium* couldn't replace their sabers, they did have open-rooted teeth that would've continuously gotten longer throughout their life, like rodents.
+*Thylacosmilus*, a sparassodontan metatherian (stem-marsupial), South America, 9 million years ago\*.  See the weird bulge in its nose / forehead?  The saber teeth actually extend all the way up through there and end behind the eyes!  That, along with the crazy chin to protect the teeth, is some extreme dedication to specialized saber-toothing.  The whole face is built around it!  Although *Thylacosmilus* and *Lotheridium* couldn't replace their sabers, they did have open-rooted teeth that would've continuously gotten longer throughout their life, like rodents.
 
 ![machaeroides](/assets/images/posts/convergent-evolution-1.9.png)
 
-*Machaeroides*, a creodont mammal (related to cats, dogs, and pangolins, but not a member of any of those), Wyoming, 56 mya.
+*Machaeroides*, a creodont mammal (related to cats, dogs, and pangolins, but not a member of any of those), Wyoming, 56 million years ago.
 
 ![hoplophoneus](/assets/images/posts/convergent-evolution-1.10.png)
 
-*Hoplophoneus*, a nimravid feliform (related to cats but not a true cat), South Dakota, 35 mya.
+*Hoplophoneus*, a nimravid feliform (related to cats but not a true cat), South Dakota, 35 million years ago.
 
 ![barbourofelis](/assets/images/posts/convergent-evolution-1.11.jpg)
 
-*Barbourofelis*, a barbourofelid feliform (related to cats but not a true cat), Florida, 14 mya.
+*Barbourofelis*, a barbourofelid feliform (related to cats but not a true cat), Florida, 14 million years ago.
 
 ![smilodon](/assets/images/posts/convergent-evolution-1.12.png)
 
-*Smilodon*, the famous “saber-toothed tiger,” and the only true cat on this list, California, 2.5 mya.
+*Smilodon*, the famous “saber-toothed tiger,” and the only true cat on this list, California, 2.5 million years ago.
 
-So, if saber teeth have happened so many times independently throughout history, why don’t any creatures have them now?  The answer is simple yet somewhat unsatisfactory--coincidence.  But don’t fret--saber teeth are likely to show up again in the future!  Just you wait a couple million years, my money is on either the descendents of lions or of mandrills.
+So, if saber teeth have happened so many times independently throughout history, why don’t any creatures have them now?  The answer is simple yet somewhat unsatisfactory--coincidence.  But don’t fret--saber teeth are likely to show up again in the future!  Just you wait a couple million years, my money is on either the descendants of lions or of mandrills.
+
+\* These animals are listed in order of evolutionary distance from modern cats, and then by age.
 
 ### Additional pictures
 
@@ -103,7 +105,7 @@ Above: Ichthyosaurs, aquatic reptiles.  These evolved from a terrestrial reptile
 
 ![dolphins](/assets/images/posts/convergent-evolution-1.14.jpg)
 
-Above: Dolphins, aquatic mammals.  These evolved from a terrestrial mammal ancestor, but converged on almost the same body style as ichthyosaurs.
+Above: Dolphins, aquatic mammals.  These evolved from a terrestrial mammal ancestor, but converged on almost the same body style as ichthyosaurs.  Ichthyosaurs had a vertical tail fluke and swam by moving their tails side to side like a fish, while dolphins have a horizontal tail fluke move their tails up and down.  This is due to the fact that dolphins' land-living ancestors had already evolved an upright, rather than sprawling, stance, while ichthyosaurs' land-living ancestors sprawled.  Contrast the way a cheetah's spine flexes while running with the way a lizard's does, and imagine the consequences of putting those animals in the water.
 
 #### Ornithomimids and Ratites
 ![struthiomimus](/assets/images/posts/convergent-evolution-1.15.png)

@@ -23,7 +23,7 @@ Above: *Anzu* and chicks are startled by a nasty *Acheroraptor*.
 
 *Anzu* was a large **oviraptorosaur** with a toothless beak and an impressive head crest.  It was North America’s largest oviraptorosaur (and by far the most well-known to science), and the third-largest in the world (*Gigantoraptor*, from a bit earlier in Mongolia, is a lot larger, and *Beibeilong*, though only known from a fetus, would've grown comparably huge).  *Anzu* was probably omnivorous and not picky, and was a good runner.  The crest was probably used for sexual display, leading some to speculate that Anzu may have exhibited **sexual dimorphism**, with major visual differences between males and females. Caenagnathidae (pronounced SEEN-a-NATH-id-ay), the family that includes *Anzu*, means “recently jawless” and is the **sister clade** to Oviraptoridae (which includes *Oviraptor*).  Weird holes in caenagnathids' lower jaws, along with their overall very birdlike appearance, initially made scientists think they were extinct ratite birds, like ostriches, before they realized they were actually non-avian dinosaurs.
 
-*Anzu* was part of the famous Hell Creek biota alongside such fan favorites as *Tyrannosaurus*, *Triceratops*, and *Pachycephalosaurus*.  66 million years ago, it was among the unfortunate direct victims of the Very Bad Day.
+*Anzu* was part of the famous Hell Creek biota alongside such fan favorites as *Tyrannosaurus*, *Triceratops*, and *Pachycephalosaurus*.  Sixty-six million years ago, it was among the unfortunate direct victims of the Very Bad Day.
 
 *Anzu* is named after a Sumerian mythological demon whom it somewhat resembles (center, below).
 
@@ -39,6 +39,8 @@ Above: A bald eagle skeleton with sclerotic ring visible.
 ![anzu-6](/assets/images/posts/anzu-6.jpg)
 
 Above: A gecko skeleton with sclerotic rings visible.
+
+Paleontologists often try to infer behavior and appearance based on properties of the sclerotic ring (nocturnal versus diurnal, good or bad eyesight, large visible eye or covered by skin) but so far the results have been somewhat questionable.
 
 #### Note 2: How many times have beaks evolved independently?
 A lot! Birds, oviraptorosaurs like *Anzu*, cephalopods (octopuses and squids), turtles, pterosaurs, monotremes (platypuses and echidnas), parrotfish, certain ornithischians, dicynodonts (a type of stem-mammal), certain pseudosuchians like *Lotosaurus* and *Effigia* (crocodile relatives), rhynchosaurs (early reptiles), therizinosaurs, ornithomimids, and even some ceratosaurs like *Limusaurus* all had **keratinous** beaks.  And that’s not even a comprehensive list.  Beaks are both very useful and very easy to make, evolutionarily--they are a very **homoplastic** trait.  This is another example of [convergent evolution](http://obscuredinosaurfacts.com/blog/post/2019/09/06/convergent-evolution.html).

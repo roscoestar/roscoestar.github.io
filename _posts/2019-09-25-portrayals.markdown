@@ -72,13 +72,13 @@ A couple key features to note about hadrosaurs:
 
 Above: *Stegosaurus*, the well-known Jurassic plate-backed dinosaur.
 
-A couple key features to note about stegosaurs:
-1. _Alternating plates_.  The plates on their backs weren’t paired like a mirror image, but were alternating like footprints.
+A couple key features to note about *Stegosaurus*:
+1. _Alternating plates_.  The plates on *Stegosaurus*'s back weren’t paired like a mirror image, but were alternating like footprints.  This isn't the case for all stegosaurs, however.
 2. _A particularly ancient dinosaur_.  *Stegosaurus* is one of the few Jurassic dinosaurs that’s really famous (most of the famous ones are from the Cretaceous, tens of millions of years later).  *Tyrannosaurus* was closer in time to an iPhone than it was to *Stegosaurus*, so depictions showing the two side-by-side are very wrong.  *Stegosaurus* lived alongside *Allosaurus*, *Apatosaurus*, *Brachiosaurus*, and possibly *Liopleurodon* and *Pterodactylus*.  *Tyrannosaurus* lived alongside *Triceratops*, *Pachycephalosaurus*, *Ankylosaurus*, *Edmontosaurus*, *Quetzalcoatlus*, and *Mosasaurus*.  These two groups of animals lived about 89 million years apart from each other.
 
 I hope this post helps give you an idea of some basic things to look for in a media portrayal of dinosaurs and friends.  Now you’re a licensed nitpicker.  Congratulations!
 
-Image credits:
+### Image credits:
 [Tyrannosaurus](https://sauriangame.squarespace.com/blog/2018/9/20/tyrannosaurus-redesign-2018)
 [Utahraptor](https://www.deviantart.com/prehistorybyliam/art/Utahraptor-785085300)
 [Patagotitan](https://www.deviantart.com/prehistorybyliam/art/Maximo-the-Patagotitan-767373239)
@@ -88,5 +88,5 @@ Image credits:
 [Parasaurolophus](https://www.deviantart.com/stygimolochspinifer/art/Parasaurolophus-414763554)
 [Stegosaurus](https://www.deviantart.com/fredthedinosaurman/art/Stegosaurus-Sexual-Dimorphism-528761626)
 
-Further reading:
+### Further reading:
 [Stegosaurus sexual dimorphism](http://www.bris.ac.uk/news/2015/april/sexing-stegosaurus.html)

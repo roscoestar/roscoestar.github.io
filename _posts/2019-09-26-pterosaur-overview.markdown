@@ -76,7 +76,7 @@ Unfortunately, the pterosaurs’ strategy of going big or going home ended with 
 
 Pterodactyloids shared more features than just size--they tended to lack teeth, have short tails and elongated hand-bones, and many had extravagant head crests.
 
-\* There are a few theories on why birds had a competitive advantage over pterosaurs.  One is their nesting habits: birds can build nests anywhere and out of anything, while pterosaurs likely buried their eggs like modern turtles and alligators, limiting them to nesting sites with appropriate dirt or sand.  The egg-burying habit also forced pterosaur flaplings to be **precocial**, since they had to fend for themselves shortly after birth, while birds could afford to be **altricial**, which requires the parent to spend an extended amount of time caring for the helpless young.  Being altricial allows more time for learning and development, which leads to a more diverse skill set as an adult.
+\* There are a few theories on why birds had a competitive advantage over pterosaurs.  One is their nesting habits: birds, with their hard-shelled eggs and dextrous feet, can build nests anywhere and out of anything, while pterosaurs likely buried their eggs like modern turtles and alligators, limiting them to nesting sites with appropriate dirt or sand.  The egg-burying habit also forced pterosaur flaplings to be **precocial**, since they had to fend for themselves shortly after birth, while birds could afford to be **altricial**, which requires the parent to spend an extended amount of time caring for the helpless young.  Being altricial allows more time for learning and development, which leads to a more diverse skill set as an adult.
 
 #### Archaeopterodactyloidea
 
@@ -88,7 +88,7 @@ Above: *Pterodactylus* landing on a log in Late Jurassic Germany.  It was unrema
 
 ![pterosaur-8](/assets/images/posts/pterosaur-8.jpg)
 
-Above: *Pterodaustro*, the Cretaceous flamingo (or, flamingos are the Holocene *Pterodaustro*).  It used its baleen-like teeth to strain water for small crustaceans.  This diet would’ve made it pink.  Its large feet may have been webbed for swimming.
+Above: [*Pterodaustro*](https://obscuredinosaurfacts.com/profile/2021/01/13/pterodaustro.html), the Cretaceous flamingo (or, flamingos are the Holocene *Pterodaustro*).  It used its baleen-like teeth to strain water for small crustaceans.  This diet would’ve made it pink.  Its large feet may have been webbed for swimming.
 
 #### Azhdarchoidea
 

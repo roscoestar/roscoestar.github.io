@@ -47,3 +47,14 @@ You’ve probably noticed that a lot of dinosaur names end in the suffix -saurus
 **-ella**: Latin diminutive (something you add to a name to make it cuter, like -ita in Spanish (Rosa > Rosita) or -ie in English (Kate > Katie)).  Usually used for super-ancient primitive creatures from the Ediacaran and Cambrian periods (approx 610-485 mya).  If it has this suffix, it’s probably slimy, simple, and aquatic.  Examples: *Kimberella*, *Aspidella*, *Cindarella* (no kidding), *Haikouella*, *Marrella*.  Counterexamples: *Eohostimella* is a plant; *Perryella* is a temnospondyl.
 
 For some really strange examples of dinosaur names with accompanying illustrations, check out my [Alphabestiary](https://obscuredinosaurfacts.com/blog/post/2020/03/23/alphabestiary.html)!
+
+### Bonus: Clade Suffixes
+**-omorpha**: Greek for "form" or "shape".  A suffix used for a very large clade, usually appended to a suffixless clade name to make it more inclusive.  Examples: Sauropodomorpha (long-necked dinosaurs and their early relatives), Tetrapodomorpha (tetrapods and fish with wrists), Dinosauromorpha (dinosaurs and their early relatives).
+
+**-oidea**: Greek for "like".  A suffix used for a large clade, often a superfamily or suborder.  Examples: Diplodocoidea (a group of long-necked dinosaurs including the diplodocid, rebbachisaurid, and dicraeosaurid sauropods), Hominoidea (the scientific name for apes), Tapejaroidea (a group of pterosaurs (flying reptiles) including the fancy-crested Cretaceous forms).
+
+**-idae**: Greek for "shape," "form," or "picture".  A suffix used for a smaller clade, often a family.  Examples: Diplodocidae (a subgroup of Diplodocoidea), Hominidae (the great apes), Tapejaridae (the family of smaller fancy-crested pterosaurs excluding the Thalassodromidae).
+
+**-inae**: I'm not actually sure what the etymology of this is.  It's a suffix used for an even smaller clade, often a subfamily.  Examples: Diplodocinae (a subgroup of Diplodocidae that excludes the Apatosaurinae and others), Homininae (humans, gorillas, and chimps), Tapejarinae (a subgroup of Tapejaridae that excludes *Sinopterus*.  Poor *Sinopterus*).
+
+**-ini**: Again, I'm not sure of the etymology, but this is a suffix used for a very small clade, often a tribe.  Examples: Hominini (humans and chimps), Tapejarini (a subgroup of Tapejarinae excluding *Huaxiapterus* and others).

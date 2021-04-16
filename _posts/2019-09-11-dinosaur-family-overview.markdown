@@ -19,7 +19,7 @@ The hip distinction is a little obscure at first sight, but this is what it’s 
 
 ![fig-2.1](/assets/images/posts/family-overview-2.1.jpg)
 
-Note: The new discovery of *Chilesaurus* and some statistical studies of skeletal characteristics have cast some doubt on the validity of the traditional Saurischia / Ornithischia split in favor of a new Saurischia / Ornithoscelida structure.  Saurischia then only would include sauropods and some early dinosaurs like herrerasaurs, while Ornithoscelida would include theropods (including birds) and everything that’s currently within Ornithischia.  Here I’m sticking to the traditional Saurischia / Ornithischia structure because the new structure is controversial and not universally agreed-upon yet, but I may change this in the future if more evidence surfaces that points one way or the other.
+Note: The new discovery of [*Chilesaurus*](https://obscuredinosaurfacts.com/profile/2020/12/09/chilesaurus.html) and some statistical studies of skeletal characteristics have cast some doubt on the validity of the traditional Saurischia / Ornithischia split in favor of a new Saurischia / Ornithoscelida structure.  Saurischia then only would include sauropods and some early dinosaurs like herrerasaurs, while Ornithoscelida would include theropods (including birds) and everything that’s currently within Ornithischia.  Here I’m sticking to the traditional Saurischia / Ornithischia structure because the new structure is controversial and not universally agreed-upon yet, but I may change this in the future if more evidence surfaces that points one way or the other.
 
 Here is a simplified dinosaur family tree:
 
@@ -37,7 +37,7 @@ Saurischia includes the sauropods and theropods (which includes modern birds).  
 
 Above: *Buriolestes*, an early carnivorous sauropodomorph that lived soon after the theropod line and the sauropod line split from each other.
 
-Then each group became more specialized--theropods for hunting and sauropods for top-browsing--until by the end of the Triassic, they looked something like this:
+Then each group became more specialized--theropods for hunting and sauropods for high-browsing--until by the end of the Triassic, they looked something like this:
 
 ![fig-2.2](/assets/images/posts/family-overview-2.2.jpg)
 
@@ -51,7 +51,7 @@ In the Jurassic and Cretaceous, theropods and sauropods each split into further,
 
 ### Sauropoda
 
-In the Jurassic, sauropods really hit their stride and became hugely diverse and successful.  There are two main flavors of true sauropod: the gigantic vertical-necked titanosaurs and the horizontal-necked, whip-tailed diplodocoids.  Titanosaurs were the largest terrestrial creatures ever, and were able to grow to such great sizes due to a few key adaptations.
+In the Jurassic, sauropods really hit their stride and became hugely diverse and successful (and also just huge).  There are two main flavors of true sauropod: the gigantic vertical-necked titanosaurs and the more slender, whip-tailed diplodocoids.  Titanosaurs were the largest terrestrial creatures ever, and were able to grow to such great sizes due to a few key adaptations.
 
 1) **Air sacs.**  Like modern birds, sauropods had hollow bones with air sacs inside, as well as air sacs interspersed all over the place within their bodies.  These made it so that they were way lighter than they would be otherwise.
 
@@ -65,11 +65,13 @@ Above: A bird lung.  Sauropods and theropods also had this style of ridiculously
 
 3) **Columnar legs.**  Sauropods had crazy-specialized **graviportal** front legs for bearing all that weight.  They had no visible toes, instead walking on a hard horseshoe of bone.  Without this, there’s a limit to how big you can get even if you have air sacs and flow-through lungs (*Ledumahadi* and *Shantungosaurus*, the largest dinosaurs that didn’t have columnar legs, could get to about 16 tonnes).  With this adaptation, the largest titanosaurs reached up to 76 tonnes!
 
+4) **Egg laying.**  As animals get larger, the gestation period required to give live birth gets longer, and the huge fetus gets inconvenient to lug around for such a long time.  Sauropods sidestepped this issue by continuing to lay lots of tiny eggs, most of which would not make it to adulthood, and investing no parental care.
+
 #### Diplodocoidea
 
 ![fig-1.3](/assets/images/posts/family-overview-3.png)
 
-One of the two main types of sauropod, diplodocoids (meaning “double-beamed”) were the lawn-mowers of the Late Jurassic.  They probably fed by standing in one place and using their long, horizontal necks to reach all kinds of bushes and shrubs (grass didn’t exist yet at that time) within their wide radius, and using their long, long tails like bullwhips to scare off would-be attackers.  Famous diplodocoids include *Diplodocus*, *Apatosaurus*, and *Brontosaurus*.
+Diplodocoids (meaning "double-beamed") were one of the two main types of sauropod, most abundant and diverse in the Late Jurassic.  Many of them would have been "branch strippers," using their long faces to grasp the base of a branch and pulling back their necks to eat the leaves.  Their long, spiny tails would have scared off would-be attackers, either through superior melee range or by making whip-crack sounds.  Famous diplodocoids include *Diplodocus*, *Apatosaurus*, and *Brontosaurus*.
 
 ![fig-3.1](/assets/images/posts/family-overview-3.1.jpg)
 
@@ -79,7 +81,7 @@ Above: a slightly outdated depiction of *Diplodocus* and baby.  Notice the long,
 
 ![fig-1.4](/assets/images/posts/family-overview-4.png)
 
-A subset of Diplodocoidea, dicraeosaurids (meaning “bifurcated reptile”) are an unusual family of sauropods with two rows of crazy horns down their necks.  These could’ve been for display or to ward off predators while their necks were lowered to feed, and were probably **keratinized** (covered in keratin, like a beak, horn, or fingernail).  Famous members include *Amargasaurus*, *Dicraeosaurus*, and *Bajadasaurus*.
+A subset of Diplodocoidea, dicraeosaurids (meaning “bifurcated reptile”) are an unusual family of relatively small and short-necked sauropod, some of which had two rows of crazy horns down their necks.  These could’ve been for display or to ward off predators while their necks were lowered to feed, and were probably **keratinized** (covered in keratin, like a beak, horn, or fingernail).  They probably fed by standing in one place and using their low, horizontal necks to eat bushes and shrubs (grass didn’t exist yet at that time) within their wide radius.  Famous members include *Amargasaurus*, *Dicraeosaurus*, and *Bajadasaurus*.
 
 ![fig-2.6](/assets/images/posts/family-overview-2.6.jpg)
 
@@ -103,19 +105,19 @@ A somewhat more conservative reconstruction of *Argentinosaurus*, a Late Cretace
 
 ![fig-1.6](/assets/images/posts/family-overview-6.png)
 
-Theropods are one of the most diverse groups of dinosaurs, including animals of many varying shapes, sizes, and lifestyles.  They were ancestrally carnivorous and feathered, but some groups became secondarily herbivorous or lost their feathers later on.  Some famous examples of theropods include *Tyrannosaurus*, *Spinosaurus*, *Velociraptor*, *Oviraptor*, and all modern birds.
+Theropods are one of the most diverse groups of dinosaurs, representing many varying shapes, sizes, and lifestyles.  They were ancestrally carnivorous and proto-feathery, but some groups became secondarily herbivorous or lost their feathers later on.  Some famous examples of theropods include *Tyrannosaurus*, *Spinosaurus*, *Velociraptor*, *Oviraptor*, and all modern birds.
 
 #### Ceratosauria
 
 ![fig-1.7](/assets/images/posts/family-overview-7.png)
 
-The first large family of theropods to branch off the bird line were the ceratosaurs, meaning “horn reptile”.  These were large-ish carnivores that often had keratinous horns on their heads and faces.  Famous members include *Ceratosaurus* and the more derived abelisaurs, including *Carnotaurus* and *Majungasaurus*.
+The first large family of theropods to branch off the bird line were the ceratosaurs, meaning “horn reptile”.  These were large carnivores that often had keratinous horns and bosses on their heads and faces.  Famous members include *Ceratosaurus* and the more derived abelisaurs, including *Carnotaurus* and *Majungasaurus*.
 
 ![fig-3.2](/assets/images/posts/family-overview-3.2.jpg)
 
 *Carnotaurus* (meaning “meat bull”), also known as “The Mouth With Legs,” an abelisaur with a short face, bull-like horns, and very silly arms.
 
-Ceratosaurs filled a similar niche to the big cats of today: their jaws didn’t bite with a lot of force, but they could resist a lot of twisting, indicating that they bit once and then held on until the prey was subdued.
+[Ceratosaurs](https://obscuredinosaurfacts.com/profile/2020/02/19/majungasaurus.html) filled a similar niche to the big cats of today: their jaws didn’t bite with a lot of force, but they could resist a lot of twisting, indicating that they bit once and then held on until the prey was subdued.
 
 #### Megalosauria
 
@@ -158,7 +160,7 @@ Note: Did *T. rex* have feathers?  Now we think they did not.  Some large-bodied
 
 ![fig-1.11](/assets/images/posts/family-overview-11.png)
 
-The next main group to branch is the first secondarily herbivorous group we’ll look at, the ornithomimosaurs (“bird mimic reptile”).  They are notable for their resemblance to modern ostriches, and they probably filled the same niche.  Many ornithomimosaurs even had toothless beaks.  Famous members include *Gallimimus*, *Struthiomimus*, and *Ornithomimus*.
+The next main group to branch is the first secondarily herbivorous or omnivorous group we’ll look at, the ornithomimosaurs (“bird mimic reptile”).  They are notable for their resemblance to modern ostriches, and they probably filled the same niche.  Many ornithomimosaurs even had toothless beaks.  Famous members include *Gallimimus*, *Struthiomimus*, and *Ornithomimus*.
 
 ![fig-2.10](/assets/images/posts/family-overview-2.10.png)
 
@@ -168,7 +170,7 @@ The next main group to branch is the first secondarily herbivorous group we’ll
 
 ![fig-1.12](/assets/images/posts/family-overview-12.png)
 
-Therizinosaurs (meaning “rake reptile”) are the next branch, and one of the strangest.  They were also secondarily herbivorous, and some of them also had beaks, but the feature that got them their name is their ridiculous claws.  They were the pandas of the Cretaceous, using their claws to strip vegetation (and defend themselves).
+Therizinosaurs (meaning “rake reptile”) are the next branch, and one of the strangest.  They were also secondarily herbivorous, and some of them also had beaks, but the feature that got them their name is their ridiculous claws.  They were the pandas of the Cretaceous, using their claws to strip vegetation and defend themselves.
 
 ![fig-2.11](/assets/images/posts/family-overview-2.11.png)
 
@@ -188,7 +190,7 @@ Another group of secondarily herbivorous or omnivorous theropods, the oviraptoro
 
 ![fig-1.14](/assets/images/posts/family-overview-14.png)
 
-Scansoriopterygians (meaning “climbing wing”) were an unusual group of tiny paravians that unlocked powered flight through a totally different strategy than birds.  Instead of using feathers as the flight surfaces, they had membranous wings like pterosaurs and bats, though the details of how the wings were supported differ between all three of those groups.  The group has only been known since 2002, and the fact that they had membranous wings has only been known since 2015!
+Scansoriopterygians (meaning “climbing wing”) were an unusual group of tiny paravians that glided using a totally different strategy than birds.  Instead of using feathers as the flight surfaces, they had membranous wings like pterosaurs and bats, though the details of how the wings were supported differ between all three of those groups.  The group has only been known since 2002, and the fact that they had membranous wings has only been known since 2015!
 
 ![fig-4.2](/assets/images/posts/Yi.png)
 
@@ -222,7 +224,7 @@ A fluffy reconstruction of *Heterodontosaurus*, a tiny basal ornithischian from 
 
 ![fig-1.17](/assets/images/posts/family-overview-17.png)
 
-A group of very defense-oriented ornithischians, Thyreophora (meaning “shield bearer”) includes the plate-backed stegosaurs and the tank-like ankylosaurs.  Stegosaurs had their heyday in the Late Jurassic, while ankylosaurs were at their most diverse in the Late Cretaceous, 100 million years later.  Famous examples of stegosaurs include *Stegosaurus*, *Gigantspinosaurus*, and *Kentrosaurus*.  Famous exmaples of ankylosaurs include *Ankylosaurus*, *Euoplocephalus*, and *Borealopelta*.
+A group of very defense-oriented ornithischians, Thyreophora (meaning “shield bearer”) includes the plate-backed stegosaurs and the tank-like ankylosaurs.  Stegosaurs had their heyday in the Late Jurassic, while ankylosaurs were at their most diverse in the Late Cretaceous, 100 million years later.  Famous examples of stegosaurs include *Stegosaurus*, *Gigantspinosaurus*, and *Dacentrurus*.  Famous exmaples of ankylosaurs include *Ankylosaurus*, *Euoplocephalus*, and *Borealopelta*.
 
 ![fig-4.4](/assets/images/posts/Alcovasaurus.png)
 
@@ -244,15 +246,15 @@ Ornithopods (meaning “bird foot”) were a group of herbivores from the Cretac
 
 ![fig-2.13](/assets/images/posts/family-overview-2.13.jpg)
 
-*Maiasaura*, meaning “mother reptile,” was a Late Cretaceous ornithopod from Montana.  The name refers to how the first fossils of Maiasaura were found among many nests with eggs and nestlings, indicating group-nesting behavior and parental care.
+*Maiasaura*, meaning “mother reptile,” was a Late Cretaceous ornithopod from Montana.  The name refers to how the first fossils of *Maiasaura* were found among many nests with eggs and nestlings, indicating group-nesting behavior and parental care.
 
-Note: Hadrosaurs in the past (especially *Parasaurolophus* for some reason) were often depicted with a bipedal, upright, kangaroo-like stance.  We now know that they were quadrupedal, even though their front legs look super skinny.
+Note: Hadrosaurs in the past (especially *Parasaurolophus* for some reason) were often depicted with a bipedal, upright, kangaroo-like stance.  We now know that they were usually quadrupedal, even though their front legs look super skinny.
 
 ### Pachycephalosauria
 
 ![fig-1.19](/assets/images/posts/family-overview-19.png)
 
-Pachycephalosaurs (meaning “thick head reptile,” pronounced “PAK-ee-SEF-a-lo-sores”) were the famous dome-headed group of smallish bipedal herbivores from the Late Cretaceous.  Famous members include *Pachycephalosaurus* and *Stegoceras* (*Stygimoloch* and *Dracorex* are also often cited as their own groups, but recently they were found to be juvenile forms of *Pachycephalosaurus*).  *Pachycephalosaurus* itself lived in Latest Cretaceous Hell Creek alongside *Tyrannosaurus* and *Triceratops*.  There’s evidence of wounds in many pachycephalosaurid domes that indicate they did indeed head-butt each other.
+Pachycephalosaurs (meaning “thick head reptile,” pronounced “PAK-ee-SEF-a-lo-sores”) were the famous dome-headed group of smallish bipedal herbivores from the Late Cretaceous.  Famous members include *Pachycephalosaurus*, *Stegoceras*, and *Homalocephale* (*Stygimoloch* and *Dracorex* are also often cited as their own groups, but recently they were found to be juvenile forms of *Pachycephalosaurus*).  *Pachycephalosaurus* itself lived in Latest Cretaceous Hell Creek alongside *Tyrannosaurus* and *Triceratops*.  There’s evidence of wounds in many pachycephalosaurid domes that indicate they did indeed head-butt each other.
 
 ![fig-2.14](/assets/images/posts/family-overview-2.14.jpg)
 
@@ -270,9 +272,9 @@ We’ve reached the end!  Ceratopsians (meaning “horned face”) are the last 
 
 ![fig-z](/assets/images/posts/Psittacosaurus.jpg)
 
-*Psittacosaurus*, a basal ceratopsian from Early Cretaceous Asia, with a minimal frill and prominent tail quills.  Note: Many (up to 12) different species of *Psittacosaurus* are known, and not all species had tail quills.
+[*Psittacosaurus*](https://obscuredinosaurfacts.com/profile/2020/09/02/psittacosaurus.html), a basal ceratopsian from Early Cretaceous Asia, with a minimal frill and prominent tail quills.  Note: Many (up to twelve) different species of *Psittacosaurus* are known, and not all species had tail quills.
 
-Thanks for bearing with me through all these groups!  I hope you feel like you have a better understanding of the main groups of dinosaurs.
+Thanks for bearing with me through all these groups!  I hope you feel like you have a better understanding of the main groups of dinosaurs and how they relate to one another.
 
 Image credits:
 [Hip Comparison](https://www.worldbook.com/behind-the-headlines/Shaking-the-Dino-Family-Tree)

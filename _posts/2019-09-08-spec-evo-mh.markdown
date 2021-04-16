@@ -10,7 +10,7 @@ featured_image: /assets/images/posts/anjanath.jpg
 
 I don’t know about you, but I’m a huge fan of the creature design in Monster Hunter.  The monsters are beautiful, believable, and have a ton of personality.  A common pitfall I’ve noticed in creature design in general is that people tend to create “chimeras” of existing creatures--a lizard with the head of a lion and the tail of a scorpion or whatever--but Monster Hunter frequently produces creatures that have no real-world analog, but are still very plausible, which to me is impressive.
 
-If you aren’t familiar with the series, I recommend you check out the newest installment, Monster Hunter World, first.  The earlier titles had a learning curve that was sort of ridiculously steep, less variety of monsters, behaviors, weapons, and environments, and some of them suffered from terrible camera mechanics that required players to do this:
+If you aren’t familiar with the series, I recommend you check out the newest installment, Monster Hunter Rise, first.  The earlier titles had a learning curve that was sort of ridiculously steep, less variety of monsters, behaviors, weapons, and environments, and some of them suffered from terrible camera mechanics that required players to do this:
 
 ![mh-claw](/assets/images/posts/mh-1.1.jpg)
 

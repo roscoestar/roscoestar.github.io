@@ -7,9 +7,9 @@ categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/caihong.png
 ---
-“If truth were a crayon and it were up to me to put a wrapper on it and name its color, I know just what I would call it--dinosaur skin.”  So begins the novel _So B. It_ (Sarah Weeks, 2007) whose central message is that there are some things you just can’t know, and it’s better to just enjoy what you have instead of being dissatisfied with what you don’t.
+“If truth were a crayon and it were up to me to put a wrapper on it and name its color, I know just what I would call it--dinosaur skin.”  So begins the novel _So B. It_ (Sarah Weeks, 2007) whose central message is that there are some things you just can’t know, and it’s better to just enjoy what you can instead of being dissatisfied with what you can't.
 
-However, as of the very next year after that book was published, dinosaur skin is not one of those things.  Thanks to amazing new fossil finds that preserve soft tissue and integument, as well as new techniques for analyzing existing fossils, under certain rare conditions, we actually can know what color dinosaurs were.  Here, I’ll go over a few accurately-colored dinosaurs and how we know what we know.  Keep in mind that this is by no means a comprehensive list of known dinosaur colors; I've just chosen examples that are particularly exciting or historically important.
+However, as of the very next year after that book was published, dinosaur skin is not one of those things.  Thanks to amazing new fossil finds that preserve soft tissue and integument, as well as new techniques for analyzing existing fossils, we actually can know what color dinosaurs were, under certain rare conditions.  Here, I’ll go over a few accurately-colored dinosaurs and how we know what we know.  Keep in mind that this is by no means a comprehensive list of known dinosaur colors; I've just chosen examples that are particularly exciting or historically important.
 
 ### Melanosomes
 
@@ -21,7 +21,7 @@ However, as of the very next year after that book was published, dinosaur skin i
 
 After the discovery of fossilized melanosomes in 2008, the race was on to paint the first dinosaur.  A team rival to Vinther’s led by Fucheng Zhang in 2010 examined the melanosomes in a little compsognathid from Early Cretaceous China called *Sinosauropteryx*, which was historically important as the first non-bird dinosaur to be discovered with preserved feathers back in 1996.  Happily, *Sinosauropteryx*’s coloration ended up being pretty exciting--it was a red panda-mimic dinosaur, with a bandit mask and a long ring tail!
 
-The red back / white stomach coloration is an example of **countershading**, a common technique for hiding from predators.  When the sun hits your darker back and your lighter stomach is in the shade, it creates an optical illusion of flatness that helps to obscure your shape.  Many, many modern prey animals exhibit countershading, so it makes sense that dinosaurs would also have used this technique.
+The red back / white stomach coloration is an example of **countershading**, a common technique for hiding from predators.  When the sun hits your darker back while your lighter stomach is in the shade, it creates an optical illusion of flatness that helps to obscure your shape.  Many, many modern prey animals exhibit countershading, so it makes sense that dinosaurs would also have used this technique.
 
 Note: Why are ring tails so popular in nature?  It might have to do with [math](https://www.youtube.com/watch?v=alH3yc6tX98).
 
@@ -41,19 +41,30 @@ In 2011, a ridiculously well-preserved ankylosaur mummy from the Early Cretaceou
 
 ![color-3](/assets/images/posts/color-3.jpg)
 
-*Microraptor* was a four-winged flying dromaeosaur from Early Cretaceous China.  A study in 2012, also by Vinther, revealed the first evidence of prehistoric iridescence--*Microraptor*’s melanosomes were arranged in a particular pattern found in modern iridescent birds.  This dinosaur was shiny black like a crow!  That indicates that Microraptor was probably diurnal, since nocturnal animals have no reason to be iridescent.
+*Microraptor* was a four-winged flying dromaeosaur from Early Cretaceous China.  A study in 2012, also by Vinther, revealed the first evidence of prehistoric iridescence--*Microraptor*’s melanosomes were arranged in a particular pattern found in modern iridescent birds.  This dinosaur was shiny black like a crow!  That indicates that *Microraptor* was probably diurnal, since nocturnal animals have no reason to be iridescent.
 
 As more time passes, more fossils turn up, and more specimens get examined for preserved melanosomes, we’ll continue to get a better picture of what colors prehistoric creatures were.  Though some may be surprising, like *Borealopelta*’s countershading, it seems that more often, the same styles have been popular throughout history over and over again.
 
-Image credits
+Further reading: [Psittacosaurus](https://obscuredinosaurfacts.com/profile/2020/09/02/psittacosaurus.html)
+
+### Image credits
+
 [Page image, Caihong](https://chasmosaurs.com/wp-content/uploads/2018/08/TMM1808_caihong_juji_afton_kern-featured.png)
+
 [Sinosauropteryx](https://www.deviantart.com/lythroversor/art/sinosauropteryx-710972809)
+
 [Anchiornis](https://www.deviantart.com/ewilloughby/art/What-color-is-a-dinosaur-807897867)
-[Microraptor](https://www.deviantart.com/ewilloughby/art/Microraptor-Takeoff-343914806)
+
 [Borealopelta](https://www.deviantart.com/bangboodoragon/art/Borealopelta-807117508)
 
-Links to studies/articles
+[Microraptor](https://www.deviantart.com/ewilloughby/art/Microraptor-Takeoff-343914806)
+
+### Links to studies/articles
+
 [Sinosauropteryx](http://ncsce.org/pdfs/true%20colors/fossilized.pdf)
+
 [Anchiornis](https://www.nationalgeographic.com/news/2010/2/100204-dinosaurs-color-feathers-science-3-d-picture/)
-[Microraptor](http://blogs.discovermagazine.com/notrocketscience/2012/03/08/a-shiny-dinosaur-four-winged-microraptor-gets-colour-and-gloss/)
+
 [Borealopelta](http://www.sci-news.com/paleontology/borealopelta-markmitchelli-05097.html)
+
+[Microraptor](http://blogs.discovermagazine.com/notrocketscience/2012/03/08/a-shiny-dinosaur-four-winged-microraptor-gets-colour-and-gloss/)
