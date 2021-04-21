@@ -98,7 +98,7 @@ Turtles are a super bizarre group whose relationship to other reptiles is still 
 
 ![aquatic-12](/assets/images/posts/aquatic-12.jpg)
 
-Above: *Archelon*, the largest known sea turtle, from the Late Cretaceous Western Interior Seaway, the ocean that bisected North America.  It was about 5 meters long and weighed around 2.2 tonnes.  The largest living turtle, the leatherback, is about 2 meters long and a bit less than 1 tonne.
+Above: *Archelon*, the largest known sea turtle, from the Late Cretaceous Western Interior Seaway, the ocean that bisected North America.  It was about 5 meters long and weighed around 2.2 tonnes.  The largest living turtle, the [leatherback](https://www.youtube.com/watch?v=Tmb8XCwb3FI), is about 2 meters long and a bit less than 1 tonne.
 
 Turtles do the four-paddle thing a bit differently than plesiosaurs.  Turtles’ front flippers provide propulsion while their rear flippers are much smaller and are used for steering, while all four of plesiosaurs’ flippers were about the same size.
 
@@ -113,7 +113,7 @@ Image credits:
 [Archelon](https://www.deviantart.com/duskyvel/art/Archelon-667500524)
 
 ### Archosaurs
-Archosauria is the group that includes dinosaurs (including birds), crocodilians, and phytosaurs, and their relatives.  Semi-aquatic non-avian dinosaurs are rare; fully-aquatic dinosaurs are nonexistent.  This is because they were **oviparous** (egg-laying) and amniotic (their eggs have waterproof shells that need to be laid on land, as opposed to the soft membranous eggs laid in the water by amphibians and fish).  Phytosaurs and most crocodilians were semi-aquatic for the same reason, but one group of crocodilians, the Metriorhynchidae, developed **viviparity** (ability to give live birth) and became fully aquatic.
+Archosauria is the group that includes dinosaurs (including birds), crocodilians, and phytosaurs, and their relatives.  Semi-aquatic non-avian dinosaurs are rare; fully-aquatic dinosaurs are nonexistent.  This is because they were **oviparous** (egg-laying) and amniotic (their eggs have waterproof shells that need to be laid on land, as opposed to the soft membranous eggs laid in the water by amphibians and fish).  Phytosaurs and most crocodilians were semi-aquatic for the same reason, but one group of crocodilians, the Metriorhynchidae, may have developed **viviparity** (ability to give live birth) and become fully aquatic.
 
 #### Phytosaurs
 Phytosaurs were a group of Triassic-exclusive crocodile-mimics that are less closely related to birds and true crocs than birds and crocs are to each other.  They’re distinguishable from crocs by their nostrils being up by their eyes instead of at the end of the snout.
@@ -122,12 +122,12 @@ Phytosaurs were a group of Triassic-exclusive crocodile-mimics that are less clo
 
 Above: *Redondasaurus* and babies scare off some *Coelophysis* in Late Triassic New Mexico.
 
-Phytosaurs were very successful, with a worldwide distribution in the Triassic, and probably fulfilled the same niche that modern crocodilians do today, that of large semi-aquatic ambush predator.  However, they went extinct shortly after the end-Triassic extinction event along with a lot of other archosaurian diversity.
+Phytosaurs were very successful, with a worldwide distribution in the Triassic, and probably filled the same niche that modern crocodilians do today, that of large semi-aquatic ambush predator.  However, they went extinct shortly after the end-Triassic extinction event along with a lot of other archosaurian diversity.
 
 Image credit: [Redondasaurus](https://www.deviantart.com/apsaravis/art/Coelophyses-surprised-430139881)
 
 #### Thalattosuchians
-Thalattosuchians (meaning “sea crocodile”) were a group of semi- and fully-aquatic crocodylomorphs from the Jurassic to Early Cretaceous.  They come in two main flavors: the teleosaurids, which were semi-aquatic piscivores, but more adapted for swimming than modern crocs, and the metriorhynchids, which were fully aquatic predators with paddle-like limbs that were incapable of terrestrial locomotion.
+Thalattosuchians (meaning “sea crocodile”) were a group of semi- and fully-aquatic crocodylomorphs from the Jurassic to Early Cretaceous.  They come in two main flavors: the teleosaurids, which were semi-aquatic piscivores, but more adapted for swimming than modern crocs, and the metriorhynchids, which were fully aquatic predators with paddle-like limbs that were probably incapable of terrestrial locomotion.
 
 ![aquatic-13](/assets/images/posts/aquatic-13.jpg)
 
@@ -135,7 +135,7 @@ Above: *Machimosaurus*, a giant teleosaurid from Late Jurassic Switzerland, doin
 
 ![aquatic-14](/assets/images/posts/aquatic-14.jpg)
 
-Above: *Dakosaurus*, a metriorhynchid, harassing an ichthyosaur in Late Jurassic England.  I think the convergence between metriorhynchids and the much later mosasaurs is pretty incredible; see my [post](http://obscuredinosaurfacts.com/blog/post/2019/09/06/convergent-evolution.html) on convergent evolution.
+Above: *Dakosaurus*, a metriorhynchid, harassing an ichthyosaur in Late Jurassic England.  I think the convergence between metriorhynchids and the much later mosasaurs is pretty incredible; see my [post](http://obscuredinosaurfacts.com/blog/post/2019/09/06/convergent-evolution.html) on convergent evolution.  We don't have direct evidence of viviparity or oviparity in metriorhynchids, but looking at their skeleton it could really go either way.  Perhaps they retained knees in their back flippers in order to better haul themselves onto land to lay eggs like sea turtles, or perhaps they were in the process of losing their knees when they went extinct.  No other archosaurs are thought to have given live birth, so assuming metriorhynchids had to lay eggs on land is probably the conservative hypothesis.
 
 Image credits:
 [Machimosaurus](https://www.deviantart.com/hyrotrioskjan/art/Machimosaurus-cycle-406190712)
@@ -164,7 +164,7 @@ Above: *Halszkaraptor*, a semi-aquatic dromaeosaur with a ridiculously long neck
 
 ![aquatic-18](/assets/images/posts/aquatic-18.jpg)
 
-Above: *Spinosaurus*, a spinosaur from Early Cretaceous Egypt.  This group of giant theropods had numerous similarities to crocodiles, such as the long snout ending in a toothy rosette lined with conical teeth, good for grabbing fish, and the pressure-sensitive neurons in the tip of the snout.
+Above: *Spinosaurus*, a spinosaur from Early Cretaceous Egypt.  This group of giant theropods had numerous similarities to crocodiles, such as the long snout ending in a toothy rosette lined with conical teeth, good for grabbing fish, and the pressure-sensitive neurons in the tip of the snout.  *Spinosaurus* has been the center of attention recently, since the discovery of its new swimmy tail has re-awakened the long-standing debate over the degree to which it was aquatic.  It definitely ate fish, but did it wade like a heron, ambush like a croc, or pursue like a shark?  Hopefully more fossil material will show up and let us know!
 
 ![aquatic-19](/assets/images/posts/aquatic-19.jpg)
 
@@ -172,7 +172,7 @@ Above: *Liaoningosaurus*, a tiny, foot-long ankylosaur from Early Cretaceous Chi
 
 ![aquatic-20](/assets/images/posts/aquatic-20.jpg)
 
-Above: *Lurdusaurus*, a hippo-like ornithopod from Early Cretaceous Niger.
+Above: *Lurdusaurus*, a hippo-like ornithopod from Early Cretaceous Niger.  It had particularly heavy bones that would've allowed it to walk along the bottom rather than swim.
 
 Image credits:
 [Hesperornis](https://www.deviantart.com/drawingdinosaurs/art/Hesperornis-Breach-760539961)
@@ -196,7 +196,7 @@ A relatively new addition to the marine reptile roster is the Galapagos marine i
 
 ![aquatic-22](/assets/images/posts/aquatic-22.jpg)
 
-Above: A Galapagos marine iguana eating algae.  I sort of have to agree with Charles Darwin’s nickname for them, “imps of darkness”.
+Above: A Galapagos marine iguana eating algae.  I sort of have to agree with Charles Darwin’s nickname for them, “imps of darkness”.  I wonder if Godzilla's face and texture was inspired at all by these creatures.
 
 #### Sea Snakes
 Snakes diverged from other lizards in the early Late Cretaceous and almost immediately some of them took to the water.  

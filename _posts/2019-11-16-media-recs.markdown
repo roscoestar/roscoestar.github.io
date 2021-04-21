@@ -25,7 +25,7 @@ Creators: PBS Digital Studios, hosted by Hank Green, Kallie Moore, and Blake de 
 
 Audience: everyone
 
-This channel is super accessible, well-written, and well-produced.  Each episode, one of the hosts presents an overview of a paleontological topic, from specific animal groups or adaptations, to climatic or geologic changes, to sweeping sagas of the entire history of the world.  I really like how it starts with the very basics but ends up going pretty deeply into each topic; it also gives some time to how we know what we know based on specific fossils.  You can find their channel [here](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) and their Patreon [here](https://www.patreon.com/eons).
+This channel is super accessible, well-written, and well-produced.  Each episode, one of the hosts presents an overview of a paleontological topic, from specific animal groups or adaptations, to climatic or geologic changes, to sweeping sagas of the entire history of the world.  I really like how it starts with the very basics but ends up going pretty deeply into each topic; it also devotes some time to how we know what we know based on specific fossils.  You can find their channel [here](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) and their Patreon [here](https://www.patreon.com/eons).
 
 ### TierZoo
 Type: Youtube channel
@@ -43,7 +43,7 @@ Creator: Trey the Explainer
 
 Audience: paleo beginners, Game of Thrones fans
 
-This channel's "Paleo Profile" series was one of the first things I encountered that got me interested in reading up about specific groups, like abelisaurs, placoderms, and temnospondyls.  In those, Trey gives a comprehensive overview of a single interesting genus in a very accessible way.  Nowadays, his channel focuses more on human evolution.  He also does analyses on the biology of various pop-culture franchises, such as Game of Thrones, Avatar, and The Good Dinosaur.  Find his channel [here](https://www.youtube.com/user/GamerCreator12345).
+This channel's "Paleo Profile" series was one of the first things I encountered that got me interested in reading up about specific groups of extinct animals, like abelisaurs, placoderms, and temnospondyls.  In those, Trey gives a comprehensive overview of a single interesting genus in a very accessible way.  Nowadays, his channel focuses more on human evolution.  He also does analyses on the biology of various pop-culture franchises, such as Game of Thrones, Avatar, and The Good Dinosaur.  Find his channel [here](https://www.youtube.com/user/GamerCreator12345).
 
 ### Amazing Dinoworld
 Type: documentary
@@ -61,7 +61,16 @@ Creator: Neil Shubin and PBS
 
 Audience: everyone
 
-This documentary is by the paleontologist who discovered the famous transitional tetrapod fossil, *Tiktaalik*!  It covers the entire history of human evolution in three acts: the fish-tetrapod transition, Permian synapsids, and primate evolution.  Dr. Shubin is in charge of a cadaver lab though, so some of the human dissection shown is not for the faint of heart.
+This documentary is by the paleontologist who discovered the famous transitional tetrapod fossil, *Tiktaalik*!  It covers the entire history of human evolution in three acts: the fish-tetrapod transition, Permian synapsids, and primate evolution, with a focus on comparative anatomy.  Dr. Shubin is in charge of a cadaver lab though, so some of the human dissection shown is not for the faint of heart.
+
+### Walking With Dinosaurs
+Type: documentary
+
+Creator: Tim Haines and the BBC
+
+Audience: everyone, '90s kids
+
+This groundbreaking documentary series was the first to really treat dinosaurs and other extinct creatures as real animals, using CGI to tell stories of individual dinosaurs going about their daily lives.  The informational content has aged very gracefully, and the production quality is high (although the resolution is very low, since it's from the 90s).  One minor caveat is that the format makes it hard to tell which pieces of information are speculative and which are definite, so follow-up research or watching it with an expert can be helpful.
 
 ## Books
 ### All Yesterdays
@@ -71,7 +80,7 @@ Creators: John Conway, Darren Naish, and CM Kosemen, renowned paleoartists
 
 Audience: everyone, but especially aspiring paleoartists
 
-This is the paleoart counterculture manifesto, a book that protests the use of paleoart stereotypes in favor of creative, speculative, but still scientific, interpretations of extinct creatures.  Along with now-famous depictions of *Parasaurolophus* as an absolute unit, *Protoceratops* hanging out in trees, and *Stegosaurus*'s impressive member, they also include hilarious artwork of modern creatures drawn using bad paleoart stereotypes, such as shrink-wrapped, venomous baboons, horizontal-necked rabbits, and terrestrial manatees.  This book has also spawned a whole paleoart movement, so I think it's worth checking out the source.
+This is the paleoart counterculture manifesto, a book that protests the use of paleoart stereotypes in favor of creative, speculative, but still scientific, interpretations of extinct creatures.  Along with now-famous depictions of *Parasaurolophus* as an absolute unit, *Protoceratops* hanging out in trees, and *Stegosaurus*'s impressive member, they also include hilarious artwork of modern creatures drawn using bad paleoart stereotypes, such as shrink-wrapped, venomous baboons, horizontal-necked rabbits, and terrestrial manatees.  This book has also spawned a whole paleoart movement, so I think it's worth checking out the source.  There's also a follow-up book called [All Your Yesterdays](https://www.dropbox.com/s/lb2hoz1cac4d1bp/All%20Your%20Yesterdays.pdf?dl=0), which is free to read online, that contains a selection of high quality, speculative paleoart by independent artists inspired by the original.
 
 ### The Rise and Fall of the Dinosaurs: A New History of a Lost World
 Type: book
@@ -80,7 +89,7 @@ Creator: Steve Brusatte, renowned American paleontologist and tyrannosaur expert
 
 Audience: everyone--use this to get your dinosaur-clueless friends to have some idea of what you're rambling about!
 
-This book takes the reader on a tour through the Mesozoic, looking at the age of reptiles in detail while also presenting the author's own experience as a paleontologist.  It's very recent, and thus serves as a good primer on the modern theories about dinosaurs.  It's also a very compelling narrative, and the author is a world-renowned expert on tyrannosaurs, so his insights into what made that specific group so successful are presented here.
+This book takes the reader on a tour through the Mesozoic, looking at the Age of Reptiles in detail while also presenting the author's own experience as a paleontologist.  It's very recent, and thus serves as a good primer on the modern theories about dinosaurs.  It's also a very compelling narrative, and the author is a world-renowned expert on tyrannosaurs, so his insights into what made that specific group so successful are presented here.
 
 ### The Dinosaurs Rediscovered: How a Scientific Revolution is Rewriting History
 Type: book
@@ -133,7 +142,7 @@ Type: blog
 
 Creator: Ceri Thomas, the paleoartist who does a lot of work for PBS Eons
 
-This paleoart blog is super active, and not only is the art great, but what Nix has to say about each piece is really interesting and inspires me to draw more!
+This paleoart [blog](https://alphynix.tumblr.com) is super active, and not only is the art great, but what Nix has to say about each piece is really interesting and inspires me to draw more!
 
 ### Paleoartists
 Type: art

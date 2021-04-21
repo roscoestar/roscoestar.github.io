@@ -6,8 +6,6 @@ date:   2021-03-10 01:43:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/snowy-unenlagiine2.jpg
-featured: true
-hidden: true
 ---
 
 Well, winter's almost over, and I haven't yet made my seasonal art post!  So without further ado, here's what I've been drawing lately.

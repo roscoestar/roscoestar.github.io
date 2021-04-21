@@ -10,7 +10,7 @@ I was inspired by Ceri Thomas's awesome paleoart blog, [Nix Draws Stuff](https:/
 #### A is for *Animantarx*
 ![animantarx](/assets/images/posts/animantarx.jpg)
 
-*Animantarx* (meaning "living fortress") was a smallish nodosaur from early Late Cretaceous Utah.  Nodosaurs were the armored ones that did not have tail weapons, ankylosaurs being the ones that did.  From this angle, I can really see how they're related to stegosaurs (both ankylosaurs and stegosaurs are in the family Thyreophora).  Ankylosaurs may have used their snoots to dig up roots and tubers.  Originally this pose was intended to show that, but then I didn't draw the dirt, so it just looks like he's walking.  Oh well, we know that ankylosaurs almost certainly did engage in walking.
+*Animantarx* (meaning "living fortress") was a smallish nodosaur from early Late Cretaceous Utah.  Nodosaurs were the armored ones that did not have tail weapons, while ankylosaurs were the ones that did.  From this angle, I can really see how they're related to stegosaurs (both ankylosaurs and stegosaurs are in the family Thyreophora).  Ankylosaurs may have used their snoots to dig up roots and tubers.  Originally this pose was intended to show that, but then I didn't draw the dirt, so it just looks like he's walking.  Oh well, we know that ankylosaurs almost certainly did engage in walking.
 
 #### B is for *Bambiraptor*
 ![bambiraptor](/assets/images/posts/bambiraptor.jpg)
@@ -52,7 +52,7 @@ Heterodontosaurids were herbivores, but they had large tusk-like canine teeth, e
 #### G is for *Gargoyleosaurus*
 ![gargoyleosaurus](/assets/images/posts/gargoyleosaurus.png)
 
-*Gargoylesaurus* was a primitive nodosaur from Late Jurassic Wyoming, which lived in the shadow of the dominant tanky herbivores, the plate-backed stegosaurs (including the famous Stegosaurus).  Ankylosaurs would later replace the stegosaurs in this niche in the Cretaceous period.
+*Gargoylesaurus* was a primitive nodosaur from Late Jurassic Wyoming, which lived in the shadow of the dominant tanky herbivores, the plate-backed stegosaurs (including the famous *Stegosaurus*).  Ankylosaurs would later replace the stegosaurs in this niche in the Cretaceous period.
 
 Since it's named after gargoyles, which are decorative rain gutters, my *Gargoyleosaurus* is enjoying a heavy rainfall.  What a moody boi.  Remember, angiosperms including grasses, flowering, and fruiting plants, didn't evolve until the Cretaceous period, which means all the plants in the background here are ferns, cycads, and conifers.
 
@@ -92,12 +92,12 @@ Here is a family of *Ledumahadi* who woke up early and smelled rain in the air, 
 #### M is for *Mussaurus*
 ![mussaurus](/assets/images/posts/mussaurus.png)
 
-Two sauropodomorphs in a row!  *Mussaurus* was a medium-sized (one tonne) sauropodomorph from Late Triassic Argentina.  Its name means "mouse reptile" because it was originally known only from fossils of juveniles, which were only six inches long.  I wanted to highlight this huge difference in size in this picture.  Juvenile *Mussaurus* had short faces and big eyes, and walked quadrupedally, while the adults had long snouts, long necks, and were bipedal.  Given the huge size difference, I think it's unlikely that *Mussaurus* exhibited any kind of parental care, instead probably just burying a hundred tiny eggs in the dirt and scooting off.
+Two sauropodomorphs in a row!  *Mussaurus* was a medium-sized (one tonne) sauropodomorph from Late Triassic Argentina.  Its name means "mouse reptile" because it was originally known only from fossils of juveniles, which were six inches long.  I wanted to highlight this huge difference in size in this picture.  Juvenile *Mussaurus* had short faces and big eyes, and walked quadrupedally, while the adults had long snouts, long necks, and were bipedal.  Given the huge size difference, I think it's unlikely that *Mussaurus* exhibited any kind of parental care, instead probably just burying a hundred tiny eggs in the dirt and scooting off.
 
 #### N is for *Notatesseraeraptor*
 ![notatesseraeraptor](/assets/images/posts/notatesseraeraptor.png)
 
-*Notatesseraeraptor* was a basal theropod from Late Triassic Switzerland, described just last year.  It appears to represent a transitional form between the more basal coelophysoids and the later dilophosaurids, showing a mosaic of traits found in both groups--hence its name, meaning "trait mosaic thief".  The background is based on azulejos, the traditional Portuguese mosaic tiles (which you may recognize from the awesome board game, Azul).
+*Notatesseraeraptor* was a basal theropod from Late Triassic Switzerland, described just last year.  It appears to represent a transitional form between the more basal coelophysoids and the later dilophosaurids, showing a mosaic of traits found in both groups--hence its name, meaning "trait mosaic thief".  The background is based on azulejos, the traditional Portuguese mosaic tiles (which you may recognize from the board game Azul).
 
 #### O is for *Ouranosaurus*
 ![ouranosaurus](/assets/images/posts/ouranosaurus.png)

@@ -20,7 +20,7 @@ Lately, I've been doing a lot more drawing and less writing.  Here is some of wh
 #### *Shringasaurus*
 ![febart-3](/assets/images/posts/febart-3.jpg)
 
-This is a digital "remastering" of a previous ink drawing I had done of Shringasaurus, an archosauromorph reptile from Middle Triassic India.  Since new research shows that a closely related genus, *Azendohsaurus*, was definitively warm-blooded, I thought I'd give its more charismatic relative a fluffy coat to keep warm.  *Shringasaurus* males had interesting forward-raked horns, while the females had none; pictured here is a male and female mated pair.  Unfortunately, they turned out looking like...pajama yetis?
+This is a digital "remastering" of a previous ink drawing I had done of *Shringasaurus*, an archosauromorph reptile from Middle Triassic India.  Since new research shows that a closely related genus, *Azendohsaurus*, was definitively warm-blooded, I thought I'd give its more charismatic relative a fluffy coat to keep warm.  *Shringasaurus* males had interesting forward-raked horns, while the females had none; pictured here is a male and female mated pair.  Unfortunately, they turned out looking like...pajama yetis?
 
 #### *Liaoxipterus*
 ![febart-4](/assets/images/posts/febart-4.jpg)
@@ -35,11 +35,11 @@ Update: new research has been published casting doubt onto the chameleon tongue 
 Here's another exploration into alternative pterosaur lifestyles, with the "oystercatcher" azhdarchoid *Dsungaripterus*, also from Early Cretaceous China.  Its upturned beak and crushing molars indicate a **durophagous** (shell-crushing) diet.  It's also in the running for "ugliest pterosaur ever"--what do you think?
 
 #### Gull Identification Flowchart
-![febart-6](/assets/images/posts/febart-6.png)
+{% include image-caption.html imageurl="/assets/images/posts/febart-6.png#wide" title="gull identification" caption="Why don't seagulls fly over the bay?" %}
 
 And now for something completely different... I had taken a photo of a seagull that I wanted to identify, and it turns out there were basically no tools I could find that would help me, a beginner birder, to pin down what type of gull I was looking at.  So, I did a whole bunch of research and created my own.  I posted a preliminary version on Reddit and got some feedback (r/birding has some people with really sharp eyes, go figure), and here is the final version.  Let me know if it helps you!
 
 #### Dinosaurs of the Latest Cretaceous
-![febart-7](/assets/images/posts/febart-7.png)
+{% include image-caption.html imageurl="/assets/images/posts/febart-7.png#wide" title="DotLC" caption="All the victims of the Very Bad Day." %}
 
 Lastly, here's another infographic that has been a long time in the works.  This is a comprehensive map of all the ornithodirans (dinosaurs and pterosaurs) that lived 66 million years ago, right before the asteroid struck the Yucatan Peninsula.  Nothing is to scale and the colors are all guesswork!  But here are a couple things to note while looking at this.  First, a lot of people (on Reddit and also in real life) seemed surprised that all the main landmasses were recognizable; they'd imagined that all dinosaurs lived on Pangaea.  The Mesozoic spanned a LONG time--indeed, the first dinosaurs did live on Pangaea, but remember that *Tyrannosaurus* lived closer in time to the iPhone than to *Stegosaurus*, and *Stegosaurus* wasn't even a primitive dinosaur!  By the end of the Cretaceous, all the major continents had reached almost their modern positions with two major differences: India and South America were both still islands.  The other thing to notice is the ridiculous diversity of ornithopods (the "duck-billed" dinosaurs) and oviraptorosaurs (the ones that look like big chickens), especially in Asia.  How all these very similar genera were able to niche-partition in order to avoid competing with one another is still not well understood.
