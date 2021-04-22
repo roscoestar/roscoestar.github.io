@@ -114,7 +114,7 @@ Two sauropodomorphs in a row!  *Mussaurus* was a medium-sized (one tonne) saurop
 
 *Qantassaurus* was a small ornithopod from Early Cretaceous Australia, when the continent was still connected to Antarctica.  It was probably related to the slightly larger and more famous *Leaellynasaura*.  *Qantassaurus* was named after the Australian airline, QANTAS (Queensland And Northern Territory Air Service) due to their help with and sponsorship of paleontological efforts in the '90s.  This picture is in the style of the QANTAS logo.
 
-*Qantassaurus* was a polar dinosaur and would have experienced months-long nights and well below freezing conditions.  Given its small size, it was probably very fluffy to insulate against the harsh conditions.  The amount of fluff I've given it here is actually probably conservative.
+*Qantassaurus* was a polar dinosaur that would have experienced months-long nights and well below freezing conditions.  Given its small size, it was probably very fluffy to insulate against the harsh conditions.  The amount of fluff I've given it here is actually probably conservative.
 
 #### R is for *Rubeosaurus*
 ![rubeosaurus](/assets/images/posts/rubeosaurus.png)
@@ -143,7 +143,7 @@ With this drawing, I was attempting to emulate the style of the artist calling t
 #### V is for *Vespersaurus*
 ![vespersaurus](/assets/images/posts/vespersaurus.png)
 
-*Vespersaurus* (meaning "evening reptile") was a noasaurid ceratosaur (relative of abelisaurs like *Carnotaurus*) from Late Cretaceous Brazil, described just last year.  It was known from its distinctive trackways (fossilized footprints) long before its bones were discovered.  *Vespersaurus*'s feet were unique: it walked on a single toe, with two reduced toes held up next to it, sort of like a primitive horse or a short-faced kangaroo.  **Monodactyly** seems to be an adaptation for fast running in arid climates, which may have aided *Vespersaurus* in chasing down skittering prey, like this lizard.  Noasaurids in general were a strange and diverse group of dinosaurs, which survived right up to the end of the Cretaceous period.  *Masiakasaurus* had wicked outward-pointing teeth, while *Limusaurus* had a toothless beak.
+*Vespersaurus* (meaning "evening reptile") was a noasaurid ceratosaur (relative of abelisaurs like *Carnotaurus*) from Late Cretaceous Brazil, described just last year.  It was known from its distinctive trackways (fossilized footprints) long before its bones were discovered.  *Vespersaurus*'s feet were unique: it walked on a single toe, with two reduced toes held up next to it, sort of like a primitive horse or a short-faced kangaroo.  **Monodactyly** seems to be an adaptation for fast running in arid climates, which may have aided *Vespersaurus* in chasing down skittering prey, like this lizard.  Noasaurids in general were a strange and diverse group of dinosaurs, which survived right up to the end of the Cretaceous period.  The closely related *Masiakasaurus* had wicked outward-pointing teeth, while *Limusaurus* had a toothless beak.
 
 #### W is for *Wannanosaurus*
 ![wannanosaurus](/assets/images/posts/wannanosaurus.png)
@@ -158,9 +158,11 @@ With this drawing, I was attempting to emulate the style of the artist calling t
 #### Y is for *Yi*
 ![yi](/assets/images/posts/yi.gif)
 
-*Yi* (meaning "wing") was a one-pound scansoriopterygid from Late Jurassic China, and it's basically a real-life dragon.  This dinosaur group had batlike membranous wings supported by two points, their third finger, and a non-finger "styliform" bone attached to the wrist.  They also had feathers on their body and tail.  There are only a few known genera of scansoriopterygid: *Epidexipteryx* (whose fossil preserved the four long ribbonlike tail feathers I've given *Yi* here), *Scansoriopteryx, Ambopteryx, Yi*, and maybe *Pedopenna*.  Before *Yi* was discovered in 2015, nobody knew what these dinosaurs' long fingers were for--some suggested they poked them into trees like an aye-aye.  But the holotype of *Yi* preserved the wing membrane, changing the way we understood this group entirely.
+*Yi* (meaning "wing") was a one-pound scansoriopterygid from Late Jurassic China, and it's basically a real-life dragon.  This dinosaur group had batlike membranous wings supported by two points: their third finger, and a non-finger "styliform" bone attached to the wrist.  They also had feathers on their body and tail.  There are only a few known genera of scansoriopterygid: *Epidexipteryx* (whose fossil preserved the four long ribbonlike tail feathers I've given *Yi* here), *Scansoriopteryx, Ambopteryx, Yi*, and maybe *Pedopenna*.  Before *Yi* was discovered in 2015, nobody knew what these dinosaurs' long fingers were for--some suggested they poked them into trees like an aye-aye.  But the holotype of *Yi* preserved the wing membrane, changing the way we understood this group entirely.
 
 It's unclear whether scansoriopterygids were capable of powered flight, or if they just glided, but based on this new [research](https://phys.org/news/2020-02-gliding-animals-fine-tuned-evolution.html) into the evolutionary trends of gliding animals, I'd bet that they were gliders.  Unlocking true powered flight would've presumably spurred explosive diversification, but just adapting to glide better fits with the fact that only a few types of scansoriopterygids are known, and all of them are very similar.
+
+Update: Even newer [research](https://www.sciencedirect.com/science/article/pii/S2589004220307665) suggests that they were indeed just gliders, almost certainly incapable of powered flight.
 
 Here, *Yi* launches off a tree to glide to another, like a flying squirrel.  I don't actually know if there's evidence one way or another for them being nocturnal or diurnal--if you know, please tell me!
 
