@@ -6,8 +6,6 @@ date:   2021-03-24 00:02:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/dickinsonia.png
-featured: true
-hidden: true
 ---
 
 I've [recommended paleontology books before](https://obscuredinosaurfacts.com/blog/post/2019/11/16/media-recs.html), but I also read a lot of non-paleo nonfiction, and I thought I'd put together a list of titles I'd recommend.  The following are a selection of favorites, sorted by category, all of which are worthwhile reads.  I hope you check some of them out!
