@@ -30,7 +30,7 @@ The first branch to split off within Pseudosuchia is that of the ornithosuchids 
 
 ![dynamosuchus](/assets/images/posts/dynamosuchus.jpg)
 
-Above: Dynamosuchus.  All known ornithosuchids looked basically like this.
+Above: *Dynamosuchus*.  All known ornithosuchids looked basically like this.
 
 ### Aetosauria
 
@@ -77,7 +77,7 @@ Above: *Postosuchus*, a 4-meter, 300 kg apex predator from the Late Triassic.  T
 Above: *Rauisuchus*, a similarly-sized quadrupedal apex predator from the Middle to Late Triassic.  To me, these guys look like someone put a *Tyrannosaurus* head on a croc body.
 
 ## Jurassic and Cretaceous crocs
-Despite the setback crocs suffered during the end-Triassic extinction and during the rise of the dinosaurs, they maintained a considerable amount of diversity throughout the rest of the Mesozoic.  Many of them developed some very derived traits, from mammal-like molars to live birth and flippers for a fully-aquatic lifestyle.  Some lost their armor completely, while others developed extensive fused carapaces.  Some were under one meter long, while others could reach 12 meters and tipped the scales at 9 tonnes.
+Despite the setback crocs suffered during the end-Triassic extinction and during the rise of the dinosaurs, they maintained a considerable amount of diversity throughout the rest of the Mesozoic.  Many of them developed some very derived traits, from mammal-like molars to (possibly) live birth and flippers for a fully-aquatic lifestyle.  Some lost their armor completely, while others developed extensive fused carapaces.  Some were under one meter long, while others could reach 12 meters and tipped the scales at 9 tonnes.
 
 ### Protosuchia
 
@@ -141,7 +141,8 @@ This group includes modern crocs, and consists of mostly semi-aquatic, and a few
 For comparison, the largest modern crocodylian is the saltwater crocodile, at a measly 6 meters and 1 tonne.
 
 #### Thalattosuchia
-Thalattosuchians, meaning “sea croc,” were a group of suchians highly adapted for life in the water.  They came in two main flavors: teleosaurids, which were semi-aquatic, but would’ve been better swimmers than modern crocs, and metriorhynchids, which were fully-aquatic, flippered beasts that gave live birth and spent their entire lives in the water. 
+Thalattosuchians, meaning “sea croc,” were a group of suchians highly adapted for life in the water.  They came in two main flavors: teleosaurids, which were semi-aquatic, but would’ve been better swimmers than modern crocs, and metriorhynchids, which were fully-aquatic, flippered beasts that spent their entire lives in the water and may even have given live birth. 
+
 ![machimosaurus](/assets/images/posts/machimosaurus2.jpg)
 
 Above: *Machimosaurus*, the king of the teleosaurids, from Early Cretaceous Europe.
@@ -151,14 +152,14 @@ Above: *Machimosaurus*, the king of the teleosaurids, from Early Cretaceous Euro
 Above: *Magyarosuchus*, an early metriorhynchid from Early Jurassic Hungary (on the right), swimming alongside two *Leedsichthys*, the largest known (non-tetrapod) fish.
 ![geosaurus](/assets/images/posts/geosaurus.jpg)
 
-Above: *Geosaurus* (back) and *Dakosaurus* (front), two metriorhynchids from Late Jurassic Germany.  *Dakosaurus* lost all its armor for the sake of hydrodynamics, and both would’ve given live birth, allowing them to live their entire lives in the ocean.  Many species of metriorhynchids coexisted in the same waters at that time, and their differing sizes and snout shapes indicate that they **niche partitioned** (each tackled different prey) in order to avoid competing with one another.
+Above: *Geosaurus* (back) and *Dakosaurus* (front), two metriorhynchids from Late Jurassic Germany.  *Dakosaurus* lost all its armor for the sake of hydrodynamics, and both may have given live birth, allowing them to live their entire lives in the ocean.  Many species of metriorhynchids coexisted in the same waters at that time, and their differing sizes and snout shapes indicate that they **niche partitioned** (each tackled different prey) in order to avoid competing with one another.
 ![stomatosuchus](/assets/images/posts/stomatosuchus.jpg)
 
 Above: *Stomatosuchus*, meaning “mouth croc,” a huge ambush predator with a pelican-like throat pouch.  Its only fossil was destroyed in the same World War II bombing that claimed the only *Spinosaurus* specimen known at the time, but since then another stomatosuchid, *Laganosuchus* (meaning “pancake croc”) was discovered, allowing us to learn more about their strange biology.  *Stomatosuchus* may also have been a contender for one of the largest crocodylians, but since the specimen was destroyed we can’t be sure.
 
 ![sarcosuchus](/assets/images/posts/sarcosuchus.jpg)
 
-Above: *Sarcosuchus*, meaning “flesh croc,” an extremely large croc from Early Cretaceous Africa and South America.  It had a rather cartoony bulla, or bulb on the end of its snout, whose purpose is still unknown.
+Above: *Sarcosuchus*, meaning “flesh croc,” an extremely large croc from Early Cretaceous Africa and South America.  It had a rather cartoony bulla, or bulb, on the end of its snout, whose purpose is still unknown.
 
 ### Eusuchia
 
@@ -197,7 +198,7 @@ Above: A false gharial.  Long snouts like this evolved many times throughout the
 
 ![gharial](/assets/images/posts/gharial.jpg)
 
-Above: A true gharial showing off its ghara (nose bump only males have).
+Above: A true gharial showing off its ghara (nose bump that only males have).
 
 Thanks for sticking it out to the end again--I hope you’ve gained a greater appreciation of all the things a croc is capable of being.  I think a lot of these animals are more charismatic than many dinosaurs, and deserve way more public attention!
 

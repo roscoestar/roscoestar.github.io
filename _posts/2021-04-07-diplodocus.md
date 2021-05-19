@@ -6,8 +6,6 @@ date:   2021-04-07 00:02:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/pages/shoving.jpg
-featured: true
-hidden: true
 ---
 
 Moving back toward some more characteristic material this week.  Sauropods (long-necked dinosaurs) were a weight class of land animal the world has never seen before or since, and they're woefully underrepresented on this blog.  Not only were they objectively [top tier](https://www.youtube.com/watch?v=VUAT9XrFSN0), being one of the earliest dinosaur lineages to arise and having a worldwide distribution throughout the entire Mesozoic, they displayed a wide diversity of forms and adaptations during their long reign.  In this post I'll discuss a selection of a few particularly interesting sauropod genera.
