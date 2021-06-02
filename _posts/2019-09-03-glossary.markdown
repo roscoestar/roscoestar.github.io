@@ -157,6 +157,26 @@ A **plagiopatagium** (“plagio” means “flat”) is a membrane between a fin
 
 **Adelphophagy** is the practice of an embryo eating other embryos while still in the womb.
 
+**Durophagy** is the practice of eating hard foods, such as shellfish or bones.  They often need specialized stout teeth to crush these materials.
+
+**Myrmecophagy** is the practice of eating colonial insects.  Examples include anteaters, armadillos, pangolins, numbats, and aardwolves.
+
+**Heterodont dentition** is when an animal has many types of differently-shaped teeth for different purposes.  It's more common in mammals, but is also found in some reptiles.  For example, we humans have molars, premolars, incisors, and canines, while sharks just have a whole bunch of the same type of flat, serrated tooth.
+
+**Homodont dentition** is when an animal has just one type of tooth, repeated.  It's the ancestral condition, and is common in reptiles and less common but also found in mammals.
+
+**Gastroliths**, also known as gizzard stones, are rocks ingested on purpose by an animal that help grind up food in their stomach, or help decrease buoyancy in aquatic or semiaquatic animals.  Groups known to use gastroliths are herbivorous birds, crocodylians, pinnipeds (seals and sea lions), some amphibians, sauropods, certain theropods, and plesiosaurs.
+
+A **xerocole** is an animal specialized for life in a desert environment.
+
+**Diurnal** animals are active during the day.
+
+**Nocturnal** animals are active during the night.
+
+**Crepuscular** animals are active during dawn and dusk.
+
+**Cathemeral** animals are active at sporadic times throughout the day and night.
+
 ### Integument
 **Integument** is the “covering” of an organism.  In animals, it refers to the skin, scales, fur, feathers, or other features on the outside of an animal.  In plants, it refers to the rind, husk, shell, etc.
 
@@ -224,6 +244,15 @@ A **plagiopatagium** (“plagio” means “flat”) is a membrane between a fin
 
 **Chitin** is a hard protein found in invertebrates' shells.  It is the invert equivalent of keratin.  Detecting keratin versus chitin is how scientists found out that the Tully Monster is probably a vertebrate.
 
+### Reproductive strategies
+**Precocial** animals are relatively capable when born, and have a short period of dependence on parents, if any.  Examples include chickens, horses, crocodiles, and pterosaurs.  Animals that are extremely precocial and must fight for their lives immediately after hatching, like sea turtles and brush turkeys, are known as **superprecocial**.
+
+**Altricial** animals are helpless when born and have an extended childhood during which they depend on their parents for food, protection, and education.  This strategy allows for adults with wider skillsets than precociality, but requires parental investment.  Examples include songbirds, dogs, and humans.
+
+**r-strategists** are animals that have many offspring and invest little or no parental care.  Offspring of r-strategists are often precocial, but not always.  Examples include clams, many fish, rats, and others.  
+
+**K-strategists** are animals that have few offspring and invest lots of care.  Offspring of K-strategists are often altricial, but not always.  Examples include elephants, sharks, humans, and others.
+
 ### Miscellaneous
 **“Splitters”** are paleontologists who habitually like to create more taxonomic groups.  **“Lumpers”** are paleontologists who like to group other groups together and have less groups.
 
@@ -231,11 +260,9 @@ The **Bone Wars** were a period in the late 1800s (the “Gilded Age” of Ameri
 
 A **niche** is a general role that an ecosystem makes available for organisms to live within.  If two organisms occupy the same niche, they will compete, resulting either in the local extinction of one, or the partitioning of the niche into two niches through increased specialization.  For example, in the Mesozoic, ornithopods filled the niche of medium-sized grazer; in the Cenozoic, this niche is filled by cows and other ruminants.
 
-**Heterodont dentition** is when an animal has many types of differently-shaped teeth for different purposes.  It's more common in mammals, but is also found in some reptiles.  For example, we humans have molars, premolars, incisors, and canines, while sharks just have a whole bunch of the same type of flat, serrated tooth.
+**Niche assimilation** is when one species fills multiple niches at different points in its development, so effectively that it actually decreases overall species diversity in the environment.
 
 A **junior synonym** happens when a new genus is described based on a new fossil (e.g. *Stygimoloch*) but later found to belong to an existing genus (e.g. *Pachycephalosaurus*).  This can happen when the new fossil is a juvenile that looks different from the adult form, an elderly individual that looks different from the norm, or when the new fossil is re-analyzed later and is found to be just not different enough to merit its own genus.  The “junior” part of the term comes from the practice that the name that’s published first (the senior synonym) takes precedence.  In 2010, a study tried to lump *Torosaurus* as fully mature *Triceratops*; in that case, even though *Torosaurus* are older individuals than *Triceratops*, the name “*Triceratops*” was published first, so it would be the senior synonym while *Torosaurus* would be the junior synonym.  However, other studies have since refuted this claim.
-
-**Gastroliths**, also known as gizzard stones, are rocks ingested on purpose by an animal that help grind up food in their stomach, or help decrease buoyancy in aquatic or semiaquatic animals.  Groups known to use gastroliths are herbivorous birds, crocodylians, pinnipeds (seals and sea lions), some amphibians, sauropods, certain theropods, and plesiosaurs.
 
 **Radiation** is when a lineage of organisms diversifies and many new species arise in order to fill open niches.  Radiation events often occur after extinction events, since many niches are left open by the organisms that didn’t make it, and other organisms rush to fill the space.
 
@@ -244,6 +271,10 @@ A **junior synonym** happens when a new genus is described based on a new fossil
 **Ontogeny Recapitulates Phylogeny** is the outdated theory (also known as Recapitulation Theory) that ontogeny, specifically embryonic development, mirrors the evolutionary process the organism's ancestors went through.  For example, in the very early stages of development, human embryos look very similar to those of a more "primitive" animal, like a fish, and as the human embryo grows it goes through developmental stages that correspond to looking like an amphibian, a reptile, etc.  This is much more of an effect than a cause, however, and does not hold up under all (or even most) conditions.  Now it's just a well-known "biological myth".
 
 **Neoteny** is the retention of juvenile traits into adulthood, and is one method by which evolution can take a giant leap forward.  For example, our closest invertebrate relatives, the sea squirts, are sessile as adults, but have a larval form that is free-swimming and has a primitive backbone.  A long time ago, one of these larvae refused to grow up, and became a free-swimming, backboned adult.  This was such a successful strategy that that one critter was able to become the ancestor of all vertebrates.
+
+**Isometry** means an animal maintains the same proportions as it grows: the young are like mini adults.
+
+**Allometry** means an animal changes its proportions as it grows, since different body parts grow at different rates.  For example, a human baby's head and eyes are proportionally much bigger than an adult's, and a baby's arms and legs are proportionally much shorter.  The proportions change as the baby grows up.
 
 A **Lagerstätte** (meaning “storage place”) is a fossil deposit with exquisite preservation.  Famous examples include the Burgess Shale, Ghost Ranch, and the La Brea Tar Pits.
 
@@ -260,3 +291,7 @@ A **ghost lineage** is a line of descent we know must exist because we have foss
 **Exaptation** is when a trait used for one thing is co-opted for another purpose.  For example, opposable thumbs are useful for swinging between branches, but also for making tools and manipulating small objects.
 
 The **semilunate carpal** is a bone found in the wrists of birds and their close relatives, which allows them to fold their wings the way they do.  It's a carpal shaped like a half moon, hence the name.  For more info on how bird wings work, check out my [wing anatomy post](https://obscuredinosaurfacts.com/blog/post/2020/11/18/wings.html)!
+
+**Insular dwarfism** and **insular gigantism** are phenomena that occur when a population of animals isolated from the main population, often on an island.  The small often become large due to lack of predation, and the large become small due to scarcity of resources, leading to situations where ducks are similar height to elephants.
+
+**Preservation bias** is the concept that some organisms, and some parts of organisms, fossilize better than others.  This leads to systematic over- or underrepresentation of certain organisms in the fossil record, which we have to account for when trying to figure out the composition of an ancient ecosystem.

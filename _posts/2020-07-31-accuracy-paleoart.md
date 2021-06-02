@@ -22,7 +22,7 @@ There's definitely a whole lot of underinformed, unscientific paleoart out there
 
 To me, those low-seriousness applications aren't a big problem though, since no one really expects scientific rigor from a birthday card.  It's a worse problem when someone who is trying to do actual scientific paleoart, instead of reading scientific papers and looking at fossils and drawing conclusions themselves, just looks at existing paleoart and copies another artist's assumptions and research.  This is super common, especially in coffeetable books that are supposed to be scientific, because it's much easier to do "research" that way, but it leads to the creation of paleoart "memes"--assumptions that are super widespread but may have no basis in fact.  Here's a very sarcastic infographic highlighting a lot of memes that are common when drawing "raptor" dinosaurs:
 
-![sarcastic-infographic](/assets/images/posts/sarcastic-infographic.jpg)
+{% include image-caption.html imageurl="/assets/images/posts/sarcastic-infographic.jpg#wide" title="how not to draw dinosaurs" caption="Always draw a feather mohawk. Always!" %}
 
 And just so you know that this nonsensical stuff actually happens, here's an example of an artwork that was included in two supposedly scientific books for children, "Jurassic Giants: T. rex and Other Prehistoric Predators" and "Tyrannosaurus Rex and Other Ferocious Predators from the Mesozoic Era".
 
@@ -36,7 +36,7 @@ It looks way less monstrous and more like a real animal.
 
 Okay, but that doesn't answer the original question of which parts of a piece of art are speculative and which are known for a fact.  For a well-known genus like *Utahraptor* that's within a well-known family like Dromaeosauridae, almost all of the above picture is factual except the color, which is completely made up.  As an artist you could also take liberties with the shape of the nostril, how far down the snout and how far down the legs the downy feathers go, and the overall thickness of the feather covering, but for a lot of dinosaurs even the number and placement of the big wing and tail feathers is known in detail.
 
-For a lot of less well-known taxa, there's a lot of speculation that goes on.  Here's an example of a less completely known but still relatively well-understood genus, Aucasaurus:
+For a lot of less well-known taxa, there's a lot of speculation that goes on.  Here's an example of a less completely known but still relatively well-understood genus, *Aucasaurus*:
 
 ![aucasaurus](/assets/images/posts/aucasaurus.png)
 ![clumsy-auca](/assets/images/posts/clumsy-auca.png)
