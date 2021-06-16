@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nonfiction Book Reviews"
-tags: [Miscellaneous, Tips]
+tags: [Literature, Tips]
 date:   2021-03-24 00:02:08 -0700
 categories: blog post
 featured_image_thumbnail:
