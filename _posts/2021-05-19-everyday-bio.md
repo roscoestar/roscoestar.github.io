@@ -8,9 +8,6 @@ featured_image_thumbnail:
 featured_image: /assets/images/pages/teoxys.png
 ---
 
-<!-- ### Forces, coincidence, math
-
-I had a friend in college whose baby sister was in the "Why?" phase.  My friend did his best to answer her questions, but after awhile, if he didn't know the answer or was tired of formulating answers, he'd just say, "Because of forces."  I thought this strategy was funny, because you're almost never wrong if you just say "Because of forces."  But as I thought about it more I realized there are some situations that can't be explained by forces, but rather are because of coincidence or because of math.  Why is the sky blue? Because diatomic nitrogen is the most abundant gas in the atmosphere, and diatomic nitrogen is the same size as the wavelength of blue visible light, causing interference at that wavelength.  Why is it the same size as blue?  Coincidence.  Why is diatomic nitrogen the most abundant?  Forces.  Why do animals evolve?  Because animals with helpful adaptations are able to reproduce more on average than ones with harmful adaptations, and then the helpful adaptation genes are more prevalent in the next generation, and so on.  Why are they more prevalent?  Math.  As far as I've been able to tell, any why question can be boiled down to one of these three basic types. -->
 I was browsing Reddit and came across this comic, which I loved:
 
 ![can-cow-swim](/assets/images/posts/can-cow-swim.jpg)
