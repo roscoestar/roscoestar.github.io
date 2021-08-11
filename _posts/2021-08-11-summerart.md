@@ -2,7 +2,7 @@
 layout: post
 title:  "Summer Art 2021"
 tags: [Paleoart]
-date:   2021-08-10 01:43:08 -0700
+date:   2021-08-11 01:43:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/silesaurus.png
