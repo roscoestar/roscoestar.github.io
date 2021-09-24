@@ -6,8 +6,6 @@ date:   2021-08-11 01:43:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/silesaurus.png
-featured: true
-hidden: true
 ---
 
 I guess it makes sense that after halving my posting schedule in 2021, it would take twice as long to compile enough art for an art post.
