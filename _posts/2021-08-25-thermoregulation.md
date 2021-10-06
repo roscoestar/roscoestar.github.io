@@ -6,8 +6,6 @@ date:   2021-08-25 01:43:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/biarmosuchus.jpg
-featured: true
-hidden: true
 ---
 
 Thermoregulation, or animals' control of their body temperature or lack thereof, I've discussed before in my posts on [dinosaur fuzz](https://obscuredinosaurfacts.com/blog/post/2019/11/16/fuzz.html) and [the physics of the very large and very small](https://obscuredinosaurfacts.com/blog/post/2020/12/30/giants-lillis.html), but only in relation to particular phenomena and not as a concept in itself. In this post, I'll discuss the different strategies animals employ to thermoregulate, which groups tend to do what, and trends over evolutionary time.
