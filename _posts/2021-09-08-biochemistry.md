@@ -6,8 +6,6 @@ date:   2021-09-08 00:23:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/proburnetia2.png
-featured: true
-hidden: true
 ---
 
 Like a lot of people, I took AP Biology in high school, and memorized a bunch of stuff about the Krebs cycle and the electron transport chain and how mitochondria is...you know what it is. But I realized recently that I didn't actually have a sense for how metabolism actually worked--what happens to the components of food as you digest them, on a molecular level.  So, I did a bunch of research, and present to you a bird's eye overview of biochemistry.
