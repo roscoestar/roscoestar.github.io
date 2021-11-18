@@ -6,8 +6,6 @@ date:   2021-10-06 00:23:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/posts/dromornis.png
-featured: true
-hidden: true
 ---
 
 In the modern world, we currently have some pretty good flightless birds, such as the 150-kilogram ostrich (which only has two toes per foot--don't let poorly researched cartoons convince you it has three), the fearsome casqued cassowary, the giant cormorant, penguins of various stripes, and the kakapo (a New Zealand flightless parrot), just to name a few. But in the past, there have been many avian groups that have independently evolved both flightlessness and truly massive body sizes. This post will be a fly-by overview--sorry, a run-by side-view--of some of these impressive extinct birds: the phorusracids ("terror birds"), the gastornithiformes ("demon ducks"), the aepyornithids ("elephant birds"), and the dinornithiformes (moa). I'll also give honorable mention to a few additional large-bodied extinct relatives of living birds at the end.
