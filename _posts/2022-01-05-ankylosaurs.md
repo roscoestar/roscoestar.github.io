@@ -62,7 +62,7 @@ If you thought *Spicomellus* was weird, just you wait--the new description of a 
 
 {% include image-caption.html imageurl="/assets/images/posts/macuahuitl.jpg" title="macuahuitl" caption="Unlike most pre-modern civilizations, the Aztecs used obsidian weapons instead of iron or bronze. Is obsidian better? Maybe, but I'm pretty sure the Aztecs didn't use iron or bronze at all. Why? I don't know, I'm interested in natural history, not human history!" %}
 
-Not only was this type of tail unheard of before this discovery, it was also unthought of.  But it sort of makes sense--since we see biological analogues to other weapons such as clubs (ankylosaurs, glyptodonts), spiked maces (stegosaurs), whips (diplodocids), battle-axes (terror birds), boxing gloves (mantis shrimp), shields (ceratopsians, turtles, and others), and spears (elephants and others), why not expect a macuahuitl to show up somewhere in the history of life? And for that matter, why not a sword or some even stranger weapon like nunchaku?
+Not only was this type of tail unheard of before this discovery, it was also unthought of.  But it sort of makes sense--since we see biological analogues to other weapons such as clubs (ankylosaurs, glyptodonts), spiked maces (stegosaurs), whips (diplodocids), battle-axes (terror birds), boxing gloves (mantis shrimp), shields (ceratopsians, turtles, and others), and spears (elephants and others), why not expect a macuahuitl to show up somewhere in the history of life? And for that matter, why not a sword or some even stranger weapon like nunchaku? 
 
 ![stegouros2](/assets/images/posts/stegouros2.webp)
 
