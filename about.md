@@ -20,4 +20,7 @@ I have a few items available to buy:
 <a class="gumroad-button" href="https://roscoestar.gumroad.com/l/birdbook">Buy Bird Book</a>
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://roscoestar.gumroad.com/l/UDrLI">Buy Alphabestiary</a>
+<a class="gumroad-button" href="https://roscoestar.gumroad.com/l/alphabestiary">Buy Alphabestiary</a>
+
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://roscoestar.gumroad.com/l/pocketalphabestiary">Buy Pocket Alphabestiary</a>
