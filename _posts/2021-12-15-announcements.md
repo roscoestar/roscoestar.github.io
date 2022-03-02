@@ -6,8 +6,6 @@ date:   2021-12-11 09:23:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/posts/birb5.png
-featured: true
-hidden: true
 ---
 
 Hi, just a quick post today. First, MERCH! I know it's a little close to Christmas, but hopefully these make good gifts any time of year. I have a dinosaur coloring book, a deck of cards featuring my bird illustrations with accompanying personalities, a paperback book of bird illustrations with information about each one, and a book version of my [Alphabestiary](https://obscuredinosaurfacts.com/blog/post/2020/03/23/alphabestiary.html) post.  Update: and now also a "pocket" alphabestiary, with 26 new dinosaurs and minimalist illustrations!
