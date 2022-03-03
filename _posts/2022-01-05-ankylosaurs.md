@@ -6,8 +6,6 @@ date:   2022-01-05 09:23:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/pages/stegouros.png
-featured: true
-hidden: true
 ---
 
 You've probably heard of *Ankylosaurus*, the club-tailed, low-slung, armored, tank-like dinosaur that lived alongside *Tyrannosaurus* and *Triceratops*.  Its larger family, the Thyreophora ("shield bearers"), contains Stegosauria (plate-backed, tiny-headed dinosaurs, including *Stegosaurus*), which split from ankylosaurs in the Early or Middle Jurassic and peaked in the Late Jurassic, and Ankylosauria, which is split into Nodosauridae (clubless armored dinosaurs like *Borealopelta* and *Denversaurus*) and Ankylosauridae (club-tailed armored dinosaurs like *Zuul* and *Ankylosaurus*).  Those groups were relatively well-separated and believed to be well-understood until very recently, when two brand-new, *very weird* basal ankylosaurs were described at the very end of 2021: *Stegouros* and *Spicomellus*.
