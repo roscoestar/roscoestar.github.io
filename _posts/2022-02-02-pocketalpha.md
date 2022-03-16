@@ -6,8 +6,6 @@ date:   2022-02-02 06:23:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/posts/alphacover.png
-featured: true
-hidden: true
 ---
 
 I'm getting married soon, and of course we have to have something dinosaur-themed at the wedding. Instead of the tables at the reception being numbered, I thought I'd do a minimalist take on a second Alphabestiary and make the tables named after dinosaurs. Unlike the first Alphabestiary, in which I picked the dinosaurs with the weirdest names for each letter, I chose these dinosaurs as being the most edifying to a beginner--representative of many important clades, and a little obscure but not too obscure.  Here's a sneak preview!
