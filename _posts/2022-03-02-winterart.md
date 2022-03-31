@@ -6,8 +6,6 @@ date:   2022-03-02 00:01:05 -0700
 categories: post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/chasmaporthetes.png
-featured: true
-hidden: true
 ---
 
 {% include image-caption.html imageurl="/assets/images/posts/paraxeni.gif#wide" title="Paraxenisaurus" caption="This is an animation based on one of my Inktober 2020 drawings. A sad Paraxenisaurus (a deinocheirid) mopes in a storm."%}
