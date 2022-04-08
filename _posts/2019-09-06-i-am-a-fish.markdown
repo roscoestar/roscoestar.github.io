@@ -13,29 +13,29 @@ Unfortunately, real life is not that clear-cut.  Life often defies classificatio
 
 Before we jump into the big mess that is the phylogenetic tree of life, let’s go over how cladistics works with a small-scale example.  Let’s say we have two species of alien who live on an island: the Greebs and the Cloobs.  Greebs and Cloobs look pretty similar, except Greebs are green, and Cloobs are red, and they are incapable of breeding with each other.
 
-{% include image-caption.html imageurl="/assets/images/pages/i-am-a-fish-1.1.png" title="fig1" caption="Figure 1. A Cloob (left) and a Greeb (right)." %}
+{% include image-caption.html imageurl="/assets/images/posts/i-am-a-fish-1.1.png" title="fig1" caption="Figure 1. A Cloob (left) and a Greeb (right)." %}
 
 One day, a child is born to Cloob parents who is much greener than usual.  In fact, this baby Cloob is greener than many Greebs!  Would you call this unusual green Cloob, a Greeb?  No.  It’s still a Cloob, because its parents are Cloobs, and their parents are also Cloobs.  The fact that it looks sort of like a Greeb is irrelevant.
 
-{% include image-caption.html imageurl="/assets/images/pages/i-am-a-fish-1.2.png" title="fig2" caption="Figure 2. Two Cloob parents and their mutant green-Cloob child." %}
+{% include image-caption.html imageurl="/assets/images/posts/i-am-a-fish-1.2.png" title="fig2" caption="Figure 2. Two Cloob parents and their mutant green-Cloob child." %}
 
 At some point, a group of Greebs moves to a different island.  Over time, they become more and more orange (because the island's plants are all orange, of course).  They start calling themselves Graps.  Are the Graps no longer Greebs?  From a phylogenetic standpoint, no--they are just a subset of Greebs, because their ancestors at one point were Greebs.
 
-{% include image-caption.html imageurl="/assets/images/pages/i-am-a-fish-1.3.png" title="fig3" caption="Figure 3. A Greeb (left), a Grap (right), and a transitionary form (Greep?) (center)." %}
+{% include image-caption.html imageurl="/assets/images/posts/i-am-a-fish-1.3.png" title="fig3" caption="Figure 3. A Greeb (left), a Grap (right), and a transitionary form (Greep?) (center)." %}
 
 A human scientist lands on this planet, and observes the Graps and Greebs and Cloobs.  She sees that Graps and Cloobs are pretty close in color, so she creates a phylogenetic clade called Warmcolorites that includes Graps and Cloobs, but not Greebs.  Is this a valid classification?  No!  Any group that includes Graps and Cloobs must also include Greebs!  Why? See the tree below:
 
-{% include image-caption.html imageurl="/assets/images/pages/i-am-a-fish-1.4.png" title="fig4" caption="Figure 4. A phylogenetic tree showing the lineage of Cloobs, Graps, and Greebs.  The magenta circle indicates the proposed 'Warmcolorite' clade." %}
+{% include image-caption.html imageurl="/assets/images/posts/i-am-a-fish-1.4.png" title="fig4" caption="Figure 4. A phylogenetic tree showing the lineage of Cloobs, Graps, and Greebs.  The magenta circle indicates the proposed 'Warmcolorite' clade." %}
 
 What the scientist is proposing is known as a **polyphyletic** group.  That’s just a fancy word that means you’ve decided to include and exclude groups more or less at random, instead of including all members of a certain branch of the tree.  The only **monophyletic** clades you could make out of this tree are the clade including Graps and Greebs but excluding Cloobs, and the clade including all three groups.
 
 Now we’re ready to figure out why I am a fish.  Handily, we can use the exact same picture:
 
-{% include image-caption.html imageurl="/assets/images/pages/i-am-a-fish-1.5.png" title="fig5" caption="Figure 5. A phylogenetic tree showing the lineage of goldfish, coelacanths, and humans.  The magenta circle indicates the polyphyletic group commonly known as 'fish'." %}
+{% include image-caption.html imageurl="/assets/images/posts/i-am-a-fish-1.5.png" title="fig5" caption="Figure 5. A phylogenetic tree showing the lineage of goldfish, coelacanths, and humans.  The magenta circle indicates the polyphyletic group commonly known as 'fish'." %}
 
 Most people agree that goldfish are an example of fish, and coelacanths are also an example of fish.  But we humans (in fact all tetrapods--amphibians, reptiles, and mammals) shared a common ancestor with coelacanths more recently than either us or coelacanths shared a common ancestor with goldfish!  That makes a group including goldfish and coelacanths but not us polyphyletic, and the way to remedy that is to either decide that we are fish (which is a little weird) or that coelacanths aren’t fish (which is weirder!).
 
-{% include image-caption.html imageurl="/assets/images/pages/you-are-a-fish.png" title="you are" caption="Believe it or not, I did not make this meme." %}
+{% include image-caption.html imageurl="/assets/images/posts/you-are-a-fish.png" title="you are" caption="Believe it or not, I did not make this meme." %}
 
 #### Note 1
 The leftmost group, including just the goldfish, is called Actinopterygii (“ACT-in-OP-ter-EE-jee-ai”), or ray-finned fish.  The branch including humans and coelacanths is called Sarcopterygii (“sar-COP-ter-EE-jee-ai”), or lobe-finned fish.  Above this is another level of creatures people commonly call fish--the sharks and rays, or Chondrichthyes (“cond-RIK-theez”), cartilaginous fish.  Goldfish are more closely related to us than they are to sharks.
