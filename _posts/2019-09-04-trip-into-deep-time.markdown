@@ -253,7 +253,7 @@ The Triassic period ended with another mass extinction, which wiped out much of 
 #### What did our ancestors look like?
 Our Jurassic ancestor looked like *Docodon*, another rodent-like early mammal, while birds’ ancestor looked like *Archaeopteryx*, a dinosaur.  *Archaeopteryx* shared certain traits with modern birds, such as feathers, wings, and flight, but certain traits were still basal, such as a long stiff tail and lack of a keratinous beak.  Now the lineage of birds has split from that of the non-avian dinosaurs.
 
-{% include image-caption.html imageurl="/assets/images/posts/docodon.jpg" title="docodon" caption="Docodon, another rat-like mammaliform." %}
+{% include image-caption.html imageurl="/assets/images/posts/docodon.png" title="docodon" caption="Docodon, another rat-like mammaliform." %}
 
 ### The Cretaceous Period: Dinosaurs get really cool (145-66 million years ago)
 Unlike the Permian and the Triassic, which ended with mass extinctions, the Jurassic slid unnoticeably into the Cretaceous as dinosaurs continued to become more derived.  In addition to crowd favorites such as *Ankylosaurus*, *Triceratops*, *Tyrannosaurus*, and *Velociraptor*, there were unusual creatures like *Spinosaurus*, a sail-backed semiaquatic predator, and *Carnotaurus*, a bull-horned, short-faced predator.  Azhdarchid pterosaurs ruled the skies--*Quetzalcoatlus* was as big as a giraffe!--and mosasaurs, giant aquatic lizards, ruled the seas.
