@@ -6,8 +6,6 @@ date:   2022-03-16 00:08:08 -0700
 categories: post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/diplo-lady.png
-featured: true
-hidden: true
 ---
 
 I recently had my bachelorette party, and where better to go than Denver, the land of skiing and dinosaurs? (Unconventional, I know.) One of the major draws was the famous Denver Museum of Nature and Science, possibly the best paleontology museums in the country (the other candidate being the Field Museum in Chicago). I was super impressed by the wealth of real fossils on display--not only were their enormous mounted skeletons 50-80% real bone, they even had individual specimens I'd read papers about, like *Icaronycteris* the transitional bat and an *Edmontosaurus* skin impression. But of course it wasn't quite perfect--some of the artistic choices and mounting postures were outdated or questionable. In this post I'll give my opinion on a few of the Mesozoic exhibits!
