@@ -28,7 +28,7 @@ The lineart for this was actually done by [u/SandHanitizer55 on Reddit](https://
 
 {% include image-caption.html imageurl="/assets/images/posts/desmato.png#wide" title="Desmatosuchus" caption="Desmatosuchus, in the coloration of the Pokémon Avalugg."%}
 
-This was one of the pieces I did for my post on [the paleontological merits of fossil Pokémon](https://obscuredinosaurfacts.com/blog/post/2021/05/05/pokemon.html). *Desmatosuchus* was the largest known aetosaur, a family of pig-nosed, low-slung, armored, herbivorous croc relatives from the Triassic, and it, crossed with a tabular iceberg, was the inspiration for the sixth-generation Pokémon Avalugg.
+This was one of the pieces I did for my post on [the paleontological merits of fossil Pokémon](https://obscuredinosaurfacts.com/blog/post/2021/05/05/pokemon.html). *Desmatosuchus* was the largest known aëtosaur, a family of pig-nosed, low-slung, armored, herbivorous croc relatives from the Triassic, and it, crossed with a tabular iceberg, was the inspiration for the sixth-generation Pokémon Avalugg.
 
 {% include image-caption.html imageurl="/assets/images/posts/amarga.png#wide" title="Amargasaurus" caption="Amargasaurus, in the coloration of the Pokémon Aurorus."%}
 

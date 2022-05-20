@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'All Todays' Explained"
-tags: [Miscellaneous, Paleoart]
+tags: [Literature, Paleoart]
 date:   2020-09-16 00:02:08 -0700
 categories: blog post
 featured_image_thumbnail:

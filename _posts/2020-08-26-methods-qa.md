@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scientific Methods Q&A"
-tags: [Miscellaneous, Taphonomy]
+tags: [Science, Taphonomy]
 date:   2020-08-26 00:02:08 -0700
 categories: blog post
 featured_image_thumbnail:

@@ -153,6 +153,8 @@ A **plagiopatagium** (“plagio” means “flat”) is a membrane between a fin
 
 **Saltatorial** creatures are optimized for hopping, such as kangaroos, jerboas, and *Scleromochlus*.  This is particularly common among desert-dwelling creatures.
 
+**Graviportal** creatures are optimized for being massive and have specialized skeletal structures for carrying their weight around. The groups that have done this the most successfully are elephants and sauropods.
+
 **Oophagy** is the practice of an embryo eating unfertilized eggs while still in the womb.
 
 **Adelphophagy** is the practice of an embryo eating other embryos while still in the womb.
@@ -176,6 +178,22 @@ A **xerocole** is an animal specialized for life in a desert environment.
 **Crepuscular** animals are active during dawn and dusk.
 
 **Cathemeral** animals are active at sporadic times throughout the day and night.
+
+**Estivation** is the habit of entering a state of torpor when it's too hot. **Hibernation** is entering a state of torpor when it's too cold.
+
+### Thermoregulation
+
+**Endothermy** (meaning "internal heat") is warm-bloodedness, or keeping your body temperature higher than the environment at almost all times.
+
+**Ectothermy** (meaning "external heat") is cold-bloodedness, or allowing your body temperature to change to match the environment.
+
+**Homeothermy** (meaning "same heat") refers to endotherms that can't hibernate, estivate, or achieve a state of torpor.
+
+**Heterothermy** (meaning "different heat") refers to endotherms that can hibernate, estivate, go into torpor, or otherwise temporarily change their body temperature.
+
+**Mesothermy** (meaning "middle heat") refers to an intermediate state between endo- and ectothermy. Some examples of animals that are sometimes considered mesotherms are monotremes (platypuses and echidnas), lamniform sharks (like makos and great whites), billfish (swordfish and marlins), leatherback sea turtles, and sauropod dinosaurs.
+
+**Gigantothermy** (meaning "gigantic heat") refers to animals that maintain a high body temperature just by being enormous, despite a relatively slow metabolism. Larger gigantotherms run hotter, which is not true of endotherms.  Examples include leatherback sea turtles and sauropod dinosaurs.
 
 ### Integument
 **Integument** is the “covering” of an organism.  In animals, it refers to the skin, scales, fur, feathers, or other features on the outside of an animal.  In plants, it refers to the rind, husk, shell, etc.
@@ -218,6 +236,11 @@ A **xerocole** is an animal specialized for life in a desert environment.
 
 **Megafauna** is a not-very-well-defined term that usually refers to any animals human-sized or larger.
 
+### Plants
+**Angiosperms** (meaning "vessel seed") are flowering and fruiting plants. They are the dominant type of plant on the planet today, and arose in the Cretaceous Period.  This includes obvious things like flowers and fruits, but also grasses, grains (which are a type of grass), cacti, and palm trees.
+
+**Gymnosperms** (meaning "naked seed") are non-flowering seed plants, including conifers, ginkgos, and cycads. They are the second most common terrestrial plant today, only dominating in certain ecosystems like taiga, but they include the tallest organisms on earth, and the second-longest-lived (giant basal spicule sponges get older).
+
 ### Prehistoric Radiation and Extinction Events
 **The Great Oxidation Event** was an extinction event that ended the Archean Eon and kicked off the Proterozoic.  During the Archean (4 to 2.5 billion years ago), life consisted of many types of chemosynthetic prokaryotes (simple single-celled organisms), including some photosynthesizers that produced oxygen.  During the Great Oxidation Event, the photosynthesizers exponentially multiplied and took over, creating so much oxygen that many of the anaerobic organisms went extinct, and, due to chemical reactions involving oxygen, creating the first “Snowball Earth” (Huronian glaciation).
 
@@ -253,6 +276,17 @@ A **xerocole** is an animal specialized for life in a desert environment.
 
 **K-strategists** are animals that have few offspring and invest lots of care.  Offspring of K-strategists are often altricial, but not always.  Examples include elephants, sharks, humans, and others.
 
+**Sexual dimorphism** is when the males and females of one species are physically different from one another in ways apart from genitalia. Depending on how close to monogamous an animal is, this ranges from zero sexual dimorphism in purely monogamous species like gibbons and crows, to mild sexual dimorphism in close-to-monogamous species like humans (males are larger and have facial hair), to extreme sexual dimorphism in harem-forming species like peacocks and elephant seals, in which the male and female are often mistaken for two different species.
+
+### Growth and development
+**Ontogeny** is the way an organism grows and changes as it gets older.  Most creatures don’t retain the same proportions when old as they had when young--for example, human babies have gigantic heads in proportion to their bodies compared to adults.  An **ontogenetic sequence** is a picture showing various life stages of an organism.
+
+**Neoteny** is the retention of juvenile traits into adulthood, and is one method by which evolution can take a giant leap forward.  For example, our closest invertebrate relatives, the sea squirts, are sessile as adults, but have a larval form that is free-swimming and has a primitive backbone.  A long time ago, one of these larvae refused to grow up, and became a free-swimming, backboned adult.  This was such a successful strategy that that one critter was able to become the ancestor of all vertebrates.
+
+**Isometry** means an animal maintains the same proportions as it grows: the young are like mini adults.
+
+**Allometry** means an animal changes its proportions as it grows, since different body parts grow at different rates.  For example, a human baby's head and eyes are proportionally much bigger than an adult's, and a baby's arms and legs are proportionally much shorter.  The proportions change as the baby grows up.
+
 ### Miscellaneous
 **“Splitters”** are paleontologists who habitually like to create more taxonomic groups.  **“Lumpers”** are paleontologists who like to group other groups together and have less groups.
 
@@ -266,15 +300,7 @@ A **junior synonym** happens when a new genus is described based on a new fossil
 
 **Radiation** is when a lineage of organisms diversifies and many new species arise in order to fill open niches.  Radiation events often occur after extinction events, since many niches are left open by the organisms that didn’t make it, and other organisms rush to fill the space.
 
-**Ontogeny** is the way an organism grows and changes as it gets older.  Most creatures don’t retain the same proportions when old as they had when young--for example, human babies have gigantic heads in proportion to their bodies compared to adults.  An **ontogenetic sequence** is a picture showing various life stages of an organism.
-
 **Ontogeny Recapitulates Phylogeny** is the outdated theory (also known as Recapitulation Theory) that ontogeny, specifically embryonic development, mirrors the evolutionary process the organism's ancestors went through.  For example, in the very early stages of development, human embryos look very similar to those of a more "primitive" animal, like a fish, and as the human embryo grows it goes through developmental stages that correspond to looking like an amphibian, a reptile, etc.  This is much more of an effect than a cause, however, and does not hold up under all (or even most) conditions.  Now it's just a well-known "biological myth".
-
-**Neoteny** is the retention of juvenile traits into adulthood, and is one method by which evolution can take a giant leap forward.  For example, our closest invertebrate relatives, the sea squirts, are sessile as adults, but have a larval form that is free-swimming and has a primitive backbone.  A long time ago, one of these larvae refused to grow up, and became a free-swimming, backboned adult.  This was such a successful strategy that that one critter was able to become the ancestor of all vertebrates.
-
-**Isometry** means an animal maintains the same proportions as it grows: the young are like mini adults.
-
-**Allometry** means an animal changes its proportions as it grows, since different body parts grow at different rates.  For example, a human baby's head and eyes are proportionally much bigger than an adult's, and a baby's arms and legs are proportionally much shorter.  The proportions change as the baby grows up.
 
 A **Lagerstätte** (meaning “storage place”) is a fossil deposit with exquisite preservation.  Famous examples include the Burgess Shale, Ghost Ranch, and the La Brea Tar Pits.
 
@@ -295,3 +321,7 @@ The **semilunate carpal** is a bone found in the wrists of birds and their close
 **Insular dwarfism** and **insular gigantism** are phenomena that occur when a population of animals isolated from the main population, often on an island.  The small often become large due to lack of predation, and the large become small due to scarcity of resources, leading to situations where ducks are similar height to elephants.
 
 **Preservation bias** is the concept that some organisms, and some parts of organisms, fossilize better than others.  This leads to systematic over- or underrepresentation of certain organisms in the fossil record, which we have to account for when trying to figure out the composition of an ancient ecosystem.
+
+**Coevolution** is when two or more species influence each other's evolutionary paths, resulting in highly specialized and complex interactions between them. Examples include leafcutter ants and their cultivated fungi, humans and domestic plants, mistletoebirds and mistletoe, and flowering plants and pollinators.
+
+The **RNA World Hypothesis** is the leading explanation for how life arose from nonliving substances on early Earth. RNA and phospholipid membranes are compounds that spontaneously arise under certain conditions, and RNA is able to act as a catalyst for certain other chemical reactions. If one of those reactions was making more of itself, natural selection comes into play and life is born.

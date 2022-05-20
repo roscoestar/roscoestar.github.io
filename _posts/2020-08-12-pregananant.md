@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pregnancy Is Super Weird"
-tags: [Biology, Evolution]
+tags: [Biology, Math]
 date:   2020-08-12 01:15:08 -0700
 categories: blog post
 featured_image_thumbnail:

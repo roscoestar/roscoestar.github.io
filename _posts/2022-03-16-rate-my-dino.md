@@ -15,7 +15,7 @@ There were two exhibits featuring *Coelophysis*, the snake-necked Triassic dinos
 
 ![coelophysis-skeleton](/assets/images/posts/coelophysis-skeleton.png)
 
-The skeletons I'd give a 7 out of 10: they are entirely complete, including the belly ribs known as **gastralia**, and are mounted well, with no posture impossibilities (the hands and arms are oriented correctly, the scauplocoracoid (shoulder girdle) is connected in front, the legs are wide enough to leave room for a body cavity). And the mural is pretty good as well, depicting the **phytosaur** (croc mimic) *Redondasuchus* and the **aetosaur** (armored croc) *Desmatosuchus* as well as a living *Coelophysis*. The two croclike animals are depicted accurately; my only gripes are that *Coelophysis* has pronated hands (palms facing backward or downward rather than inward), is scaly rather than fluffy, and has a weird hunchback. Minus three points.
+The skeletons I'd give a 7 out of 10: they are entirely complete, including the belly ribs known as **gastralia**, and are mounted well, with no posture impossibilities (the hands and arms are oriented correctly, the scauplocoracoid (shoulder girdle) is connected in front, the legs are wide enough to leave room for a body cavity). And the mural is pretty good as well, depicting the **phytosaur** (croc mimic) *Redondasuchus* and the **aëtosaur** (armored croc) *Desmatosuchus* as well as a living *Coelophysis*. The two croclike animals are depicted accurately; my only gripes are that *Coelophysis* has pronated hands (palms facing backward or downward rather than inward), is scaly rather than fluffy, and has a weird hunchback. Minus three points.
 
 Unfortunately, the *Coelophysis* skin is worse:
 
