@@ -2,7 +2,7 @@
 layout: post
 title:  "Radiometric Dating Explained"
 tags: [GeologicTime, Math]
-date:   2022-05-25 19:23:08 -0700
+date:   2022-05-25 08:23:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/posts/ink-2020-4.jpg
