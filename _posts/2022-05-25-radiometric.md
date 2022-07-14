@@ -6,8 +6,6 @@ date:   2022-05-25 08:23:08 -0700
 categories: profile
 featured_image_thumbnail:
 featured_image: /assets/images/posts/ink-2020-4.jpg
-featured: true
-hidden: true
 ---
 
 Radiometric dating is the process by which scientists use radioactive trace elements to determine the age of fossils and artifacts (carbon dating is a type of radiometric dating). It's a super fundamental concept in paleontology, geology, archaeology, and astronomy--it's how we know the age of the earth, how we can put the history of life into an organized timeline called the geologic time scale, and provides clues about all kinds of other long-term geologic processes like continental drift and the formation of mountains and ocean rifts.  However, how radiometric dating actually works is not only a little hard to understand, but extremely hard to research; it took me a lot of sources and fortuitous encounters of keywords to put together a comprehensive picture. In this post, I'll compile all that into a single place, so that people like me trying to understand it in the future will have a one-stop answer!
