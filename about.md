@@ -24,3 +24,6 @@ I have a few items available to buy:
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://roscoestar.gumroad.com/l/pocketalphabestiary">Buy Pocket Alphabestiary</a>
+
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://roscoestar.gumroad.com/l/izbxv">Buy Deck of Dinosaurs</a>
