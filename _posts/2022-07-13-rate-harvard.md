@@ -6,8 +6,6 @@ date:   2022-07-13 00:00:08 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/kronosaurus.png
-featured: true
-hidden: true
 ---
 
 I recently went on a trip to Boston to visit friends, and of course had to make a detour to see the Harvard Museum of Natural History, which was the home of the famed paleontologist Alfred Romer (of [Romer's Gap](https://obscuredinosaurfacts.com/blog/post/2020/11/11/concepts.html)) and houses the world's only mounted *Kronosaurus* skeleton. Paleontology is only a small slice of what the museum has to offer, with large anthropology, entomology, and art sections, but in this post I'll focus on the paleontology and evolution exhibit. How does it measure up?

@@ -99,7 +99,7 @@ Just for fun, here’s a list of the largest animals in various categories, from
 | Non-sauropod dinosaur          | *Shantungosaurus*                                                             | 16.6       | 16             |
 | Terrestrial mammal             | *Paraceratherium*                                                             | 7.4        | 15-20          |
 | Terrestrial predator           | *Tyrannosaurus, Giganotosaurus, Mapusaurus, Carcharodontosaurus, Spinosaurus* | 12-18      | 8-14           |
-| Living terrestrial animal      | African elephant                                                              | 4          | 6              |
+| Living terrestrial animal      | African elephant                                                              | 4          | 6-10           |
 | Living terrestrial predator    | Saltwater crocodile                                                           | 6          | 1              |
 | Terrestrial mammalian predator | *Andrewsarchus*                                                               | 3          | 1              |
 
