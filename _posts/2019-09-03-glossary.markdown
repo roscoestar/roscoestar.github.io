@@ -71,6 +71,8 @@ A **paraphyletic group** is a group that contains all the descendants of a commo
 
 A **polyphyletic** group is when you’re confused and doing it wrong and group organisms by something other than ancestry.  For example, a theoretical “Haemothermia” group, including all warm-blooded animals (most mammals and all birds), would be a polyphyletic group.
 
+A **wastebasket taxon** is a para- or polyphyletic group whose name continues to be used because the true structure of the phylogenetic tree isn't known. Organisms of ambiguous affinity keep getting shunted into this group until the tree finally gets untangled later. Examples include "Insectivora", "Condylarthra", and possibly Symmetrodonta (though this one is still waiting to be untangled).
+
 A **crown-group** is a monophyletic group of living organisms connected by a common ancestor, and this ancestor, and all its other descendants.
 
 A **stem-group** is a paraphyletic group of all the extinct organisms that are more closely related to a certain crown-group than to other crown-groups.  For example, all dinosaurs can be called stem-birds; all synapsids can be called stem-mammals; metatherians can be called stem-marsupials, etc.
