@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dinosaur Photography"
+title:  "Dinosaur Photography: Neighborhood Birds"
 tags: [Photography, Dinosauria]
 date:   2020-08-19 00:02:08 -0700
 categories: blog post
