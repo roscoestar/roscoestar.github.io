@@ -68,7 +68,7 @@ I didn't have time this week to make new art--too busy preparing for Halloween!-
 - [Mbiresaurus 1](https://www.tumblr.com/i-draws-dinosaurs/694187028535001088/new-dinosaur-alert-presenting-mbiresaurus-raathi)
 - [Erythrovenator skeletal](https://en.wikipedia.org/wiki/Erythrovenator)
 - [Mbiresaurus 2](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22024c69-282d-46db-a031-52527d13ac52/dfcpy3k-46997051-6ec8-4da3-afae-44407907f869.png/v1/fill/w_1260,h_634,q_70,strp/mbiresaurus_by_themingau_dfcpy3k-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDY5NCIsInBhdGgiOiJcL2ZcLzIyMDI0YzY5LTI4MmQtNDZkYi1hMDMxLTUyNTI3ZDEzYWM1MlwvZGZjcHkzay00Njk5NzA1MS02ZWM4LTRkYTMtYWZhZS00NDQwNzkwN2Y4NjkucG5nIiwid2lkdGgiOiI8PTkzMTcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.yuo8m98QCN_CHrXOUgSHpNmaPcf-0LmIc9Ve2aCX11U)
-- [Pangaea](https://external-preview.redd.it/3KkeuBiCYWa1xWgOz_Tbh3hTqgCBosPiP_cJ47p4k_Q.jpg?auto=webp&s=5bbedfc8b3e2aeaf576073cd6bec114f7d44003b)
+- [Pangaea](https://mariolanzas.tumblr.com/)
 - [Gnathovorax](https://www.deviantart.com/uncommondiapsid/art/Yaguarete-898028480)
 - [Eodromaeus](https://www.deviantart.com/dinostavros/art/Eodromaeus-murphi-829615290)
 - [Nyasasaurus](https://i.insider.com/50be1239ecad04c059000002?width=2481)
