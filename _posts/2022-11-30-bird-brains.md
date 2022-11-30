@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Biology of the Bird Brain"
-tags: [Biology, Evolution]
+tags: [Biology, Dinosauria]
 date:   2022-11-30 00:10:08 -0700
 categories: post
 featured_image_thumbnail:

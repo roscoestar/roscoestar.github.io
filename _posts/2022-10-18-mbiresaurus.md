@@ -38,7 +38,7 @@ The *Mbiresaurus* specimens were collected alongside lots of other fossils of Tr
 
 During the Permian and Triassic periods, all the major landmasses were joined together in the supercontinent Pangea (sometimes spelled Pangaea), which was shaped like a "C" that straddled the equator. It was surrounded by the Panthalassic Ocean (literally meaning "all the seas"), and enclosed the Tethys sea, which is really a bay. To get a sense of where the modern landmasses fit into Pangaea, try this [interactive globe](https://dinosaurpictures.org/ancient-earth#220).  In *Mbiresaurus*'s time, Zimbabwe was at about the same latitude as southern Brazil, and was connected somewhat closely, explaining why we find similar animals in both places.
 
-![pangaea](/assets/images/posts/pangaea.jpg)
+![pangaea](/assets/images/posts/pangea.jpg)
 
 The enormous tropical Tethys bay was like the modern Caribbean on steroids.  Water has more thermal mass than land, so the bay's temperature remains high throughout the year, and since it's bounded on three sides by land, it's exposed to minimal currents that could equalize the temperature with the ocean outside. Because of the large temperature difference that shifted every half-year as the northern and southern parts of Pangea warmed and cooled, hot, moist air evaporating off the Tethys would be drawn alternately over each hemisphere in mega-monsoons, with brutal dry seasons in between. The middle of the "C" was dry year-round, forming an expansive desert. So while there were no major mountain ranges (though there was the moderate-height Central Pangean range, which included what would become the Appalachians and the Scottish Highlands), to hinder animal dispersal, they would still have been unable to walk from pole to pole.
 
