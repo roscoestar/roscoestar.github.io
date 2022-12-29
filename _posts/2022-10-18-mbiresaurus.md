@@ -6,8 +6,6 @@ date:   2022-10-17 09:23:08 -0700
 categories: post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/jaklapalli.png
-featured: true
-hidden: true
 ---
 
 Family tree: Dinosauria > Sauropodomorpha
