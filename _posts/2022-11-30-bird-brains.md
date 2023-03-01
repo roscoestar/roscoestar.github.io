@@ -6,8 +6,6 @@ date:   2022-11-30 00:10:08 -0700
 categories: post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/bird-skulls.png
-featured: true
-hidden: true
 ---
 
 Brains are *very* complicated. Throughout scientific history, there have been numerous theories about how they work and what the various parts do, and we're only beginning to scratch the surface of a more functional understanding. Here's a very well-written but very long [comic](https://waitbutwhy.com/2017/04/neuralink.html) on how the human brain works and why listening to and interacting with it is so hard.
