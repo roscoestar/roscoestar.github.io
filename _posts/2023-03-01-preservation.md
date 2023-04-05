@@ -34,6 +34,12 @@ Dozens of these tooth spirals have been unearthed with no body to connect them t
 
 ![helicoprion-2](/assets/images/posts/helicoprion.jpg)
 
+Another example that was in the news recently is the "Dunk Shrunk" paper. *Dunkleosteus* was a huge predatory armored fish from the Devonian Period (382-358 million years ago). It was a member of the **placoderms**, a group of fish that had cartilaginous internal skeletons like those of sharks, but bony exoskeletons on their faces and front part of their bodies. As a result, the face and chest armor are the only body parts known from most placoderms. Until recently, *Dunkleosteus*, the largest predatory placoderm, was thought to be similar in size and shape to a great white shark. However, a recent paper that utilizes a new body length estimation technique paints a very different picture:
+
+![dunk-shrunk](/assets/images/posts/dunk-shrunk.jpg)
+
+A hydrogen-bomb-shaped fish, a shape like that of no fish today! People are calling it "Chunkleosteus".
+
 Similarly, the famous giant shark *Megalodon* is known only from jaws and teeth. Who's to say it wasn't a modest-sized shark with a giant mouth? For pachycephalosaurs, or dome-headed dinosaurs such as the one in the page image, the cranial dome is usually the only thing that preserves.
 
 A somewhat opposite source of bias is the presence of **Lagerstätten**, or fossil sites that boast exceptional preservation, such as the [Yixian Formation](https://obscuredinosaurfacts.com/profile/2020/07/22/yixian.html) (Early Cretaceous) and the [Messel Pit](https://obscuredinosaurfacts.com/blog/post/2021/07/14/messel.html) (Eocene). These sites contribute disproportionate numbers of well-preserved fossils to the record, which makes it look like there's higher diversity and morphological disparity (differentiation in body shapes) at that time. However, for certain organisms that have delicate bodies, such as pterosaurs (flying reptiles) and bats, Lagerstätten are the *only* places that they preserve, which means that statistical analyses can't omit those fossil locales without deleting entire lineages.
@@ -124,3 +130,4 @@ Overall, more and more fossils getting added to the archive as science marches o
 ### Image Credits
 [Helicoprion fossil](https://en.wikipedia.org/wiki/Helicoprion)
 [Helicoprion diagram](http://www.prehistoric-wildlife.com/images/species/h/reconstructing-helicoprion.jpg)
+[Dunkleosteus](https://phys.org/news/2023-03-chunky-dunk-cleveland-prehistoric-sea.html)
