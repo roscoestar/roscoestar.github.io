@@ -6,8 +6,6 @@ date:   2023-03-01 00:00:02 -0700
 categories: post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/mountain-pachy.png
-featured: true
-hidden: true
 ---
 
 Becoming a fossil is a long and difficult journey. The organism has to die and be buried before scavengers and decomposers get at its body, it needs to avoid being crushed or melted through tectonic or volcanic activity, and then it must be eroded or lifted to the surface for scientists to find. With all these necessary and unlikely steps, it's not surprising that a tiny minority of all organisms that have ever lived end up in fossil collections--only a tenth of a percent of all *species* is estimated to enter the fossil record, and a fraction of that actually gets found. Luckily for science, though, billions upon billions of organisms have lived and died throughout the history of the earth, so fossils are relatively common. However, the types of organisms we find fossils from aren't necessarily representative of the population that lived in that time and place. The process of fossilization and discovery favors certain organisms over others in systematic ways, known as **preservation bias** and **sampling bias**. In this post, I'll go over how these biases affect our interpretation of the ancient world and how scientists attempt to overcome them.
