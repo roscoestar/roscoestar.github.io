@@ -6,8 +6,6 @@ date:   2023-06-07 00:01:08 -0700
 categories: post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/cooper-cartoon.png
-featured: true
-hidden: true
 ---
 
 I've lived with a cockatiel named Cooper for the better part of a year now, and I think I've gathered enough thoughts and experiences by now to write a blog post. This post will be about owning a parrot (being a "parront" in aviculture parlance); I won't be able to tell you what it's like to own chickens, ducks, or doves.
