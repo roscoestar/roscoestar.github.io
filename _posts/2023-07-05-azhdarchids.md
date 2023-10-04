@@ -6,8 +6,6 @@ date:   2023-07-05 00:01:08 -0700
 categories: post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/quetzal-portrait.jpg
-featured: true
-hidden: true
 ---
 
 Family tree: Ornithodira > Pterosauria > Pterodactyloidea > Azhdarchiformes > Azhdarchidae
