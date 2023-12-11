@@ -15,6 +15,9 @@ Why is the fallacy so common and widespread?  There is truth to the claim that s
 Appeals to nature have frequently been used to argue both sides of many historically important moral issues.  Homosexuality, interracial marriages, new technologies or drugs, industrialization, and living in cities have all been claimed to be unnatural, and therefore bad, to name a few examples.  However, despite the fact that a lot of these historical complaints have been either largely resolved and incorporated into our mainstream moral code, or forgotten about, the appeal to nature fallacy underlying the arguments has not been addressed.  So, it’s no surprise that people interested in modern issues continue to use the same fallacy to argue their points.
 
 ### Romanticizing the Hunter-Gatherer Lifestyle
+
+![cavemen](/assets/images/posts/dystopia.webp)
+
 One point that is frequently made in fiction and popular science, and is [very prevalent in the American psyche](https://tvtropes.org/pmwiki/pmwiki.php/Main/NobleSavage) (I can’t speak for other countries) is the idea that preagricultural humans were healthier, happier, and morally superior to their more technologically advanced counterparts.  It’s common wisdom that pre-colonial Native Americans respected the animals and ecology they depended on and took pains to use all parts of the animals and plants they hunted and foraged, and to never take more than they could use.  It’s also a frequently cited figure that modern hunter-gatherers only work 3-5 hours per day in order to forage enough to sustain themselves and their families, and that in the ample free time afforded by this lifestyle, they partake in more fun and social activities, and are therefore happier.  Humans have evolved naturally to live as hunter-gatherers, it is argued, so any deviation from this lifestyle makes us worse off.
 
 There are two main categories of argument against this view: that the hunter-gatherer lifestyle is actually worse in many ways than the postindustrial one, and that even hunter-gatherer humans did not live sustainably, and frequently drove local animal species to extinction.
@@ -71,3 +74,5 @@ I chose these examples because I thought they would be the most useful, balanced
 I hope this post has given you a better understanding of how we often employ the appeal to nature fallacy in our everyday perceptions and decisionmaking, what it looks like in higher concentrations, and how to spot it yourself in the wild.  Thanks for reading!
 
 [Page image source](https://www.deviantart.com/deskridge/art/Lords-of-the-Ice-Age-617219515)
+
+[Cavemen comic](https://www.kohney.com/comic/dystopian-future/)
