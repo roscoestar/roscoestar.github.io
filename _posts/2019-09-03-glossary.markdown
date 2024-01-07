@@ -9,11 +9,15 @@ categories: blog post
 
 **Theropods** (meaning “beast foot”) are the bipedal, carnivorous dinosaurs.  These include such fan favorites as *Tyrannosaurus*, *Allosaurus*, *Spinosaurus*, *Carnotaurus*, *Velociraptor*, and all modern birds.  Theropods have also been around since the late Triassic.
 
+**Saurischians** (meaning "reptile hip") are the half of the dinosaur family tree that includes sauropods and theropods.
+
 **Ceratopsians** (meaning “horned face”) are the horned, frilled dinosaurs.  (Exactly what it says on the tin for once!)  These include *Triceratops*, *Protoceratops*, *Psittacosaurus*, and others.  Ceratopsians didn’t arise until the late Jurassic, about 161 million years ago, and only hit their stride in the late Cretaceous, about 100 million years ago.
 
 **Ornithopods** (meaning “bird foot”) are the "duck-billed" dinosaurs.  These include *Iguanodon*, *Edmontosaurus*, *Parasaurolophus*, *Maiasaura*, and others.  Ornithopods, like ceratopsians, didn’t arise until the late Jurassic and didn’t hit their stride until the late Cretaceous.
 
 **Thyreophorans** (meaning “shield bearer”) are the armored dinosaurs.  They come in two main flavors: the plate-backed stegosaurs (including *Stegosaurus*, *Kentrosaurus*, and *Gigantspinosaurus*), which were numerous in the Late Jurassic, and the heavily-armored ankylosaurs (including *Ankylosaurus*, *Nodosaurus*, and *Euoplocephalus*), which took over as the stegosaurs declined and lasted until the end of the Cretaceous.
+
+**Ornithischians** (meaning "bird hip") are the half of the dinosaur family tree that includes ceratopsians, ornithopods, thyreophorans, and some other herbivorous dinosaurs.
 
 ### Other important clades
 **Tetrapods** are the group of vertebrates with four limbs, including amphibians, mammals, and reptiles (which includes birds).  Even though some tetrapods later lost their limbs, like snakes and whales, they are still considered tetrapods.
@@ -28,17 +32,25 @@ categories: blog post
 
 **Lepidosaurs** (meaning “scale reptile”) are the clade of reptiles including lizards, snakes, and tuatara.  It is the sister group to **archosaurs**, and a subgroup of **sauropsids**.
 
+**Rhynchocephalians** (meaning "beak head") are the clade of lepidosaurs including the modern tuatara and its extinct cousins. You may also hear them called **sphenodonts** ("wedge tooth"), which is an older term for the same group.
+
+**Squamates** (meaning "scaly") are the clade of lepidosaurs including lizards, snakes, and their extinct relatives. Snakes are a type of lizard.
+
 **Pterosaurs** (meaning "wing reptile") are a group of flying **archosaurs** closely related to dinosaurs, but are not dinosaurs.  They come in two main flavors: "rhamphorhynchoids" and pterodactyloids.  "Rhamphorhynchoids" (meaning "beak snout") are a **paraphyletic** group of more basal pterosaurs, which usually had long tails and toothy jaws.  Pterodactyloids (meaning "winged finger") are a monophyletic group of more advanced pterosaurs, which usually had reduced tails, keratinous beaks, and extreme headgear.  A notable subgroup of pterodactyloids are the azhdarchids, the late Cretaceous giant pterosaurs that were the largest creatures ever to fly.
 
 **Pelycosaurs** (meaning “basin reptile”) are a paraphyletic group of very basal synapsids that lived from the late Carboniferous to the middle Permian.  They included the apex predators of their time, such as the famous *Dimetrodon*, as well as large herbivores such as *Edaphosaurus*.  Many had huge sails on their backs for some still-unclear reason.
 
 **Temnospondyls** are large extinct stem-amphibians that first arose in the Carboniferous, which were among the first vertebrates adapted for life on land.  Many early temnospondyls had way more fingers and toes than we’re used to--*Acanthostega* had eight on each foot!  And it’s just chance that those with five per foot happened to survive the end-Devonian extinction and give rise to the rest of the vertebrates.  The last known temnospondyl, *Koolasuchus*, survived until the early Cretaceous.  Special shout-out to *Prionosuchus*, a giant temnospondyl pretending to be a crocodile.
 
-**Phytosaurs** are large extinct crurotarsan **archosaurs** that lived during the Triassic that looked a lot like crocodiles but were not crocodylians.
+**Pseudosuchians** (meaning “false crocodile”) are the group containing crocodiles and their ancestral cousins.  They used to be incredibly diverse, especially in the Triassic--there were sail-backed, herbivorous crocs (*Lotosaurus*); hoofed crocs (*Boverisuchus*); “cat” crocs (*Pakasuchus*) and “cheetah” crocs (*Araripesuchus*); fully-aquatic crocs with fins and flippers (*Dakosaurus*); tank-like armored, spiky crocs (*Desmatosuchus*); and many more.
+
+**Phytosaurs** are large extinct archosaurs that lived during the Triassic that looked a lot like crocodiles but were not pseudosuchians.
+
+**Aëtosaurs** are large extinct herbivorous pseudosuchians that lived during the Triassic and looked a lot like ankylosaurs.
 
 **Anamniotes** are the paraphyletic clade of anything that’s not an amniote (reptile or mammal).  This includes non-tetrapod fish and amphibians.
 
-**Prototherians** (meaning “first beast”) are the group of egg-laying mammals that today only includes the **monotremes** (echidnas and platypuses).  They’re not very closely related to other living mammals, their lineage having split off in the Late Triassic.
+**Yinotherians** are the group of egg-laying mammals that today only includes the **monotremes** (echidnas and platypuses).  They’re not very closely related to other living mammals, their lineage having split off in the Late Triassic. This group used to be lumped together with some other extinct mammals under the banner **Prototheria**, but that's not used anymore.
 
 **Metatherians** (meaning “changed beast”) are the group of mammals including marsupials and their ancestral cousins.  They tend to hail from Australia or South America and tend to be less intelligent than comparable placental mammals.
 
@@ -56,8 +68,6 @@ categories: blog post
 
 **Eurypterids** (meaning “broad wing”), also known as sea scorpions, are a group of very small to very large carnivorous aquatic arthropods that were very successful throughout most of the Paleozoic Era (from the Ordovician to the Permian).  Some were predators and some were filter-feeders.  The largest known eurypterid, *Jaekelopterus*, is the largest known arthropod ever.  Since eurypterids were so common and were made entirely of hard parts, they fossilized very well and thus their biology is well-understood.
 
-**Pseudosuchians** (meaning “false crocodile”) are the group containing crocodiles and their ancestral cousins.  They used to be incredibly diverse, especially in the Triassic--there were sail-backed, herbivorous crocs (*Lotosaurus*); hoofed crocs (*Boverisuchus*); “cat” crocs (*Pakasuchus*) and “cheetah” crocs (*Araripesuchus*); fully-aquatic crocs with fins and flippers (*Dakosaurus*); tank-like armored, spiky crocs (*Desmatosuchus*); and many more.
-
 **Ornithodira** is the group containing pterosaurs and dinosaurs (which contains birds).
 
 **Cynodonts** (meaning "dog tooth") are a subgroup of synapsids (stem-mammals) that includes mammals and their close relatives, but excludes basal synapsids like *Dimetrodon*, *Gorgonops*, and the dicynodonts.
@@ -70,6 +80,8 @@ A **monophyletic group**, or a **clade**, is a group of organisms defined as an 
 A **paraphyletic group** is a group that contains all the descendants of a common ancestor minus one or two.  For example, “reptiles” is commonly used to mean lizards, snakes, and crocodiles but not birds, which is a paraphyletic group.  This is sometimes a useful concept in taxonomy (see “stem-group” below) but isn’t a valid phylogenetic clade.
 
 A **polyphyletic** group is when you’re confused and doing it wrong and group organisms by something other than ancestry.  For example, a theoretical “Haemothermia” group, including all warm-blooded animals (most mammals and all birds), would be a polyphyletic group.
+
+A **crown group** is a way of defining a monophyletic clade. It consists of a group of living organisms, their most recent common ancestor, and all descendants of that ancestor.
 
 A **wastebasket taxon** is a para- or polyphyletic group whose name continues to be used because the true structure of the phylogenetic tree isn't known. Organisms of ambiguous affinity keep getting shunted into this group until the tree finally gets untangled later. Examples include "Insectivora", "Condylarthra", and possibly Symmetrodonta (though this one is still waiting to be untangled).
 
@@ -89,15 +101,19 @@ A **secondarily acquired trait** is when a group loses an ancestral trait, and t
 
 A **sister clade** is the other side of the fork, whenever a phylogenetic tree forks.  For example, Amniota is the group including synapsids (mammals and stem-mammals) and sauropsids (reptiles and stem-reptiles).  So synapsida is the sister clade to sauropsida.
 
-An **autapomorphy** is a derived trait that’s unique to one group.  For example, all archosaurs have a fourth trochanter, a ridge on the inside of the thighbone that serves as a muscle attachment point, and no other animals have this.
+An **autapomorphy** is a derived trait that’s unique to one group.  For example, all archosaurs have a **fourth trochanter**, a ridge on the inside of the thighbone that serves as a muscle attachment point, and no other animals have this.
 
 A **synapomorphy** is a trait that’s ancestrally unique to one group, but later members of the group may have secondarily lost it.  For example, archosaurs may be ancestrally feathered, but many derived archosaurs such as crocodylians and many dinosaurs were secondarily scaly.
+
+A **plesiomorphy** is another way of saying ancestral trait, but carries the connotation that the trait might not be used anymore.
 
 **Homoplasy** is when a trait is gained or lost independently in unrelated groups, often due to convergent evolution.  For example, electric eels and elephantfish both separately came up with a way to produce electricity.  A trait that is prone to homoplasy is called a **homoplastic trait**.
 
 A **homology** is a trait that is derived from an ancestral trait.  For example, a bat has the same arm bones in the same order in its wing as a whale has in its flipper, though each bone is a vastly different shape.  Those are considered **homologous structures**.
 
 An **analogy** is a convergent trait derived from different starting points.  For example, a whale developed its flipper independently from a plesiosaur's flipper, but both flippers look nearly the same.  Those are considered **analogous structures**.
+
+A **nomen dubium** is a scientific name that is of questionable validity.
 
 ### Paleontological Methods
 **Bone histology** is the practice of cutting a thin cross-section of bone and looking at it under a microscope.  Tons of information can be deduced about an animal from its bone histology, including its gender, growth rate, resting metabolic rate, and more.
@@ -106,15 +122,15 @@ An **analogy** is a convergent trait derived from different starting points.  Fo
 
 **Osteological correlates** are textures left on the surface of a bone by the tissue that used to be attached there.  Muscles, fat, skin, and horns all leave distinctive marks on bone.
 
-### Leg Anatomy
+### Anatomy
+
+**Bauplan** is just a fancy German way of saying body plan.
 
 **Plantigrady** is when an animal’s toe and foot bones (phalanges and metatarsals) are in contact with the ground while walking or running.  Examples of plantigrade animals include humans, bears, sauropod dinosaurs (on their back legs), and rodents.
 
 **Digitigrady** is when an animal’s toe bones (phalanges) are in contact with the ground while walking or running, but the foot bones (metatarsals) are raised off the ground.  Examples of digitigrade animals include dogs, cats, birds, and humans on tiptoe.
 
 **Unguligrady** is when an animal walks and runs on the tips of its toes or on its nails, and the entire foot is raised off the ground.  Examples of unguligrade animals include horses, deer, and ballerinas on pointe.
-
-### Wing Anatomy
 
 A **patagium** (plural: patagia) is a membrane that an animal uses to fly or glide.  Prefixes can be added to this word to indicate where on the body the membrane is located.
 
@@ -130,21 +146,49 @@ A **dactylopatagium** (“dactylo” means “finger”) is a membrane between t
 
 A **plagiopatagium** (“plagio” means “flat”) is a membrane between a finger and the body, as in bats.
 
-### Aquatic tail types
-**Hypocercal** tails have a larger bottom lobe and smaller top lobe.  The only living creatures with this are flying fish, but in the past metriorhynchids and mosasaurs both sported this type of tail.
+**Wing loading** is body weight divided by wing area. Heavy birds like murres and cormorants have a high wing loading, while light ones like swifts have a low wing loading.
 
-**Heterocercal** tails have a larger top lobe and smaller bottom lobe.  Modern sharks and certain ray-finned fish like sturgeon have this type of tail, as well as placoderms like *Dunkleosteus* in the past.
+**Hypocercal** aquatic tails have a larger bottom lobe and smaller top lobe.  The only living creatures with this are flying fish, but in the past metriorhynchids and mosasaurs both sported this type of tail.
 
-**Homocercal** tails have top and bottom lobes that are about the same size.  Most ray-finned fish have this type of tail, as well as ichthyosaurs in the past.
+**Heterocercal** aquatic tails have a larger top lobe and smaller bottom lobe.  Modern sharks and certain ray-finned fish like sturgeon have this type of tail, as well as placoderms like *Dunkleosteus* in the past.
 
-### Swimming styles
+**Homocercal** aquatic tails have top and bottom lobes that are about the same size.  Most ray-finned fish have this type of tail, as well as ichthyosaurs in the past.
+
+**Zygodactyly** is when two toes point forward and two backward, like a parrot.
+
+**Anisodactyly** is when three toes point forward and one backward, like a majority of birds.
+
+**Tridactyly** is when three toes point forward and zero backward, like a rhinoceros or *Tyrannosaurus*.
+
+**Didactyly** is when two toes point forward and zero backward, like a deer or ostrich.
+
+**Monodactyly** is when one toe points forward and zero backward, like a horse or *Vespersaurus*.
+
+**Gastralia** are belly ribs found in many reptiles and ancient tetrapods.
+
+**Glial cells** are non-neuron brain cells that act as structural support, waste management, and oxygen distributors for neurons.
+
+**Spicules** are little spikes of glass that sponges create to give their bodies structure. Imagine throwing a bunch of jacks and pickup sticks in a pile; there will be spaces between them. That's where the sponge's tissues go.
+
+The **semilunate carpal** is a bone found in the wrists of birds and their close relatives, which allows them to fold their wings the way they do.  It's a carpal shaped like a half moon, hence the name.  For more info on how bird wings work, check out my [wing anatomy post](https://obscuredinosaurfacts.com/blog/post/2020/11/18/wings.html)!
+
+The **predentary** is the bone at the very front of the lower jaw in ornithischian dinosaurs.
+
+**Semicircular canals** are fluid-filled tubes found in the inner ears of vertebrates, which are used to sense orientation and control balance.
+
+**Thecodonts** are an old name for dinosauriformes (dinosaurs and their closest relatives). It also means "having socketed teeth" and can sometimes be used simply as a description of the way an animal's teeth are situated, but its old usage as a clade makes this confusing.
+
+**Acrodont** teeth are fused to the top of the jawbone. This term has never been used to refer to a clade.
+
+**Pleurodont** teeth are located on a shelf inside the jawbone. This term has never been used to refer to a clade.
+
+### Specialized behaviors
 **Anguilliform** swimming is what eels do, in which the entire body moves back and forth and large fins aren’t necessary.  It's not very fast, but maneuverable and allows the fish to fit in tight spaces.
 
 **Carangiform** swimming is what most fish do, where the tail is mostly responsible for propulsion and the rest of the body is held more stiffly.  It’s an intermediate style between anguilliform and thunniform.
 
 **Thunniform** swimming is what the fastest fish do, like tuna, sailfish, and sharks.  The body is very stiff and the tail is very powerful.
 
-### Specialized behaviors
 **Fossorial** creatures are optimized for digging and burrowing, such as moles, clams, bees, and *Oryctodromeus*.
 
 **Arboreal** creatures are optimized for life in trees, such as monkeys, geckos, tree snakes, squirrels, many birds, and *Suminia*.
@@ -154,6 +198,8 @@ A **plagiopatagium** (“plagio” means “flat”) is a membrane between a fin
 **Cursorial** creatures are optimized for running long distances, such as horses, ostriches, wolves, certain spiders, and *Moros*.
 
 **Saltatorial** creatures are optimized for hopping, such as kangaroos, jerboas, and *Scleromochlus*.  This is particularly common among desert-dwelling creatures.
+
+**Terrestrial** animals live on land, duh.
 
 **Graviportal** creatures are optimized for being massive and have specialized skeletal structures for carrying their weight around. The groups that have done this the most successfully are elephants and sauropods.
 
@@ -171,7 +217,7 @@ A **plagiopatagium** (“plagio” means “flat”) is a membrane between a fin
 
 **Gastroliths**, also known as gizzard stones, are rocks ingested on purpose by an animal that help grind up food in their stomach, or help decrease buoyancy in aquatic or semiaquatic animals.  Groups known to use gastroliths are herbivorous birds, crocodylians, pinnipeds (seals and sea lions), some amphibians, sauropods, certain theropods, and plesiosaurs.
 
-A **xerocole** is an animal specialized for life in a desert environment.
+A **xerocole** is an animal specialized for life in a desert environment. A **xerophyte** is a plant specialized for this.
 
 **Diurnal** animals are active during the day.
 
@@ -182,6 +228,34 @@ A **xerocole** is an animal specialized for life in a desert environment.
 **Cathemeral** animals are active at sporadic times throughout the day and night.
 
 **Estivation** is the habit of entering a state of torpor when it's too hot. **Hibernation** is entering a state of torpor when it's too cold.
+
+**Benthic** creatures live on the sea bottom.
+
+**Pelagic** creatures live in the water column.
+
+**Abyssal** creature live in the deep where light doesn't penetrate.
+
+**Infauna** are creatures that live under the substrate, usually at the bottom of a body of water.
+
+**Epifauna** are creatures that live on top of the substrate, often attached to it.
+
+**Euryhaline** creatures can tolerate a wide variety of salt levels in the water.
+
+**Halophilic** creatures thrive in very salty conditions.
+
+**Stenoclines** are creatures that live at a particular elevation.
+
+**Euryclines** are creatures that can live at a variety of elevations.
+
+**Anadromous** creatures migrate upstream to lay eggs, like salmon.
+
+**Catadromous** creatures migrate downstream to lay eggs, like eels.
+
+**Aposematism** is being colored conspicuously to signal that you are poisonous or otherwise dangerous to attempt to eat.
+
+**Batesian mimicry** is when something not dangerous mimics something dangerous, like a fly pretending to be a bee.
+
+**Mullerian mimicry** is when multiple dangerous things look similar to each other in order to simplify the message for potential threats.
 
 ### Thermoregulation
 
@@ -216,17 +290,6 @@ A **xerocole** is an animal specialized for life in a desert environment.
 
 **Countershading** is a form of camouflage in which an animal’s belly is a lighter color than its back.  It’s extremely common in marine animals because it’s very effective: when viewed from above, the dark back blends in with the darker deep water, and when viewed from below, the light belly blends in with the bright sky.  However, it’s also common in terrestrial animals, because when the sun hits the darker back and the lighter belly is in the shade, it creates an optical illusion that makes the animal’s 3D shape harder to figure out.
 
-### Dactyly (toe arrangements)
-**Zygodactyly** is when two toes point forward and two backward, like a parrot.
-
-**Anisodactyly** is when three toes point forward and one backward, like a majority of birds.
-
-**Tridactyly** is when three toes point forward and zero backward, like a rhinoceros or *Tyrannosaurus*.
-
-**Didactyly** is when two toes point forward and zero backward, like a deer or ostrich.
-
-**Monodactyly** is when one toe points forward and zero backward, like a horse or *Vespersaurus*.
-
 ### Fauna Sizes
 **Microfauna** are tiny creatures usually smaller than 100 microns across (less than the width of a hair) that can only be seen with a microscope.  Examples include tardigrades (water bears), dust mites, copepods (small crustaceans), small nematodes, and rotifers.
 
@@ -236,7 +299,7 @@ A **xerocole** is an animal specialized for life in a desert environment.
 
 **Macrofauna** are tiny creatures larger than 500 microns across (>0.5mm), which are definitely visible to the naked eye.  This term refers to creatures that live in both marine and terrestrial soil environments.  Terrestrial examples include earthworms, pillbugs, snails, and ants; marine examples include crustaceans, sea stars, bristle worms, bivalves, and sponges.
 
-**Megafauna** is a not-very-well-defined term that usually refers to any animals human-sized or larger.
+**Megafauna** is a not-very-well-defined term that usually refers to any animals human-sized or larger. **Charismatic megafauna** are especially noticeable or likable animals, like elephants and pandas, that get an outsized share of empathy from humans, in comparison to say, hyenas and tuna.
 
 ### Plants
 **Angiosperms** (meaning "vessel seed") are flowering and fruiting plants. They are the dominant type of plant on the planet today, and arose in the Cretaceous Period.  This includes obvious things like flowers and fruits, but also grasses, grains (which are a type of grass), cacti, and palm trees.
@@ -260,15 +323,6 @@ A **xerocole** is an animal specialized for life in a desert environment.
 
 **The Great American Biotic Interchange** (GABI) was an event that began around 2.7 million years ago in the Pliocene when South America, which had been an island since the Cretaceous, collided with North America, forming the Isthmus of Panama.  This allowed animals to travel from one continent to the other.  Though animals did move both ways, the North American fauna tended to outcompete the South American.  One famous South American animal that successfully emigrated to North America was *Titanis*, the last of the terror birds, which ended up as far north as Tennessee.
 
-### Proteins
-**Elastin** is an elastic protein found in vertebrates' connective tissues.
-
-**Resilin** is an elastic protein found in invertebrates' connective tissues.  It is superior to elastin in most ways.
-
-**Keratin** is a hard protein found in vertebrates' nails, hair, and horns.  "Kera" comes from the Greek for "horn" (it's the same root as ceratopsian and ceratosaur).
-
-**Chitin** is a hard protein found in invertebrates' shells.  It is the invert equivalent of keratin.  Detecting keratin versus chitin is how scientists found out that the Tully Monster is probably a vertebrate.
-
 ### Reproductive strategies
 **Precocial** animals are relatively capable when born, and have a short period of dependence on parents, if any.  Examples include chickens, horses, crocodiles, and pterosaurs.  Animals that are extremely precocial and must fight for their lives immediately after hatching, like sea turtles and brush turkeys, are known as **superprecocial**.
 
@@ -280,6 +334,8 @@ A **xerocole** is an animal specialized for life in a desert environment.
 
 **Sexual dimorphism** is when the males and females of one species are physically different from one another in ways apart from genitalia. Depending on how close to monogamous an animal is, this ranges from zero sexual dimorphism in purely monogamous species like gibbons and crows, to mild sexual dimorphism in close-to-monogamous species like humans (males are larger and have facial hair), to extreme sexual dimorphism in harem-forming species like peacocks and elephant seals, in which the male and female are often mistaken for two different species.
 
+**Parthenogenesis** is asexual reproduction using gametes that are normally used for sexual reproduction. That is, it's the combination of an egg and sperm that both were generated by a single animal. Animals known to do this include fish, invertebrates, frogs, birds, lizards, and crocodilians.
+
 ### Growth and development
 **Ontogeny** is the way an organism grows and changes as it gets older.  Most creatures don’t retain the same proportions when old as they had when young--for example, human babies have gigantic heads in proportion to their bodies compared to adults.  An **ontogenetic sequence** is a picture showing various life stages of an organism.
 
@@ -288,6 +344,52 @@ A **xerocole** is an animal specialized for life in a desert environment.
 **Isometry** means an animal maintains the same proportions as it grows: the young are like mini adults.
 
 **Allometry** means an animal changes its proportions as it grows, since different body parts grow at different rates.  For example, a human baby's head and eyes are proportionally much bigger than an adult's, and a baby's arms and legs are proportionally much shorter.  The proportions change as the baby grows up.
+
+### Biochemistry
+**Metabolism** is the conversion of chemical potential energy into energy usable by the body to do things like move muscles and make proteins, and which is ultimately wasted as heat.
+
+**Macronutrients** are things you need a lot of to survive, including carbohydrates, lipids, and proteins. Nucleic acids and alcohols could also be considered macronutrients, as they can be metabolized for energy, but they aren't necessary to consume for survival.
+
+**Lipids** are biomolecules made of chains of carbon and hydrogen, which can be metabolized for energy.
+
+**Carbohydrates** are biomolecules made of sugars, which can be metabolized for energy.
+
+**Monosaccharides** are the simplest unit of sugar, and **disaccharides** are formed by combining two monosaccharides in different combinations.
+
+**Micronutrients** are things you need trace amounts of to survive, including electrolytes, vitamins, and cholesterol.
+
+A **fatty acid** is a biologically important type of lipid. **Essential fatty acids** are ones that can't be synthesized in the body, so must be eaten, and could be considered vitamins but for some reason aren't.
+
+A **steroid** is a biologically important type of lipid defined by a particular type of four-ring structure of carbon atoms. Many hormones are types of steroids, including testosterone, estrogen, progesterone, cortisol, and vitamin D.
+
+A **protein** is a biomolecule formed from a chain of **amino acids**. They are the main movers and shakers in cells, forming scaffolding, gates, messengers, enzymes, and other useful substances.
+
+**Elastin** is an elastic protein found in vertebrates' connective tissues.
+
+**Resilin** is an elastic protein found in invertebrates' connective tissues.  It is superior to elastin in most ways.
+
+**Keratin** is a hard protein found in vertebrates' nails, hair, and horns.  "Kera" comes from the Greek for "horn" (it's the same root as ceratopsian and ceratosaur).
+
+**Chitin** is a hard protein found in invertebrates' shells.  It is the invert equivalent of keratin.  Detecting keratin versus chitin is how scientists found out that the Tully Monster is probably a vertebrate.
+
+### Physics
+An **element** is a substance defined by a unique number of protons in the nucleus of its atoms.
+
+An **isotope** is a specific configuration of an element, defined by the number of neutrons in its nucleus.
+
+**Radioactive decay** is a process by which one element or isotope can transform into another.
+
+A **radiogenic** substance is one created through radioactive decay.
+
+The rate of radioactive decay is given as a **half-life**, or the time it takes for half the sample to decay.
+
+A **crystal** is a solid with an organized atomic structure.
+
+A **mineral** is a little piece of crystal in a rock, defined by its chemical composition and structure.
+
+**Isochron dating** is a method of radiometric dating that uses two different minerals in a sample to solve for the starting conditions and thus find out the date the sample was crystallized.
+
+**Spectrometry** is using the wavelengths of light emitted by de-energizing electrons to determine what a substance is made of.
 
 ### Miscellaneous
 **“Splitters”** are paleontologists who habitually like to create more taxonomic groups.  **“Lumpers”** are paleontologists who like to group other groups together and have less groups.
@@ -318,8 +420,6 @@ A **ghost lineage** is a line of descent we know must exist because we have foss
 
 **Exaptation** is when a trait used for one thing is co-opted for another purpose.  For example, opposable thumbs are useful for swinging between branches, but also for making tools and manipulating small objects.
 
-The **semilunate carpal** is a bone found in the wrists of birds and their close relatives, which allows them to fold their wings the way they do.  It's a carpal shaped like a half moon, hence the name.  For more info on how bird wings work, check out my [wing anatomy post](https://obscuredinosaurfacts.com/blog/post/2020/11/18/wings.html)!
-
 **Insular dwarfism** and **insular gigantism** are phenomena that occur when a population of animals isolated from the main population, often on an island.  The small often become large due to lack of predation, and the large become small due to scarcity of resources, leading to situations where ducks are similar height to elephants.
 
 **Preservation bias** is the concept that some organisms, and some parts of organisms, fossilize better than others.  This leads to systematic over- or underrepresentation of certain organisms in the fossil record, which we have to account for when trying to figure out the composition of an ancient ecosystem.
@@ -327,3 +427,21 @@ The **semilunate carpal** is a bone found in the wrists of birds and their close
 **Coevolution** is when two or more species influence each other's evolutionary paths, resulting in highly specialized and complex interactions between them. Examples include leafcutter ants and their cultivated fungi, humans and domestic plants, mistletoebirds and mistletoe, and flowering plants and pollinators.
 
 The **RNA World Hypothesis** is the leading explanation for how life arose from nonliving substances on early Earth. RNA and phospholipid membranes are compounds that spontaneously arise under certain conditions, and RNA is able to act as a catalyst for certain other chemical reactions. If one of those reactions was making more of itself, natural selection comes into play and life is born.
+
+An **isotropic** material has properties that do not change with orientation, for example a block of solid aluminum. An **anisotropic** material exhibits different properties depending on which way it's acted upon, for example string (strong when pulled, exerts no force when compressed).
+
+An **articulated** skeleton means that its elements are in the positions they would have had in life, rather than disconnected and scattered around. Articulated fossils are rarer than disarticulated ones.
+
+**Preservation bias** occurs when some materials fossilize more commonly than others. For example, trilobites are entirely made of hard parts and thus fossilize readily, while jellyfish rarely leave fossils. Looking at the abundance of trilobites in the fossil record, one might conclude that they far outnumbered jellyfish in their environment, but that might not be the case.
+
+**Sampling bias** occurs when some fossils are more easily found than others. It's easier to notice a dinosaur femur than a snake vertebra or grain of pollen. Furthrmore, fossils that are currently in badlands are easy to notice and dig up, while those in modern rainforests are hard to find.
+
+An **endorheic basin** is a lake with no outlets, that maintains its water level through evaporation. As a result, they are usually salty.
+
+**Encephalization Quotient** is an empirically derived scale of brain size compared to body size of mammals. It's a crude way to predict how smart a fossil animal might have been.
+
+A **trackway** is a set of fossilized footprints.
+
+**Rensch's Rule** states that after accounting for evolutionary history, in smaller animals the females tend to be larger, while in larger animals the males are larger.
+
+A **monotypic** clade is one known from a single fossil specimen.

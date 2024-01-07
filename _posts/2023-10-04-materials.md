@@ -6,8 +6,6 @@ date:   2023-10-03 00:01:08 -0700
 categories: post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/cavemen.png
-featured: true
-hidden: true
 ---
 
 I had a good time researching glass for my previous [material science post](https://obscuredinosaurfacts.com/post/2023/04/05/glass.html), and it got me thinking about other materials we often take for granted. Another source of inspiration for this post was the observation in *The Human Advantage* that the invention of new materials has been roughly exponential beginning from the advent of agriculture. The author provides a list of "the first ninety that come to mind":
