@@ -94,9 +94,9 @@ About a thousand years ago, people in Kazakhstan and Kyrgyzstan began using Gold
 
 ![eagle-guy](/assets/images/posts/eagle-hunter.jpg)
 
-I'm going to take a page out of [TierZoo's](https://www.youtube.com/@TierZoo) playbook and assign stats to the main classes of birds used in falconry, as if they're Pokémon, grading them on intelligence, power, maneuverability, speed, health/defense, and stealth. [5] [6]
+I'm going to take a page out of [TierZoo's](https://www.youtube.com/@TierZoo) playbook and assign stats to the main classes of birds used in falconry, as if they're Pokémon, grading them on intelligence, power, maneuverability, speed, health/defense, and stealth. [5] [6] I posted a preliminary version of this chart to Reddit, and the people at r/Falconry suggested tweaks to the stats and the species lists. Now I'm fairly confident that this accurately reflects people's sentiments about falconry birds, at least, if not the actual birds' abilities.
 
-![stats](/assets/images/posts/falcon-stats.png)
+![stats](/assets/images/posts/falconry-stats.png)
 
 And that's all I have to say about falconry.
 
