@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Human-Bird Symbiosis"
-tags: [Biology, Ecology]
+tags: [Synapsida, Dinosauria]
 date:   2024-02-07 00:00:01 -0700
 categories: blog post
 featured_image_thumbnail:
