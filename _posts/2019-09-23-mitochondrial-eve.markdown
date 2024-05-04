@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mitochondrial Eve Is A Tautology"
-tags: [Evolution]
+tags: [Evolution, Humans]
 date:   2019-09-23 22:40:08 -0700
 categories: blog post
 featured_image_thumbnail:

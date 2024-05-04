@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "Human-Bird Symbiosis"
-tags: [Synapsida, Dinosauria]
+tags: [Humans, Dinosauria]
 date:   2024-02-07 00:00:01 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/posts/fighter.png
-featured: true
-hidden: true
 ---
 
 There are lots of famous examples of mutualism, or two species cooperating to the benefit of each, in nature. Flowers and pollinators. Cleaner wrasse and sharks. Trees and mycelium. [Tarantulas that keep tiny frogs as pets](https://tetzoo.com/blog/2022/8/7/tiny-frogs-and-giant-spiders-best-of-friends). But what about humans? We cooperate with the microbes in our gut microbiome that help us digest, and we [domesticate](https://saritawolff.tumblr.com/post/739510781286154241/phew-this-one-took-uh-a-bit-longer-than) animals, plants, and even microbes like yeast to better serve our needs. Many organisms that are now domestic probably started out as mutualistic relationships, like dogs and cats, which are said to have effectively "domesticated themselves". But can you think of any examples of symbiotic relationships we share with animals that are still wild?
