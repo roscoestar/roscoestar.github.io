@@ -6,8 +6,6 @@ date:   2025-07-20 00:01:11 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/sarcosuchus.jpg
-featured: true
-hidden: true
 ---
 
 The other thing besides birding that I always make sure to do when I travel is to hit up the local natural history museum. In Paris, that's the Galerie de Paléontologie et d’Anatomie Comparée located on the eastern end of the botanical garden, NOT the Muséum National d'Histoire Naturelle, which is on the other end of the gardens and contains taxidermied animals. The paleontology gallery is quite a small building, but is packed absolutely to the gills with fossils as well as the skeletons of modern animals.
