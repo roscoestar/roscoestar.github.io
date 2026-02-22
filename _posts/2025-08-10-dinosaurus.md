@@ -6,8 +6,6 @@ date:   2025-08-10 00:01:11 -0700
 categories: blog post
 featured_image_thumbnail:
 featured_image: /assets/images/pages/shunosaurus-phd.png
-featured: true
-hidden: true
 ---
 
 I was recently contacted by someone from Smithsonian Books to see if I'd be interested in doing a review of a book that's coming out soon, *Dinosaurus* by Rhys Charles. I responded that I was happy to, but my review would be completely honest. From the blurb, I was not optimistic.
